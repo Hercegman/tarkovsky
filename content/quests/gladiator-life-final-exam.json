@@ -41,5 +41,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/gladiator-life-final-exam.webp"
+  "image": "/quests/gladiator-life-final-exam.webp",
+  "order": 31
 }

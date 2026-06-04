@@ -29,5 +29,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/cold-start.webp"
+  "image": "/quests/cold-start.webp",
+  "order": null
 }

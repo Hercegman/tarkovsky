@@ -14,13 +14,31 @@ export interface QuestRow {
 }
 
 export function TraderQuestList({ quests }: { quests: QuestRow[] }) {
-  const groups = groupQuestParts(quests);
+  const [query, setQuery] = useState("");
+  const q = query.trim().toLowerCase();
+  const filtered = q
+    ? quests.filter((quest) => quest.title.toLowerCase().includes(q))
+    : quests;
+  const groups = groupQuestParts(filtered);
   const { completed } = useProgress();
   const isDone = (id: string) => completed?.has(id) ?? false;
 
   return (
-    <ol className="space-y-2">
-      {groups.map((g, i) =>
+    <div>
+      <input
+        type="search"
+        value={query}
+        onChange={(e) => setQuery(e.target.value)}
+        placeholder="Search this trader's quests…"
+        className="mb-3 w-full rounded-lg border border-[var(--border)] bg-[var(--surface)] px-3 py-2 text-sm outline-none focus:border-[var(--gold-dim)]"
+      />
+      <ol className="space-y-2">
+        {groups.length === 0 && (
+          <li className="px-2 py-3 text-sm text-[var(--muted)]">
+            No quests match your search.
+          </li>
+        )}
+        {groups.map((g, i) =>
         g.isSeries ? (
           <SeriesRow
             key={g.key}
@@ -35,7 +53,8 @@ export function TraderQuestList({ quests }: { quests: QuestRow[] }) {
           </li>
         ),
       )}
-    </ol>
+      </ol>
+    </div>
   );
 }
 

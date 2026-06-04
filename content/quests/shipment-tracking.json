@@ -42,5 +42,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/shipment-tracking.webp"
+  "image": "/quests/shipment-tracking.webp",
+  "order": 38
 }

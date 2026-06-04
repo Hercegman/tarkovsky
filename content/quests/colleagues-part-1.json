@@ -73,5 +73,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/colleagues-part-1.webp"
+  "image": "/quests/colleagues-part-1.webp",
+  "order": 22
 }

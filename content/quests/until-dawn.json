@@ -40,5 +40,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/until-dawn.webp"
+  "image": "/quests/until-dawn.webp",
+  "order": null
 }

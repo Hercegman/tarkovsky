@@ -94,5 +94,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/proper-comeback.webp"
+  "image": "/quests/proper-comeback.webp",
+  "order": 46
 }

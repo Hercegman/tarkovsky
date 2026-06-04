@@ -34,5 +34,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/an-apple-a-day-keeps-the-doctor-away.webp"
+  "image": "/quests/an-apple-a-day-keeps-the-doctor-away.webp",
+  "order": 14
 }

@@ -45,5 +45,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/examinatio-part-6.webp"
+  "image": "/quests/examinatio-part-6.webp",
+  "order": null
 }

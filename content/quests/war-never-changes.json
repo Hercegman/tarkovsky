@@ -37,5 +37,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/war-never-changes.webp"
+  "image": "/quests/war-never-changes.webp",
+  "order": 48
 }
