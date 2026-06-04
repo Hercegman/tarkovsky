@@ -38,6 +38,11 @@ Pulls each quest's infobox banner image (downscaled webp) to
 Pulls each trader's portrait to `public/traders/<id>.<ext>` and sets the image in
 `content/traders.json`.
 
+### `ingest:banners` → `scripts/ingest-map-banners.mts`
+Pulls each map's wiki-page infobox **banner art** (the in-game screenshot) to
+`public/maps/banner/<id>.webp`. Used as the default image on map cards, which
+crossfade to the interactive map thumbnail (`public/maps/thumb/`) on hover.
+
 ## Re-running
 
 Scripts are idempotent and only rewrite changed files. A full refresh order:

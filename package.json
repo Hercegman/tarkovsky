@@ -15,7 +15,8 @@
     "ingest:images": "node scripts/ingest-quest-images.mts",
     "link:markers": "node scripts/link-quest-markers.mts",
     "ingest:traders": "node scripts/ingest-trader-images.mts",
-    "order:wiki": "node scripts/order-from-wiki.mts"
+    "order:wiki": "node scripts/order-from-wiki.mts",
+    "ingest:banners": "node scripts/ingest-map-banners.mts"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",
