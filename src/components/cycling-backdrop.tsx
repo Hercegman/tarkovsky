@@ -13,11 +13,13 @@ export function CyclingBackdrop({
   intervalMs = 4000,
   opacity = 0.1,
   grayscale = false,
+  absolute = false,
 }: {
   images: string[];
   intervalMs?: number;
   opacity?: number;
   grayscale?: boolean;
+  absolute?: boolean;
 }) {
   const [i, setI] = useState(0);
 
@@ -31,7 +33,10 @@ export function CyclingBackdrop({
   }, [images.length, intervalMs]);
 
   return (
-    <div aria-hidden className="pointer-events-none fixed inset-0 z-0">
+    <div
+      aria-hidden
+      className={`pointer-events-none z-0 ${absolute ? "absolute inset-0" : "fixed inset-0"}`}
+    >
       {images.map((src, idx) => (
         <Image
           key={src}
