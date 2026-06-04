@@ -1,14 +1,15 @@
 # Sounds
 
-Part of [[Tarkovsky]]. Synthesized "military digital" UI sounds — no audio files.
+Part of [[Tarkovsky]]. Synthesized UI sounds — no audio files. Style: quiet,
+percussive mechanical "key clack" (typewriter-ish).
 
 ## How it works
 
-- `src/lib/sound.ts` — Web Audio API synth. Short square/sawtooth blips with fast
-  gain envelopes:
-  - `playHover()` — subtle high tick on hover.
-  - `playClick()` — two-tone confirm on click.
-  - `playClose()` — descending sweep on close/back/exit.
+- `src/lib/sound.ts` — Web Audio API synth. Each sound is a short band-passed
+  **noise burst** (the click) plus a low sine **thock** (the key body):
+  - `playHover()` — faint single tick on hover.
+  - `playClick()` — crisp key clack on click.
+  - `playClose()` — heavier, deeper clack on close/back/exit.
   - `enabled` flag persisted in `localStorage` (`tark:sound`), **off by default**.
   - `AudioContext` is created/resumed lazily on first gesture (autoplay policy).
 - `src/components/sound-controller.tsx` — mounted in the root layout; attaches
