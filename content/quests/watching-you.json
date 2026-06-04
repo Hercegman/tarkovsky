@@ -46,10 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/watching-you.webp",
-  "order": 58,
-  "items": [
-    "flash-drive-with-recordings",
-    "military-cable",
-    "pinewood-hotel-room-215-key"
-  ]
+  "order": 58
 }

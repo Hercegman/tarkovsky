@@ -42,8 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/long-road.webp",
-  "order": 27,
-  "items": [
-    "lobaev-arms-dvl-10-7-62x51-bolt-action-sniper-rifle"
-  ]
+  "order": 27
 }

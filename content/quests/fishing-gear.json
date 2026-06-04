@@ -61,13 +61,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/fishing-gear.webp",
-  "order": 0,
-  "items": [
-    "sv-98-7-62x54r-bolt-action-sniper-rifle",
-    "leatherman-multitool",
-    "untar-helmet",
-    "sig-sauer-romeo4-reflex-sight",
-    "colt-m16a1-5-56x45-assault-rifle",
-    "springfield-armory-m1a-7-62x51-rifle"
-  ]
+  "order": 0
 }

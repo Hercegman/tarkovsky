@@ -62,12 +62,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/friend-from-norvinsk-part-2.webp",
-  "order": null,
-  "items": [
-    "programmers-phone",
-    "energy-saving-lamp",
-    "power-cord",
-    "survl-survivor-lighter",
-    "factory-plan-map"
-  ]
+  "order": null
 }

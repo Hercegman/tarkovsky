@@ -72,13 +72,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/following-the-bread-crumbs.webp",
-  "order": 6,
-  "items": [
-    "terragroup-labs-weapon-testing-area-key",
-    "terragroup-labs-keycard-black",
-    "secured-tape",
-    "far-forward-gps-signal-amplifier-unit",
-    "terragroup-labs-managers-office-room-key",
-    "scav-raiders"
-  ]
+  "order": 6
 }

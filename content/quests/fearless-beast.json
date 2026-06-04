@@ -35,9 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/fearless-beast.webp",
-  "order": null,
-  "items": [
-    "f-1-hand-grenade-reduced-delay",
-    "rshg-2-72-5mm-rocket-launcher"
-  ]
+  "order": null
 }

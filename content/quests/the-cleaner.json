@@ -37,12 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-cleaner.webp",
-  "order": 31,
-  "items": [
-    "scav-raiders",
-    "dmrs",
-    "submachine-guns",
-    "assault-rifles",
-    "300-blackout-ap"
-  ]
+  "order": 31
 }

@@ -47,13 +47,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/sew-it-good-part-1.webp",
-  "order": 14,
-  "items": [
-    "ski-hat-with-holes-for-eyes",
-    "pilgrim-tourist-backpack",
-    "lbt-6094a-slick-plate-carrier-black",
-    "walkers-xcel-500bt-digital-headset",
-    "6b23-2-body-armor-mountain-flora",
-    "dead-scav"
-  ]
+  "order": 14
 }

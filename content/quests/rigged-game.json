@@ -66,12 +66,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/rigged-game.webp",
-  "order": 23,
-  "items": [
-    "ms2000-marker",
-    "hk-mp5-9x19-submachine-gun-navy-3-round-burst",
-    "hk-mp5-9x19-30-round-magazine",
-    "9x19mm-luger-cci-ammo-pack-50-pcs",
-    "sanitar"
-  ]
+  "order": 23
 }

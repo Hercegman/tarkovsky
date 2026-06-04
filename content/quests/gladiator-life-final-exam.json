@@ -42,10 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gladiator-life-final-exam.webp",
-  "order": 31,
-  "items": [
-    "escape-from-tarkov-arena",
-    "shattered-lightweight-armored-mask",
-    "weapon-paint-set-woodland-digital"
-  ]
+  "order": 31
 }

@@ -45,11 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/supervisor.webp",
-  "order": 21,
-  "items": [
-    "goshan-cash-register-key",
-    "interchange-plan-map",
-    "fort-defender-2-body-armor",
-    "fort-redut-t5-body-armor-smog"
-  ]
+  "order": 21
 }

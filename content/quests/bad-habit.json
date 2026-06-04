@@ -40,20 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/bad-habit.webp",
-  "order": 41,
-  "items": [
-    "malboro-cigarettes",
-    "strike-cigarettes",
-    "wilston-cigarettes",
-    "glock-18c-9x19-machine-pistol",
-    "9x19mm-green-tracer-ammo-pack-50-pcs",
-    "bottle-of-ololo-multivitamins",
-    "buried-barrel-cache",
-    "dead-scav",
-    "ground-cache",
-    "jacket",
-    "plastic-suitcase",
-    "ration-supply-crate",
-    "sport-bag"
-  ]
+  "order": 41
 }

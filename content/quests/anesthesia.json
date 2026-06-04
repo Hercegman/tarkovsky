@@ -52,12 +52,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/anesthesia.webp",
-  "order": 23,
-  "items": [
-    "ms2000-marker",
-    "as-val-9x39-special-assault-rifle",
-    "9x39mm-spp-gs-ammo-pack-20-pcs",
-    "9x39mm-sp-6-gs-ammo-pack-20-pcs",
-    "sanitar"
-  ]
+  "order": 23
 }

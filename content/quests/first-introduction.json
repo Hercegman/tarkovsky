@@ -37,8 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/first-introduction.webp",
-  "order": 20,
-  "items": [
-    "escape-from-tarkov-arena"
-  ]
+  "order": 20
 }

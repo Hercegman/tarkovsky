@@ -43,13 +43,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hypotheses-testing.webp",
-  "order": 79,
-  "items": [
-    "the-labyrinth",
-    "labrys-research-notes",
-    "electric-drill",
-    "set-of-files-master",
-    "military-power-filter",
-    "labrys-access-keycard"
-  ]
+  "order": 79
 }

@@ -62,14 +62,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/golden-swag.webp",
-  "order": 5,
-  "items": [
-    "golden-zibbo-lighter",
-    "trailer-park-portable-cabin-key",
-    "soyuz-tm-stm-9-gen-2-9x19-carbine",
-    "glock-9x19-big-stick-33-round-magazine",
-    "9x19mm-green-tracer-ammo-pack-50-pcs",
-    "vomz-pilad-p1x42-weaver-reflex-sight",
-    "dorm-room-303-key"
-  ]
+  "order": 5
 }

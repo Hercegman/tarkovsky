@@ -42,13 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/test-drive-part-5.webp",
-  "order": 30,
-  "items": [
-    "sr-2m-veresk-9x21-submachine-gun",
-    "sr-2m-9x21-sv-1381-sound-suppressor",
-    "sr-2m-kp-sr2-reflex-sight",
-    "as-val-9x39-special-assault-rifle",
-    "vss-val-9x39-30-round-magazine",
-    "9x39mm-bp-ammo-pack-20-pcs"
-  ]
+  "order": 30
 }

@@ -58,12 +58,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/glory-to-cpsu-part-2.webp",
-  "order": 48,
-  "items": [
-    "journal",
-    "tokarev-svt-40-7-62x54r-rifle",
-    "svt-40-7-62x54r-10-round-magazine",
-    "7-62x54mm-r-ps-gzh-ammo-pack-20-pcs",
-    "tokarev-avt-40-7-62x54r-automatic-rifle"
-  ]
+  "order": 48
 }

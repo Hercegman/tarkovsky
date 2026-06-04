@@ -56,12 +56,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/audiophile.webp",
-  "order": 33,
-  "items": [
-    "ag-guitar-pick",
-    "roler-submariner-gold-wrist-watch",
-    "gold-skull-ring",
-    "cqc-osprey-mk4a-plate-carrier-assault-mtp",
-    "primorsky-46-48-skybridge-key"
-  ]
+  "order": 33
 }

@@ -35,10 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/make-amends-software.webp",
-  "order": 86,
-  "items": [
-    "dspt",
-    "digital-secure-dsp-radio-transmitter",
-    "secure-flash-drive"
-  ]
+  "order": 86
 }

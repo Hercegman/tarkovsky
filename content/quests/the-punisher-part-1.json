@@ -42,18 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-punisher-part-1.webp",
-  "order": 17,
-  "items": [
-    "pavel-yegorovich-romanenko",
-    "6b43-zabralo-sh-body-armor-emr",
-    "sv-98-7-62x54r-bolt-action-sniper-rifle",
-    "7-62x39mm-ps-gzh",
-    "akm",
-    "akmn",
-    "akms",
-    "akmsn",
-    "ak-103",
-    "ak-104",
-    "vpo-136"
-  ]
+  "order": 17
 }

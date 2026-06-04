@@ -55,28 +55,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/kolotun.webp",
-  "order": null,
-  "items": [
-    "dry-fuel",
-    "metal-fuel-tank",
-    "marlin-mxlr-308-me-lever-action-rifle",
-    "308-me-ammo-pack-20-pcs",
-    "bottle-of-fierce-hatchling-moonshine",
-    "beanie",
-    "bomber-beanie",
-    "ded-moroz-hat",
-    "domontovich-ushanka-hat",
-    "extreme-cold-weather-face-mask",
-    "jack-pyke-hunting-llcs-boonie-hat",
-    "kotton-beanie",
-    "new-year-ushanka-hat",
-    "pompon-hat",
-    "santa-hat",
-    "ski-hat-with-holes-for-eyes",
-    "ssh-68-steel-helmet-olive-drab",
-    "tactical-fleece-beanie-tan",
-    "ushanka-ear-flap-hat",
-    "ux-pro-beanie",
-    "endurance"
-  ]
+  "order": null
 }

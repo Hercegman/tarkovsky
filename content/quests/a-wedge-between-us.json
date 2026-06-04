@@ -34,15 +34,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/a-wedge-between-us.webp",
-  "order": 61,
-  "items": [
-    "icebreaker",
-    "compartment-c-1-keycard",
-    "boreas",
-    "the-wedge",
-    "spiritus-systems-lv-119-plate-carrier-multicam-black",
-    "accuracy-international-axmc-338-lm-bolt-action-sniper-rifle",
-    "338-lapua-magnum-fmj-ammo-pack-20-pcs",
-    "ai-axmc-338-lm-10-round-magazine"
-  ]
+  "order": 61
 }

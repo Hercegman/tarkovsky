@@ -40,9 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/chilly.webp",
-  "order": null,
-  "items": [
-    "salewa-first-aid-kit",
-    "endurance"
-  ]
+  "order": null
 }

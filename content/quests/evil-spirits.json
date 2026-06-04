@@ -49,10 +49,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/evil-spirits.webp",
-  "order": null,
-  "items": [
-    "followers-of-morana",
-    "bottle-of-tarkovskaya-vodka",
-    "salty-dog-beef-sausage"
-  ]
+  "order": null
 }

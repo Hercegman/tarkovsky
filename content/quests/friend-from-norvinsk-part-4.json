@@ -42,15 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/friend-from-norvinsk-part-4.webp",
-  "order": null,
-  "items": [
-    "pc-cpu",
-    "ram-stick",
-    "printed-circuit-board",
-    "microcontroller-board",
-    "bundle-of-wires",
-    "power-cord",
-    "classic-matches",
-    "greenbat-lithium-battery"
-  ]
+  "order": null
 }

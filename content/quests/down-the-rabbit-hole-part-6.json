@@ -44,20 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/down-the-rabbit-hole-part-6.webp",
-  "order": null,
-  "items": [
-    "reshala",
-    "glukhar",
-    "killa",
-    "shturman",
-    "sanitar",
-    "tagilla",
-    "kaban",
-    "kalashnikov-ak-12-5-45x39-assault-rifle",
-    "ash-12-12-7x55-assault-rifle",
-    "sj15-tglabs-combat-stimulant-injector",
-    "5-45x39mm-7n40-ammo-pack-30-pcs",
-    "12-7x55mm-ps12b",
-    "claymores"
-  ]
+  "order": null
 }

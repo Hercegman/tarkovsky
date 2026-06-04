@@ -40,16 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-10.webp",
-  "order": 11,
-  "items": [
-    "ak-105",
-    "bundle-of-wires",
-    "metal-spare-parts",
-    "ammunition-case",
-    "ak-74-5-45x39-6l31-60-round-magazine",
-    "silencerco-hybrid-46-direct-thread-mount-adapter",
-    "silencerco-hybrid-46-multi-caliber-sound-suppressor",
-    "ak-akademia-bastion-dust-cover",
-    "sig-sauer-romeo7-1x30-reflex-sight-prototype"
-  ]
+  "order": 11
 }

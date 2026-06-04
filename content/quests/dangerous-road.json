@@ -41,9 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/dangerous-road.webp",
-  "order": 32,
-  "items": [
-    "aluminum-splint",
-    "calok-b-hemostatic-applicator"
-  ]
+  "order": 32
 }

@@ -58,14 +58,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/disease-history.webp",
-  "order": 9,
-  "items": [
-    "medical-record-1",
-    "medical-record-2",
-    "grizzly-medical-kit",
-    "ibuprofen-painkillers",
-    "calok-b-hemostatic-applicator",
-    "rb-ksm-key",
-    "rb-smp-key"
-  ]
+  "order": 9
 }

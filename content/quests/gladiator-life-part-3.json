@@ -42,9 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gladiator-life-part-3.webp",
-  "order": 23,
-  "items": [
-    "escape-from-tarkov-arena",
-    "sv-98-7-62x54r-bolt-action-sniper-rifle"
-  ]
+  "order": 23
 }

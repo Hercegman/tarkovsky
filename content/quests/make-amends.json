@@ -48,12 +48,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/make-amends.webp",
-  "order": 88,
-  "items": [
-    "secure-flash-drive-v3",
-    "digital-secure-dsp-radio-transmitter",
-    "zryachiy",
-    "rogue-usec-barrack-key",
-    "water-treatment-plant-storage-room-key"
-  ]
+  "order": 88
 }

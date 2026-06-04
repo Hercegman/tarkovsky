@@ -46,9 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/clearing-the-way.webp",
-  "order": null,
-  "items": [
-    "set-of-files-master",
-    "smoked-chimney-drain-cleaner"
-  ]
+  "order": null
 }

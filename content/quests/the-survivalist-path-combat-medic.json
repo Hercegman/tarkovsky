@@ -42,11 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-survivalist-path-combat-medic.webp",
-  "order": 11,
-  "items": [
-    "vitality",
-    "surgery",
-    "etg-change-regenerative-stimulant-injector",
-    "propital-regenerative-stimulant-injector"
-  ]
+  "order": 11
 }

@@ -37,12 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-controller.webp",
-  "order": 17,
-  "items": [
-    "ncstar-ado-p4-sniper-3-9x42-riflescope",
-    "model-7290-flash-bang-grenade",
-    "zarya-stun-grenade",
-    "ks-23m",
-    "23x75mm-zvezda-flashbang-round"
-  ]
+  "order": 17
 }

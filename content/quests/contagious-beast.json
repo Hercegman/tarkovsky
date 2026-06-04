@@ -36,9 +36,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/contagious-beast.webp",
-  "order": null,
-  "items": [
-    "tagilla",
-    "terragroup-labs-keycard-blue"
-  ]
+  "order": null
 }

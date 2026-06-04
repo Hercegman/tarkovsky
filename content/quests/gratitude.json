@@ -60,15 +60,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gratitude.webp",
-  "order": 7,
-  "items": [
-    "ghost-balaclava",
-    "shemagh-green",
-    "raybench-hipster-reserve-sunglasses",
-    "round-frame-sunglasses",
-    "stich-profi-chimera-boonie-hat",
-    "jack-pyke-hunting-llcs-boonie-hat",
-    "door-kicker-boonie-hat",
-    "mil-tec-boonie-hat"
-  ]
+  "order": 7
 }

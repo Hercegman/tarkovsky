@@ -50,11 +50,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/reserve-quest.webp",
-  "order": 15,
-  "items": [
-    "pack-of-nails",
-    "pack-of-screws",
-    "silicone-tube",
-    "broken-lcd"
-  ]
+  "order": 15
 }

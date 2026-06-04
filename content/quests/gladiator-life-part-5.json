@@ -42,9 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gladiator-life-part-5.webp",
-  "order": 25,
-  "items": [
-    "escape-from-tarkov-arena",
-    "magnum-research-desert-eagle-l6-50-ae-pistol"
-  ]
+  "order": 25
 }

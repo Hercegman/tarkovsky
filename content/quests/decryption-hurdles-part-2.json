@@ -56,15 +56,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/decryption-hurdles-part-2.webp",
-  "order": null,
-  "items": [
-    "military-gyrotachometer",
-    "5-56x45mm-m856a1-ammo-pack-100-pcs",
-    "steyr-aug-5-56x45-30-round-magazine",
-    "steyr-aug-a1-5-56x45-assault-rifle",
-    "rsp-30-reactive-signal-cartridge-yellow",
-    "military-gyrotachometer",
-    "26x75mm-flare-cartridge-yellow",
-    "zid-sp-81-26x75-signal-pistol"
-  ]
+  "order": null
 }

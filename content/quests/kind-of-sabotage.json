@@ -53,8 +53,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/kind-of-sabotage.webp",
-  "order": 22,
-  "items": [
-    "secure-folder-0052"
-  ]
+  "order": 22
 }

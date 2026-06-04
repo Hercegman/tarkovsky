@@ -35,9 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-choice.webp",
-  "order": 8,
-  "items": [
-    "secure-container-epsilon",
-    "hideout-management"
-  ]
+  "order": 8
 }

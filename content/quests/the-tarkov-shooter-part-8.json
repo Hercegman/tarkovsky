@@ -35,13 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-tarkov-shooter-part-8.webp",
-  "order": 35,
-  "items": [
-    "bolt-action-rifles",
-    "mosin-7-62x54r-bolt-action-rifle-sniper",
-    "military-flash-drive",
-    "mosin-rifle-promag-archangel-opfor-prs-chassis",
-    "mosin-rifle-7-62x54r-promag-archangel-opfor-10-round-magazine",
-    "vortex-razor-hd-gen-2-1-6x24-30mm-riflescope"
-  ]
+  "order": 35
 }

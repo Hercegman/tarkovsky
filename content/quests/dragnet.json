@@ -61,12 +61,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/dragnet.webp",
-  "order": 55,
-  "items": [
-    "chemical-container",
-    "terragroup-storage-room-keycard",
-    "springfield-armory-m1a-7-62x51-rifle",
-    "m14-7-62x51-30-round-magazine",
-    "7-62x51mm-m62-tracer-ammo-pack-20-pcs"
-  ]
+  "order": 55
 }

@@ -40,9 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/creator-inspiration-part-2.webp",
-  "order": null,
-  "items": [
-    "weapon-crate-rare",
-    "labrys-access-keycard"
-  ]
+  "order": null
 }

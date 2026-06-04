@@ -90,10 +90,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/small-business-part-3.webp",
-  "order": 5,
-  "items": [
-    "cultist-knife",
-    "mark-of-the-unheard",
-    "cultists"
-  ]
+  "order": 5
 }

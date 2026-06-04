@@ -72,18 +72,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/down-the-rabbit-hole-part-3.webp",
-  "order": null,
-  "items": [
-    "wi-fi-camera",
-    "car-dealership-closed-section-key",
-    "kaban",
-    "car-dealership-documents",
-    "sig-mcx-300-blackout-assault-rifle",
-    "ar-15-5-56x45-troy-battlemag-stanag-30-round-magazine",
-    "300-blackout-bcp-fmj",
-    "dorm-room-314-marked-key",
-    "rsp-30-reactive-signal-cartridge-yellow",
-    "26x75mm-flare-cartridge-yellow",
-    "zid-sp-81-26x75-signal-pistol"
-  ]
+  "order": null
 }

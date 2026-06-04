@@ -294,11 +294,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/is-this-a-reference.webp",
-  "order": 9,
-  "items": [
-    "wi-fi-camera",
-    "streamer-item-case",
-    "factory-emergency-exit-key",
-    "mysterious-room-marked-key"
-  ]
+  "order": 9
 }

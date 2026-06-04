@@ -40,20 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-6.webp",
-  "order": 7,
-  "items": [
-    "akm",
-    "pack-of-screws",
-    "phase-control-relay",
-    "7-62x39mm-bp-gzh-ammo-pack-20-pcs",
-    "ak-gp-25-accessory-kit-recoil-pad",
-    "fortis-shift-tactical-foregrip",
-    "ak-7-62x39-magpul-pmag-30-gen-m3-30-round-magazine",
-    "mpx",
-    "ak-100-series-polymer-handguard",
-    "silencerco-hybrid-46-direct-thread-mount-adapter",
-    "silencerco-hybrid-46-multi-caliber-sound-suppressor",
-    "ak-akademia-bastion-dust-cover",
-    "sig-sauer-romeo7-1x30-reflex-sight-prototype"
-  ]
+  "order": 7
 }

@@ -52,8 +52,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/every-hunter-knows-this.webp",
-  "order": 53,
-  "items": [
-    "tripwire-installation-kit"
-  ]
+  "order": 53
 }

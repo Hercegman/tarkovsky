@@ -40,15 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/immunity-quest.webp",
-  "order": 2,
-  "items": [
-    "immunity",
-    "xtg-12-antidote-injector",
-    "cultist-knife",
-    "cultist",
-    "the-labyrinth",
-    "propital-regenerative-stimulant-injector",
-    "etg-change-regenerative-stimulant-injector",
-    "medical"
-  ]
+  "order": 2
 }

@@ -60,15 +60,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/trouble-in-the-big-city.webp",
-  "order": 9,
-  "items": [
-    "ms2000-marker",
-    "advanced-current-converter",
-    "sig-mcx-spear-6-8x51-assault-rifle",
-    "ar-10-7-62x51-lancer-l7awm-25-round-magazine",
-    "6-8x51mm-sig-hybrid",
-    "rsp-30-reactive-signal-cartridge-yellow",
-    "zid-sp-81-26x75-signal-pistol",
-    "26x75mm-flare-cartridge-yellow"
-  ]
+  "order": 9
 }

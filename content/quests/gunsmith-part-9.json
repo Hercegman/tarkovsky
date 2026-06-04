@@ -40,17 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-9.webp",
-  "order": 10,
-  "items": [
-    "p226r",
-    "gunpowder-hawk",
-    "colt-m4a1-5-56x45-assault-rifle",
-    "5-7x28mm-r37-f",
-    "p226-stainless-elite-pistol-slide",
-    "p226-stainless-elite-wooden-pistol-grip",
-    "p226-9x19-20-round-extended-magazine",
-    "ncstar-tactical-blue-laser",
-    "p226-9x19-112mm-threaded-barrel",
-    "p226-tjs-custom-9x19-compensator"
-  ]
+  "order": 10
 }

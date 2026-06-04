@@ -42,15 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/a-life-lesson.webp",
-  "order": 62,
-  "items": [
-    "bottle-of-tarkovskaya-vodka",
-    "bottle-of-dan-jackiel-whiskey",
-    "bottle-of-fierce-hatchling-moonshine",
-    "endurance",
-    "strength",
-    "metabolism",
-    "charisma",
-    "intellect"
-  ]
+  "order": 62
 }

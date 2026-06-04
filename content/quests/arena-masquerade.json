@@ -42,12 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/arena-masquerade.webp",
-  "order": null,
-  "items": [
-    "grinch-mask",
-    "aybolit-mask",
-    "fox-mask",
-    "hare-mask",
-    "battlepass"
-  ]
+  "order": null
 }

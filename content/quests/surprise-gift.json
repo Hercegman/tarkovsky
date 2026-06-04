@@ -51,9 +51,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/surprise-gift.webp",
-  "order": 13,
-  "items": [
-    "dorm-overseer-key",
-    "ref-dirt"
-  ]
+  "order": 13
 }

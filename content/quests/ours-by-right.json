@@ -44,19 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/ours-by-right.webp",
-  "order": null,
-  "items": [
-    "gary-zont-portable-electronic-warfare-device",
-    "big-pipe",
-    "birdeye",
-    "knight",
-    "rgo-hand-grenade",
-    "rgn-hand-grenade",
-    "degtyarev-rpdn-7-62x39-machine-gun",
-    "rpd-7-62x39-buben-100-round-box",
-    "7-62x39mm-pp-gzh-ammo-pack-20-pcs",
-    "7-62x39mm-ps-gzh-ammo-pack-20-pcs",
-    "7-62x39mm-t-45m1-gzh-ammo-pack-20-pcs",
-    "the-goons"
-  ]
+  "order": null
 }

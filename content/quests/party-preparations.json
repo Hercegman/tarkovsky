@@ -37,12 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/party-preparations.webp",
-  "order": null,
-  "items": [
-    "santa-hat",
-    "ded-moroz-hat",
-    "fake-white-beard",
-    "first-spear-strandhogg-plate-carrier-ranger-green",
-    "eagle-industries-mmac-plate-carrier-ranger-green"
-  ]
+  "order": null
 }

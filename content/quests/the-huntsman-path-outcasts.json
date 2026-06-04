@@ -38,9 +38,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-outcasts.webp",
-  "order": 43,
-  "items": [
-    "icebreaker",
-    "12-70-ap-20-armor-piercing-slug"
-  ]
+  "order": 43
 }

@@ -48,8 +48,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/disrupting-the-party.webp",
-  "order": null,
-  "items": [
-    "tdi-kriss-vector-gen-2-9x19-submachine-gun"
-  ]
+  "order": null
 }

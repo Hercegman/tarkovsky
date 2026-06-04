@@ -37,11 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/belka-and-strelka.webp",
-  "order": 33,
-  "items": [
-    "rgd-5-hand-grenade",
-    "rsp-30-reactive-signal-cartridge-green",
-    "26x75mm-flare-cartridge-green",
-    "zid-sp-81-26x75-signal-pistol"
-  ]
+  "order": 33
 }

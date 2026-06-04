@@ -40,23 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-24.webp",
-  "order": 25,
-  "items": [
-    "knights-armament-company-sr-25-7-62x51-marksman-rifle",
-    "pipe-grip-wrench",
-    "fp-100-filter-absorber",
-    "stark-se-5-express-forward-foregrip",
-    "stark-se-5-express-forward-foregrip-fde",
-    "kac-prs-qdc-7-62x51-sound-suppressor",
-    "ar-15-magpul-prs-gen3-stock",
-    "ar-15-hk-ergo-psg-1-style-pistol-grip",
-    "steiner-dbal-pl-tactical-device",
-    "burris-fastfire-3-reflex-sight",
-    "ncstar-mpr45-backup-mount",
-    "ar-10-7-62x51-kac-10-round-steel-magazine",
-    "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
-    "magpul-m-lok-2-5-inch-rail",
-    "magpul-m-lok-4-1-inch-rail",
-    "burris-fastfire-weaver-base"
-  ]
+  "order": 25
 }

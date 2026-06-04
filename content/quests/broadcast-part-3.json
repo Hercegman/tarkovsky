@@ -56,8 +56,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/broadcast-part-3.webp",
-  "order": 48,
-  "items": [
-    "surv12-field-surgical-kit"
-  ]
+  "order": 48
 }

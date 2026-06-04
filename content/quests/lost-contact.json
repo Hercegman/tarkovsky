@@ -50,8 +50,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/lost-contact.webp",
-  "order": 30,
-  "items": [
-    "grizzly-medical-kit"
-  ]
+  "order": 30
 }

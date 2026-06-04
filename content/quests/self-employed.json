@@ -33,8 +33,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/self-employed.webp",
-  "order": null,
-  "items": [
-    "greenbat-lithium-battery"
-  ]
+  "order": null
 }

@@ -42,10 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gladiator-life-part-4.webp",
-  "order": 24,
-  "items": [
-    "escape-from-tarkov-arena",
-    "sig-mpx-9x19-submachine-gun",
-    "weapon-paint-set-fde"
-  ]
+  "order": 24
 }

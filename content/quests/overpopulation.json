@@ -46,8 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/overpopulation.webp",
-  "order": 36,
-  "items": [
-    "ds-arms-sa58-7-62x51-assault-rifle"
-  ]
+  "order": 36
 }

@@ -52,12 +52,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/road-closed.webp",
-  "order": 40,
-  "items": [
-    "hk-mp7a1-4-6x30-submachine-gun",
-    "hk-mp7-4-6x30-20-round-magazine",
-    "4-6x30mm-action-sx-ammo-pack-40-pcs",
-    "ags-30-30x29mm-automatic-grenade-launcher",
-    "claymores"
-  ]
+  "order": 40
 }

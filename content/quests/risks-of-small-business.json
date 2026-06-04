@@ -43,10 +43,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/risks-of-small-business.webp",
-  "order": null,
-  "items": [
-    "intelligence-folder",
-    "kaban",
-    "claymores"
-  ]
+  "order": null
 }

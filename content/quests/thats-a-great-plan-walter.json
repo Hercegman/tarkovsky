@@ -35,16 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/thats-a-great-plan-walter.webp",
-  "order": null,
-  "items": [
-    "locked-case",
-    "sapi-level-iii-ballistic-plate",
-    "ssapi-level-iii-ballistic-plate-side",
-    "opened-case",
-    "opened-box",
-    "underground-parking-utility-room-key",
-    "rb-st-key",
-    "cottage-back-door-key",
-    "tarcone-directors-office-key"
-  ]
+  "order": null
 }

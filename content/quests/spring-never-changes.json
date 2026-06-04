@@ -44,30 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/spring-never-changes.webp",
-  "order": null,
-  "items": [
-    "crickent-lighter",
-    "survl-survivor-lighter",
-    "metal-fuel-tank",
-    "hunting-matches",
-    "classic-matches",
-    "dry-fuel",
-    "followers-of-morana",
-    "7-62x25mm-tt-pt-gzh",
-    "9x18mm-pm-ppt-gzh",
-    "9x19mm-green-tracer",
-    "9x21mm-bt-gzh",
-    "45-acp-lasermatch-fmj",
-    "5-7x28mm-l191",
-    "5-45x39mm-t-gs",
-    "5-45x39mm-bt-gs",
-    "5-56x45mm-m856",
-    "5-56x45mm-m856a1",
-    "300-blackout-m62-tracer",
-    "7-62x39mm-t-45m1-gzh",
-    "7-62x51mm-m62-tracer",
-    "7-62x54mm-r-t-46m-gzh",
-    "7-62x54mm-r-bt-gzh",
-    "12-70-makeshift-50-bmg-slug"
-  ]
+  "order": null
 }

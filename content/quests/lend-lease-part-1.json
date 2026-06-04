@@ -83,17 +83,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/lend-lease-part-1.webp",
-  "order": 21,
-  "items": [
-    "motor-controller-1",
-    "motor-controller-2",
-    "motor-controller-3",
-    "single-axis-fiber-optic-gyroscope-1",
-    "single-axis-fiber-optic-gyroscope-2",
-    "armasight-n-15-night-vision-goggles",
-    "orsis-t-5000m-7-62x51-bolt-action-sniper-rifle",
-    "health-resort-west-wing-room-216-key",
-    "health-resort-east-wing-room-306-key",
-    "health-resort-east-wing-room-308-key"
-  ]
+  "order": 21
 }

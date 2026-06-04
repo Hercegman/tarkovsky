@@ -35,10 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/root-of-all-evil.webp",
-  "order": null,
-  "items": [
-    "contraband-box",
-    "iotv-gen4-body-armor-assault-kit-multicam",
-    "wartech-tv-110-plate-carrier-coyote"
-  ]
+  "order": null
 }

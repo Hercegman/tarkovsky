@@ -58,10 +58,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/slaughterhouse.webp",
-  "order": 47,
-  "items": [
-    "sog-voodoo-hawk-tactical-tomahawk",
-    "miller-bros-blades-m-2-tactical-sword-brown",
-    "nkvd-finka-knife"
-  ]
+  "order": 47
 }

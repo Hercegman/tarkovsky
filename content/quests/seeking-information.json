@@ -48,12 +48,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/seeking-information.webp",
-  "order": null,
-  "items": [
-    "hard-drive-seeking-information",
-    "usec-cottage-room-key",
-    "5-56x45mm-m855a1-ammo-pack-50-pcs",
-    "slr-106-ak-5-56x45-circle-10-30-round-magazine",
-    "kalashnikov-ak-102-5-56x45-assault-rifle"
-  ]
+  "order": null
 }

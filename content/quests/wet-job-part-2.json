@@ -50,11 +50,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/wet-job-part-2.webp",
-  "order": 18,
-  "items": [
-    "ms2000-marker",
-    "eberlestock-f5-switchblade-backpack-dry-earth",
-    "ar-15-5-56x45-magpul-pmag-d-60-stanag-60-round-magazine",
-    "msa-ach-tc-2001-mich-series-helmet-olive-drab"
-  ]
+  "order": 18
 }

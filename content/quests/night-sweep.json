@@ -36,12 +36,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/night-sweep.webp",
-  "order": 25,
-  "items": [
-    "cultist-knife",
-    "shotguns",
-    "xtg-12-antidote-injector",
-    "cultists",
-    "cultist-priest"
-  ]
+  "order": 25
 }

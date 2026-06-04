@@ -45,10 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/classified-technologies.webp",
-  "order": 29,
-  "items": [
-    "t-90m-commander-control-panel",
-    "5-7x28mm-r37-f-ammo-pack-50-pcs",
-    "5-7x28mm-r37-x-ammo-pack-50-pcs"
-  ]
+  "order": 29
 }

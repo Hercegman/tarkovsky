@@ -40,9 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-invisible-hand.webp",
-  "order": 37,
-  "items": [
-    "backpack",
-    "gold-skull-ring"
-  ]
+  "order": 37
 }

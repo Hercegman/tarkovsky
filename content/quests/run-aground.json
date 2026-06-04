@@ -58,12 +58,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/run-aground.webp",
-  "order": null,
-  "items": [
-    "ak-74-5-45x39-6l18-45-round-magazine",
-    "5-45x39mm-ps-gs-ammo-pack-120-pcs",
-    "rgd-5-hand-grenade",
-    "custom-guns-nl545-gp-5-45x39-assault-rifle",
-    "ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine-fde"
-  ]
+  "order": null
 }

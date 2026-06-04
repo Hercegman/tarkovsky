@@ -40,11 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/athlete.webp",
-  "order": 18,
-  "items": [
-    "health",
-    "dundukk-sport-sunglasses",
-    "zagustin-hemostatic-drug-injector",
-    "adrenaline-injector"
-  ]
+  "order": 18
 }

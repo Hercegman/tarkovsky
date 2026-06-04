@@ -132,11 +132,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-bunker-part-2.webp",
-  "order": 10,
-  "items": [
-    "kalashnikov-aks-74ub-5-45x39-assault-rifle",
-    "5-45x39mm-bs-gs-ammo-pack-120-pcs",
-    "ak-caa-rs47-handguard",
-    "ak-74m-caa-akts-ak74-buffer-tube"
-  ]
+  "order": 10
 }

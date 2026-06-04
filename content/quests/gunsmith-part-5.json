@@ -40,19 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-5.webp",
-  "order": 6,
-  "items": [
-    "remington-model-870-12ga-pump-action-shotgun",
-    "weapon-parts",
-    "ammunition-case",
-    "m870",
-    "ncstar-tactical-blue-laser",
-    "m870-magpul-moe-handguard",
-    "me-cylinder-12ga-muzzle-adapter",
-    "gk-02-12ga-muzzle-brake",
-    "magpul-m-lok-4-1-inch-rail",
-    "kac-vertical-foregrip",
-    "magpul-m-lok-2-5-inch-rail",
-    "m870-magpul-sga-polymer-stock"
-  ]
+  "order": 6
 }

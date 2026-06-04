@@ -43,9 +43,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-root-cause.webp",
-  "order": null,
-  "items": [
-    "tg-vi-24-sample",
-    "terragroup-labs-keycard-yellow"
-  ]
+  "order": null
 }

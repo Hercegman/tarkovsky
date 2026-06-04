@@ -44,10 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/find-the-source.webp",
-  "order": null,
-  "items": [
-    "terragroup-labs-residential-unit-keycard",
-    "v-o-signed-diary",
-    "terragroup-labs-keycard-violet"
-  ]
+  "order": null
 }

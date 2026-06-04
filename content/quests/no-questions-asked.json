@@ -35,12 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-questions-asked.webp",
-  "order": 34,
-  "items": [
-    "red-rebel-ice-pick",
-    "tkpd-9-3x64-carbine",
-    "9-3x64mm-7n33-ammo-pack-20-pcs",
-    "9-3x64mm-fmj",
-    "tkpd-9-3x64-457mm-barrel"
-  ]
+  "order": 34
 }

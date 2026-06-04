@@ -45,11 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/customer-communication.webp",
-  "order": null,
-  "items": [
-    "military-cable",
-    "working-lcd",
-    "power-cord",
-    "colt-m4a1-5-56x45-assault-rifle"
-  ]
+  "order": null
 }

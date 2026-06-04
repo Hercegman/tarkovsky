@@ -80,11 +80,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-survivalist-path-thrifty.webp",
-  "order": 2,
-  "items": [
-    "iskra-ration-pack",
-    "bottle-of-water-0-6l",
-    "phase-control-relay",
-    "metal-fuel-tank"
-  ]
+  "order": 2
 }

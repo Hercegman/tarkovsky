@@ -49,13 +49,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/airmail.webp",
-  "order": 71,
-  "items": [
-    "ncstar-tactical-blue-laser",
-    "zenit-klesch-2iks-ir-illuminator-with-laser",
-    "rsp-30-reactive-signal-cartridge-red",
-    "zid-sp-81-26x75-signal-pistol",
-    "26x75mm-flare-cartridge-red",
-    "airdrops"
-  ]
+  "order": 71
 }

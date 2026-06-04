@@ -3,23 +3,8 @@
 import "server-only";
 import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
-import type { Quest, Trader, GameMap, MapData, ItemRef } from "./types";
+import type { Quest, Trader, GameMap, MapData } from "./types";
 import { orderQuests } from "./quest-utils";
-
-let itemCache: Record<string, ItemRef> | null = null;
-
-/** Item slug → { name, image } map (from content/items.json). */
-export async function getItems(): Promise<Record<string, ItemRef>> {
-  if (itemCache) return itemCache;
-  try {
-    itemCache = await readJson<Record<string, ItemRef>>(
-      path.join(CONTENT, "items.json"),
-    );
-  } catch {
-    itemCache = {};
-  }
-  return itemCache;
-}
 
 const CONTENT = path.resolve(process.cwd(), "content");
 

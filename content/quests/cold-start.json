@@ -30,9 +30,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/cold-start.webp",
-  "order": null,
-  "items": [
-    "fuel-conditioner",
-    "topographic-survey-maps"
-  ]
+  "order": null
 }

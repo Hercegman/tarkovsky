@@ -74,9 +74,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/house-arrest-part-1.webp",
-  "order": 30,
-  "items": [
-    "kel-tec-rfb-7-62x51-rifle",
-    "iron-gate-key"
-  ]
+  "order": 30
 }

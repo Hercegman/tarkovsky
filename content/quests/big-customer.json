@@ -51,10 +51,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/big-customer.webp",
-  "order": 37,
-  "items": [
-    "ms2000-marker",
-    "6b2-body-armor-flora",
-    "ammunition-case"
-  ]
+  "order": 37
 }

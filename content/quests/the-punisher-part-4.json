@@ -49,14 +49,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-punisher-part-4.webp",
-  "order": 20,
-  "items": [
-    "bars-a-2607-95kh18-knife",
-    "colt-m4a1-5-56x45-assault-rifle",
-    "scav-vest",
-    "security-vest",
-    "nut-sack-balaclava",
-    "bars-a-2607-damascus-knife",
-    "rogue"
-  ]
+  "order": 20
 }

@@ -46,11 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/create-a-distraction-part-1.webp",
-  "order": 5,
-  "items": [
-    "tp-200-tnt-brick",
-    "ar-15-5-56x45-magpul-pmag-20-gen-m3-stanag-20-round-magazine",
-    "5-56x45mm-m856-ammo-pack-100-pcs",
-    "desert-tech-mdr-5-56x45-assault-rifle"
-  ]
+  "order": 5
 }

@@ -37,11 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gendarmerie-district-patrol.webp",
-  "order": 54,
-  "items": [
-    "bottle-of-tarkovskaya-vodka",
-    "bnti-zhuk-body-armor-emr",
-    "kalashnikov-ak-12-5-45x39-assault-rifle",
-    "5-45x39mm-bp-gs"
-  ]
+  "order": 54
 }

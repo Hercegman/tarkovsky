@@ -39,11 +39,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/arena-business.webp",
-  "order": 7,
-  "items": [
-    "lega-medal",
-    "weapon-crate-rare",
-    "supply-crate-rare",
-    "valuables-crate-rare"
-  ]
+  "order": 7
 }

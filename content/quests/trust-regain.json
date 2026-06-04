@@ -46,11 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/trust-regain.webp",
-  "order": 27,
-  "items": [
-    "dorm-room-303-key",
-    "zb-014-key",
-    "military-checkpoint-key",
-    "gas-station-storage-room-key"
-  ]
+  "order": 27
 }

@@ -52,11 +52,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-door.webp",
-  "order": 67,
-  "items": [
-    "wi-fi-camera",
-    "rusted-bloody-key",
-    "beretta-m9a3-9x19-pistol",
-    "remington-model-870-12ga-pump-action-shotgun"
-  ]
+  "order": 67
 }

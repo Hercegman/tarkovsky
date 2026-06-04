@@ -46,12 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/come-by-the-fire.webp",
-  "order": null,
-  "items": [
-    "ms2000-marker",
-    "pompon-hat",
-    "tdi-kriss-vector-gen-2-9x19-submachine-gun",
-    "glock-9x19-big-stick-33-round-magazine",
-    "9x19mm-ap-6-3-ammo-pack-50-pcs"
-  ]
+  "order": null
 }

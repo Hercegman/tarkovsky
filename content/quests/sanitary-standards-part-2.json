@@ -41,9 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/sanitary-standards-part-2.webp",
-  "order": 5,
-  "items": [
-    "gas-analyzer",
-    "propital-regenerative-stimulant-injector"
-  ]
+  "order": 5
 }

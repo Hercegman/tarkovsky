@@ -50,10 +50,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/irresistible.webp",
-  "order": 39,
-  "items": [
-    "stolen-weapon-case",
-    "mps-auto-assault-12-gen-1-12ga-automatic-shotgun",
-    "object-21ws-keycard"
-  ]
+  "order": 39
 }

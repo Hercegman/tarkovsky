@@ -45,12 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/sample-iv-a-new-hope.webp",
-  "order": null,
-  "items": [
-    "vaccine-sample-iv",
-    "kaban",
-    "medicine-case",
-    "terragroup-labs-residential-unit-keycard",
-    "transit"
-  ]
+  "order": null
 }

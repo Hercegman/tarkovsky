@@ -40,10 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/make-amends-quarantine.webp",
-  "order": 87,
-  "items": [
-    "wi-fi-camera",
-    "terragroup-labs-keycard-black",
-    "terragroup-labs-keycard-blue"
-  ]
+  "order": 87
 }

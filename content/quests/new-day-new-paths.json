@@ -49,10 +49,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/new-day-new-paths.webp",
-  "order": 44,
-  "items": [
-    "secure-flash-drive",
-    "sas-drive",
-    "ssd-drive"
-  ]
+  "order": 44
 }

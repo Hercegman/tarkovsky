@@ -40,14 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-12.webp",
-  "order": 13,
-  "items": [
-    "mpx",
-    "ar-15-vendetta-precision-vp-09-interceptor-5-56x45-muzzle-brake",
-    "fn-p90-attenuator-5-7x28-sound-suppressor",
-    "ar-15-5-56x45-surefire-mag5-100-stanag-100-round-magazine",
-    "ar-15-tactical-dynamics-skeletonized-pistol-grip",
-    "yankee-hill-annihilator-multi-caliber-flash-hider",
-    "steiner-las-tac-2-tactical-flashlight"
-  ]
+  "order": 13
 }

@@ -46,9 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/fight-back.webp",
-  "order": null,
-  "items": [
-    "leupold-mark-5hd-5-25x56mm-35mm-riflescope-fde",
-    "leupold-mark-ims-35mm-ring-scope-mount"
-  ]
+  "order": null
 }

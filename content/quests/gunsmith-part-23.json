@@ -40,18 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-23.webp",
-  "order": 24,
-  "items": [
-    "cmmg-mk47-mutant-7-62x39-assault-rifle",
-    "sig-sauer-echo1-1-2x30mm-30hz-thermal-reflex-scope",
-    "mk47-409mm-barrel",
-    "ar-10-noveske-sws-n6-split-handguard",
-    "ar-10-odin-works-atlas-7-7-62x51-muzzle-brake",
-    "tactical-dynamics-skeletonized-foregrip",
-    "glock-gtl-21-tactical-flashlight-with-laser",
-    "vortex-razor-amg-uh-1-holographic-sight",
-    "ar-15-hk-e1-buttstock",
-    "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
-    "ak-7-62x39-promag-ak-a-16-73-round-drum-magazine"
-  ]
+  "order": 24
 }

@@ -52,13 +52,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/chemical-part-2.webp",
-  "order": 7,
-  "items": [
-    "sliderkey-secure-flash-drive",
-    "sealed-letter-with-a-tg-logo",
-    "f-1-hand-grenade",
-    "tp-200-tnt-brick",
-    "sok-12-12ga-sai-02-10-round-magazine",
-    "dorm-room-220-key"
-  ]
+  "order": 7
 }

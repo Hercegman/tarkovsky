@@ -64,17 +64,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-relentless.webp",
-  "order": 41,
-  "items": [
-    "tagilla",
-    "killa",
-    "reshala",
-    "shturman",
-    "glukhar",
-    "sanitar",
-    "crafting",
-    "immunity",
-    "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
-    "expeditionary-fuel-tank"
-  ]
+  "order": 41
 }

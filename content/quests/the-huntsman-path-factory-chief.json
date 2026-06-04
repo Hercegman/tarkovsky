@@ -48,12 +48,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-factory-chief.webp",
-  "order": 25,
-  "items": [
-    "tagilla",
-    "boss-cap",
-    "factory-emergency-exit-key",
-    "hat-with-antlers",
-    "shadow-of-tagilla"
-  ]
+  "order": 25
 }

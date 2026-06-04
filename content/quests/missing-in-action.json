@@ -84,13 +84,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/missing-in-action.webp",
-  "order": null,
-  "items": [
-    "pack-of-arseniy-buckwheat",
-    "bottle-of-tarkovskaya-vodka",
-    "iskra-ration-pack",
-    "kalashnikov-ak-12-5-45x39-assault-rifle",
-    "ak-12-5-45x39-early-model-30-round-magazine",
-    "5-45x39mm-7n40-ammo-pack-120-pcs"
-  ]
+  "order": null
 }

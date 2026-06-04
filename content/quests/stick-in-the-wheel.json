@@ -40,10 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/stick-in-the-wheel.webp",
-  "order": 65,
-  "items": [
-    "as-val-9x39-special-assault-rifle",
-    "vss-val-9x39-6l25-20-round-magazine-plum",
-    "9x39mm-pab-9-gs-ammo-pack-20-pcs"
-  ]
+  "order": 65
 }

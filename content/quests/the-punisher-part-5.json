@@ -50,23 +50,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-punisher-part-5.webp",
-  "order": 21,
-  "items": [
-    "m4a1",
-    "pistol-case",
-    "documents-case",
-    "7-62x39mm-bp-gzh-ammo-pack-20-pcs",
-    "6b47-ratnik-bsh-helmet-olive-drab",
-    "6b47-ratnik-bsh-helmet-emr-cover",
-    "paca-soft-armor",
-    "paca-soft-armor-rivals-edition",
-    "pm-pistol",
-    "pm-t-pistol",
-    "ak-74",
-    "ak-74m",
-    "ak-74n",
-    "aks-74",
-    "aks-74n",
-    "drd-body-armor"
-  ]
+  "order": 21
 }

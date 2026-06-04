@@ -63,9 +63,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/return-the-favor.webp",
-  "order": 3,
-  "items": [
-    "terragroup-blue-folders-materials",
-    "silicon-optoelectronic-integrated-circuits-textbook"
-  ]
+  "order": 3
 }

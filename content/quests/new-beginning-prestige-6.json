@@ -61,20 +61,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/new-beginning-prestige-6.webp",
-  "order": 55,
-  "items": [
-    "prestige",
-    "cultists",
-    "bear-operative-figurine",
-    "politician-mutkevich-figurine",
-    "killa-figurine",
-    "reshala-figurine",
-    "ryzhy-figurine",
-    "scav-figurine",
-    "tagilla-figurine",
-    "usec-operative-figurine",
-    "cultist-figurine",
-    "den-figurine",
-    "physical-bitcoin"
-  ]
+  "order": 55
 }

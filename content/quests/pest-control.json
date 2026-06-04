@@ -42,12 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/pest-control.webp",
-  "order": 39,
-  "items": [
-    "paid-antiroach-spray",
-    "gunpowder-eagle",
-    "pack-of-nails",
-    "can-of-thermite",
-    "tagged-and-cursed"
-  ]
+  "order": 39
 }

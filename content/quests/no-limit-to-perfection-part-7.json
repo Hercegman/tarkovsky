@@ -42,10 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-limit-to-perfection-part-7.webp",
-  "order": 45,
-  "items": [
-    "escape-from-tarkov-arena",
-    "shotguns",
-    "valuables-crate-rare"
-  ]
+  "order": 45
 }

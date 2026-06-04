@@ -40,9 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-offence.webp",
-  "order": 38,
-  "items": [
-    "m67-hand-grenade",
-    "zibbo-lighter"
-  ]
+  "order": 38
 }

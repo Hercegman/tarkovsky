@@ -53,11 +53,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/backup-plan.webp",
-  "order": null,
-  "items": [
-    "grizzly-medical-kit",
-    "cmmg-mk47-mutant-7-62x39-assault-rifle",
-    "ak-7-62x39-magpul-pmag-30-gen-m3-30-round-magazine",
-    "7-62x39mm-t-45m1-gzh-ammo-pack-20-pcs"
-  ]
+  "order": null
 }

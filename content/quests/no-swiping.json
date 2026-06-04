@@ -45,12 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-swiping.webp",
-  "order": 38,
-  "items": [
-    "propane-tank-5l",
-    "car-battery",
-    "silicone-tube",
-    "alkaline-cleaner-for-heat-exchangers",
-    "can-of-majaica-coffee-beans"
-  ]
+  "order": 38
 }

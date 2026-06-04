@@ -52,11 +52,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/order-from-outside.webp",
-  "order": 11,
-  "items": [
-    "kosa-uav-electronic-jamming-device",
-    "military-cofdm-wireless-signal-transmitter",
-    "uhf-rfid-reader",
-    "virtex-programmable-processor"
-  ]
+  "order": 11
 }

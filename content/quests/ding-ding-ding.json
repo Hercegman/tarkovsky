@@ -37,14 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/ding-ding-ding.webp",
-  "order": null,
-  "items": [
-    "weapons",
-    "the-unheards-phone",
-    "the-unheards-laptop",
-    "sacred-amulet",
-    "sj6-tglabs-combat-stimulant-injector",
-    "ledx-skin-transilluminator",
-    "mr-kermans-cat-hologram"
-  ]
+  "order": null
 }

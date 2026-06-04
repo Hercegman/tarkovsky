@@ -30,12 +30,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/cocktail-tasting.webp",
-  "order": null,
-  "items": [
-    "obdolbos-cocktail-injector",
-    "sword-international-mk-18-338-lm-marksman-rifle",
-    "burris-fullfield-tac30-1-4x24-30mm-riflescope",
-    "vortex-razor-hd-gen-2-1-6x24-30mm-riflescope",
-    "eotech-vudu-1-6x24-30mm-riflescope"
-  ]
+  "order": null
 }

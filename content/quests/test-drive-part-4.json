@@ -44,14 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/test-drive-part-4.webp",
-  "order": 29,
-  "items": [
-    "degtyarev-rpdn-7-62x39-machine-gun",
-    "axion-kobra-ekp-1s-03-reflex-sight-dovetail",
-    "tokarev-avt-40-7-62x54r-automatic-rifle",
-    "7-62x54mm-r-snb-gzh-ammo-pack-20-pcs",
-    "avt-40-7-62x54r-15-round-magazine",
-    "ncstar-mpr45-backup-mount",
-    "rpd-ds-arms-railed-handguard"
-  ]
+  "order": 29
 }

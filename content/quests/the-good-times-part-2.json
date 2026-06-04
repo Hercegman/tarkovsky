@@ -40,11 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-good-times-part-2.webp",
-  "order": 56,
-  "items": [
-    "tokarev-tt-33-7-62x25-tt-pistol-golden",
-    "ammunition-case",
-    "reshala",
-    "bosses"
-  ]
+  "order": 56
 }

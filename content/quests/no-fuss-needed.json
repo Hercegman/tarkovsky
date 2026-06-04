@@ -35,8 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-fuss-needed.webp",
-  "order": 20,
-  "items": [
-    "altyn-bulletproof-helmet-olive-drab"
-  ]
+  "order": 20
 }

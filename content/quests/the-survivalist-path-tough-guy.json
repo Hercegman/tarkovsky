@@ -54,11 +54,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-survivalist-path-tough-guy.webp",
-  "order": 5,
-  "items": [
-    "perception",
-    "cms-surgical-kit",
-    "pile-of-meds",
-    "medical"
-  ]
+  "order": 5
 }

@@ -56,13 +56,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/against-the-conscience-part-1.webp",
-  "order": 6,
-  "items": [
-    "dorm-overseer-key",
-    "cqc-osprey-mk4a-plate-carrier-assault-mtp",
-    "hk-416a5-5-56x45-assault-rifle",
-    "ar-15-5-56x45-hk-steel-maritime-stanag-30-round-magazine",
-    "5-56x45mm-mk-318-mod-0-sost-ammo-pack-50-pcs",
-    "armband-arena"
-  ]
+  "order": 6
 }

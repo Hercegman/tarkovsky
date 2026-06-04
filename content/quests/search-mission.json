@@ -58,10 +58,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/search-mission.webp",
-  "order": 4,
-  "items": [
-    "eye-mk-2-professional-hand-held-compass",
-    "woods-plan-map",
-    "npp-klass-kora-kulon-body-armor-emr"
-  ]
+  "order": 4
 }

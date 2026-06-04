@@ -41,31 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-21.webp",
-  "order": 22,
-  "items": [
-    "m700",
-    "m1911",
-    "pistol-case",
-    "7-62x51mm-m993-ammo-pack-20-pcs",
-    "ar-15-hk-ergo-psg-1-style-pistol-grip",
-    "ar-15-strike-industries-advanced-receiver-extension",
-    "m700-ab-arms-mod-x-gen-3-chassis",
-    "m700-ab-arms-mod-x-gen-3-keymod-handguard",
-    "m700-ab-arms-mod-x-rail-mount",
-    "ncstar-tactical-blue-laser",
-    "m1911-pachmayr-american-legend-grip-423",
-    "m1911-anarchy-outdoors-45-acp-muzzle-brake",
-    "colt-m1911a1-45-acp-pistol",
-    "ar-15-magpul-miad-pistol-grip-fde",
-    "strike-industries-keymod-6-inch-rail",
-    "zenit-rk-6-tactical-foregrip",
-    "ar-15-adar-2-15-buffer-tube",
-    "ar-15-kriss-defiance-ds150-stock",
-    "ar-10-daniel-defense-wave-7-62x51-muzzle-brake",
-    "daniel-defense-wave-qd-sound-suppressor",
-    "recknagel-era-tac-34mm-ring-scope-mount",
-    "schmidt-bender-pm-ii-5-25x56-34mm-riflescope",
-    "m700-7-62x51-magpul-pmag-ac-5-round-magazine",
-    "m1911a1-ncstar-trigger-guard-mount"
-  ]
+  "order": 22
 }

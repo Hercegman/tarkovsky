@@ -45,8 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/nothing-fishy-about-this.webp",
-  "order": 35,
-  "items": [
-    "stich-profi-chest-rig-mk2-recon-a-tacs-fg"
-  ]
+  "order": 35
 }

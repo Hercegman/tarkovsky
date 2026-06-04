@@ -74,10 +74,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/revision-reserve.webp",
-  "order": 30,
-  "items": [
-    "ms2000-marker",
-    "5-56x45mm-warmageddon-ammo-pack-20-pcs",
-    "rb-st-key"
-  ]
+  "order": 30
 }

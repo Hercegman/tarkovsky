@@ -42,9 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/i-am-speed-part-2.webp",
-  "order": 61,
-  "items": [
-    "escape-from-tarkov-arena",
-    "supply-crate-rare"
-  ]
+  "order": 61
 }

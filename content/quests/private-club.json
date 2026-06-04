@@ -38,10 +38,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/private-club.webp",
-  "order": 26,
-  "items": [
-    "skiers-wallet",
-    "walkers-xcel-500bt-digital-headset",
-    "saiga-12k-12ga-automatic-shotgun"
-  ]
+  "order": 26
 }

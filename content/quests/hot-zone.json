@@ -34,14 +34,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hot-zone.webp",
-  "order": null,
-  "items": [
-    "zulu-nylon-gear-m4-reduced-signature-chest-rig-ranger-green",
-    "labrys-access-keycard",
-    "vulkan-5-lshz-5-bulletproof-helmet-black",
-    "vulkan-5-helmet-face-shield",
-    "monoclete-level-iii-pe-ballistic-plate",
-    "armor-plate",
-    "armor-plates"
-  ]
+  "order": null
 }

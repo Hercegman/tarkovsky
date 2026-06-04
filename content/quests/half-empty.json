@@ -41,28 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/half-empty.webp",
-  "order": 64,
-  "items": [
-    "altyn-bulletproof-helmet-olive-drab",
-    "altyn-helmet-face-shield",
-    "rsp-30-reactive-signal-cartridge-special-yellow",
-    "iridium-military-thermal-vision-module",
-    "military-cofdm-wireless-signal-transmitter",
-    "military-cable",
-    "military-circuit-board",
-    "military-gyrotachometer",
-    "military-power-filter",
-    "virtex-programmable-processor",
-    "bundle-of-wires",
-    "cpu-fan",
-    "dvd-drive",
-    "damaged-hard-drive",
-    "electronic-components",
-    "graphics-card",
-    "pc-cpu",
-    "power-cord",
-    "power-supply-unit",
-    "printed-circuit-board",
-    "ram-stick"
-  ]
+  "order": 64
 }

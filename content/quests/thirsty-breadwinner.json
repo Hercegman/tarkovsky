@@ -41,9 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/thirsty-breadwinner.webp",
-  "order": 47,
-  "items": [
-    "propane-tank-5l",
-    "expeditionary-fuel-tank"
-  ]
+  "order": 47
 }

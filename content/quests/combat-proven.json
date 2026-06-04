@@ -40,14 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/combat-proven.webp",
-  "order": 40,
-  "items": [
-    "bosses",
-    "the-goons",
-    "partisan",
-    "npp-klass-bagariy-plate-carrier-emr",
-    "lbt-1961a-load-bearing-chest-rig-goons-edition",
-    "s-s-precision-plateframe-plate-carrier-goons-edition",
-    "crye-precision-cpc-plate-carrier-goons-edition"
-  ]
+  "order": 40
 }

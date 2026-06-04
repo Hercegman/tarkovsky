@@ -109,10 +109,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/revision-streets-of-tarkov.webp",
-  "order": 39,
-  "items": [
-    "ms2000-marker",
-    "fn-scar-l-5-56x45-assault-rifle",
-    "galvion-caiman-hybrid-helmet-grey"
-  ]
+  "order": 39
 }

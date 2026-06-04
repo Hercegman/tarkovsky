@@ -38,13 +38,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/import.webp",
-  "order": 47,
-  "items": [
-    "uhf-rfid-reader",
-    "vpx-flash-storage-module",
-    "physical-bitcoin",
-    "iridium-military-thermal-vision-module",
-    "trijicon-reap-ir-thermal-scope",
-    "4-6x30mm-fmj-sx"
-  ]
+  "order": 47
 }

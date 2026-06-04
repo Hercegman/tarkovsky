@@ -41,10 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/silent-caliber.webp",
-  "order": 17,
-  "items": [
-    "mp-155-12ga-semi-automatic-shotgun",
-    "12-70",
-    "saiga-12k-12ga-automatic-shotgun-redline"
-  ]
+  "order": 17
 }

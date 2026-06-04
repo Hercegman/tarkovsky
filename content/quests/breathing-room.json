@@ -40,17 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/breathing-room.webp",
-  "order": null,
-  "items": [
-    "iwi-uzi-9x19-submachine-gun",
-    "greenbat-lithium-battery",
-    "spark-plug",
-    "uzi",
-    "uzi-9x19-sound-suppressor",
-    "uzi-stormwerkz-scope-mount",
-    "walther-mrs-reflex-sight",
-    "uzi-type-6-buttstock",
-    "uzi-9x19-20-round-magazine",
-    "uzi-handguard-with-foregrip"
-  ]
+  "order": null
 }

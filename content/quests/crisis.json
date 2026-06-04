@@ -44,23 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/crisis.webp",
-  "order": 28,
-  "items": [
-    "portable-defibrillator",
-    "ophthalmoscope",
-    "ledx-skin-transilluminator",
-    "pile-of-meds",
-    "bottle-of-ololo-multivitamins",
-    "medicine-case",
-    "immunity",
-    "vitality",
-    "surgery",
-    "etg-change-regenerative-stimulant-injector",
-    "m-u-l-e-stimulant-injector",
-    "terragroup-labs-keycard-blue",
-    "terragroup-labs-keycard-green",
-    "sanitar",
-    "ultra-medical-storage-key",
-    "silicon-optoelectronic-integrated-circuits-textbook"
-  ]
+  "order": 28
 }

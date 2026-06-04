@@ -85,10 +85,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/discombobulate.webp",
-  "order": 10,
-  "items": [
-    "vog-25-khattabka-improvised-hand-grenade",
-    "military-flash-drive",
-    "btr"
-  ]
+  "order": 10
 }

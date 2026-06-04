@@ -79,11 +79,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-delicious-sausage.webp",
-  "order": 45,
-  "items": [
-    "salty-dog-beef-sausage",
-    "bolts",
-    "screw-nuts",
-    "corrugated-hose"
-  ]
+  "order": 45
 }

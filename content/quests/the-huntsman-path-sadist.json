@@ -58,11 +58,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-sadist.webp",
-  "order": 37,
-  "items": [
-    "sanitar",
-    "trijicon-reap-ir-thermal-scope",
-    "12-70-ap-20-ammo-pack-25-pcs",
-    "surv12-field-surgical-kit"
-  ]
+  "order": 37
 }

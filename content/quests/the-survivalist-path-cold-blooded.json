@@ -35,9 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-survivalist-path-cold-blooded.webp",
-  "order": 8,
-  "items": [
-    "stress-resistance",
-    "sj9-tglabs-combat-stimulant-injector"
-  ]
+  "order": 8
 }

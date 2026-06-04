@@ -45,16 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/textile-part-1.webp",
-  "order": 26,
-  "items": [
-    "aramid-fiber-fabric",
-    "ripstop-fabric",
-    "paracord",
-    "iotv-gen4-body-armor-assault-kit-multicam",
-    "bear-tigr-lower",
-    "usec-commando-lower",
-    "sport-bag",
-    "buried-barrel-cache",
-    "ground-cache"
-  ]
+  "order": 26
 }
