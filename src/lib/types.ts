@@ -73,8 +73,28 @@ export interface Trader {
 export interface GameMap {
   id: string; // slug, e.g. "customs"
   name: string; // "Customs"
-  image: string | null; // /maps/customs.png (self-hosted)
-  width: number | null; // intrinsic pixel size for Leaflet CRS.Simple bounds
-  height: number | null;
-  source?: QuestSource;
+}
+
+export interface MapCategory {
+  id: string; // e.g. "quest", "exfil_pmc"
+  name: string; // "Quest Related"
+  color: string; // hex
+}
+
+export interface MapPin {
+  c: string; // category id
+  x: number; // pixel coordinate (Leaflet CRS.Simple, top-left origin)
+  y: number;
+  t: string; // popup title
+}
+
+export interface MapData {
+  id: string;
+  name: string;
+  image: string | null;
+  width: number;
+  height: number;
+  source: QuestSource;
+  categories: MapCategory[];
+  markers: MapPin[];
 }

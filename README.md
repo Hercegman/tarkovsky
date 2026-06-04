@@ -11,8 +11,9 @@ Primarily built for PC web.
 - **Quest wiki** — every task, grouped by trader, with search and filters (trader,
   map, Kappa-required). Quest pages show objectives, the quest line (requires /
   unlocks), rewards, and a link back to the source wiki page.
-- **Interactive maps** — pan/zoom Leaflet maps (`CRS.Simple`) with quest objective
-  markers.
+- **Interactive maps** — pan/zoom Leaflet maps (`CRS.Simple`) for all 10 locations,
+  with toggleable marker layers (quest-related, extracts, spawns, keys, loot)
+  ingested from the wiki's interactive-map data.
 - **Accounts & progress** — register (email + username + password), log in with
   **username + password**, and tick off quests as you complete them.
 
@@ -60,6 +61,7 @@ Open http://localhost:3000.
 | `npm run dev`         | Start the dev server                                         |
 | `npm run build`       | Production build                                             |
 | `npm run ingest`      | Ingest quests from the EFT Wiki (`--limit`, `--trader` flags) |
+| `npm run ingest:maps` | Ingest map images + marker layers from the wiki (`--map` flag) |
 | `npm run db:migrate`  | Apply Drizzle migrations                                     |
 | `npm run db:generate` | Regenerate migrations after editing the schema               |
 
