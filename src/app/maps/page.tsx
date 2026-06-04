@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { getMaps, getMapQuestCounts } from "@/lib/data";
 import { Reveal, RevealGroup, RevealItem } from "@/components/ui/reveal";
 import { MapRevealCard } from "@/components/map-reveal-card";
+import { CyclingBackdrop } from "@/components/cycling-backdrop";
 
 export const metadata: Metadata = {
   title: "Maps",
@@ -10,10 +11,12 @@ export const metadata: Metadata = {
 
 export default async function MapsPage() {
   const [maps, counts] = await Promise.all([getMaps(), getMapQuestCounts()]);
+  const bannerImages = maps.map((m) => `/maps/banner/${m.id}.webp`);
 
   return (
-    <div className="radial-glow min-h-full">
-      <div className="mx-auto max-w-5xl px-4 py-10">
+    <div className="relative min-h-full">
+      <CyclingBackdrop images={bannerImages} opacity={0.12} />
+      <div className="radial-glow relative z-10 mx-auto max-w-5xl px-4 py-10">
         <Reveal>
           <h1 className="mb-1 text-3xl font-bold tracking-tight">
             <span className="text-gradient">Maps</span>

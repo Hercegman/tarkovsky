@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getQuests, getTraders, getMaps } from "@/lib/data";
 import { QuestBrowser, type QuestSummary } from "@/components/quest-browser";
+import { CyclingBackdrop } from "@/components/cycling-backdrop";
 
 export const metadata: Metadata = {
   title: "Quests",
@@ -24,9 +25,14 @@ export default async function QuestsPage() {
     image: q.image,
   }));
 
+  const traderImages = traders
+    .map((t) => t.image)
+    .filter((s): s is string => !!s);
+
   return (
-    <div className="radial-glow min-h-full">
-      <div className="mx-auto max-w-5xl px-4 py-10">
+    <div className="relative min-h-full">
+      <CyclingBackdrop images={traderImages} grayscale />
+      <div className="radial-glow relative z-10 mx-auto max-w-5xl px-4 py-10">
       <h1 className="mb-1 text-3xl font-bold tracking-tight">
         <span className="text-gradient">Quests</span>
       </h1>
