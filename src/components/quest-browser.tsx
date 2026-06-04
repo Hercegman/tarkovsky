@@ -12,6 +12,7 @@ export interface QuestSummary {
   maps: string[];
   requiredLevel: number | null;
   kappaRequired: boolean;
+  image: string | null;
 }
 
 export function QuestBrowser({
@@ -106,7 +107,7 @@ export function QuestBrowser({
         {filtered.length} quest{filtered.length === 1 ? "" : "s"}
       </p>
 
-      <ul className="grid gap-2 sm:grid-cols-2">
+      <ul className="grid items-start gap-2 sm:grid-cols-2">
         {filtered.map((quest) => {
           const done = completed?.has(quest.id) ?? false;
           return (
@@ -114,26 +115,39 @@ export function QuestBrowser({
               <button
                 type="button"
                 onClick={() => setSelected(quest.id)}
-                className={`flex w-full items-center gap-3 rounded-lg border px-4 py-3 text-left transition-all hover:-translate-y-0.5 ${
+                className={`group relative block w-full overflow-hidden rounded-lg border text-left transition-all duration-300 ease-out hover:-translate-y-0.5 hover:shadow-lg ${
                   done
                     ? "border-[var(--success)]/50 bg-[var(--success)]/10"
                     : "border-[var(--border)] bg-[var(--surface)] hover:border-[var(--gold-dim)]"
                 }`}
               >
-                <span
-                  className={`flex-1 font-medium ${done ? "text-[var(--success)]" : ""}`}
-                >
-                  {quest.title}
-                </span>
-                {quest.kappaRequired && (
-                  <span className="rounded bg-[var(--brown)]/40 px-1.5 py-0.5 text-[10px] uppercase tracking-wide text-[var(--gold-hi)]">
-                    Kappa
-                  </span>
+                {/* Quest image revealed on hover */}
+                {quest.image && (
+                  <div
+                    className="absolute inset-0 bg-cover bg-center opacity-0 transition-opacity duration-500 ease-out group-hover:opacity-100"
+                    style={{ backgroundImage: `url(${quest.image})` }}
+                  />
                 )}
-                <span className="text-xs text-[var(--muted)]">
-                  {traderName[quest.trader] ?? quest.trader}
-                </span>
-                {done && <span className="text-[var(--success)]">✓</span>}
+                <div className="absolute inset-0 bg-gradient-to-r from-[var(--surface)] via-[var(--surface)]/85 to-[var(--surface)]/55 transition-colors duration-500 group-hover:from-[var(--surface)]/95 group-hover:via-[var(--surface)]/75" />
+
+                <div className="relative flex items-center gap-3 px-4 py-3 transition-all duration-300 ease-out group-hover:py-5">
+                  <span
+                    className={`flex-1 font-medium tracking-normal transition-all duration-300 group-hover:tracking-wide ${
+                      done ? "text-[var(--success)]" : "group-hover:text-[var(--gold-hi)]"
+                    }`}
+                  >
+                    {quest.title}
+                  </span>
+                  {quest.kappaRequired && (
+                    <span className="rounded bg-[var(--brown)]/40 px-1.5 py-0.5 text-[10px] uppercase tracking-wide text-[var(--gold-hi)]">
+                      Kappa
+                    </span>
+                  )}
+                  <span className="text-xs text-[var(--muted)]">
+                    {traderName[quest.trader] ?? quest.trader}
+                  </span>
+                  {done && <span className="text-[var(--success)]">✓</span>}
+                </div>
               </button>
             </li>
           );
