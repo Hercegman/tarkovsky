@@ -65,6 +65,13 @@ export function MapExplorer({
   const selectedQuest = quests.find((q) => q.id === selected) ?? null;
   const highlight = selectedQuest?.markers ?? [];
 
+  const [query, setQuery] = useState("");
+  const visibleQuests = query.trim()
+    ? quests.filter((q) =>
+        q.title.toLowerCase().includes(query.trim().toLowerCase()),
+      )
+    : quests;
+
   const { completed } = useProgress();
   const mapRef = useRef<HTMLDivElement>(null);
 
@@ -85,8 +92,15 @@ export function MapExplorer({
         <p className="mb-2 text-[11px] text-[var(--muted)]">
           Click a quest to show its location.
         </p>
-        <ul className="max-h-[320px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:max-h-[620px]">
-          {quests.map((q) => {
+        <input
+          type="search"
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder="Search quests…"
+          className="mb-2 w-full rounded-lg border border-[var(--border)] bg-[var(--surface)] px-3 py-2 text-sm outline-none focus:border-[var(--gold-dim)]"
+        />
+        <ul className="max-h-[320px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:max-h-[572px]">
+          {visibleQuests.map((q) => {
             const done = completed?.has(q.id) ?? false;
             const isSel = q.id === selected;
             const hasLoc = q.markers.length > 0;
@@ -134,9 +148,11 @@ export function MapExplorer({
               </li>
             );
           })}
-          {quests.length === 0 && (
+          {visibleQuests.length === 0 && (
             <li className="px-3 py-2 text-sm text-[var(--muted)]">
-              No quests reference this map.
+              {quests.length === 0
+                ? "No quests reference this map."
+                : "No quests match your search."}
             </li>
           )}
         </ul>

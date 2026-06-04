@@ -13,7 +13,8 @@
     "db:migrate": "drizzle-kit migrate",
     "db:push": "drizzle-kit push",
     "ingest:images": "node scripts/ingest-quest-images.mts",
-    "link:markers": "node scripts/link-quest-markers.mts"
+    "link:markers": "node scripts/link-quest-markers.mts",
+    "ingest:traders": "node scripts/ingest-trader-images.mts"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",

@@ -69,6 +69,7 @@ export interface Trader {
   id: string; // slug, e.g. "prapor"
   name: string; // "Prapor"
   blurb?: string;
+  image?: string | null; // self-hosted portrait, e.g. /traders/prapor.webp
 }
 
 export interface GameMap {
