@@ -8,7 +8,7 @@ import { questProgress, users } from "@/lib/db/schema";
 import { getQuests, getTraders } from "@/lib/data";
 import { AvatarPicker } from "@/components/avatar-picker";
 import { FriendsPanel } from "@/components/friends-panel";
-import { logoutAction } from "../(auth)/actions";
+import { LogoutButton } from "@/components/logout-button";
 
 export const metadata: Metadata = { title: "Profile" };
 export const dynamic = "force-dynamic";
@@ -51,14 +51,7 @@ export default async function ProfilePage() {
             </h1>
             <p className="text-sm text-[var(--muted)]">{session.user.email}</p>
           </div>
-          <form action={logoutAction}>
-            <button
-              type="submit"
-              className="rounded-lg border border-[var(--border)] px-4 py-2 text-sm text-[var(--muted)] transition-colors hover:border-[var(--danger)] hover:text-[var(--danger)]"
-            >
-              Log out
-            </button>
-          </form>
+          <LogoutButton className="rounded-lg border border-[var(--border)] px-4 py-2 text-sm text-[var(--muted)] transition-colors hover:border-[var(--danger)] hover:text-[var(--danger)]" />
         </div>
 
         <div className="mt-6 grid gap-3 sm:grid-cols-3">

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import Image from "next/image";
 import { getTraders, getTrader, getQuestsByTrader } from "@/lib/data";
 import { TraderQuestList, type QuestRow } from "@/components/trader-quest-list";
 
@@ -28,11 +29,25 @@ export default async function TraderPage(props: PageProps<"/quests/[trader]">) {
     title: q.title,
     requiredLevel: q.requiredLevel,
     kappaRequired: q.kappaRequired,
+    image: q.image,
   }));
 
   return (
-    <div className="radial-glow min-h-full">
-      <div className="mx-auto max-w-3xl px-4 py-10">
+    <div className="relative min-h-full">
+      {/* Faint trader portrait behind the page colour. */}
+      {t.image && (
+        <div aria-hidden className="pointer-events-none fixed inset-0 z-0">
+          <Image
+            src={t.image}
+            alt=""
+            fill
+            sizes="100vw"
+            className="object-cover object-top opacity-[0.10] blur-md grayscale"
+            unoptimized
+          />
+        </div>
+      )}
+      <div className="radial-glow relative z-10 mx-auto max-w-3xl px-4 py-10">
         <Link
           href="/quests"
           className="text-sm text-[var(--muted)] transition-colors hover:text-[var(--gold)]"
