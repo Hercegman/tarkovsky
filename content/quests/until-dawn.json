@@ -41,14 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/until-dawn.webp",
-  "order": null,
-  "items": [
-    "cultists",
-    "rb-pkpm-marked-key",
-    "rb-vo-marked-key",
-    "rb-bk-marked-key",
-    "t-7-thermal-goggles-with-a-night-vision-mount",
-    "lobaev-arms-dvl-10-7-62x51-bolt-action-sniper-rifle",
-    "benelli-m3-super-90-12ga-dual-mode-shotgun"
-  ]
+  "order": null
 }

@@ -44,21 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-7.webp",
-  "order": 8,
-  "items": [
-    "m4a1",
-    "pliers-elite",
-    "electric-drill",
-    "ar-15-daniel-defense-mk12-low-profile-gas-block",
-    "ar-15-5-56x45-surefire-mag5-60-stanag-60-round-magazine",
-    "ar-15-5-56x45-magpul-pmag-d-60-stanag-60-round-magazine",
-    "ar-15-5-56x45-surefire-mag5-100-stanag-100-round-magazine",
-    "sig-sauer-romeo7-1x30-reflex-sight-prototype",
-    "ar-15-kriss-defiance-ds150-stock",
-    "ar-15-magpul-moe-sl-carbine-length-m-lok-handguard",
-    "ar-15-5-56x45-10-3-inch-barrel",
-    "surefire-socom556-mini-monster-5-56x45-sound-suppressor",
-    "ar-15-surefire-warcomp-5-56x45-flash-hider",
-    "ar-15-surefire-sf4p-5-56x45-flash-hider"
-  ]
+  "order": 8
 }

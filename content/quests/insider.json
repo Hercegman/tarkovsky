@@ -39,8 +39,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/insider.webp",
-  "order": 29,
-  "items": [
-    "silencerco-osprey-9-9x19-sound-suppressor"
-  ]
+  "order": 29
 }

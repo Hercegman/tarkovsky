@@ -48,13 +48,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/christmas-time-part-5.webp",
-  "order": null,
-  "items": [
-    "ded-moroz-hat",
-    "santa-hat",
-    "fake-white-beard",
-    "weapon-crate-rare",
-    "christmas-tree-ornament-red",
-    "aybolit-mask"
-  ]
+  "order": null
 }

@@ -76,12 +76,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/database-part-2.webp",
-  "order": 12,
-  "items": [
-    "oli-cargo-route-documents",
-    "car-battery",
-    "phase-control-relay",
-    "6b3tm-01-armored-rig-khaki",
-    "oli-logistics-department-office-key"
-  ]
+  "order": 12
 }

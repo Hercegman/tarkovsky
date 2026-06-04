@@ -39,16 +39,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/best-job-in-the-world.webp",
-  "order": 49,
-  "items": [
-    "gp-25-kostyor-40mm-underbarrel-grenade-launcher",
-    "40mm-vog-25-grenade",
-    "ak-74",
-    "ak-74m",
-    "ak-74n",
-    "aks-74",
-    "aks-74n",
-    "sag-ak",
-    "sag-ak-short"
-  ]
+  "order": 49
 }

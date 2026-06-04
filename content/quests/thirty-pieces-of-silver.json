@@ -42,13 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/thirty-pieces-of-silver.webp",
-  "order": null,
-  "items": [
-    "contraband-box",
-    "sealed-weapon-case",
-    "sig-mcx-spear-6-8x51-assault-rifle",
-    "ar-10-7-62x51-lancer-l7awm-25-round-magazine",
-    "6-8x51mm-sig-hybrid-ammo-pack-20-pcs",
-    "opened-case"
-  ]
+  "order": null
 }

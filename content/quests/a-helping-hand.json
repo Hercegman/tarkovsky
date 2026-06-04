@@ -77,9 +77,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/a-helping-hand.webp",
-  "order": 74,
-  "items": [
-    "package-for-prapor",
-    "the-eye-mortar-strike-signaling-device"
-  ]
+  "order": 74
 }

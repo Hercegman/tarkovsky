@@ -40,15 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/a-kind-snow-maiden.webp",
-  "order": null,
-  "items": [
-    "golden-neck-chain",
-    "horse-figurine",
-    "chainlet",
-    "antique-teapot",
-    "antique-vase",
-    "cat-figurine",
-    "pack-of-sugar",
-    "bottle-of-fierce-hatchling-moonshine"
-  ]
+  "order": null
 }

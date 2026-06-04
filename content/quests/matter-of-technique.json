@@ -56,12 +56,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/matter-of-technique.webp",
-  "order": null,
-  "items": [
-    "flash-drive-with-special-software",
-    "4-6x30mm-fmj-sx-ammo-pack-40-pcs",
-    "hk-mp7-4-6x30-40-round-magazine",
-    "hk-mp7a2-4-6x30-submachine-gun",
-    "secure-flash-drive"
-  ]
+  "order": null
 }

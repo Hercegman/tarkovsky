@@ -37,10 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/shipping-delay-part-1.webp",
-  "order": 62,
-  "items": [
-    "package-for-prapor",
-    "7-62x54mm-r-ps-gzh-ammo-pack-20-pcs",
-    "5-45x39mm-7n40-ammo-pack-30-pcs"
-  ]
+  "order": 62
 }

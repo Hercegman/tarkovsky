@@ -42,9 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/professional-part-3.webp",
-  "order": 38,
-  "items": [
-    "escape-from-tarkov-arena",
-    "weapon-paint-set-multicam"
-  ]
+  "order": 38
 }

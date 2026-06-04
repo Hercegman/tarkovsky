@@ -40,12 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/take-two.webp",
-  "order": null,
-  "items": [
-    "documents-with-decrypted-data",
-    "granit-br5-ballistic-plate",
-    "encrypted-flash-drive",
-    "documents-with-decrypted-data",
-    "encrypted-flash-drive"
-  ]
+  "order": null
 }

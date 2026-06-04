@@ -37,10 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/examinatio-part-8.webp",
-  "order": null,
-  "items": [
-    "lega-medal",
-    "battlepass",
-    "weapon-paint-set-amoeba-green"
-  ]
+  "order": null
 }

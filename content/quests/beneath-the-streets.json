@@ -68,9 +68,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/beneath-the-streets.webp",
-  "order": 46,
-  "items": [
-    "medicine-case",
-    "terragroup-labs-access-keycard"
-  ]
+  "order": 46
 }

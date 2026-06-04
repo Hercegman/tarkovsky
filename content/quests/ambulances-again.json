@@ -50,11 +50,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/ambulances-again.webp",
-  "order": 37,
-  "items": [
-    "paramedics-gphone-x",
-    "grizzly-medical-kit",
-    "surv12-field-surgical-kit",
-    "propital-regenerative-stimulant-injector"
-  ]
+  "order": 37
 }

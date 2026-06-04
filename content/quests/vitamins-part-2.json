@@ -47,12 +47,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/vitamins-part-2.webp",
-  "order": 12,
-  "items": [
-    "respirator",
-    "medical-bloodset",
-    "morphine-injector",
-    "golden-star-balm",
-    "tdi-kriss-vector-gen-2-9x19-submachine-gun"
-  ]
+  "order": 12
 }

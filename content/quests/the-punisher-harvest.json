@@ -31,22 +31,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-punisher-harvest.webp",
-  "order": null,
-  "items": [
-    "dogtags",
-    "t-h-i-c-c-item-case",
-    "4-6x30mm-ap-sx",
-    "5-45x39mm-7n40",
-    "5-56x45mm-ssa-ap",
-    "7-62x39mm-mai-ap",
-    "7-62x51mm-m993",
-    "9x19mm-pbp-gzh",
-    "hk-416a5-5-56x45-assault-rifle",
-    "rys-t-bulletproof-helmet-black",
-    "rys-t-face-shield",
-    "nfm-thor-integrated-carrier-body-armor",
-    "blackhawk-commando-chest-harness-desert-tan",
-    "eberlestock-g2-gunslinger-ii-backpack-dry-earth",
-    "dogtag"
-  ]
+  "order": null
 }

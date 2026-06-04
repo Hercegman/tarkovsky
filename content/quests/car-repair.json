@@ -38,13 +38,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/car-repair.webp",
-  "order": 8,
-  "items": [
-    "car-battery",
-    "spark-plug",
-    "grizzly-medical-kit",
-    "etg-change-regenerative-stimulant-injector",
-    "adrenaline-injector",
-    "drawer"
-  ]
+  "order": 8
 }

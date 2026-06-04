@@ -36,13 +36,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/mayday.webp",
-  "order": null,
-  "items": [
-    "rogue-intel-maps",
-    "desert-tech-mdr-7-62x51-assault-rifle",
-    "ar-10-7-62x51-magpul-pmag-20-sr-lr-gen-m3-20-round-magazine",
-    "7-62x51mm-m80-ammo-pack-20-pcs",
-    "sapi-level-iii-ballistic-plate",
-    "knight"
-  ]
+  "order": null
 }

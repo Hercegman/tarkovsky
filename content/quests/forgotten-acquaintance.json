@@ -47,9 +47,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/forgotten-acquaintance.webp",
-  "order": null,
-  "items": [
-    "paracord",
-    "virtex-programmable-processor"
-  ]
+  "order": null
 }

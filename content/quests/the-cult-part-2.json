@@ -49,11 +49,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-cult-part-2.webp",
-  "order": 6,
-  "items": [
-    "ms2000-marker",
-    "knights-armament-company-sr-25-7-62x51-marksman-rifle",
-    "dorm-room-314-marked-key",
-    "dead-scav"
-  ]
+  "order": 6
 }

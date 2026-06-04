@@ -49,19 +49,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/special-offer.webp",
-  "order": 39,
-  "items": [
-    "sanitars-bag",
-    "crye-precision-avs-plate-carrier-tagilla-edition",
-    "lbt-1961a-load-bearing-chest-rig-goons-edition",
-    "mystery-ranch-nice-comm-3-bvs-frame-system-coyote",
-    "crye-precision-cpc-plate-carrier-goons-edition",
-    "walkers-xcel-500bt-digital-headset",
-    "diamond-age-bastion-helmet-black",
-    "sanitar",
-    "tagilla",
-    "birdeye",
-    "knight",
-    "bosses"
-  ]
+  "order": 39
 }

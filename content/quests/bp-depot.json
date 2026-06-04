@@ -54,11 +54,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/bp-depot.webp",
-  "order": 8,
-  "items": [
-    "ms2000-marker",
-    "expeditionary-fuel-tank",
-    "pp-9-klin-9x18pmm-submachine-gun",
-    "secure-container"
-  ]
+  "order": 8
 }

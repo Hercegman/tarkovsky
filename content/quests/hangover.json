@@ -38,16 +38,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hangover.webp",
-  "order": 16,
-  "items": [
-    "icebreaker",
-    "analgin-painkillers",
-    "aquamari-water-bottle-with-filter",
-    "bottle-of-pevko-light-beer",
-    "can-of-beef-stew-large",
-    "can-of-beef-stew-small",
-    "canister-with-purified-water",
-    "jar-of-pickles",
-    "pack-of-tarker-dried-meat"
-  ]
+  "order": 16
 }

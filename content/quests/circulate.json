@@ -40,10 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/circulate.webp",
-  "order": 38,
-  "items": [
-    "backpacks",
-    "tactical-rigs",
-    "bottle-of-fierce-hatchling-moonshine"
-  ]
+  "order": 38
 }

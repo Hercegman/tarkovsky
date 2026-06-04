@@ -43,12 +43,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/peaceful-atom.webp",
-  "order": 48,
-  "items": [
-    "icebreaker",
-    "nuclear-power-unit-control-log",
-    "hk-g28-7-62x51-marksman-rifle",
-    "7-62x51mm-m80a1-ammo-pack-20-pcs",
-    "hk417-g28-7-62x51-20-round-magazine"
-  ]
+  "order": 48
 }

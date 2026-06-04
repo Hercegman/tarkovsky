@@ -41,14 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/profit-retention.webp",
-  "order": 61,
-  "items": [
-    "graphics-card",
-    "physical-bitcoin",
-    "crafting",
-    "hideout-management",
-    "perception",
-    "attention",
-    "search"
-  ]
+  "order": 61
 }

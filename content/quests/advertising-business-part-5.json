@@ -42,12 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/advertising-business-part-5.webp",
-  "order": 58,
-  "items": [
-    "escape-from-tarkov-arena",
-    "t-5000m",
-    "rpdn",
-    "orsis-t-5000m-7-62x51-bolt-action-sniper-rifle",
-    "degtyarev-rpdn-7-62x39-machine-gun"
-  ]
+  "order": 58
 }

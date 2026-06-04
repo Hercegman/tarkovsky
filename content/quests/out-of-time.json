@@ -68,34 +68,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/out-of-time.webp",
-  "order": null,
-  "items": [
-    "picture-1",
-    "picture-2",
-    "picture-3",
-    "picture-4",
-    "picture-5",
-    "picture-6",
-    "picture-7",
-    "picture-8",
-    "picture-9",
-    "picture-10",
-    "picture-11",
-    "picture-12",
-    "fort-defender-2-body-armor",
-    "tasmanian-tiger-trooper-35-backpack-khaki",
-    "car-dealership-closed-section-key",
-    "car-dealership-directors-office-room-key",
-    "concordia-apartment-34-room-key",
-    "terragroup-labs-managers-office-room-key",
-    "hep-station-storage-room-key",
-    "object-21ws-keycard",
-    "object-11sr-keycard",
-    "kiba-arms-outer-door-key",
-    "kiba-arms-inner-grate-door-key",
-    "rogue-usec-barrack-key",
-    "water-treatment-plant-storage-room-key",
-    "medical-supply-crate",
-    "ration-supply-crate"
-  ]
+  "order": null
 }

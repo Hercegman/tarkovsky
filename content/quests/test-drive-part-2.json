@@ -44,17 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/test-drive-part-2.webp",
-  "order": 27,
-  "items": [
-    "mp5",
-    "ash-12-12-7x55-assault-rifle",
-    "ash-12-12-7x55-20-round-magazine",
-    "12-7x55mm-ps12b-10-pcs",
-    "golden-neck-chain",
-    "9x21mm-bt-gzh",
-    "hk-mp5-9x19-submachine-gun-navy-3-round-burst",
-    "hk-mp5sd-9x19-upper-receiver",
-    "hk-mp5sd-9x19-sound-suppressor",
-    "hk-mp5sd-polymer-handguard"
-  ]
+  "order": 27
 }

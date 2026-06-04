@@ -46,15 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/living-high-is-not-a-crime-part-2.webp",
-  "order": 23,
-  "items": [
-    "antique-teapot",
-    "antique-vase",
-    "axel-parrot-figurine",
-    "raven-figurine",
-    "altyn-bulletproof-helmet-olive-drab",
-    "altyn-helmet-face-shield",
-    "ars-arma-cpc-mod-1-plate-carrier-a-tacs-fg",
-    "npp-klass-bagariy-plate-carrier-emr"
-  ]
+  "order": 23
 }

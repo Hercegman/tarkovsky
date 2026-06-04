@@ -44,15 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-tarkov-shooter-part-3.webp",
-  "order": 30,
-  "items": [
-    "mosin-rifle-tacfire-tanker-style-7-62x54r-muzzle-brake",
-    "mosin-rifle-aim-sports-recoil-pad",
-    "366-tkm-ap-m",
-    "mp-18-7-62x54r-single-shot-rifle",
-    "model-7290-flash-bang-grenade",
-    "zarya-stun-grenade",
-    "ks-23m",
-    "23x75mm-zvezda-flashbang-round"
-  ]
+  "order": 30
 }

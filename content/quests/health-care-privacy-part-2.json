@@ -61,10 +61,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/health-care-privacy-part-2.webp",
-  "order": 12,
-  "items": [
-    "health-resort-west-wing-room-306-key",
-    "secure-folder-0060",
-    "salewa-first-aid-kit"
-  ]
+  "order": 12
 }

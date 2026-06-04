@@ -44,17 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/test-drive-part-3.webp",
-  "order": 28,
-  "items": [
-    "ak-12",
-    "ak-12-5-45x39-sound-suppressor",
-    "valday-ps-320-1-6x-scope",
-    "rpk-16-5-45x39-light-machine-gun",
-    "ak-74-5-45x39-6l31-60-round-magazine",
-    "5-45x39mm-7n40-ammo-pack-30-pcs",
-    "kalashnikov-ak-308-7-62x51-assault-rifle",
-    "ak-308-7-62x51-qd-sound-suppressor",
-    "kalashnikov-ak-12-5-45x39-assault-rifle",
-    "ncstar-mpr45-backup-mount"
-  ]
+  "order": 28
 }

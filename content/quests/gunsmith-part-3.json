@@ -44,17 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-3.webp",
-  "order": 4,
-  "items": [
-    "mp5",
-    "swampfox-trihawk-prism-scope-3x30",
-    "magpul-rvg-foregrip-fde",
-    "glock-17-9x19-pistol",
-    "ncstar-tactical-blue-laser",
-    "hk-mp5-9x19-x-products-x-5-50-round-drum-magazine",
-    "hk-mp5sd-9x19-upper-receiver",
-    "hk-mp5sd-polymer-handguard",
-    "hk-mp5sd-9x19-sound-suppressor",
-    "hk-mp5sd-b-t-tri-rail-ring-mount"
-  ]
+  "order": 4
 }

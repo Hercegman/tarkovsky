@@ -36,17 +36,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/drip-out-part-1.webp",
-  "order": 42,
-  "items": [
-    "bear-classic",
-    "bear-reitar",
-    "usec-ac-ranger-green-upper",
-    "usec-ac-ranger-green-lower",
-    "scav-raiders",
-    "wartech-mk3-tv-104-chest-rig-multicam",
-    "wartech-tv-109-tv-106-chest-rig-a-tacs-fg",
-    "wartech-tv-115-plate-carrier-olive-drab",
-    "wartech-tv-110-plate-carrier-coyote",
-    "wartech-berkut-bb-102-backpack-a-tacs-fg"
-  ]
+  "order": 42
 }

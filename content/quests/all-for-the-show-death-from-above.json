@@ -42,9 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/all-for-the-show-death-from-above.webp",
-  "order": 50,
-  "items": [
-    "escape-from-tarkov-arena",
-    "b-t-mp9-9x19-submachine-gun"
-  ]
+  "order": 50
 }

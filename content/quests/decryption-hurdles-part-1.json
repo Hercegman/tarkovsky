@@ -46,16 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/decryption-hurdles-part-1.webp",
-  "order": null,
-  "items": [
-    "encrypted-flash-drive",
-    "pc-cpu",
-    "ram-stick",
-    "ssd-drive",
-    "military-flash-drive",
-    "uhf-rfid-reader",
-    "encrypted-flash-drive",
-    "pc-block",
-    "safe"
-  ]
+  "order": null
 }

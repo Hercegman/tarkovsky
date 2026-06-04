@@ -44,9 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/parasites.webp",
-  "order": null,
-  "items": [
-    "obdolbos-cocktail-injector",
-    "obdolbos-2-cocktail-injector"
-  ]
+  "order": null
 }

@@ -64,9 +64,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/house-arrest-part-2.webp",
-  "order": 31,
-  "items": [
-    "chekannaya-15-apartment-key",
-    "tdi-kriss-vector-gen-2-9x19-submachine-gun"
-  ]
+  "order": 31
 }

@@ -59,9 +59,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/shipping-delay-part-2.webp",
-  "order": 0,
-  "items": [
-    "rsp-30-reactive-signal-cartridge-blue",
-    "tetriz-portable-game-console"
-  ]
+  "order": 0
 }

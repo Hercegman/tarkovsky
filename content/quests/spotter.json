@@ -77,11 +77,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/spotter.webp",
-  "order": 7,
-  "items": [
-    "ai-338-lm-tactical-sound-moderator",
-    "trijicon-reap-ir-thermal-scope",
-    "microcontroller-board",
-    "primorsky-46-48-skybridge-key"
-  ]
+  "order": 7
 }

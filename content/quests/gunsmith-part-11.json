@@ -40,15 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-11.webp",
-  "order": 12,
-  "items": [
-    "tdi-kriss-vector-gen-2-9x19-submachine-gun",
-    "surefire-socom556-mini-monster-5-56x45-sound-suppressor",
-    "colt-m4a1-5-56x45-assault-rifle",
-    "kriss-vector-mk-5-modular-rail",
-    "tactical-dynamics-skeletonized-foregrip",
-    "glock-9x19-big-stick-33-round-magazine",
-    "kriss-vector-9x19-6-inch-barrel",
-    "silencerco-osprey-9-9x19-sound-suppressor"
-  ]
+  "order": 12
 }

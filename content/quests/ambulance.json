@@ -40,13 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/ambulance.webp",
-  "order": 12,
-  "items": [
-    "portable-defibrillator",
-    "cms-surgical-kit",
-    "vitality",
-    "grizzly-medical-kit",
-    "golden-star-balm",
-    "surv12-field-surgical-kit"
-  ]
+  "order": 12
 }

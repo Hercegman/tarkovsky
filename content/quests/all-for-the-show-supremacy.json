@@ -46,11 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/all-for-the-show-supremacy.webp",
-  "order": 63,
-  "items": [
-    "escape-from-tarkov-arena",
-    "ak-12",
-    "weapon-crate-rare",
-    "kalashnikov-ak-12-5-45x39-assault-rifle"
-  ]
+  "order": 63
 }

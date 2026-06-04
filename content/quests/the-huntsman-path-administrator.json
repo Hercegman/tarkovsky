@@ -66,11 +66,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-administrator.webp",
-  "order": 50,
-  "items": [
-    "remington-model-700-7-62x51-bolt-action-sniper-rifle",
-    "rsp-30-reactive-signal-cartridge-yellow",
-    "zid-sp-81-26x75-signal-pistol",
-    "26x75mm-flare-cartridge-yellow"
-  ]
+  "order": 50
 }

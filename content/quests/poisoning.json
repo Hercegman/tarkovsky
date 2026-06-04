@@ -42,13 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/poisoning.webp",
-  "order": null,
-  "items": [
-    "gas-analyzer",
-    "ibuprofen-painkillers",
-    "gas-analyzer",
-    "gp-5-gas-mask",
-    "gp-7-gas-mask",
-    "antitoxin"
-  ]
+  "order": null
 }

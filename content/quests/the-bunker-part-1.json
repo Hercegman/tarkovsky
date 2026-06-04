@@ -51,11 +51,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-bunker-part-1.webp",
-  "order": 9,
-  "items": [
-    "sr-2m-veresk-9x21-submachine-gun",
-    "9x21mm-bt-ammo-pack-30-pcs",
-    "sr-2m-9x21-20-round-magazine",
-    "9x21mm-ps-gzh"
-  ]
+  "order": 9
 }

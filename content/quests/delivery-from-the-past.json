@@ -81,14 +81,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/delivery-from-the-past.webp",
-  "order": 7,
-  "items": [
-    "secure-folder-0022",
-    "tarcone-directors-office-key",
-    "saiga-12k-ver-10-12ga-semi-automatic-shotgun",
-    "sok-12-12ga-sb-5-5-round-magazine",
-    "12-70-8-5mm-magnum-buckshot-ammo-pack-25-pcs",
-    "5-45x39mm-fmj",
-    "drawer"
-  ]
+  "order": 7
 }

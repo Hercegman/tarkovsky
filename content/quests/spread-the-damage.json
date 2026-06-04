@@ -37,17 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/spread-the-damage.webp",
-  "order": null,
-  "items": [
-    "kalashnikov-akmsn-7-62x39-assault-rifle",
-    "40mm-vog-25-grenade",
-    "vog-17-khattabka-improvised-hand-grenade",
-    "vog-25-khattabka-improvised-hand-grenade",
-    "f-1-hand-grenade",
-    "m67-hand-grenade",
-    "rgn-hand-grenade",
-    "rgo-hand-grenade",
-    "rgd-5-hand-grenade",
-    "ags-30-30x29mm-automatic-grenade-launcher"
-  ]
+  "order": null
 }

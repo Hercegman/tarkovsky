@@ -63,13 +63,7 @@ export interface Quest {
   markers: MapMarker[];
   image: string | null; // self-hosted banner image, e.g. /quests/debut.webp
   order: number | null; // in-game order within the trader (from the wiki)
-  items: string[]; // item slugs referenced by the quest (see content/items.json)
   source: QuestSource;
-}
-
-export interface ItemRef {
-  name: string;
-  image: string | null;
 }
 
 export interface Trader {

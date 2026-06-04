@@ -43,9 +43,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/back-door.webp",
-  "order": 36,
-  "items": [
-    "sv-98-7-62x54r-bolt-action-sniper-rifle",
-    "scav-raiders"
-  ]
+  "order": 36
 }

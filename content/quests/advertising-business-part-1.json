@@ -42,10 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/advertising-business-part-1.webp",
-  "order": 51,
-  "items": [
-    "escape-from-tarkov-arena",
-    "5-11-tactical-hexgrid-plate-carrier",
-    "blackrock-chest-rig-gray"
-  ]
+  "order": 51
 }

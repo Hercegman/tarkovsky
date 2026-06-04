@@ -46,10 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/sales-night.webp",
-  "order": 10,
-  "items": [
-    "sso-attack-2-raid-backpack-khaki",
-    "highcom-striker-ulach-iiia-helmet-desert-tan",
-    "granit-br4-ballistic-plate"
-  ]
+  "order": 10
 }

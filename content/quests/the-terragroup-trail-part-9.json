@@ -87,17 +87,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-9.webp",
-  "order": null,
-  "items": [
-    "bottle-of-dan-jackiel-whiskey",
-    "sp-8-survival-machete",
-    "desert-tech-mdr-7-62x51-assault-rifle",
-    "eotech-hhs-1-hybrid-sight",
-    "l3harris-gpnvg-18-night-vision-goggles",
-    "colt-m4a1-5-56x45-assault-rifle",
-    "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine-fde",
-    "5-56x45mm-m855a1",
-    "pumping-station-front-door-key",
-    "pumping-station-back-door-key"
-  ]
+  "order": null
 }

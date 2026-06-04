@@ -47,8 +47,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/only-business.webp",
-  "order": 0,
-  "items": [
-    "blackhawk-commando-chest-harness-desert-tan"
-  ]
+  "order": 0
 }

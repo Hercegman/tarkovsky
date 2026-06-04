@@ -50,9 +50,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/swift-retribution.webp",
-  "order": 3,
-  "items": [
-    "old-house-room-key",
-    "old-house-toilet-key"
-  ]
+  "order": 3
 }

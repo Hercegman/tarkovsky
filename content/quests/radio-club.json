@@ -53,12 +53,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/radio-club.webp",
-  "order": null,
-  "items": [
-    "radio-repeater",
-    "7-62x54mm-r-bt-gzh-ammo-pack-20-pcs",
-    "svd-7-62x54r-20-round-magazine",
-    "svds-7-62x54r-sniper-rifle",
-    "secure-container-epsilon"
-  ]
+  "order": null
 }

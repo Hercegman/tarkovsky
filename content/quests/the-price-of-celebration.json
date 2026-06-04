@@ -42,11 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-price-of-celebration.webp",
-  "order": null,
-  "items": [
-    "khorovod-armband",
-    "bottle-of-tarkovskaya-vodka",
-    "bottle-of-dan-jackiel-whiskey",
-    "ballistic-plate-case"
-  ]
+  "order": null
 }

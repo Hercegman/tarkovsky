@@ -124,9 +124,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/down-the-rabbit-hole-part-5.webp",
-  "order": null,
-  "items": [
-    "rys-t-bulletproof-helmet-black",
-    "rys-t-face-shield"
-  ]
+  "order": null
 }

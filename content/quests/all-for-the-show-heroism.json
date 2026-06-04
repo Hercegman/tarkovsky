@@ -42,8 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/all-for-the-show-heroism.webp",
-  "order": 49,
-  "items": [
-    "escape-from-tarkov-arena"
-  ]
+  "order": 49
 }

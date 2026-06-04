@@ -45,11 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/easy-money-part-2.webp",
-  "order": 0,
-  "items": [
-    "drinks",
-    "food",
-    "food",
-    "drink"
-  ]
+  "order": 0
 }

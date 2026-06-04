@@ -43,8 +43,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/stabilize-business.webp",
-  "order": 46,
-  "items": [
-    "iotv-gen4-body-armor-assault-kit-multicam"
-  ]
+  "order": 46
 }

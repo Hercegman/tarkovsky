@@ -2,18 +2,10 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import {
-  getQuests,
-  getQuest,
-  getTrader,
-  getMaps,
-  getMapData,
-  getItems,
-} from "@/lib/data";
+import { getQuests, getQuest, getTrader, getMaps, getMapData } from "@/lib/data";
 import { QuestProgressButton } from "@/components/quest-progress-button";
 import { QuestMiniMap } from "@/components/quest-mini-map";
 import { ObjectiveChecklist } from "@/components/objective-checklist";
-import { ItemGallery } from "@/components/item-gallery";
 
 export async function generateStaticParams() {
   const quests = await getQuests();
@@ -38,15 +30,8 @@ export default async function QuestPage(props: PageProps<"/quest/[id]">) {
   const quest = await getQuest(id);
   if (!quest) notFound();
 
-  const [trader, maps, itemMap] = await Promise.all([
-    getTrader(quest.trader),
-    getMaps(),
-    getItems(),
-  ]);
+  const [trader, maps] = await Promise.all([getTrader(quest.trader), getMaps()]);
   const mapName = Object.fromEntries(maps.map((m) => [m.id, m.name]));
-  const questItemRefs = (quest.items ?? [])
-    .map((s) => itemMap[s])
-    .filter(Boolean);
 
   // Mini-map: the quest's first known location, highlighting its own markers.
   const primaryMapId = quest.maps[0];
@@ -152,12 +137,6 @@ export default async function QuestPage(props: PageProps<"/quest/[id]">) {
                 <li key={i}>{u}</li>
               ))}
             </ul>
-          </Section>
-        )}
-
-        {questItemRefs.length > 0 && (
-          <Section title="Items in this quest">
-            <ItemGallery items={questItemRefs} />
           </Section>
         )}
 

@@ -45,9 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/passion-for-ergonomics.webp",
-  "order": 48,
-  "items": [
-    "box-with-upgraded-tools",
-    "electric-motor"
-  ]
+  "order": 48
 }

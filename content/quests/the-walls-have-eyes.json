@@ -64,11 +64,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-walls-have-eyes.webp",
-  "order": 33,
-  "items": [
-    "wi-fi-camera",
-    "tdi-kriss-vector-gen-2-45-acp-submachine-gun",
-    "glock-45-acp-kriss-g30-magex-30-round-magazine",
-    "45-acp-lasermatch-fmj-ammo-pack-50-pcs"
-  ]
+  "order": 33
 }

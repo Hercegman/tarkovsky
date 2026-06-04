@@ -54,13 +54,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/capturing-outposts.webp",
-  "order": 39,
-  "items": [
-    "armband-rfarmy",
-    "armband-usec",
-    "rys-t-bulletproof-helmet-black",
-    "rys-t-face-shield",
-    "6b43-zabralo-sh-body-armor-emr",
-    "9x39mm-sp-6-gs"
-  ]
+  "order": 39
 }

@@ -136,11 +136,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/pets-wont-need-it-part-2.webp",
-  "order": 36,
-  "items": [
-    "disposable-syringe",
-    "pile-of-meds",
-    "morphine-injector",
-    "l1-norepinephrine-injector"
-  ]
+  "order": 36
 }

@@ -37,9 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/pressured-by-circumstances.webp",
-  "order": null,
-  "items": [
-    "5-45x39mm-bs-gs-ammo-pack-120-pcs",
-    "5-56x45mm-ssa-ap-ammo-pack-100-pcs"
-  ]
+  "order": null
 }

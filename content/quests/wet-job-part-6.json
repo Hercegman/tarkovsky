@@ -44,12 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/wet-job-part-6.webp",
-  "order": 23,
-  "items": [
-    "bolt-action-rifles",
-    "lobaev-arms-dvl-10-7-62x51-bolt-action-sniper-rifle",
-    "7-62x51mm-m61-ammo-pack-20-pcs",
-    "fn40gl-mk2-40mm-grenade-launcher",
-    "7-62x51mm-m80a1"
-  ]
+  "order": 23
 }

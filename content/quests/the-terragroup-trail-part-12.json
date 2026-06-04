@@ -43,12 +43,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-12.png",
-  "order": null,
-  "items": [
-    "piece-of-plexiglass",
-    "insulating-tape",
-    "military-circuit-board",
-    "military-cofdm-wireless-signal-transmitter",
-    "digital-secure-dsp-radio-transmitter"
-  ]
+  "order": null
 }

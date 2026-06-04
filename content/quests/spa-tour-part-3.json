@@ -51,17 +51,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/spa-tour-part-3.webp",
-  "order": 9,
-  "items": [
-    "wd-40-100ml",
-    "wd-40-400ml",
-    "clin-window-cleaner",
-    "corrugated-hose",
-    "ox-bleach",
-    "tdi-kriss-vector-gen-2-9x19-submachine-gun",
-    "m67-hand-grenade",
-    "glock-9x19-big-stick-33-round-magazine",
-    "toolset",
-    "toolbox"
-  ]
+  "order": 9
 }

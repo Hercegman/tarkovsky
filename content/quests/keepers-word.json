@@ -59,13 +59,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/keepers-word.webp",
-  "order": 12,
-  "items": [
-    "the-labyrinth",
-    "cultist-knife",
-    "virtex-programmable-processor",
-    "s-i-c-c-organizational-pouch",
-    "sacred-amulet",
-    "corpse-room-key"
-  ]
+  "order": 12
 }

@@ -46,17 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-good-times-part-1.webp",
-  "order": 55,
-  "items": [
-    "6b43-zabralo-sh-body-armor-emr",
-    "fort-kiver-m-bulletproof-helmet",
-    "springfield-armory-m1a-7-62x51-rifle",
-    "m1a-7-62x51-20-round-magazine",
-    "7-62x51mm-m62-tracer-ammo-pack-20-pcs",
-    "colt-m4a1-5-56x45-assault-rifle",
-    "m4a1",
-    "m16a1",
-    "m16a2",
-    "paca-soft-armor"
-  ]
+  "order": 55
 }

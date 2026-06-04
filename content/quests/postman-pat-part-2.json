@@ -44,9 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/postman-pat-part-2.webp",
-  "order": 25,
-  "items": [
-    "sealed-letter",
-    "salewa-first-aid-kit"
-  ]
+  "order": 25
 }

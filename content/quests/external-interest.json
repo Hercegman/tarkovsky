@@ -35,9 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/external-interest.webp",
-  "order": null,
-  "items": [
-    "programmers-diary-copy",
-    "bottle-of-fierce-hatchling-moonshine"
-  ]
+  "order": null
 }

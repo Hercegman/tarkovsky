@@ -37,11 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hunter.webp",
-  "order": 38,
-  "items": [
-    "shturman",
-    "weapon-case",
-    "chain-with-prokill-medallion",
-    "sword-international-mk-18-338-lm-marksman-rifle"
-  ]
+  "order": 38
 }

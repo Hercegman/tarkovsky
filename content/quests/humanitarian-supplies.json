@@ -67,14 +67,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/humanitarian-supplies.webp",
-  "order": 4,
-  "items": [
-    "ms2000-marker",
-    "mre-ration-pack",
-    "mf-untar-body-armor",
-    "untar-helmet",
-    "weapon-parts",
-    "5-56x45mm-warmageddon",
-    "ak-74-hexagon-5-45x39-sound-suppressor"
-  ]
+  "order": 4
 }

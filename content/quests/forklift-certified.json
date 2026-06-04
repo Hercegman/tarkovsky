@@ -150,9 +150,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/forklift-certified.webp",
-  "order": 34,
-  "items": [
-    "wd-40-100ml",
-    "spark-plug"
-  ]
+  "order": 34
 }

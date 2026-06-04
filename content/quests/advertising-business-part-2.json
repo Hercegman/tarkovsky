@@ -42,11 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/advertising-business-part-2.webp",
-  "order": 53,
-  "items": [
-    "escape-from-tarkov-arena",
-    "iwi-uzi-pro-pistol-9x19-submachine-gun",
-    "desert-tech-mdr-7-62x51-assault-rifle",
-    "wartech-tv-110-plate-carrier-coyote"
-  ]
+  "order": 53
 }

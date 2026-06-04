@@ -51,27 +51,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/farming-part-4.webp",
-  "order": 43,
-  "items": [
-    "graphics-card",
-    "cpu-fan",
-    "attention",
-    "pistol-case",
-    "physical-bitcoin",
-    "tetriz-portable-game-console",
-    "glock-17-9x19-pistol",
-    "pc-block",
-    "sport-bag",
-    "buried-barrel-cache",
-    "ground-cache",
-    "emercom-medical-unit-key",
-    "health-resort-east-wing-room-222-key",
-    "health-resort-east-wing-room-328-key",
-    "health-resort-west-wing-room-216-key",
-    "health-resort-west-wing-room-301-key",
-    "health-resort-east-wing-office-room-107-key",
-    "rb-ak-key",
-    "rb-bk-marked-key",
-    "rb-vo-marked-key"
-  ]
+  "order": 43
 }

@@ -41,8 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/burning-rubber.webp",
-  "order": 0,
-  "items": [
-    "opsmen-earmor-m32-headset"
-  ]
+  "order": 0
 }

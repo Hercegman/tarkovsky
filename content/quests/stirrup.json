@@ -35,9 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/stirrup.webp",
-  "order": 3,
-  "items": [
-    "camelbak-tri-zip-assault-backpack-foliage",
-    "chiappa-rhino-50ds-357-revolver"
-  ]
+  "order": 3
 }

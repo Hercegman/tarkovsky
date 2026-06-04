@@ -32,11 +32,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-stylish-one.webp",
-  "order": null,
-  "items": [
-    "killa",
-    "charisma",
-    "achievement",
-    "adik-tracksuit"
-  ]
+  "order": null
 }

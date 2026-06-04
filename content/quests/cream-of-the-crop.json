@@ -52,12 +52,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/cream-of-the-crop.webp",
-  "order": null,
-  "items": [
-    "kosa-uav-electronic-jamming-device-cream-of-the-crop",
-    "rsp-30-reactive-signal-cartridge-blue",
-    "bottle-of-fierce-hatchling-moonshine",
-    "bottle-of-pevko-light-beer",
-    "rsp-30-reactive-signal-cartridge-special-yellow"
-  ]
+  "order": null
 }

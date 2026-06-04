@@ -45,18 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/christmas-dinner.webp",
-  "order": null,
-  "items": [
-    "salty-dog-beef-sausage",
-    "can-of-green-peas",
-    "jar-of-devildog-mayo",
-    "bottle-of-tarkovskaya-vodka",
-    "bottle-of-dan-jackiel-whiskey",
-    "jar-of-pickles",
-    "ak-74-5-45x39-6l31-60-round-magazine",
-    "ak-zenit-b-10m-handguard-with-b-19-upper-mount",
-    "ak-12-5-45x39-30-round-magazine",
-    "ak-zenit-rk-3-pistol-grip",
-    "sks-hexagon-7-62x39-sound-suppressor"
-  ]
+  "order": null
 }

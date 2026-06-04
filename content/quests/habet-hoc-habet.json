@@ -38,12 +38,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/habet-hoc-habet.webp",
-  "order": null,
-  "items": [
-    "ms2000-marker",
-    "atomic-defense-cqcm-ballistic-mask-demon",
-    "atomic-defense-cqcm-ballistic-mask-skull",
-    "atomic-defense-cqcm-ballistic-mask-demonic-face",
-    "weapon-case"
-  ]
+  "order": null
 }

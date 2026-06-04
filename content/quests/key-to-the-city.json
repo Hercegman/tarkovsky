@@ -45,9 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/key-to-the-city.webp",
-  "order": 36,
-  "items": [
-    "tarkov-city-souvenir-key",
-    "bottle-of-fierce-hatchling-moonshine"
-  ]
+  "order": 36
 }

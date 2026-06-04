@@ -50,12 +50,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/quality-standard.webp",
-  "order": 43,
-  "items": [
-    "ledx-skin-transilluminator-us-version",
-    "propital-regenerative-stimulant-injector",
-    "etg-change-regenerative-stimulant-injector",
-    "terragroup-labs-access-keycard",
-    "ledx-skin-transilluminator"
-  ]
+  "order": 43
 }

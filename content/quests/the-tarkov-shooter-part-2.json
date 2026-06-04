@@ -41,10 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-tarkov-shooter-part-2.webp",
-  "order": 29,
-  "items": [
-    "mosin-rifle-aim-sports-mng-rail-mount",
-    "umka-m33-set1-hunter-vest-olive-drab",
-    "mp-18-7-62x54r-single-shot-rifle"
-  ]
+  "order": 29
 }

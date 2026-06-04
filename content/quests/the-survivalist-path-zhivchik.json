@@ -41,15 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-survivalist-path-zhivchik.webp",
-  "order": 3,
-  "items": [
-    "aquamari-water-bottle-with-filter",
-    "water-filter",
-    "jar-of-devildog-mayo",
-    "can-of-condensed-milk",
-    "analgin-painkillers",
-    "medical",
-    "propital-regenerative-stimulant-injector",
-    "provisions"
-  ]
+  "order": 3
 }

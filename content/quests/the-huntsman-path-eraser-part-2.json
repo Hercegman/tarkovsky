@@ -42,10 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-eraser-part-2.webp",
-  "order": 27,
-  "items": [
-    "scav-raiders",
-    "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
-    "mp-155-ultima-thermal-camera"
-  ]
+  "order": 27
 }

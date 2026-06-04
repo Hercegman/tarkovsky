@@ -51,12 +51,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/last-spurt-pioneer.webp",
-  "order": null,
-  "items": [
-    "disk-drive-1",
-    "disk-with-release-version",
-    "fn-scar-h-7-62x51-20-round-magazine",
-    "7-62x51mm-m80-ammo-pack-20-pcs",
-    "fn-scar-h-7-62x51-assault-rifle"
-  ]
+  "order": null
 }

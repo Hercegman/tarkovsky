@@ -46,10 +46,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/building-foundations.webp",
-  "order": 5,
-  "items": [
-    "bottle-of-fierce-hatchling-moonshine",
-    "ammunition",
-    "balaclava-white"
-  ]
+  "order": 5
 }

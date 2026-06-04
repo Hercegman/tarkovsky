@@ -40,21 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-20.webp",
-  "order": 21,
-  "items": [
-    "m1a",
-    "ar-15-hera-arms-cqr-pistol-grip-buttstock",
-    "hera-arms-cqr-tactical-foregrip",
-    "ar-10-kac-qdc-7-62x51-muzzle-brake-kit",
-    "magpul-moe-carbine-rubber-buttpad",
-    "m14-ultimak-m8-forward-optic-mount",
-    "nightforce-atacr-7-35x56-34mm-riflescope",
-    "aimpoint-micro-t-1-reflex-sight",
-    "holosun-ls321-tactical-device",
-    "m1a-7-62x51-20-round-magazine",
-    "m1a-promag-archangel-chassis",
-    "aimpoint-micro-standard-mount",
-    "m14-leapers-utg-4-point-locking-deluxe-mount",
-    "iea-mil-optics-kh-f-34mm-one-piece-magmount"
-  ]
+  "order": 21
 }

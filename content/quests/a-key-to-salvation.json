@@ -36,21 +36,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/a-key-to-salvation.webp",
-  "order": null,
-  "items": [
-    "terragroup-labs-access-keycard",
-    "terragroup-labs-keycard-violet",
-    "terragroup-labs-keycard-yellow",
-    "terragroup-labs-keycard-red",
-    "terragroup-labs-keycard-green",
-    "terragroup-labs-keycard-blue",
-    "terragroup-labs-keycard-black",
-    "26x75mm-flare-cartridge-acid-green",
-    "m-u-l-e-stimulant-injector",
-    "etg-change-regenerative-stimulant-injector",
-    "sj1-tglabs-combat-stimulant-injector",
-    "sj6-tglabs-combat-stimulant-injector",
-    "6-sten-140-m-military-battery",
-    "scav-raiders"
-  ]
+  "order": null
 }

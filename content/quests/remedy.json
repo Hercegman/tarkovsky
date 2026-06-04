@@ -47,10 +47,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/remedy.webp",
-  "order": null,
-  "items": [
-    "marked-bottle-of-saline-solution",
-    "medicine-case",
-    "sanitar"
-  ]
+  "order": null
 }

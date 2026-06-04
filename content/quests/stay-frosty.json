@@ -35,13 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/stay-frosty.webp",
-  "order": null,
-  "items": [
-    "pompon-hat",
-    "ushanka-ear-flap-hat",
-    "7-62x39mm-pp-gzh-ammo-pack-20-pcs",
-    "ak-7-62x39-6l10-bakelite-30-round-magazine",
-    "kalashnikov-akmn-7-62x39-assault-rifle",
-    "domontovich-ushanka-hat"
-  ]
+  "order": null
 }

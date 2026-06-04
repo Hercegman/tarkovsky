@@ -33,9 +33,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/competition-protection.webp",
-  "order": null,
-  "items": [
-    "labrys-access-keycard",
-    "lega-medal"
-  ]
+  "order": null
 }

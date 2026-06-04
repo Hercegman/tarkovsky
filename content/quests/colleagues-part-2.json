@@ -68,12 +68,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/colleagues-part-2.webp",
-  "order": 23,
-  "items": [
-    "surgery-kit-marked-with-a-blue-symbol",
-    "marked-ophthalmoscope",
-    "surv12-field-surgical-kit",
-    "p22-product-22-stimulant-injector",
-    "cottage-back-door-key"
-  ]
+  "order": 23
 }

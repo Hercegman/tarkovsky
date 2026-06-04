@@ -45,11 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/drug-trafficking.webp",
-  "order": 34,
-  "items": [
-    "wi-fi-camera",
-    "propital-regenerative-stimulant-injector",
-    "etg-change-regenerative-stimulant-injector",
-    "zagustin-hemostatic-drug-injector"
-  ]
+  "order": 34
 }

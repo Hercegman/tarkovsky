@@ -45,21 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/whats-on-the-flash-drive.webp",
-  "order": 4,
-  "items": [
-    "secure-flash-drive",
-    "molot-arms-simonov-op-sks-7-62x39-carbine",
-    "sks-7-62x39-tapco-6610-20-round-magazine",
-    "sks-hexagon-7-62x39-sound-suppressor",
-    "dead-scav",
-    "common-fund-stash",
-    "plastic-suitcase",
-    "safe",
-    "drawer",
-    "ground-cache",
-    "buried-barrel-cache",
-    "airdrop",
-    "pc-block",
-    "dorm-room-110-key"
-  ]
+  "order": 4
 }

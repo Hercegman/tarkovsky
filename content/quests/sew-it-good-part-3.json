@@ -45,12 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/sew-it-good-part-3.webp",
-  "order": 18,
-  "items": [
-    "6b43-zabralo-sh-body-armor-emr",
-    "fort-redut-t5-body-armor-smog",
-    "6sh118-raid-backpack-emr",
-    "20x1mm-toy-gun",
-    "border-snipers"
-  ]
+  "order": 18
 }

@@ -42,11 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/christmas-time-part-4.webp",
-  "order": null,
-  "items": [
-    "christmas-tree-ornament-red",
-    "christmas-tree-ornament-silver",
-    "christmas-tree-ornament-violet",
-    "hare-mask"
-  ]
+  "order": null
 }

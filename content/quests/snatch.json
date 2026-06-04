@@ -54,14 +54,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/snatch.webp",
-  "order": 2,
-  "items": [
-    "forged-lightkeeper-intelligence",
-    "lightkeeper-intelligence",
-    "vpx-flash-storage-module",
-    "atomic-defense-cqcm-ballistic-mask-black",
-    "uhf-rfid-reader",
-    "sacred-amulet",
-    "rb-st-key"
-  ]
+  "order": 2
 }

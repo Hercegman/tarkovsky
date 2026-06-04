@@ -67,10 +67,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/signal-part-3.webp",
-  "order": 37,
-  "items": [
-    "signal-jammer",
-    "benelli-m3-super-90-12ga-dual-mode-shotgun",
-    "12-70-8-5mm-magnum-buckshot-ammo-pack-25-pcs"
-  ]
+  "order": 37
 }

@@ -31,16 +31,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/important-patient.webp",
-  "order": null,
-  "items": [
-    "aseptic-bandage",
-    "army-bandage",
-    "medicine-case",
-    "grizzly-medical-kit",
-    "vaseline-balm",
-    "propital-regenerative-stimulant-injector",
-    "etg-change-regenerative-stimulant-injector",
-    "surgery",
-    "health"
-  ]
+  "order": null
 }

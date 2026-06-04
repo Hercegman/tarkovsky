@@ -218,7 +218,6 @@ interface QuestOut {
   markers: { map: string; x: number; y: number; label: string }[];
   image: string | null;
   order: number | null;
-  items: string[];
   source: { url: string; license: string; wiki: string; fetchedAt: string };
 }
 
@@ -289,7 +288,6 @@ async function fetchQuest(
     markers: [],
     image: null,
     order: null,
-    items: [],
     source: {
       url: `https://escapefromtarkov.fandom.com/wiki/${encodeURIComponent(title.replace(/ /g, "_"))}`,
       license: LICENSE,

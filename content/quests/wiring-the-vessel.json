@@ -40,11 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/wiring-the-vessel.webp",
-  "order": 47,
-  "items": [
-    "icebreaker",
-    "local-network-hacking-device",
-    "s-i-c-c-organizational-pouch",
-    "toolset"
-  ]
+  "order": 47
 }

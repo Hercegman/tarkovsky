@@ -71,10 +71,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/viewer.webp",
-  "order": 57,
-  "items": [
-    "wi-fi-camera",
-    "bottle-of-pevko-light-beer",
-    "bottle-of-tarkovskaya-vodka"
-  ]
+  "order": 57
 }

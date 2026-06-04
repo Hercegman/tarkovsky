@@ -42,14 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/advertising-business-part-6.webp",
-  "order": 59,
-  "items": [
-    "escape-from-tarkov-arena",
-    "velociraptor",
-    "pkp",
-    "sr-2m",
-    "aklys-defense-velociraptor-300-blackout-assault-rifle",
-    "kalashnikov-pkp-7-62x54r-infantry-machine-gun",
-    "sr-2m-veresk-9x21-submachine-gun"
-  ]
+  "order": 59
 }

@@ -40,9 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/key-partner.webp",
-  "order": 51,
-  "items": [
-    "intelligence-folder",
-    "ammunition"
-  ]
+  "order": 51
 }

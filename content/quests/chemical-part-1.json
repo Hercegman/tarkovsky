@@ -57,10 +57,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/chemical-part-1.webp",
-  "order": 6,
-  "items": [
-    "secure-folder-0013",
-    "dorm-room-220-key",
-    "msa-ach-tc-2002-mich-series-helmet-olive-drab"
-  ]
+  "order": 6
 }

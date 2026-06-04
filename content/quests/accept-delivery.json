@@ -41,10 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/accept-delivery.webp",
-  "order": null,
-  "items": [
-    "locked-case",
-    "case-key",
-    "intelligence-folder"
-  ]
+  "order": null
 }

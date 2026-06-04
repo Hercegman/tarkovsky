@@ -44,14 +44,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/confidential-info.webp",
-  "order": 46,
-  "items": [
-    "the-labyrinth",
-    "vpx-flash-storage-module-marked-group-3",
-    "vpx-flash-storage-module",
-    "ssd-drive",
-    "sas-drive",
-    "final-moment-poster",
-    "f-1-hand-grenade-reduced-delay"
-  ]
+  "order": 46
 }

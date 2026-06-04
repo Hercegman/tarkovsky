@@ -51,10 +51,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/thirsty-echo.webp",
-  "order": 44,
-  "items": [
-    "battered-diary",
-    "aquamari-water-bottle-with-filter",
-    "m-u-l-e-stimulant-injector"
-  ]
+  "order": 44
 }

@@ -45,9 +45,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/duck-hunt.webp",
-  "order": null,
-  "items": [
-    "can-of-duck-pate",
-    "perception"
-  ]
+  "order": null
 }

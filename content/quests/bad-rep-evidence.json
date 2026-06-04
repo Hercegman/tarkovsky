@@ -71,15 +71,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/bad-rep-evidence.webp",
-  "order": 11,
-  "items": [
-    "secure-folder-0031",
-    "factory-emergency-exit-key",
-    "portable-bunkhouse-key",
-    "pp-91-01-kedr-b-9x18pm-submachine-gun",
-    "pp-91-kedr-9x18pm-30-round-magazine",
-    "9x18mm-pm-ps-gs-ppo-ammo-pack-50-pcs",
-    "belomo-pso-1m2-1-4x24-scope",
-    "sssh-94-sfera-s-helmet"
-  ]
+  "order": 11
 }

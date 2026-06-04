@@ -37,8 +37,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/new-beginning-prestige-2.webp",
-  "order": 51,
-  "items": [
-    "prestige"
-  ]
+  "order": 51
 }

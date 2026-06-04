@@ -66,11 +66,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-punisher-part-6.webp",
-  "order": 22,
-  "items": [
-    "svds-7-62x54r-sniper-rifle",
-    "dogtag",
-    "secure-container-epsilon",
-    "7-62x54mm-r-ps-gzh"
-  ]
+  "order": 22
 }

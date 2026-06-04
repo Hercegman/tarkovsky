@@ -57,17 +57,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/small-business-part-1.webp",
-  "order": 3,
-  "items": [
-    "ded-moroz-figurine",
-    "politician-mutkevich-figurine",
-    "killa-figurine",
-    "reshala-figurine",
-    "ryzhy-figurine",
-    "scav-figurine",
-    "tagilla-figurine",
-    "cultist-figurine",
-    "den-figurine",
-    "virtex-programmable-processor"
-  ]
+  "order": 3
 }

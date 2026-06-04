@@ -53,12 +53,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/getting-acquainted.webp",
-  "order": 66,
-  "items": [
-    "secure-flash-drive-v3",
-    "digital-secure-dsp-radio-transmitter",
-    "zryachiy",
-    "rogue-usec-barrack-key",
-    "water-treatment-plant-storage-room-key"
-  ]
+  "order": 66
 }

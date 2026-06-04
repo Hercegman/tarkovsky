@@ -40,9 +40,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-survivalist-path-eagle-owl.webp",
-  "order": 10,
-  "items": [
-    "perception",
-    "armasight-vulcan-mg-3-5x-bravo-night-vision-scope"
-  ]
+  "order": 10
 }

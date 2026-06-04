@@ -42,14 +42,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-punisher-part-3.webp",
-  "order": 19,
-  "items": [
-    "pavel-yegorovich-romanenko",
-    "lobaev-arms-dvl-10-7-62x51-bolt-action-sniper-rifle",
-    "5-45x39mm-pp-gs",
-    "aks-74u",
-    "aks-74un",
-    "aks-74ub",
-    "sag-ak-short"
-  ]
+  "order": 19
 }

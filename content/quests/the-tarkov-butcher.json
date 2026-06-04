@@ -41,10 +41,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-tarkov-butcher.webp",
-  "order": null,
-  "items": [
-    "container-with-suspicious-substance",
-    "labrys-access-keycard",
-    "key-case"
-  ]
+  "order": null
 }

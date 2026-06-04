@@ -52,13 +52,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/escort.webp",
-  "order": 41,
-  "items": [
-    "melee",
-    "pistols",
-    "strength",
-    "6b43-zabralo-sh-body-armor-emr",
-    "rys-t-bulletproof-helmet-black",
-    "rys-t-face-shield"
-  ]
+  "order": 41
 }

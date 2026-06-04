@@ -35,18 +35,5 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-special-order.webp",
-  "order": null,
-  "items": [
-    "m4a1",
-    "5-56x45mm-m995-ammo-pack-100-pcs",
-    "physical-bitcoin",
-    "eotech-xps3-0-holographic-sight",
-    "ar-15-5-56x45-magpul-pmag-10-gen-m3-stanag-10-round-magazine",
-    "ar-15-5-56x45-molot-arms-16-inch-barrel",
-    "ar-15-daniel-defense-mk12-low-profile-gas-block",
-    "ar-15-magpul-moe-sl-medium-length-m-lok-handguard",
-    "daniel-defense-enhanced-m-lok-vertical-foregrip",
-    "ar-15-rtm-atp-buffer-tube",
-    "ar-15-kriss-defiance-ds150-stock"
-  ]
+  "order": null
 }
