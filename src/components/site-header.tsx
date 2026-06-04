@@ -1,12 +1,15 @@
 import Link from "next/link";
 import { HeaderAuth } from "./header-auth";
+import { TradersMenu } from "./traders-menu";
+import { getTraders } from "@/lib/data";
 
 const nav = [
   { href: "/quests", label: "Quests" },
   { href: "/maps", label: "Maps" },
 ];
 
-export function SiteHeader() {
+export async function SiteHeader() {
+  const traders = await getTraders();
   return (
     <header className="border-b border-[var(--border)] bg-[var(--surface)]/80 backdrop-blur sticky top-0 z-50">
       <div className="mx-auto flex h-14 max-w-6xl items-center gap-6 px-4">
@@ -28,6 +31,7 @@ export function SiteHeader() {
               {n.label}
             </Link>
           ))}
+          <TradersMenu traders={traders} />
         </nav>
         <div className="ml-auto flex items-center gap-3 text-sm">
           <HeaderAuth />
