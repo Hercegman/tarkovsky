@@ -1,11 +1,16 @@
 import Link from "next/link";
-import { getMaps } from "@/lib/data";
+import Image from "next/image";
+import { getMaps, getTraders, getTraderQuestCounts } from "@/lib/data";
 import { RadarBackground } from "@/components/radar-background";
 import { Reveal, RevealGroup, RevealItem } from "@/components/ui/reveal";
 import { AnimatedCard } from "@/components/ui/animated-card";
 
 export default async function Home() {
-  const maps = await getMaps();
+  const [maps, traders, traderCounts] = await Promise.all([
+    getMaps(),
+    getTraders(),
+    getTraderQuestCounts(),
+  ]);
 
   return (
     <div className="radial-glow">
@@ -79,6 +84,46 @@ export default async function Home() {
                 <h3 className="mb-2 font-semibold text-[var(--gold)]">{f.t}</h3>
                 <p className="text-sm text-[var(--muted)]">{f.b}</p>
               </AnimatedCard>
+            </RevealItem>
+          ))}
+        </RevealGroup>
+      </section>
+
+      {/* Traders */}
+      <section className="mx-auto max-w-6xl px-4 py-16">
+        <Reveal>
+          <h2 className="mb-6 text-sm font-semibold uppercase tracking-wider text-[var(--muted)]">
+            Traders
+          </h2>
+        </Reveal>
+        <RevealGroup className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
+          {traders.map((t) => (
+            <RevealItem key={t.id}>
+              <Link href={`/quests/${t.id}`}>
+                <AnimatedCard className="overflow-hidden">
+                  <div className="relative aspect-[3/4] w-full bg-[var(--surface-2)]">
+                    {t.image && (
+                      <Image
+                        src={t.image}
+                        alt={t.name}
+                        fill
+                        sizes="(max-width: 640px) 50vw, 200px"
+                        className="object-cover object-top opacity-90 transition-transform duration-300 group-hover:scale-105"
+                        unoptimized
+                      />
+                    )}
+                    <div className="absolute inset-0 bg-gradient-to-t from-[var(--surface)] via-[var(--surface)]/20 to-transparent" />
+                    <div className="absolute bottom-0 left-0 right-0 p-3">
+                      <p className="font-display text-lg font-semibold leading-tight text-[var(--foreground)]">
+                        {t.name}
+                      </p>
+                      <p className="text-xs text-[var(--gold)]">
+                        {traderCounts[t.id] ?? 0} quests
+                      </p>
+                    </div>
+                  </div>
+                </AnimatedCard>
+              </Link>
             </RevealItem>
           ))}
         </RevealGroup>
