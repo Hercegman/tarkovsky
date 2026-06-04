@@ -1,61 +1,51 @@
 "use client";
 
-import { useMemo } from "react";
+import { useEffect, useMemo } from "react";
 import {
   MapContainer,
   ImageOverlay,
   CircleMarker,
   Popup,
-  LayersControl,
-  LayerGroup,
+  useMap,
 } from "react-leaflet";
 import { CRS, type LatLngBoundsExpression } from "leaflet";
 import "leaflet/dist/leaflet.css";
 import type { MapData } from "@/lib/types";
 
-// Categories shown (checked) by default — the most useful for quests.
-const DEFAULT_ON = new Set([
-  "quest",
-  "exfil_pmc",
-  "exfil_scav",
-  "exfil_transit",
-]);
+/** Keeps Leaflet sized correctly when the container resizes (fullscreen, panels). */
+function AutoResize() {
+  const map = useMap();
+  useEffect(() => {
+    const el = map.getContainer();
+    const ro = new ResizeObserver(() => map.invalidateSize());
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, [map]);
+  return null;
+}
 
-// Ordering so the useful layers sit at the top of the control.
-const PRIORITY = [
-  "quest",
-  "exfil_pmc",
-  "exfil_scav",
-  "exfil_transit",
-  "spawn_pmc",
-  "spawn_scav",
-  "spawn_boss",
-  "locked",
-  "loot_key",
-];
-
-export default function LeafletMap({ map }: { map: MapData }) {
+export default function LeafletMap({
+  map,
+  active,
+  interactive = true,
+}: {
+  map: MapData;
+  active: string[]; // category ids to show
+  interactive?: boolean;
+}) {
   const bounds: LatLngBoundsExpression = [
     [0, 0],
     [map.height, map.width],
   ];
-
-  const grouped = useMemo(() => {
-    const byCat = new Map<string, MapData["markers"]>();
-    for (const m of map.markers) {
-      const arr = byCat.get(m.c) ?? [];
-      arr.push(m);
-      byCat.set(m.c, arr);
-    }
-    return map.categories
-      .filter((c) => byCat.has(c.id))
-      .sort((a, b) => {
-        const ia = PRIORITY.indexOf(a.id);
-        const ib = PRIORITY.indexOf(b.id);
-        return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
-      })
-      .map((c) => ({ cat: c, pins: byCat.get(c.id)! }));
-  }, [map]);
+  const activeSet = useMemo(() => new Set(active), [active]);
+  const colorOf = useMemo(
+    () => Object.fromEntries(map.categories.map((c) => [c.id, c.color])),
+    [map.categories],
+  );
+  const shown = useMemo(
+    () => map.markers.filter((m) => activeSet.has(m.c)),
+    [map.markers, activeSet],
+  );
 
   return (
     <MapContainer
@@ -65,41 +55,34 @@ export default function LeafletMap({ map }: { map: MapData }) {
       minZoom={-3}
       maxZoom={2}
       zoomSnap={0.25}
-      className="h-[600px] w-full rounded-lg border border-[var(--border)] bg-[var(--surface)]"
+      zoomControl={interactive}
+      dragging={interactive}
+      scrollWheelZoom={interactive}
+      doubleClickZoom={interactive}
+      attributionControl={false}
+      className="h-full w-full bg-[var(--surface)]"
     >
+      <AutoResize />
       {map.image && <ImageOverlay url={map.image} bounds={bounds} />}
-      <LayersControl position="topright" collapsed={false}>
-        {grouped.map(({ cat, pins }) => (
-          <LayersControl.Overlay
-            key={cat.id}
-            name={`${cat.name} (${pins.length})`}
-            checked={DEFAULT_ON.has(cat.id)}
-          >
-            <LayerGroup>
-              {pins.map((p, i) => (
-                <CircleMarker
-                  key={i}
-                  center={[p.y, p.x]}
-                  radius={5}
-                  pathOptions={{
-                    color: "#14110d",
-                    weight: 1,
-                    fillColor: cat.color,
-                    fillOpacity: 0.9,
-                  }}
-                >
-                  {(p.t || cat.name) && (
-                    <Popup>
-                      <strong>{p.t || cat.name}</strong>
-                      <div style={{ opacity: 0.7 }}>{cat.name}</div>
-                    </Popup>
-                  )}
-                </CircleMarker>
-              ))}
-            </LayerGroup>
-          </LayersControl.Overlay>
-        ))}
-      </LayersControl>
+      {shown.map((p, i) => (
+        <CircleMarker
+          key={i}
+          center={[p.y, p.x]}
+          radius={5}
+          pathOptions={{
+            color: "#14110d",
+            weight: 1,
+            fillColor: colorOf[p.c] ?? "#c8a04d",
+            fillOpacity: 0.9,
+          }}
+        >
+          {p.t && (
+            <Popup>
+              <strong>{p.t}</strong>
+            </Popup>
+          )}
+        </CircleMarker>
+      ))}
     </MapContainer>
   );
 }

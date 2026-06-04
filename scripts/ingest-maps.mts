@@ -26,6 +26,7 @@ const only = (() => {
   const i = process.argv.indexOf("--map");
   return i >= 0 ? process.argv[i + 1] : null;
 })();
+const skipImages = process.argv.includes("--skip-images");
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
@@ -80,6 +81,19 @@ async function ingestMap(id: string, name: string) {
   const bottom = (data.origin ?? "bottom-left").startsWith("bottom");
 
   // Download the base image (downscaled) via imageinfo thumbnail.
+  let image: string | null = null;
+  if (skipImages) {
+    // Reuse the already-downloaded image path from the existing JSON.
+    try {
+      const prev = JSON.parse(
+        await readFile(path.join(ROOT, "content", "maps", `${id}.json`), "utf8"),
+      );
+      image = prev.image ?? null;
+      console.log(`  (skip-images) keeping ${image}`);
+    } catch {
+      /* no previous file */
+    }
+  } else {
   const fileTitle: string = data.mapImage.startsWith("File:")
     ? data.mapImage
     : `File:${data.mapImage}`;
@@ -92,7 +106,6 @@ async function ingestMap(id: string, name: string) {
   });
   const ii = info.query?.pages?.[0]?.imageinfo?.[0];
   const dlUrl: string = ii?.thumburl ?? ii?.url;
-  let image: string | null = null;
   if (dlUrl) {
     const buf = new Uint8Array(
       await (await fetch(dlUrl, { headers: { "User-Agent": UA } })).arrayBuffer(),
@@ -102,6 +115,7 @@ async function ingestMap(id: string, name: string) {
     await writeFile(path.join(ROOT, "public", "maps", `${id}.${ext}`), buf);
     image = `/maps/${id}.${ext}`;
     console.log(`  image ${ext} ${(buf.length / 1024) | 0}KB`);
+  }
   }
 
   // Categories (id, name, color) for the layer toggle.
@@ -113,12 +127,15 @@ async function ingestMap(id: string, name: string) {
     }),
   );
 
-  // Convert markers into Leaflet CRS.Simple top-left pixel space.
+  // Convert markers into Leaflet CRS.Simple coordinates.
+  // CRS.Simple uses transformation (1,0,-1,0): latitude increases UPWARD, the
+  // same direction as Fandom's "bottom-left" origin — so a bottom-left source
+  // needs NO vertical flip; only a top-left source must be flipped.
   const markers = (data.markers ?? []).map((m: FandomMarker) => {
     const [a, b] = m.position;
     const mx = xy ? a : b;
     const myFromOrigin = xy ? b : a;
-    const y = bottom ? height - myFromOrigin : myFromOrigin;
+    const y = bottom ? myFromOrigin : height - myFromOrigin;
     return {
       c: m.categoryId,
       x: Math.round(mx),

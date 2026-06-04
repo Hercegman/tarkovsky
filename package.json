@@ -11,18 +11,23 @@
     "ingest:maps": "node scripts/ingest-maps.mts",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "drizzle-kit migrate",
-    "db:push": "drizzle-kit push"
+    "db:push": "drizzle-kit push",
+    "ingest:images": "node scripts/ingest-quest-images.mts"
   },
   "dependencies": {
+    "@react-three/drei": "^10.7.7",
+    "@react-three/fiber": "^9.6.1",
     "bcryptjs": "^3.0.3",
     "drizzle-orm": "^0.45.2",
     "leaflet": "^1.9.4",
+    "motion": "^12.40.0",
     "next": "16.2.7",
     "next-auth": "^5.0.0-beta.31",
     "postgres": "^3.4.9",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "react-leaflet": "^5.0.0",
+    "three": "^0.184.0",
     "zod": "^4.4.3"
   },
   "devDependencies": {

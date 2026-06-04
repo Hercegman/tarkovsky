@@ -8,7 +8,7 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Map:Shoreline",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki",
-    "fetchedAt": "2026-06-04T17:23:12.450Z"
+    "fetchedAt": "2026-06-04T18:49:40.240Z"
   },
   "categories": [
     {
@@ -176,1795 +176,1795 @@
     {
       "c": "exfil_scav",
       "x": 598,
-      "y": 3593,
+      "y": 974,
       "t": "Ruined Road"
     },
     {
       "c": "exfil_pmc",
       "x": 527,
-      "y": 3531,
+      "y": 1036,
       "t": "Tunnel"
     },
     {
       "c": "exfil_pmc",
       "x": 380,
-      "y": 1770,
+      "y": 2797,
       "t": "Path to Lighthouse "
     },
     {
       "c": "exfil_pmc",
       "x": 3126,
-      "y": 1237,
+      "y": 3330,
       "t": "Mountain Bunker"
     },
     {
       "c": "exfil_scav",
       "x": 4732,
-      "y": 2523,
+      "y": 2044,
       "t": "Road to Customs"
     },
     {
       "c": "exfil_pmc",
       "x": 5281,
-      "y": 3507,
+      "y": 1060,
       "t": "Railway Bridge "
     },
     {
       "c": "exfil_scav",
       "x": 3368,
-      "y": 4380,
+      "y": 187,
       "t": "Lighthouse"
     },
     {
       "c": "exfil_pmc",
       "x": 2947,
-      "y": 4383,
+      "y": 184,
       "t": "Pier Boat"
     },
     {
       "c": "exfil_scav",
       "x": 4495,
-      "y": 893,
+      "y": 3674,
       "t": "Admin Basement"
     },
     {
       "c": "exfil_pmc",
       "x": 2495,
-      "y": 1323,
+      "y": 3245,
       "t": "Climber's Trail"
     },
     {
       "c": "exfil_pmc",
       "x": 4186,
-      "y": 1685,
+      "y": 2882,
       "t": "Smugglers' Path (Co-op)"
     },
     {
       "c": "exfil_pmc",
       "x": 3630,
-      "y": 1267,
+      "y": 3300,
       "t": "Road to North V-Ex"
     },
     {
       "c": "exfil_scav",
       "x": 5513,
-      "y": 4096,
+      "y": 471,
       "t": "East Wing Gym Entrance"
     },
     {
       "c": "spawn_pmc",
       "x": 2936,
-      "y": 3753,
+      "y": 814,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 4965,
-      "y": 2840,
+      "y": 1727,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 3179,
-      "y": 1285,
+      "y": 3282,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 4674,
-      "y": 3751,
+      "y": 816,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 4886,
-      "y": 3175,
+      "y": 1392,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 2732,
-      "y": 1345,
+      "y": 3222,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 4441,
-      "y": 2489,
+      "y": 2078,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 4489,
-      "y": 4062,
+      "y": 505,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 3987,
-      "y": 4081,
+      "y": 486,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 4754,
-      "y": 2536,
+      "y": 2031,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 3604,
-      "y": 4076,
+      "y": 491,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 3337,
-      "y": 3815,
+      "y": 752,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 611,
-      "y": 3602,
+      "y": 965,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1374,
-      "y": 1544,
+      "y": 3023,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 669,
-      "y": 1639,
+      "y": 2928,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 2429,
-      "y": 3588,
+      "y": 979,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 368,
-      "y": 2770,
+      "y": 1797,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 472,
-      "y": 3388,
+      "y": 1179,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 287,
-      "y": 2463,
+      "y": 2104,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 260,
-      "y": 3145,
+      "y": 1423,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1080,
-      "y": 1584,
+      "y": 2983,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 275,
-      "y": 2973,
+      "y": 1595,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1940,
-      "y": 3553,
+      "y": 1014,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1506,
-      "y": 3515,
+      "y": 1052,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1807,
-      "y": 1582,
+      "y": 2985,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1018,
-      "y": 3351,
+      "y": 1216,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_sniper",
       "x": 2329,
-      "y": 1627,
+      "y": 2941,
       "t": "Sniper Scav Spawn"
     },
     {
       "c": "spawn_sniper",
       "x": 2595,
-      "y": 3135,
+      "y": 1432,
       "t": "Sniper Scav Spawn"
     },
     {
       "c": "spawn_boss",
       "x": 2390,
-      "y": 2240,
+      "y": 2327,
       "t": "Sanitar Boss Spawn"
     },
     {
       "c": "spawn_boss",
       "x": 2936,
-      "y": 2240,
+      "y": 2327,
       "t": "Sanitar Boss Spawn"
     },
     {
       "c": "spawn_boss",
       "x": 1445,
-      "y": 2805,
+      "y": 1762,
       "t": "Sanitar Boss Spawn"
     },
     {
       "c": "spawn_boss",
       "x": 2877,
-      "y": 4158,
+      "y": 409,
       "t": "Sanitar Boss Spawn"
     },
     {
       "c": "spawn_boss",
       "x": 3479,
-      "y": 3359,
+      "y": 1208,
       "t": "Goons Boss Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 1278,
-      "y": 1561,
+      "y": 3006,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 2419,
-      "y": 2240,
+      "y": 2327,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 3985,
-      "y": 1814,
+      "y": 2753,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 4731,
-      "y": 2728,
+      "y": 1839,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 4033,
-      "y": 4024,
+      "y": 543,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2904,
-      "y": 4179,
+      "y": 388,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2510,
-      "y": 3791,
+      "y": 776,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 1067,
-      "y": 3924,
+      "y": 643,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 636,
-      "y": 3533,
+      "y": 1034,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 412,
-      "y": 2909,
+      "y": 1658,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 1369,
-      "y": 2820,
+      "y": 1747,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2636,
-      "y": 3087,
+      "y": 1481,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2169,
-      "y": 2485,
+      "y": 2082,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 1662,
-      "y": 1892,
+      "y": 2675,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2367,
-      "y": 1561,
+      "y": 3006,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2390,
-      "y": 2065,
+      "y": 2502,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2936,
-      "y": 2065,
+      "y": 2502,
       "t": "Scav Spawn"
     },
     {
       "c": "loot_keycard",
       "x": 6142,
-      "y": 3884,
+      "y": 683,
       "t": "TerraGroup Labs Red Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 6306,
-      "y": 1871,
+      "y": 2696,
       "t": "TerraGroup Labs Red Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 6525,
-      "y": 2387,
+      "y": 2180,
       "t": "TerraGroup Labs Red Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 3904,
-      "y": 288,
+      "y": 4279,
       "t": "TerraGroup Labs Red Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 5545,
-      "y": 1865,
+      "y": 2703,
       "t": "TerraGroup Labs Red Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 2684,
-      "y": 2221,
+      "y": 2346,
       "t": "TerraGroup Labs Blue Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 5434,
-      "y": 2208,
+      "y": 2359,
       "t": "TerraGroup Labs Blue Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 5920,
-      "y": 2218,
+      "y": 2349,
       "t": "TerraGroup Labs Blue Keycard"
     },
     {
       "c": "loot_key",
       "x": 1021,
-      "y": 3943,
+      "y": 624,
       "t": "Health Resort East Wing Room 328 Key"
     },
     {
       "c": "loot_key",
       "x": 6130,
-      "y": 3863,
+      "y": 704,
       "t": "Health Resort East Wing Room 226 Key"
     },
     {
       "c": "loot_key",
       "x": 5648,
-      "y": 3779,
+      "y": 788,
       "t": "Health Resort East Wing Room 226 Key"
     },
     {
       "c": "loot_key",
       "x": 2619,
-      "y": 3129,
+      "y": 1438,
       "t": "Health Resort East Wing Room 222 Key"
     },
     {
       "c": "loot_key",
       "x": 2762,
-      "y": 4061,
+      "y": 506,
       "t": "Health Resort East Wing Room 206 Key"
     },
     {
       "c": "loot_key",
       "x": 2422,
-      "y": 1837,
+      "y": 2730,
       "t": "Health Resort East Wing Room 205 Key"
     },
     {
       "c": "loot_key",
       "x": 3736,
-      "y": 616,
+      "y": 3951,
       "t": "Health Resort East Wing Office Room 107 Key"
     },
     {
       "c": "loot_key",
       "x": 2936,
-      "y": 1682,
+      "y": 2885,
       "t": "Health Resort West Wing Room 303 Key"
     },
     {
       "c": "loot_key",
       "x": 788,
-      "y": 3545,
+      "y": 1023,
       "t": "Health Resort West Wing Room 301 Key"
     },
     {
       "c": "loot_key",
       "x": 2391,
-      "y": 3987,
+      "y": 580,
       "t": "Health Resort West Wing Room 221 Key"
     },
     {
       "c": "loot_key",
       "x": 1352,
-      "y": 2909,
+      "y": 1658,
       "t": "Health Resort West Wing Room 220 Key"
     },
     {
       "c": "loot_key",
       "x": 3374,
-      "y": 4385,
+      "y": 182,
       "t": "Health Resort West Wing Room 219 Key"
     },
     {
       "c": "loot_key",
       "x": 3627,
-      "y": 496,
+      "y": 4071,
       "t": "Health Resort West Wing Room 218 Key"
     },
     {
       "c": "loot_key",
       "x": 4022,
-      "y": 456,
+      "y": 4111,
       "t": "Health Resort West Wing Room 216 Key"
     },
     {
       "c": "loot_key",
       "x": 2870,
-      "y": 4116,
+      "y": 451,
       "t": "Health Resort West Wing Room 205 Key"
     },
     {
       "c": "loot_key",
       "x": 514,
-      "y": 4384,
+      "y": 183,
       "t": "Health Resort West Wing Room 203 Key"
     },
     {
       "c": "loot_key",
       "x": 2166,
-      "y": 2503,
+      "y": 2064,
       "t": "Health Resort West Wing Office Room 112 Key"
     },
     {
       "c": "loot_key",
       "x": 1510,
-      "y": 4298,
+      "y": 269,
       "t": "Health Resort West Wing Office Room 104 Key"
     },
     {
       "c": "loot_key",
       "x": 2584,
-      "y": 3058,
+      "y": 1509,
       "t": "Health Resort West Wing Office Room 104 Key"
     },
     {
       "c": "loot_key",
       "x": 3539,
-      "y": 3371,
+      "y": 1196,
       "t": "Health Resort West Wing Room 321 Safe Key"
     },
     {
       "c": "loot_key",
       "x": 5648,
-      "y": 3770,
+      "y": 797,
       "t": "Health Resort Universal Utility Room Key"
     },
     {
       "c": "loot_key",
       "x": 1678,
-      "y": 2829,
+      "y": 1738,
       "t": "SMW Car Key"
     },
     {
       "c": "loot_key",
       "x": 1440,
-      "y": 2873,
+      "y": 1694,
       "t": "Cottage Back Door Key"
     },
     {
       "c": "loot_key",
       "x": 507,
-      "y": 3160,
+      "y": 1408,
       "t": "Cottage Safe Key"
     },
     {
       "c": "loot_key",
       "x": 2317,
-      "y": 1533,
+      "y": 3034,
       "t": "RB-AO Key"
     },
     {
       "c": "loot_key",
       "x": 6332,
-      "y": 3482,
+      "y": 1085,
       "t": "OLI Administration Office Key"
     },
     {
       "c": "loot_key",
       "x": 5364,
-      "y": 2419,
+      "y": 2148,
       "t": "NecrusPharm Pharmacy Key"
     },
     {
       "c": "locked",
       "x": 1460,
-      "y": 2850,
+      "y": 1717,
       "t": "Cottage Back Door"
     },
     {
       "c": "locked",
       "x": 2561,
-      "y": 3150,
+      "y": 1417,
       "t": "HEP Station Storage Room"
     },
     {
       "c": "locked",
       "x": 2561,
-      "y": 3124,
+      "y": 1443,
       "t": "HEP Station Storage Room"
     },
     {
       "c": "locked",
       "x": 1271,
-      "y": 2954,
+      "y": 1613,
       "t": "SMW Car Trunk"
     },
     {
       "c": "container_safe",
       "x": 1489,
-      "y": 2885,
+      "y": 1683,
       "t": "Safe (locked)"
     },
     {
       "c": "container_safe",
       "x": 5366,
-      "y": 1433,
+      "y": 3134,
       "t": "Safe (locked)"
     },
     {
       "c": "container_safe",
       "x": 3660,
-      "y": 287,
+      "y": 4280,
       "t": "Safe (locked)"
     },
     {
       "c": "container_safe",
       "x": 3950,
-      "y": 358,
+      "y": 4209,
       "t": "Safe (locked)"
     },
     {
       "c": "locked",
       "x": 5458,
-      "y": 2267,
+      "y": 2300,
       "t": "West Wing Office Room 104"
     },
     {
       "c": "locked",
       "x": 5904,
-      "y": 2267,
+      "y": 2301,
       "t": "West Wing Office Room 112"
     },
     {
       "c": "locked",
       "x": 5458,
-      "y": 1911,
+      "y": 2656,
       "t": "West Wing Room 221"
     },
     {
       "c": "locked",
       "x": 5486,
-      "y": 1954,
+      "y": 2613,
       "t": "West Wing Room 220"
     },
     {
       "c": "locked",
       "x": 5547,
-      "y": 1954,
+      "y": 2613,
       "t": "West Wing Room 219"
     },
     {
       "c": "locked",
       "x": 5577,
-      "y": 1911,
+      "y": 2657,
       "t": "West Wing Room 218"
     },
     {
       "c": "locked",
       "x": 6360,
-      "y": 1788,
+      "y": 2779,
       "t": "West Wing Room 203"
     },
     {
       "c": "locked",
       "x": 6241,
-      "y": 1788,
+      "y": 2779,
       "t": "West Wing Room 205"
     },
     {
       "c": "locked",
       "x": 5663,
-      "y": 1954,
+      "y": 2613,
       "t": "West Wing Room 216"
     },
     {
       "c": "locked",
       "x": 5401,
-      "y": 1911,
+      "y": 2656,
       "t": "West Wing Room 222"
     },
     {
       "c": "locked",
       "x": 6242,
-      "y": 1279,
+      "y": 3288,
       "t": "West Wing Room 301"
     },
     {
       "c": "locked",
       "x": 6081,
-      "y": 1380,
+      "y": 3188,
       "t": "West Wing Room 306"
     },
     {
       "c": "locked",
       "x": 6018,
-      "y": 4386,
+      "y": 181,
       "t": "East Wing Office Room 107"
     },
     {
       "c": "locked",
       "x": 5875,
-      "y": 4386,
+      "y": 181,
       "t": "East Wing Office Room 110"
     },
     {
       "c": "locked",
       "x": 5041,
-      "y": 1563,
+      "y": 3004,
       "t": "Utility Room"
     },
     {
       "c": "locked",
       "x": 5145,
-      "y": 1971,
+      "y": 2596,
       "t": "Utility Room"
     },
     {
       "c": "locked",
       "x": 5412,
-      "y": 3830,
+      "y": 737,
       "t": "East Wing Room 205"
     },
     {
       "c": "locked",
       "x": 5470,
-      "y": 3830,
+      "y": 737,
       "t": "East Wing Room 206"
     },
     {
       "c": "locked",
       "x": 6253,
-      "y": 3952,
+      "y": 615,
       "t": "East Wing Room 222"
     },
     {
       "c": "locked",
       "x": 6372,
-      "y": 3953,
+      "y": 614,
       "t": "East Wing Room 226"
     },
     {
       "c": "locked",
       "x": 5820,
-      "y": 3576,
+      "y": 991,
       "t": "East Wing Room 310"
     },
     {
       "c": "locked",
       "x": 5572,
-      "y": 3422,
+      "y": 1146,
       "t": "East Wing Room 306"
     },
     {
       "c": "locked",
       "x": 5691,
-      "y": 3422,
+      "y": 1145,
       "t": "East Wing Room 308"
     },
     {
       "c": "locked",
       "x": 5947,
-      "y": 3545,
+      "y": 1023,
       "t": "East Wing Room 313"
     },
     {
       "c": "locked",
       "x": 6001,
-      "y": 3544,
+      "y": 1023,
       "t": "East Wing Room 314"
     },
     {
       "c": "locked",
       "x": 6093,
-      "y": 3588,
+      "y": 980,
       "t": "East Wing Room 316"
     },
     {
       "c": "locked",
       "x": 6566,
-      "y": 3604,
+      "y": 963,
       "t": "East Wing Room 328"
     },
     {
       "c": "quest",
       "x": 3944,
-      "y": 1844,
+      "y": 2723,
       "t": "Locate the Smuggler Base"
     },
     {
       "c": "quest",
       "x": 1048,
-      "y": 1966,
+      "y": 2601,
       "t": "Locate Ragman's SUV"
     },
     {
       "c": "quest",
       "x": 2710,
-      "y": 2235,
+      "y": 2333,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 1488,
-      "y": 2839,
+      "y": 1728,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 2846,
-      "y": 4134,
+      "y": 433,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 2688,
-      "y": 2227,
+      "y": 2340,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 600,
-      "y": 3513,
+      "y": 1054,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 746,
-      "y": 3545,
+      "y": 1022,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 2668,
-      "y": 2315,
+      "y": 2252,
       "t": "Locate Group Sent to Health Resort"
     },
     {
       "c": "quest",
       "x": 1498,
-      "y": 2717,
+      "y": 1850,
       "t": "Locate Group Sent to Cottages"
     },
     {
       "c": "quest",
       "x": 2843,
-      "y": 4110,
+      "y": 458,
       "t": "Locate Group Sent to Pier"
     },
     {
       "c": "quest",
       "x": 1494,
-      "y": 2854,
+      "y": 1713,
       "t": "Obtain the Marked Ophthalmoscope"
     },
     {
       "c": "quest",
       "x": 2878,
-      "y": 4095,
+      "y": 472,
       "t": "Obtain the Surgery Kit Marked with a Blue Symbol"
     },
     {
       "c": "quest",
       "x": 3726,
-      "y": 2888,
+      "y": 1679,
       "t": "Obtain the Motor Controller #2"
     },
     {
       "c": "quest",
       "x": 5631,
-      "y": 3538,
+      "y": 1029,
       "t": "Obtain the Motor Controller #3"
     },
     {
       "c": "quest",
       "x": 5683,
-      "y": 1972,
+      "y": 2595,
       "t": "Obtain the Single-Axis Fiber Optic Gyroscope #2"
     },
     {
       "c": "quest",
       "x": 5849,
-      "y": 2258,
+      "y": 2309,
       "t": "Obtain Chemical container 1"
     },
     {
       "c": "quest",
       "x": 1482,
-      "y": 2839,
+      "y": 1728,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 2704,
-      "y": 2235,
+      "y": 2333,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 2841,
-      "y": 4129,
+      "y": 438,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 2427,
-      "y": 4030,
+      "y": 537,
       "t": "Stash a Multitool in the Boat"
     },
     {
       "c": "quest",
       "x": 2427,
-      "y": 4024,
+      "y": 543,
       "t": "Stash a SV-98 Sniper Rifle in the Boat"
     },
     {
       "c": "quest",
       "x": 2339,
-      "y": 1591,
+      "y": 2976,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 527,
-      "y": 3058,
+      "y": 1509,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 3013,
-      "y": 3128,
+      "y": 1439,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 3665,
-      "y": 2092,
+      "y": 2475,
       "t": "Obtain UAV SAS Disk #1"
     },
     {
       "c": "quest",
       "x": 1541,
-      "y": 1960,
+      "y": 2608,
       "t": "Obtain UAV SAS Disk #2"
     },
     {
       "c": "quest",
       "x": 2604,
-      "y": 1974,
+      "y": 2594,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 3833,
-      "y": 4070,
+      "y": 497,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 836,
-      "y": 2379,
+      "y": 2189,
       "t": "Locate the Missing Informant"
     },
     {
       "c": "quest",
       "x": 6252,
-      "y": 3484,
+      "y": 1083,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 2668,
-      "y": 2358,
+      "y": 2209,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 2756,
-      "y": 2350,
+      "y": 2217,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 6162,
-      "y": 4052,
+      "y": 515,
       "t": "Locate the Generators in East Wing"
     },
     {
       "c": "quest",
       "x": 5541,
-      "y": 2006,
+      "y": 2561,
       "t": "Locate the Generators in West Wing"
     },
     {
       "c": "quest",
       "x": 2323,
-      "y": 1521,
+      "y": 3047,
       "t": "Obtain the Key to Closed Premises of Health Resort"
     },
     {
       "c": "quest",
       "x": 2606,
-      "y": 2230,
+      "y": 2337,
       "t": "Locate the Signal Source"
     },
     {
       "c": "quest",
       "x": 3421,
-      "y": 3326,
+      "y": 1241,
       "t": "Locate the Signal Source"
     },
     {
       "c": "quest",
       "x": 2600,
-      "y": 2230,
+      "y": 2337,
       "t": "Place the Jammer"
     },
     {
       "c": "quest",
       "x": 3431,
-      "y": 3333,
+      "y": 1234,
       "t": "Place the Jammer"
     },
     {
       "c": "quest",
       "x": 4215,
-      "y": 2808,
+      "y": 1759,
       "t": "Place the Jammer"
     },
     {
       "c": "quest",
       "x": 5860,
-      "y": 4435,
+      "y": 132,
       "t": "Locate Sanitar's Office"
     },
     {
       "c": "quest",
       "x": 833,
-      "y": 2353,
+      "y": 2214,
       "t": "Locate the Priest's House"
     },
     {
       "c": "quest",
       "x": 431,
-      "y": 2369,
+      "y": 2199,
       "t": "Locate the Chairman's House"
     },
     {
       "c": "quest",
       "x": 511,
-      "y": 2096,
+      "y": 2471,
       "t": "Locate the Fisherman's House"
     },
     {
       "c": "stationarygun",
       "x": 4060,
-      "y": 1944,
+      "y": 2623,
       "t": "AGS-30 automatic grenade launcher"
     },
     {
       "c": "spawn_cultist",
       "x": 2905,
-      "y": 2240,
+      "y": 2327,
       "t": "Cultist Spawn"
     },
     {
       "c": "quest",
       "x": 6204,
-      "y": 1460,
+      "y": 3107,
       "t": "Obtain Jaeger's Photo album"
     },
     {
       "c": "quest",
       "x": 6091,
-      "y": 1478,
+      "y": 3089,
       "t": "Obtain Secure Folder 0060"
     },
     {
       "c": "quest",
       "x": 1549,
-      "y": 3660,
+      "y": 907,
       "t": "Find Artyom's Car"
     },
     {
       "c": "container_stash",
       "x": 5256,
-      "y": 3497,
+      "y": 1070,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 4390,
-      "y": 3551,
+      "y": 1016,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 4211,
-      "y": 2854,
+      "y": 1713,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 3569,
-      "y": 2576,
+      "y": 1991,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 3731,
-      "y": 3909,
+      "y": 658,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 3006,
-      "y": 3827,
+      "y": 740,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 2910,
-      "y": 2599,
+      "y": 1968,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 3315,
-      "y": 2337,
+      "y": 2230,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 3124,
-      "y": 2126,
+      "y": 2441,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 443,
-      "y": 2223,
+      "y": 2344,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 727,
-      "y": 2245,
+      "y": 2322,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 991,
-      "y": 1964,
+      "y": 2603,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 985,
-      "y": 2217,
+      "y": 2350,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 1258,
-      "y": 2474,
+      "y": 2093,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 1615,
-      "y": 2126,
+      "y": 2441,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 2318,
-      "y": 2450,
+      "y": 2117,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 1562,
-      "y": 3429,
+      "y": 1138,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 1636,
-      "y": 2855,
+      "y": 1712,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 1003,
-      "y": 3292,
+      "y": 1275,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 385,
-      "y": 3230,
+      "y": 1337,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 239,
-      "y": 2956,
+      "y": 1611,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 608,
-      "y": 3020,
+      "y": 1547,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 576,
-      "y": 2970,
+      "y": 1597,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 4104,
-      "y": 1357,
+      "y": 3210,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 4649,
-      "y": 4033,
+      "y": 534,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 3989,
-      "y": 4064,
+      "y": 503,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 3315,
-      "y": 4334,
+      "y": 233,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 2421,
-      "y": 3991,
+      "y": 576,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 1594,
-      "y": 3708,
+      "y": 859,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 1118,
-      "y": 3948,
+      "y": 619,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 4766,
-      "y": 2501,
+      "y": 2066,
       "t": "Barrel Cache"
     },
     {
       "c": "container_stash",
       "x": 4089,
-      "y": 3771,
+      "y": 796,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 4361,
-      "y": 2525,
+      "y": 2042,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 3971,
-      "y": 2580,
+      "y": 1987,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 3710,
-      "y": 3022,
+      "y": 1545,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 3289,
-      "y": 2854,
+      "y": 1713,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 3008,
-      "y": 3125,
+      "y": 1442,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 3357,
-      "y": 3491,
+      "y": 1076,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 3390,
-      "y": 3827,
+      "y": 740,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 2797,
-      "y": 3659,
+      "y": 908,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 2615,
-      "y": 3333,
+      "y": 1234,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 2752,
-      "y": 2777,
+      "y": 1790,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 4453,
-      "y": 3215,
+      "y": 1352,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 4266,
-      "y": 3354,
+      "y": 1213,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 3176,
-      "y": 1894,
+      "y": 2673,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 2809,
-      "y": 1678,
+      "y": 2889,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 627,
-      "y": 2133,
+      "y": 2435,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 1256,
-      "y": 2174,
+      "y": 2393,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 2336,
-      "y": 2771,
+      "y": 1796,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 1930,
-      "y": 2755,
+      "y": 1812,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 2047,
-      "y": 3472,
+      "y": 1095,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 1328,
-      "y": 3137,
+      "y": 1430,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 717,
-      "y": 3432,
+      "y": 1135,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 382,
-      "y": 2705,
+      "y": 1862,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 775,
-      "y": 2953,
+      "y": 1614,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 2049,
-      "y": 1283,
+      "y": 3284,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 2411,
-      "y": 1308,
+      "y": 3259,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 3209,
-      "y": 1289,
+      "y": 3278,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 3657,
-      "y": 1373,
+      "y": 3194,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 4848,
-      "y": 3601,
+      "y": 966,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 5234,
-      "y": 3671,
+      "y": 896,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 5048,
-      "y": 3413,
+      "y": 1154,
       "t": "Ground Cache"
     },
     {
       "c": "container_stash",
       "x": 4873,
-      "y": 2938,
+      "y": 1629,
       "t": "Ground Cache"
     },
     {
       "c": "locked",
       "x": 2625,
-      "y": 3170,
+      "y": 1397,
       "t": "Voron's Hideout"
     },
     {
       "c": "loot_key",
       "x": 4011,
-      "y": 1686,
+      "y": 2881,
       "t": "Dorm Overseer Key"
     },
     {
       "c": "loot_key",
       "x": 4002,
-      "y": 1721,
+      "y": 2846,
       "t": "Dorm Overseer Key"
     },
     {
       "c": "loot_key",
       "x": 3942,
-      "y": 1773,
+      "y": 2794,
       "t": "Dorm Overseer Key"
     },
     {
       "c": "loot_key",
       "x": 3904,
-      "y": 1715,
+      "y": 2852,
       "t": "Dorm Overseer Key"
     },
     {
       "c": "loot_keycard",
       "x": 2612,
-      "y": 3165,
+      "y": 1402,
       "t": "TerraGroup Labs Violet Keycard"
     },
     {
       "c": "quest",
       "x": 957,
-      "y": 2166,
+      "y": 2401,
       "t": "Stash the Cultist knife"
     },
     {
       "c": "quest",
       "x": 6259,
-      "y": 3483,
+      "y": 1084,
       "t": "Stash the Cultist knife"
     },
     {
       "c": "quest",
       "x": 3368,
-      "y": 4390,
+      "y": 177,
       "t": "Install a WI-FI Camera at the pier tower"
     },
     {
       "c": "quest",
       "x": 3368,
-      "y": 4371,
+      "y": 197,
       "t": "Stash the Golden Rooster Figurine at the top"
     },
     {
       "c": "quest",
       "x": 6137,
-      "y": 2774,
+      "y": 1793,
       "t": "Obtain information about Thirsty"
     },
     {
       "c": "exfil_scav",
       "x": 4197,
-      "y": 1685,
+      "y": 2882,
       "t": "Smugglers' Path (Co-op)"
     },
     {
       "c": "exfil_pmc",
       "x": 4705,
-      "y": 2523,
+      "y": 2044,
       "t": "Road to Customs"
     },
     {
       "c": "exfil_transit",
       "x": 390,
-      "y": 1780,
+      "y": 2787,
       "t": "Transit to Lighthouse"
     },
     {
       "c": "quest",
       "x": 1413,
-      "y": 4122,
+      "y": 445,
       "t": "The upside-down chair "
     },
     {
       "c": "quest",
       "x": 2909,
-      "y": 4123,
+      "y": 444,
       "t": "The not-so-lonely bathroom"
     },
     {
       "c": "loot_keycard",
       "x": 6036,
-      "y": 1417,
+      "y": 3150,
       "t": "TerraGroup Labs Blue Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 1271,
-      "y": 2952,
+      "y": 1615,
       "t": "TerraGroup Labs Yellow Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 5501,
-      "y": 3881,
+      "y": 686,
       "t": "TerraGroup Labs Red Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 5589,
-      "y": 2002,
+      "y": 2565,
       "t": "TerraGroup Labs Blue Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 6122,
-      "y": 3639,
+      "y": 928,
       "t": "TerraGroup Labs Red Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 5882,
-      "y": 2261,
+      "y": 2306,
       "t": "TerraGroup Labs Yellow Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 6234,
-      "y": 1440,
+      "y": 3127,
       "t": "TerraGroup Labs Yellow Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 1489,
-      "y": 2886,
+      "y": 1681,
       "t": "TerraGroup Labs Yellow Keycard"
     },
     {
       "c": "loot_keycard",
       "x": 3952,
-      "y": 381,
+      "y": 4186,
       "t": "TerraGroup Labs Yellow Keycard"
     },
     {
       "c": "exfil_scav",
       "x": 3136,
-      "y": 1237,
+      "y": 3330,
       "t": "Mountain Bunker"
     },
     {
       "c": "quest",
       "x": 3859,
-      "y": 1925,
+      "y": 2642,
       "t": "Stash the first Metal Fuel Tank"
     },
     {
       "c": "quest",
       "x": 3915,
-      "y": 1746,
+      "y": 2821,
       "t": "Stash the second Metal Fuel Tank"
     },
     {
       "c": "quest",
       "x": 2894,
-      "y": 4115,
+      "y": 452,
       "t": "Obtain Prapor's Cargo"
     },
     {
       "c": "exfil_transit",
       "x": 6074,
-      "y": 2779,
+      "y": 1788,
       "t": "Transit to Labyrinth"
     },
     {
       "c": "locked",
       "x": 6094,
-      "y": 2719,
+      "y": 1848,
       "t": "Knossos LLC Facility"
     },
     {
       "c": "quest",
       "x": 6094,
-      "y": 2738,
+      "y": 1829,
       "t": "Find a Way inside the Knossos LLC facility"
     },
     {
       "c": "quest",
       "x": 3005,
-      "y": 2060,
+      "y": 2507,
       "t": "Investigate the Children's Playground"
     },
     {
       "c": "quest",
       "x": 3905,
-      "y": 4113,
+      "y": 454,
       "t": "Investigate the coast-side Construction Site"
     },
     {
       "c": "loot_key",
       "x": 6079,
-      "y": 2326,
+      "y": 2241,
       "t": "Knossos LLC Facility Key"
     },
     {
       "c": "loot_key",
       "x": 5648,
-      "y": 3786,
+      "y": 782,
       "t": "Knossos LLC Facility Key"
     },
     {
       "c": "loot_key",
       "x": 5748,
-      "y": 3368,
+      "y": 1199,
       "t": "Knossos LLC Facility Key"
     },
     {
       "c": "loot_key",
       "x": 4027,
-      "y": 462,
+      "y": 4105,
       "t": "Knossos LLC Facility Key"
     },
     {
       "c": "loot_key",
       "x": 3040,
-      "y": 2179,
+      "y": 2388,
       "t": "Knossos LLC Facility Key"
     },
     {
       "c": "loot_keycard",
       "x": 5206,
-      "y": 1446,
+      "y": 3121,
       "t": "TerraGroup Labs Blue Keycard"
     },
     {
       "c": "spawn_scav",
       "x": 3429,
-      "y": 3369,
+      "y": 1198,
       "t": "Scav Spawn"
     },
     {
       "c": "quest",
       "x": 1030,
-      "y": 3940,
+      "y": 627,
       "t": "Marker Spot"
     },
     {
       "c": "quest",
       "x": 970,
-      "y": 3934,
+      "y": 633,
       "t": "Locate the Fishermen's Dwelling"
     },
     {
       "c": "stationarygun",
       "x": 4777,
-      "y": 4076,
+      "y": 491,
       "t": "RUAF Machine Gunner"
     },
     {
       "c": "stationarygun",
       "x": 5053,
-      "y": 3790,
+      "y": 777,
       "t": "RUAF Machine Gunner"
     },
     {
       "c": "stationarygun",
       "x": 5136,
-      "y": 3762,
+      "y": 805,
       "t": "RUAF Machine Gunner"
     },
     {
       "c": "lever",
       "x": 4930,
-      "y": 3397,
+      "y": 1170,
       "t": "Intercom button and keycard reader"
     },
     {
       "c": "spawn_rogueraider",
       "x": 5147,
-      "y": 3760,
+      "y": 807,
       "t": "RUAF Sniper"
     },
     {
       "c": "spawn_rogueraider",
       "x": 5044,
-      "y": 3792,
+      "y": 775,
       "t": "RUAF Sniper"
     },
     {
       "c": "loot_key",
       "x": 5461,
-      "y": 3472,
+      "y": 1095,
       "t": "TerraGroup Corporate Apartment Key"
     },
     {
       "c": "exfil_transit",
       "x": 5099,
-      "y": 3753,
+      "y": 814,
       "t": "Transit to Terminal "
     },
     {
       "c": "quest",
       "x": 5502,
-      "y": 2748,
+      "y": 1819,
       "t": "Locate the TerraGroup Cargo"
     },
     {
       "c": "exfil_transit",
       "x": 2872,
-      "y": 4252,
+      "y": 315,
       "t": "Transit to Icebreaker "
     }
   ]
