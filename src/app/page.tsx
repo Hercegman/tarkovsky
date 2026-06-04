@@ -1,15 +1,22 @@
 import Link from "next/link";
 import Image from "next/image";
-import { getMaps, getTraders, getTraderQuestCounts } from "@/lib/data";
+import {
+  getMaps,
+  getTraders,
+  getTraderQuestCounts,
+  getMapQuestCounts,
+} from "@/lib/data";
 import { RadarBackground } from "@/components/radar-background";
 import { Reveal, RevealGroup, RevealItem } from "@/components/ui/reveal";
 import { AnimatedCard } from "@/components/ui/animated-card";
+import { MapRevealCard } from "@/components/map-reveal-card";
 
 export default async function Home() {
-  const [maps, traders, traderCounts] = await Promise.all([
+  const [maps, traders, traderCounts, mapCounts] = await Promise.all([
     getMaps(),
     getTraders(),
     getTraderQuestCounts(),
+    getMapQuestCounts(),
   ]);
 
   return (
@@ -136,14 +143,10 @@ export default async function Home() {
             Maps
           </h2>
         </Reveal>
-        <RevealGroup className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
+        <RevealGroup className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
           {maps.map((m) => (
             <RevealItem key={m.id}>
-              <Link href={`/maps/${m.id}`}>
-                <AnimatedCard className="px-4 py-5 text-center">
-                  <span className="font-medium">{m.name}</span>
-                </AnimatedCard>
-              </Link>
+              <MapRevealCard id={m.id} name={m.name} count={mapCounts[m.id] ?? 0} />
             </RevealItem>
           ))}
         </RevealGroup>

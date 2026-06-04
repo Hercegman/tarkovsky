@@ -60,7 +60,7 @@ label,
 select,
 [role="button"],
 input[type="checkbox"] {
-  cursor: url("/cursor.png") 2 0, auto;
+  cursor: url("/cursor.png") 1 0, auto;
 }
 
 /* Keep a text cursor in text fields. */
