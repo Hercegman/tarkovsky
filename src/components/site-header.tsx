@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { HeaderAuth } from "./header-auth";
 import { TradersMenu } from "./traders-menu";
+import { SoundToggle } from "./sound-toggle";
 import { getTraders } from "@/lib/data";
 
 const nav = [
@@ -34,6 +35,7 @@ export async function SiteHeader() {
           <TradersMenu traders={traders} />
         </nav>
         <div className="ml-auto flex items-center gap-3 text-sm">
+          <SoundToggle />
           <HeaderAuth />
         </div>
       </div>
