@@ -1,24 +1,12 @@
 [
-  {
-    "id": "customs",
-    "name": "Customs",
-    "image": "/maps/customs.webp",
-    "width": 4097,
-    "height": 2142,
-    "source": {
-      "url": "https://escapefromtarkov.fandom.com/wiki/File:Customs_Interactive_Map_Base.png",
-      "license": "CC BY-NC-SA",
-      "wiki": "Escape from Tarkov Wiki",
-      "fetchedAt": "2026-06-04T00:00:00Z"
-    }
-  },
-  { "id": "factory", "name": "Factory", "image": null, "width": null, "height": null },
-  { "id": "woods", "name": "Woods", "image": null, "width": null, "height": null },
-  { "id": "shoreline", "name": "Shoreline", "image": null, "width": null, "height": null },
-  { "id": "interchange", "name": "Interchange", "image": null, "width": null, "height": null },
-  { "id": "reserve", "name": "Reserve", "image": null, "width": null, "height": null },
-  { "id": "lighthouse", "name": "Lighthouse", "image": null, "width": null, "height": null },
-  { "id": "streets-of-tarkov", "name": "Streets of Tarkov", "image": null, "width": null, "height": null },
-  { "id": "ground-zero", "name": "Ground Zero", "image": null, "width": null, "height": null },
-  { "id": "the-lab", "name": "The Lab", "image": null, "width": null, "height": null }
+  { "id": "customs", "name": "Customs" },
+  { "id": "factory", "name": "Factory" },
+  { "id": "woods", "name": "Woods" },
+  { "id": "shoreline", "name": "Shoreline" },
+  { "id": "interchange", "name": "Interchange" },
+  { "id": "reserve", "name": "Reserve" },
+  { "id": "lighthouse", "name": "Lighthouse" },
+  { "id": "streets-of-tarkov", "name": "Streets of Tarkov" },
+  { "id": "ground-zero", "name": "Ground Zero" },
+  { "id": "the-lab", "name": "The Lab" }
 ]

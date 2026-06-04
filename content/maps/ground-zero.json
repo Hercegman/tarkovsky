@@ -1,0 +1,594 @@
+{
+  "id": "ground-zero",
+  "name": "Ground Zero",
+  "image": "/maps/ground-zero.webp",
+  "width": 6920,
+  "height": 6920,
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Map:Ground_Zero",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T17:23:45.986Z"
+  },
+  "categories": [
+    {
+      "id": "exfil_pmc",
+      "name": "PMC",
+      "color": "#fa005a"
+    },
+    {
+      "id": "exfil_scav",
+      "name": "Scav",
+      "color": "#fa005a"
+    },
+    {
+      "id": "exfil_transit",
+      "name": "Transit",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_pmc",
+      "name": "PMC",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_scav",
+      "name": "Scav",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_sniper",
+      "name": "Sniper Scav",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_boss",
+      "name": "Boss",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_cultist",
+      "name": "Cultist",
+      "color": "#fa005a"
+    },
+    {
+      "id": "locked",
+      "name": "Locked",
+      "color": "#fa005a"
+    },
+    {
+      "id": "quest",
+      "name": "Quest Related",
+      "color": "#fa005a"
+    },
+    {
+      "id": "loot_key",
+      "name": "Key Spawn",
+      "color": "#fa005a"
+    },
+    {
+      "id": "stationarygun",
+      "name": "Gun Emplacement",
+      "color": "#fa005a"
+    },
+    {
+      "id": "loot_loose",
+      "name": "Loose Loot",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_ammo",
+      "name": "Ammo Box",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_cash",
+      "name": "Cash Register",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_pc",
+      "name": "Computer",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_dead",
+      "name": "Dead Body",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_drawer",
+      "name": "Drawer",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_grenade",
+      "name": "Grenade Box",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_jacket",
+      "name": "Jacket",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_medical",
+      "name": "Medbag",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_medcase",
+      "name": "Medcase",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_safe",
+      "name": "Safe",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_duffle",
+      "name": "Sports Bag",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_suitcase",
+      "name": "Suitcase",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_crate",
+      "name": "Supply Crate",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_tool",
+      "name": "Toolbox",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_weapon",
+      "name": "Weapon Box",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_greencrate",
+      "name": "Wooden Crate",
+      "color": "#fa005a"
+    }
+  ],
+  "markers": [
+    {
+      "c": "exfil_pmc",
+      "x": 3218,
+      "y": 889,
+      "t": "Scav Checkpoint (Co-op) "
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 3671,
+      "y": 5410,
+      "t": "Nakatani Basement Stairs"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 3733,
+      "y": 3030,
+      "t": "Police Cordon V-Ex"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 1170,
+      "y": 1566,
+      "t": "Mira Ave (Flare)"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 1869,
+      "y": 721,
+      "t": "Emercom Checkpoint"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 3496,
+      "y": 1139,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2068,
+      "y": 4714,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2303,
+      "y": 3700,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2277,
+      "y": 4730,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2133,
+      "y": 3860,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 3107,
+      "y": 3419,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1995,
+      "y": 5714,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 3016,
+      "y": 675,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1969,
+      "y": 1064,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 689,
+      "y": 3426,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1934,
+      "y": 4514,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2188,
+      "y": 1777,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1552,
+      "y": 1712,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 3594,
+      "y": 1762,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1553,
+      "y": 3076,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 6229,
+      "y": 3545,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 6259,
+      "y": 2933,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 6152,
+      "y": 1247,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 5478,
+      "y": 2504,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 6153,
+      "y": 1866,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "stationarygun",
+      "x": 2695,
+      "y": 5577,
+      "t": "AGS-30 automatic grenade launcher"
+    },
+    {
+      "c": "stationarygun",
+      "x": 3665,
+      "y": 3679,
+      "t": "NSV \"Utyos\" heavy machine gun"
+    },
+    {
+      "c": "locked",
+      "x": 5796,
+      "y": 2347,
+      "t": "Underground Parking Utility Room"
+    },
+    {
+      "c": "locked",
+      "x": 2893,
+      "y": 3688,
+      "t": "Tarbank Cash Register Booth"
+    },
+    {
+      "c": "locked",
+      "x": 4438,
+      "y": 2433,
+      "t": "TerraGroup Science Office"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 6067,
+      "y": 1501,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 5798,
+      "y": 2505,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 6067,
+      "y": 3277,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 3500,
+      "y": 1340,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 2133,
+      "y": 946,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 2622,
+      "y": 4306,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 3106,
+      "y": 5004,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 3466,
+      "y": 2144,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 2622,
+      "y": 2880,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 1286,
+      "y": 2508,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 2622,
+      "y": 1988,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "loot_key",
+      "x": 4146,
+      "y": 2097,
+      "t": "TerraGroup Science Office Key"
+    },
+    {
+      "c": "container_dead",
+      "x": 4148,
+      "y": 2098,
+      "t": "Lab Technician Body"
+    },
+    {
+      "c": "quest",
+      "x": 1833,
+      "y": 873,
+      "t": "Locate the Emercom Station"
+    },
+    {
+      "c": "quest",
+      "x": 3670,
+      "y": 3705,
+      "t": "Locate the Utyos Machine Gun"
+    },
+    {
+      "c": "quest",
+      "x": 2670,
+      "y": 5578,
+      "t": "Locate the AGS Grenade Launcher"
+    },
+    {
+      "c": "quest",
+      "x": 2259,
+      "y": 2107,
+      "t": "Obtain the Wine Bottle"
+    },
+    {
+      "c": "quest",
+      "x": 4388,
+      "y": 2327,
+      "t": "Obtain the Scientist's Hard Drive"
+    },
+    {
+      "c": "spawn_cultist",
+      "x": 3396,
+      "y": 1340,
+      "t": "Cultist Spawn"
+    },
+    {
+      "c": "spawn_cultist",
+      "x": 3977,
+      "y": 2145,
+      "t": "Cultist Spawn"
+    },
+    {
+      "c": "spawn_cultist",
+      "x": 2622,
+      "y": 4195,
+      "t": "Cultist Spawn"
+    },
+    {
+      "c": "spawn_cultist",
+      "x": 2622,
+      "y": 3203,
+      "t": "Cultist Spawn"
+    },
+    {
+      "c": "spawn_cultist",
+      "x": 6067,
+      "y": 2170,
+      "t": "Cultist Spawn"
+    },
+    {
+      "c": "spawn_cultist",
+      "x": 6067,
+      "y": 2970,
+      "t": "Cultist Spawn"
+    },
+    {
+      "c": "spawn_cultist",
+      "x": 2622,
+      "y": 2373,
+      "t": "Cultist Spawn"
+    },
+    {
+      "c": "spawn_cultist",
+      "x": 2622,
+      "y": 1386,
+      "t": "Cultist Spawn"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 1890,
+      "y": 721,
+      "t": "Emercom Checkpoint"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 3238,
+      "y": 889,
+      "t": "Scav Checkpoint (Co-op)"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 3671,
+      "y": 5435,
+      "t": "Nakatani Basement Stairs"
+    },
+    {
+      "c": "exfil_transit",
+      "x": 1018,
+      "y": 2508,
+      "t": "Transit to Streets of Tarkov"
+    },
+    {
+      "c": "quest",
+      "x": 2868,
+      "y": 3688,
+      "t": "Locate the Claymore Mine"
+    },
+    {
+      "c": "quest",
+      "x": 1502,
+      "y": 2509,
+      "t": "Scout the Intersection"
+    },
+    {
+      "c": "quest",
+      "x": 3841,
+      "y": 3826,
+      "t": "The little chair surrounded by big black chairs "
+    },
+    {
+      "c": "quest",
+      "x": 2230,
+      "y": 3861,
+      "t": "The computer with a joke for programmers "
+    },
+    {
+      "c": "quest",
+      "x": 3463,
+      "y": 5425,
+      "t": "The high rise where one die-hard guy kicked ass"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 1452,
+      "y": 3225,
+      "t": "Tartowers Sales Office "
+    },
+    {
+      "c": "exfil_scav",
+      "x": 1452,
+      "y": 3256,
+      "t": "Tartowers Sales Office "
+    },
+    {
+      "c": "spawn_sniper",
+      "x": 2389,
+      "y": 2781,
+      "t": "Sniper Scav Spawn"
+    },
+    {
+      "c": "spawn_sniper",
+      "x": 2868,
+      "y": 3319,
+      "t": "Sniper Scav Spawn"
+    },
+    {
+      "c": "quest",
+      "x": 2552,
+      "y": 4238,
+      "t": "Obtain the Manager's Diary"
+    },
+    {
+      "c": "quest",
+      "x": 3315,
+      "y": 2147,
+      "t": "Investigate the Courtyard Park by TerraGroup HQ "
+    },
+    {
+      "c": "quest",
+      "x": 771,
+      "y": 3404,
+      "t": "Stash TP-200 TNT Bricks in the Designated Spot"
+    }
+  ]
+}

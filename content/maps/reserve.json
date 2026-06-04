@@ -1,0 +1,3380 @@
+{
+  "id": "reserve",
+  "name": "Reserve",
+  "image": "/maps/reserve.webp",
+  "width": 4701,
+  "height": 2785,
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Map:Reserve",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T17:23:25.531Z"
+  },
+  "categories": [
+    {
+      "id": "exfil_pmc",
+      "name": "PMC",
+      "color": "#fa005a"
+    },
+    {
+      "id": "exfil_scav",
+      "name": "Scav",
+      "color": "#fa005a"
+    },
+    {
+      "id": "exfil_transit",
+      "name": "Transit",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_pmc",
+      "name": "PMC",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_scav",
+      "name": "Scav",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_boss",
+      "name": "Boss",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_rogueraider",
+      "name": "Scav Raider",
+      "color": "#fa005a"
+    },
+    {
+      "id": "lever",
+      "name": "Lever/Button",
+      "color": "#fa005a"
+    },
+    {
+      "id": "stationarygun",
+      "name": "Gun Emplacement",
+      "color": "#fa005a"
+    },
+    {
+      "id": "locked",
+      "name": "Locked",
+      "color": "#fa005a"
+    },
+    {
+      "id": "quest",
+      "name": "Quest Related",
+      "color": "#fa005a"
+    },
+    {
+      "id": "loot_key",
+      "name": "Key Spawn",
+      "color": "#fa005a"
+    },
+    {
+      "id": "loot_loose",
+      "name": "Loose Loot",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_ammo",
+      "name": "Ammo Box",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_pc",
+      "name": "Computer",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_dead",
+      "name": "Dead Scav",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_drawer",
+      "name": "Drawer",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_grenade",
+      "name": "Grenade Box",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_jacket",
+      "name": "Jacket",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_medical",
+      "name": "Medbag",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_medcase",
+      "name": "Medcase",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_safe",
+      "name": "Safe",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_duffle",
+      "name": "Sports Bag",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_crate",
+      "name": "Supply Crate",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_tool",
+      "name": "Toolbox",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_weapon",
+      "name": "Weapon Box",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_greencrate",
+      "name": "Wooden Crate",
+      "color": "#fa005a"
+    }
+  ],
+  "markers": [
+    {
+      "c": "exfil_pmc",
+      "x": 4570,
+      "y": 1139,
+      "t": "D-2"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 3399,
+      "y": 268,
+      "t": "Bunker Hermetic Door"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 2061,
+      "y": 2432,
+      "t": "Cliff Descent"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 2150,
+      "y": 559,
+      "t": "Scav Lands (Co-Op)"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 912,
+      "y": 892,
+      "t": "Armored Train"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 1577,
+      "y": 2211,
+      "t": "Checkpoint Fence"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 3198,
+      "y": 942,
+      "t": "Depot Hermetic Door"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 1673,
+      "y": 475,
+      "t": "Heating Pipe"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 3095,
+      "y": 1314,
+      "t": "Hole in the Wall by the Mountains"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 1624,
+      "y": 1862,
+      "t": "Sewer Manhole"
+    },
+    {
+      "c": "locked",
+      "x": 499,
+      "y": 674,
+      "t": "RB-AO"
+    },
+    {
+      "c": "locked",
+      "x": 488,
+      "y": 570,
+      "t": "RB-VO marked room"
+    },
+    {
+      "c": "locked",
+      "x": 1291,
+      "y": 1787,
+      "t": "RB-ST"
+    },
+    {
+      "c": "locked",
+      "x": 77,
+      "y": 2242,
+      "t": "RB-MP13"
+    },
+    {
+      "c": "locked",
+      "x": 242,
+      "y": 2242,
+      "t": "RB-MP22"
+    },
+    {
+      "c": "locked",
+      "x": 127,
+      "y": 2571,
+      "t": "RB-MP12"
+    },
+    {
+      "c": "locked",
+      "x": 287,
+      "y": 2571,
+      "t": "RB-MP11"
+    },
+    {
+      "c": "locked",
+      "x": 287,
+      "y": 2624,
+      "t": "RB-MP21"
+    },
+    {
+      "c": "locked",
+      "x": 3425,
+      "y": 1002,
+      "t": "RB-PSP2"
+    },
+    {
+      "c": "locked",
+      "x": 3603,
+      "y": 1003,
+      "t": "RB-PSV1"
+    },
+    {
+      "c": "locked",
+      "x": 3602,
+      "y": 752,
+      "t": "RB-PSV2"
+    },
+    {
+      "c": "locked",
+      "x": 3613,
+      "y": 878,
+      "t": "RB-PSV2"
+    },
+    {
+      "c": "locked",
+      "x": 3429,
+      "y": 752,
+      "t": "RB-PSP1"
+    },
+    {
+      "c": "locked",
+      "x": 3420,
+      "y": 877,
+      "t": "RB-PSP1"
+    },
+    {
+      "c": "locked",
+      "x": 2179,
+      "y": 2223,
+      "t": "RB-KPRL"
+    },
+    {
+      "c": "locked",
+      "x": 2154,
+      "y": 2239,
+      "t": "RB-KPRL"
+    },
+    {
+      "c": "locked",
+      "x": 3235,
+      "y": 2201,
+      "t": "RB-RS"
+    },
+    {
+      "c": "locked",
+      "x": 3245,
+      "y": 2157,
+      "t": "RB-KORL"
+    },
+    {
+      "c": "locked",
+      "x": 3288,
+      "y": 2188,
+      "t": "RB-RLSA"
+    },
+    {
+      "c": "locked",
+      "x": 3506,
+      "y": 2453,
+      "t": "RB-KSM"
+    },
+    {
+      "c": "locked",
+      "x": 3610,
+      "y": 2453,
+      "t": "RB-SMP"
+    },
+    {
+      "c": "locked",
+      "x": 3929,
+      "y": 2625,
+      "t": "RB-AM"
+    },
+    {
+      "c": "locked",
+      "x": 3936,
+      "y": 2441,
+      "t": "RB-AK"
+    },
+    {
+      "c": "locked",
+      "x": 1004,
+      "y": 2651,
+      "t": "RB-RH"
+    },
+    {
+      "c": "locked",
+      "x": 4332,
+      "y": 518,
+      "t": "RB-PKPM marked room"
+    },
+    {
+      "c": "locked",
+      "x": 4071,
+      "y": 558,
+      "t": "RB-OP"
+    },
+    {
+      "c": "locked",
+      "x": 4056,
+      "y": 611,
+      "t": "RB-GN"
+    },
+    {
+      "c": "locked",
+      "x": 4544,
+      "y": 2269,
+      "t": "RB-ORB1"
+    },
+    {
+      "c": "locked",
+      "x": 4544,
+      "y": 2499,
+      "t": "RB-ORB2"
+    },
+    {
+      "c": "locked",
+      "x": 4575,
+      "y": 690,
+      "t": "RB-BK marked room"
+    },
+    {
+      "c": "locked",
+      "x": 4592,
+      "y": 650,
+      "t": "RB-TB"
+    },
+    {
+      "c": "locked",
+      "x": 4166,
+      "y": 1803,
+      "t": "RB-ORB3"
+    },
+    {
+      "c": "locked",
+      "x": 4275,
+      "y": 1810,
+      "t": "RB-OB"
+    },
+    {
+      "c": "container_weapon",
+      "x": 3204,
+      "y": 2623,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3113,
+      "y": 2432,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_duffle",
+      "x": 3077,
+      "y": 2429,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 3276,
+      "y": 2263,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_tool",
+      "x": 3244,
+      "y": 2231,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_drawer",
+      "x": 3306,
+      "y": 2199,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 3313,
+      "y": 2145,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 3317,
+      "y": 2145,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 3285,
+      "y": 2145,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 3285,
+      "y": 2148,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_duffle",
+      "x": 3137,
+      "y": 2140,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "lever",
+      "x": 2137,
+      "y": 1740,
+      "t": "Bunker Hermetic Door power lever"
+    },
+    {
+      "c": "lever",
+      "x": 4310,
+      "y": 505,
+      "t": "D-2 power lever"
+    },
+    {
+      "c": "quest",
+      "x": 4310,
+      "y": 526,
+      "t": "Locate the Control Room in Underground Bunker"
+    },
+    {
+      "c": "quest",
+      "x": 4147,
+      "y": 415,
+      "t": "Locate the Hermetic Door to White Bishop"
+    },
+    {
+      "c": "quest",
+      "x": 4129,
+      "y": 600,
+      "t": "Locate the Hermetic Door to King"
+    },
+    {
+      "c": "quest",
+      "x": 4497,
+      "y": 372,
+      "t": "Locate One of Two Hermetic Doors to Black Bishop"
+    },
+    {
+      "c": "quest",
+      "x": 4345,
+      "y": 372,
+      "t": "Locate One of Two Hermetic Doors to Black Bishop"
+    },
+    {
+      "c": "quest",
+      "x": 4531,
+      "y": 506,
+      "t": "Locate One of Two Hermetic Doors to Black Pawn"
+    },
+    {
+      "c": "quest",
+      "x": 4531,
+      "y": 677,
+      "t": "Locate One of Two Hermetic Doors to Black Pawn"
+    },
+    {
+      "c": "quest",
+      "x": 4418,
+      "y": 767,
+      "t": "Locate One of Two Hermetic Doors to White Pawn"
+    },
+    {
+      "c": "quest",
+      "x": 4245,
+      "y": 768,
+      "t": "Locate One of Two Hermetic Doors to White Pawn"
+    },
+    {
+      "c": "quest",
+      "x": 1771,
+      "y": 1820,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 760,
+      "y": 1183,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 4383,
+      "y": 1796,
+      "t": "Check the First Arsenal in Black Pawn"
+    },
+    {
+      "c": "quest",
+      "x": 4268,
+      "y": 1796,
+      "t": "Check the Duty Room in Black Pawn"
+    },
+    {
+      "c": "quest",
+      "x": 4149,
+      "y": 1796,
+      "t": "Check the Second Arsenal in Black Pawn"
+    },
+    {
+      "c": "quest",
+      "x": 4553,
+      "y": 2255,
+      "t": "Check the First Arsenal in White Pawn"
+    },
+    {
+      "c": "quest",
+      "x": 4553,
+      "y": 2488,
+      "t": "Check the Second Arsenal in White Pawn"
+    },
+    {
+      "c": "quest",
+      "x": 3516,
+      "y": 2438,
+      "t": "Obtain Medical Record #1"
+    },
+    {
+      "c": "quest",
+      "x": 3604,
+      "y": 2446,
+      "t": "Obtain Medical Record #2"
+    },
+    {
+      "c": "quest",
+      "x": 1320,
+      "y": 1854,
+      "t": "Obtain MBT Integrated Navigation System"
+    },
+    {
+      "c": "quest",
+      "x": 4299,
+      "y": 528,
+      "t": "Obtain Military Documents #1"
+    },
+    {
+      "c": "quest",
+      "x": 4354,
+      "y": 570,
+      "t": "Obtain Military Documents #2"
+    },
+    {
+      "c": "quest",
+      "x": 4311,
+      "y": 587,
+      "t": "Obtain Military Documents #3"
+    },
+    {
+      "c": "quest",
+      "x": 2015,
+      "y": 527,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 144,
+      "y": 2249,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 1320,
+      "y": 1877,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 1627,
+      "y": 2108,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 1269,
+      "y": 523,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 2175,
+      "y": 952,
+      "t": "Locate and Inspect the Second LAV III"
+    },
+    {
+      "c": "quest",
+      "x": 2366,
+      "y": 640,
+      "t": "Locate and Inspect the T-90 Tank"
+    },
+    {
+      "c": "quest",
+      "x": 4338,
+      "y": 1158,
+      "t": "Obtain T-90M Commander Control Panel"
+    },
+    {
+      "c": "quest",
+      "x": 3420,
+      "y": 949,
+      "t": "Find the Food Storage Location"
+    },
+    {
+      "c": "quest",
+      "x": 1324,
+      "y": 1877,
+      "t": "Stash the Forged Lightkeeper Intelligence"
+    },
+    {
+      "c": "quest",
+      "x": 2066,
+      "y": 2280,
+      "t": "Shoot a Yellow Signal Flare at Radar Station"
+    },
+    {
+      "c": "container_safe",
+      "x": 2161,
+      "y": 2240,
+      "t": "Weapon Locker with Safe"
+    },
+    {
+      "c": "container_safe",
+      "x": 2167,
+      "y": 2202,
+      "t": "Safe"
+    },
+    {
+      "c": "container_weapon",
+      "x": 2150,
+      "y": 2207,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 2147,
+      "y": 2217,
+      "t": "Weapon Locker"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 2160,
+      "y": 2279,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_pc",
+      "x": 2172,
+      "y": 2266,
+      "t": "PC"
+    },
+    {
+      "c": "container_safe",
+      "x": 2187,
+      "y": 2261,
+      "t": "Safe"
+    },
+    {
+      "c": "container_weapon",
+      "x": 2164,
+      "y": 2277,
+      "t": "Weapon Locker"
+    },
+    {
+      "c": "container_drawer",
+      "x": 2196,
+      "y": 2289,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 2197,
+      "y": 2292,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1586,
+      "y": 2017,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1581,
+      "y": 2017,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_tool",
+      "x": 2126,
+      "y": 1733,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_dead",
+      "x": 2462,
+      "y": 1798,
+      "t": "Dead Scav"
+    },
+    {
+      "c": "container_duffle",
+      "x": 2599,
+      "y": 1746,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 4201,
+      "y": 1328,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4228,
+      "y": 1358,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4240,
+      "y": 1224,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4300,
+      "y": 1241,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 4129,
+      "y": 1121,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_safe",
+      "x": 4085,
+      "y": 1117,
+      "t": "Safe"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4083,
+      "y": 1126,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4081,
+      "y": 1129,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_pc",
+      "x": 4084,
+      "y": 1136,
+      "t": "PC"
+    },
+    {
+      "c": "container_tool",
+      "x": 4134,
+      "y": 1095,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_tool",
+      "x": 4158,
+      "y": 1157,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_tool",
+      "x": 4227,
+      "y": 1117,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4388,
+      "y": 1066,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_jacket",
+      "x": 4420,
+      "y": 1173,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 4426,
+      "y": 1175,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4423,
+      "y": 1190,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4337,
+      "y": 767,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_tool",
+      "x": 4454,
+      "y": 761,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4352,
+      "y": 848,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4333,
+      "y": 848,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4021,
+      "y": 605,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 4069,
+      "y": 614,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4037,
+      "y": 575,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4079,
+      "y": 545,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_tool",
+      "x": 4472,
+      "y": 452,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4201,
+      "y": 406,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_tool",
+      "x": 4130,
+      "y": 527,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4181,
+      "y": 489,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4614,
+      "y": 634,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4572,
+      "y": 587,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 4562,
+      "y": 467,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_crate",
+      "x": 4217,
+      "y": 614,
+      "t": "Technical Supply Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4275,
+      "y": 639,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_grenade",
+      "x": 4253,
+      "y": 585,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4304,
+      "y": 585,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_crate",
+      "x": 4356,
+      "y": 614,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 4297,
+      "y": 614,
+      "t": "Medical Supply Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4406,
+      "y": 639,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_grenade",
+      "x": 4433,
+      "y": 588,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_tool",
+      "x": 4362,
+      "y": 535,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4356,
+      "y": 514,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4338,
+      "y": 531,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4335,
+      "y": 531,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4318,
+      "y": 513,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4320,
+      "y": 513,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4329,
+      "y": 527,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4334,
+      "y": 537,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4336,
+      "y": 537,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4356,
+      "y": 541,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4280,
+      "y": 530,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4273,
+      "y": 530,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4275,
+      "y": 530,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4242,
+      "y": 555,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4281,
+      "y": 512,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4254,
+      "y": 483,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4257,
+      "y": 483,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4281,
+      "y": 518,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_medcase",
+      "x": 4062,
+      "y": 335,
+      "t": "Medcase"
+    },
+    {
+      "c": "container_duffle",
+      "x": 3915,
+      "y": 298,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3958,
+      "y": 332,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4542,
+      "y": 293,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_jacket",
+      "x": 4541,
+      "y": 291,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 4523,
+      "y": 308,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4541,
+      "y": 333,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4407,
+      "y": 316,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4372,
+      "y": 311,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4392,
+      "y": 281,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_tool",
+      "x": 4466,
+      "y": 259,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4299,
+      "y": 275,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_crate",
+      "x": 4250,
+      "y": 314,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 4314,
+      "y": 210,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 4404,
+      "y": 208,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_tool",
+      "x": 4383,
+      "y": 254,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_tool",
+      "x": 4505,
+      "y": 218,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_weapon",
+      "x": 438,
+      "y": 412,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 691,
+      "y": 502,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 631,
+      "y": 450,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 442,
+      "y": 847,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_grenade",
+      "x": 474,
+      "y": 609,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_duffle",
+      "x": 475,
+      "y": 664,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 521,
+      "y": 658,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1254,
+      "y": 508,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_medical",
+      "x": 1234,
+      "y": 588,
+      "t": "Medbag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1178,
+      "y": 691,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1067,
+      "y": 1929,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 1043,
+      "y": 1784,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1027,
+      "y": 1556,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 835,
+      "y": 1566,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_crate",
+      "x": 529,
+      "y": 1473,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_grenade",
+      "x": 424,
+      "y": 1898,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_duffle",
+      "x": 406,
+      "y": 1903,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 572,
+      "y": 1274,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_jacket",
+      "x": 656,
+      "y": 1047,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_dead",
+      "x": 296,
+      "y": 844,
+      "t": "Dead Scav"
+    },
+    {
+      "c": "container_dead",
+      "x": 318,
+      "y": 1167,
+      "t": "Dead Scav"
+    },
+    {
+      "c": "container_jacket",
+      "x": 1040,
+      "y": 1183,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1019,
+      "y": 1176,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_grenade",
+      "x": 1368,
+      "y": 703,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1358,
+      "y": 689,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_dead",
+      "x": 293,
+      "y": 1058,
+      "t": "Dead Scav"
+    },
+    {
+      "c": "container_grenade",
+      "x": 280,
+      "y": 1059,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 102,
+      "y": 1002,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 96,
+      "y": 1046,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 258,
+      "y": 1337,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_jacket",
+      "x": 225,
+      "y": 1300,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_tool",
+      "x": 171,
+      "y": 1305,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_weapon",
+      "x": 294,
+      "y": 1754,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_grenade",
+      "x": 69,
+      "y": 1455,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_grenade",
+      "x": 166,
+      "y": 1841,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_weapon",
+      "x": 199,
+      "y": 1786,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 196,
+      "y": 1789,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_crate",
+      "x": 3595,
+      "y": 1120,
+      "t": "Technical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3623,
+      "y": 1031,
+      "t": "Medical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3628,
+      "y": 1099,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3629,
+      "y": 1070,
+      "t": "Medical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3632,
+      "y": 842,
+      "t": "Medical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3613,
+      "y": 846,
+      "t": "Technical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3588,
+      "y": 821,
+      "t": "Medical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3601,
+      "y": 782,
+      "t": "Medical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3400,
+      "y": 1014,
+      "t": "Technical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3424,
+      "y": 1045,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3445,
+      "y": 1099,
+      "t": "Medical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3437,
+      "y": 1120,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3419,
+      "y": 1120,
+      "t": "Technical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3393,
+      "y": 843,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3441,
+      "y": 872,
+      "t": "Technical Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3420,
+      "y": 844,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3429,
+      "y": 817,
+      "t": "Medical Supply Crate"
+    },
+    {
+      "c": "container_tool",
+      "x": 3404,
+      "y": 775,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_crate",
+      "x": 3429,
+      "y": 775,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3445,
+      "y": 793,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "lever",
+      "x": 4548,
+      "y": 1133,
+      "t": "D-2 sliding door button"
+    },
+    {
+      "c": "container_grenade",
+      "x": 1602,
+      "y": 646,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1622,
+      "y": 598,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 2087,
+      "y": 525,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_tool",
+      "x": 2037,
+      "y": 683,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_crate",
+      "x": 3480,
+      "y": 270,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 3543,
+      "y": 265,
+      "t": "Technical Supply Crate"
+    },
+    {
+      "c": "container_grenade",
+      "x": 3556,
+      "y": 394,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3516,
+      "y": 412,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3460,
+      "y": 408,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3497,
+      "y": 420,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 1236,
+      "y": 784,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 2225,
+      "y": 568,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 2281,
+      "y": 583,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 2558,
+      "y": 651,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_jacket",
+      "x": 2667,
+      "y": 764,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_duffle",
+      "x": 2675,
+      "y": 778,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 1532,
+      "y": 1054,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_jacket",
+      "x": 1543,
+      "y": 1018,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1489,
+      "y": 1005,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1590,
+      "y": 958,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1443,
+      "y": 901,
+      "t": "Weapon Box (5x5)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1353,
+      "y": 890,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_crate",
+      "x": 1300,
+      "y": 957,
+      "t": "Technical Supply Crate"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1456,
+      "y": 880,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 1406,
+      "y": 805,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1294,
+      "y": 876,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 2251,
+      "y": 1496,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 2252,
+      "y": 1467,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_dead",
+      "x": 2254,
+      "y": 1466,
+      "t": "Dead Scav"
+    },
+    {
+      "c": "container_crate",
+      "x": 2316,
+      "y": 1410,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_crate",
+      "x": 2327,
+      "y": 1413,
+      "t": "Ration Supply Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 2388,
+      "y": 1474,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 2398,
+      "y": 1432,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 2413,
+      "y": 1399,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_crate",
+      "x": 2494,
+      "y": 1406,
+      "t": "Technical Supply Crate"
+    },
+    {
+      "c": "container_duffle",
+      "x": 2562,
+      "y": 1504,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1847,
+      "y": 1486,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1764,
+      "y": 1510,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1453,
+      "y": 1322,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_dead",
+      "x": 1453,
+      "y": 1526,
+      "t": "Dead Scav"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1460,
+      "y": 1659,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_pc",
+      "x": 1674,
+      "y": 1628,
+      "t": "PC"
+    },
+    {
+      "c": "container_grenade",
+      "x": 1610,
+      "y": 1806,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "stationarygun",
+      "x": 2081,
+      "y": 2227,
+      "t": "AGS-30 automatic grenade launcher"
+    },
+    {
+      "c": "stationarygun",
+      "x": 823,
+      "y": 1006,
+      "t": "NSV \"Utyos\" heavy machine gun"
+    },
+    {
+      "c": "stationarygun",
+      "x": 1481,
+      "y": 425,
+      "t": "NSV \"Utyos\" heavy machine gun"
+    },
+    {
+      "c": "stationarygun",
+      "x": 599,
+      "y": 1696,
+      "t": "AGS-30 automatic grenade launcher"
+    },
+    {
+      "c": "stationarygun",
+      "x": 2265,
+      "y": 1124,
+      "t": "NSV \"Utyos\" heavy machine gun"
+    },
+    {
+      "c": "stationarygun",
+      "x": 2338,
+      "y": 1227,
+      "t": "NSV \"Utyos\" heavy machine gun"
+    },
+    {
+      "c": "stationarygun",
+      "x": 1913,
+      "y": 2124,
+      "t": "NSV \"Utyos\" heavy machine gun"
+    },
+    {
+      "c": "stationarygun",
+      "x": 2889,
+      "y": 706,
+      "t": "AGS-30 automatic grenade launcher"
+    },
+    {
+      "c": "container_tool",
+      "x": 1485,
+      "y": 1786,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_jacket",
+      "x": 1524,
+      "y": 1815,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 1530,
+      "y": 1815,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1494,
+      "y": 1818,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2639,
+      "y": 1493,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1068,
+      "y": 1820,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1527,
+      "y": 1834,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1621,
+      "y": 1496,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 664,
+      "y": 1174,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 669,
+      "y": 833,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 613,
+      "y": 481,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1191,
+      "y": 665,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1696,
+      "y": 577,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2234,
+      "y": 612,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1252,
+      "y": 1386,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2280,
+      "y": 1165,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4375,
+      "y": 761,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1984,
+      "y": 1492,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2359,
+      "y": 2292,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4084,
+      "y": 1401,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "container_crate",
+      "x": 2325,
+      "y": 1399,
+      "t": "Medical Supply Crate"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 1441,
+      "y": 935,
+      "t": "Glukhar Boss Spawn"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1238,
+      "y": 1911,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_grenade",
+      "x": 1282,
+      "y": 1866,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_grenade",
+      "x": 1286,
+      "y": 1872,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1275,
+      "y": 1848,
+      "t": "Weapon Box (5x5)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1270,
+      "y": 1798,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_tool",
+      "x": 1333,
+      "y": 1702,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1299,
+      "y": 1705,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1263,
+      "y": 1658,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1247,
+      "y": 1518,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_jacket",
+      "x": 159,
+      "y": 2326,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 148,
+      "y": 2331,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 148,
+      "y": 2333,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_duffle",
+      "x": 148,
+      "y": 2338,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 127,
+      "y": 2348,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_drawer",
+      "x": 140,
+      "y": 2326,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 137,
+      "y": 2326,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 61,
+      "y": 2247,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_weapon",
+      "x": 132,
+      "y": 2194,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 105,
+      "y": 2208,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 74,
+      "y": 2216,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_tool",
+      "x": 130,
+      "y": 2237,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_ammo",
+      "x": 220,
+      "y": 2237,
+      "t": "Ammo Box"
+    },
+    {
+      "c": "container_tool",
+      "x": 208,
+      "y": 2228,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_grenade",
+      "x": 260,
+      "y": 2242,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_drawer",
+      "x": 232,
+      "y": 2252,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 229,
+      "y": 2252,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 245,
+      "y": 2277,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 207,
+      "y": 2290,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_pc",
+      "x": 425,
+      "y": 2338,
+      "t": "PC"
+    },
+    {
+      "c": "container_drawer",
+      "x": 426,
+      "y": 2325,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_duffle",
+      "x": 446,
+      "y": 2345,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 476,
+      "y": 2327,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_tool",
+      "x": 467,
+      "y": 2327,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_tool",
+      "x": 373,
+      "y": 2297,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 375,
+      "y": 2250,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_tool",
+      "x": 103,
+      "y": 2646,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_jacket",
+      "x": 137,
+      "y": 2620,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_tool",
+      "x": 143,
+      "y": 2621,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 130,
+      "y": 2580,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_jacket",
+      "x": 134,
+      "y": 2564,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_drawer",
+      "x": 89,
+      "y": 2524,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_jacket",
+      "x": 105,
+      "y": 2538,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_duffle",
+      "x": 42,
+      "y": 2530,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_jacket",
+      "x": 56,
+      "y": 2539,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 56,
+      "y": 2535,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_drawer",
+      "x": 290,
+      "y": 2635,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 290,
+      "y": 2639,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_tool",
+      "x": 303,
+      "y": 2620,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_weapon",
+      "x": 320,
+      "y": 2637,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 284,
+      "y": 2592,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_tool",
+      "x": 290,
+      "y": 2583,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_jacket",
+      "x": 295,
+      "y": 2565,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_drawer",
+      "x": 249,
+      "y": 2522,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 249,
+      "y": 2518,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_jacket",
+      "x": 265,
+      "y": 2538,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 265,
+      "y": 2534,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_tool",
+      "x": 223,
+      "y": 2541,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_duffle",
+      "x": 479,
+      "y": 2540,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_jacket",
+      "x": 428,
+      "y": 2531,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_drawer",
+      "x": 412,
+      "y": 2513,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 412,
+      "y": 2518,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 412,
+      "y": 2522,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_pc",
+      "x": 405,
+      "y": 2525,
+      "t": "PC"
+    },
+    {
+      "c": "container_pc",
+      "x": 387,
+      "y": 2541,
+      "t": "PC"
+    },
+    {
+      "c": "container_pc",
+      "x": 365,
+      "y": 2530,
+      "t": "PC"
+    },
+    {
+      "c": "container_pc",
+      "x": 365,
+      "y": 2513,
+      "t": "PC"
+    },
+    {
+      "c": "container_drawer",
+      "x": 368,
+      "y": 2512,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 465,
+      "y": 2683,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 378,
+      "y": 2601,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 420,
+      "y": 2686,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 3456,
+      "y": 2652,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3472,
+      "y": 2573,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 3543,
+      "y": 2634,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 3589,
+      "y": 2614,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3632,
+      "y": 2345,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_duffle",
+      "x": 3515,
+      "y": 2425,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 3460,
+      "y": 2501,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "loot_key",
+      "x": 2196,
+      "y": 2291,
+      "t": "RB-AK Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 4127,
+      "y": 1127,
+      "t": "RB-AM Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 1099,
+      "y": 2263,
+      "t": "RB-KORL Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 4076,
+      "y": 289,
+      "t": "RB-PSV1 Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 110,
+      "y": 997,
+      "t": "RB-TB Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 4184,
+      "y": 1274,
+      "t": "RB-ORB1 Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 4289,
+      "y": 1254,
+      "t": "RB-ORB2 Key"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4138,
+      "y": 2222,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4099,
+      "y": 2227,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_pc",
+      "x": 4099,
+      "y": 2285,
+      "t": "PC"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4071,
+      "y": 2230,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_tool",
+      "x": 3992,
+      "y": 2261,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3919,
+      "y": 2220,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3870,
+      "y": 2226,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4100,
+      "y": 2398,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_pc",
+      "x": 4135,
+      "y": 2419,
+      "t": "PC"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4129,
+      "y": 2474,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4128,
+      "y": 2443,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_pc",
+      "x": 4088,
+      "y": 2474,
+      "t": "PC"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4043,
+      "y": 2396,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_grenade",
+      "x": 3950,
+      "y": 2411,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_medical",
+      "x": 3987,
+      "y": 2446,
+      "t": "Medbag"
+    },
+    {
+      "c": "container_pc",
+      "x": 3909,
+      "y": 2474,
+      "t": "PC"
+    },
+    {
+      "c": "container_pc",
+      "x": 3906,
+      "y": 2474,
+      "t": "PC"
+    },
+    {
+      "c": "container_duffle",
+      "x": 3888,
+      "y": 2464,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 3834,
+      "y": 2548,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_dead",
+      "x": 3874,
+      "y": 2652,
+      "t": "Dead Scav"
+    },
+    {
+      "c": "container_jacket",
+      "x": 3873,
+      "y": 2638,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 3878,
+      "y": 2638,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 3917,
+      "y": 2626,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_tool",
+      "x": 3887,
+      "y": 2610,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_tool",
+      "x": 3887,
+      "y": 2595,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3907,
+      "y": 2614,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_tool",
+      "x": 3911,
+      "y": 2603,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_pc",
+      "x": 3988,
+      "y": 2647,
+      "t": "PC"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 3950,
+      "y": 2602,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_jacket",
+      "x": 4009,
+      "y": 2614,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4009,
+      "y": 2591,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_grenade",
+      "x": 4019,
+      "y": 2591,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4054,
+      "y": 2594,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4042,
+      "y": 2637,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4071,
+      "y": 2667,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4100,
+      "y": 2668,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4100,
+      "y": 2664,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_pc",
+      "x": 4136,
+      "y": 2598,
+      "t": "PC"
+    },
+    {
+      "c": "container_tool",
+      "x": 1105,
+      "y": 2299,
+      "t": "Toolbox"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1111,
+      "y": 2268,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1111,
+      "y": 2272,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_duffle",
+      "x": 951,
+      "y": 2187,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 947,
+      "y": 2235,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1015,
+      "y": 2263,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_medical",
+      "x": 1290,
+      "y": 2268,
+      "t": "Medbag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1351,
+      "y": 2276,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1363,
+      "y": 2251,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1363,
+      "y": 2283,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1457,
+      "y": 2298,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1453,
+      "y": 2278,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 1467,
+      "y": 2557,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1387,
+      "y": 2671,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 944,
+      "y": 2532,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 1023,
+      "y": 2613,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 1040,
+      "y": 2551,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1054,
+      "y": 2551,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1111,
+      "y": 2552,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_duffle",
+      "x": 1089,
+      "y": 2637,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1049,
+      "y": 2659,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 1086,
+      "y": 2701,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_drawer",
+      "x": 1001,
+      "y": 2733,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 977,
+      "y": 2726,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_drawer",
+      "x": 977,
+      "y": 2653,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 977,
+      "y": 2656,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_grenade",
+      "x": 4557,
+      "y": 1830,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4537,
+      "y": 1963,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4330,
+      "y": 2117,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4561,
+      "y": 2122,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4552,
+      "y": 2117,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_grenade",
+      "x": 4403,
+      "y": 2169,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4320,
+      "y": 2584,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4329,
+      "y": 2480,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4441,
+      "y": 2489,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4459,
+      "y": 2463,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4563,
+      "y": 2500,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4560,
+      "y": 2471,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4562,
+      "y": 2487,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4333,
+      "y": 2347,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4363,
+      "y": 2353,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4410,
+      "y": 2395,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_grenade",
+      "x": 4508,
+      "y": 2271,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_greencrate",
+      "x": 4497,
+      "y": 2277,
+      "t": "Wooden Crate"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4562,
+      "y": 2271,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4558,
+      "y": 2271,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4392,
+      "y": 2148,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_jacket",
+      "x": 4506,
+      "y": 2126,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 4506,
+      "y": 2131,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_jacket",
+      "x": 4506,
+      "y": 2128,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4402,
+      "y": 1785,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4402,
+      "y": 1791,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_medical",
+      "x": 4020,
+      "y": 2023,
+      "t": "Medbag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4075,
+      "y": 2002,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4015,
+      "y": 1929,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4037,
+      "y": 1818,
+      "t": "Weapon Box (6x3)"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4135,
+      "y": 2018,
+      "t": "Weapon Box (5x5)"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4147,
+      "y": 2018,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_grenade",
+      "x": 4174,
+      "y": 1958,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_medical",
+      "x": 4177,
+      "y": 1887,
+      "t": "Medbag"
+    },
+    {
+      "c": "container_duffle",
+      "x": 4170,
+      "y": 1844,
+      "t": "Sports Bag"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4152,
+      "y": 1818,
+      "t": "Weapon Box (5x2)"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4145,
+      "y": 1818,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4151,
+      "y": 1786,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4156,
+      "y": 1786,
+      "t": "Drawer"
+    },
+    {
+      "c": "container_weapon",
+      "x": 4294,
+      "y": 1845,
+      "t": "Weapon Box (4x4)"
+    },
+    {
+      "c": "container_drawer",
+      "x": 4247,
+      "y": 1818,
+      "t": "Drawer"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 894,
+      "y": 1679,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 1451,
+      "y": 1567,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 1084,
+      "y": 956,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 1054,
+      "y": 604,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 2015,
+      "y": 1187,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 2001,
+      "y": 1441,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 2353,
+      "y": 1474,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 2362,
+      "y": 1748,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 2613,
+      "y": 1446,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 4279,
+      "y": 603,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 3516,
+      "y": 616,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 3514,
+      "y": 985,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_rogueraider",
+      "x": 1174,
+      "y": 937,
+      "t": "Scav Raider Spawn"
+    },
+    {
+      "c": "spawn_rogueraider",
+      "x": 4257,
+      "y": 599,
+      "t": "Scav Raider Spawn"
+    },
+    {
+      "c": "container_jacket",
+      "x": 2364,
+      "y": 1516,
+      "t": "Jacket"
+    },
+    {
+      "c": "container_grenade",
+      "x": 2137,
+      "y": 807,
+      "t": "Grenade Box"
+    },
+    {
+      "c": "container_drawer",
+      "x": 2137,
+      "y": 818,
+      "t": "Drawer"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 3513,
+      "y": 818,
+      "t": "Glukhar Boss Spawn"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 2420,
+      "y": 1178,
+      "t": "Glukhar Boss Spawn"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 2616,
+      "y": 1485,
+      "t": "Glukhar Boss Spawn"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 1276,
+      "y": 1398,
+      "t": "Glukhar Boss Spawn"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 922,
+      "y": 892,
+      "t": "Armored Train"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 2160,
+      "y": 559,
+      "t": "Scav Lands (Co-Op)"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 1634,
+      "y": 1862,
+      "t": "Sewer Manhole"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 3409,
+      "y": 268,
+      "t": "Bunker Hermetic Door"
+    },
+    {
+      "c": "exfil_transit",
+      "x": 374,
+      "y": 1138,
+      "t": "Transit to Lighthouse"
+    },
+    {
+      "c": "quest",
+      "x": 1235,
+      "y": 601,
+      "t": "Stash a Military cable and Bulbex cable cutter"
+    },
+    {
+      "c": "exfil_transit",
+      "x": 374,
+      "y": 719,
+      "t": "Transit to Woods"
+    },
+    {
+      "c": "exfil_transit",
+      "x": 2538,
+      "y": 590,
+      "t": "Transit to Customs"
+    },
+    {
+      "c": "quest",
+      "x": 989,
+      "y": 1164,
+      "t": "The two chair riddle "
+    },
+    {
+      "c": "quest",
+      "x": 2228,
+      "y": 1621,
+      "t": "Place where conscripts did a very important task "
+    },
+    {
+      "c": "quest",
+      "x": 2085,
+      "y": 1231,
+      "t": "Every tank driver's first videogame"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 1255,
+      "y": 370,
+      "t": "Exit to Woods"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 1265,
+      "y": 370,
+      "t": "Exit to Woods"
+    },
+    {
+      "c": "quest",
+      "x": 3549,
+      "y": 2306,
+      "t": "Obtain Lightkeeper's Cargo Crate"
+    },
+    {
+      "c": "quest",
+      "x": 1096,
+      "y": 2331,
+      "t": "Obtain the Electronic Jammer"
+    },
+    {
+      "c": "quest",
+      "x": 1260,
+      "y": 1705,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 3890,
+      "y": 2217,
+      "t": "Stash the Letter"
+    },
+    {
+      "c": "quest",
+      "x": 1337,
+      "y": 892,
+      "t": "Obtain the AK-50 Barrel"
+    },
+    {
+      "c": "locked",
+      "x": 4216,
+      "y": 490,
+      "t": "RB-PKPTS"
+    }
+  ]
+}

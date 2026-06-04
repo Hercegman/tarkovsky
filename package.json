@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "ingest": "node scripts/ingest-wiki.mts",
+    "ingest:maps": "node scripts/ingest-maps.mts",
     "db:generate": "drizzle-kit generate",
     "db:migrate": "drizzle-kit migrate",
     "db:push": "drizzle-kit push"

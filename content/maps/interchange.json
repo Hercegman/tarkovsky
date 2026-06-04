@@ -1,0 +1,853 @@
+{
+  "id": "interchange",
+  "name": "Interchange",
+  "image": "/maps/interchange.webp",
+  "width": 9600,
+  "height": 5402,
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Map:Interchange",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T17:23:20.467Z"
+  },
+  "categories": [
+    {
+      "id": "exfil_pmc",
+      "name": "PMC",
+      "color": "#fa005a"
+    },
+    {
+      "id": "exfil_scav",
+      "name": "Scav",
+      "color": "#fa005a"
+    },
+    {
+      "id": "exfil_transit",
+      "name": "Transit",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_pmc",
+      "name": "PMC",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_scav",
+      "name": "Scav",
+      "color": "#fa005a"
+    },
+    {
+      "id": "spawn_boss",
+      "name": "Boss",
+      "color": "#fa005a"
+    },
+    {
+      "id": "lever",
+      "name": "Lever/Button",
+      "color": "#fa005a"
+    },
+    {
+      "id": "locked",
+      "name": "Locked",
+      "color": "#fa005a"
+    },
+    {
+      "id": "quest",
+      "name": "Quest Related",
+      "color": "#fa005a"
+    },
+    {
+      "id": "loot_keycard",
+      "name": "Keycard Spawn",
+      "color": "#fa005a"
+    },
+    {
+      "id": "loot_key",
+      "name": "Key Spawn",
+      "color": "#fa005a"
+    },
+    {
+      "id": "stationarygun",
+      "name": "Gun Emplacement",
+      "color": "#fa005a"
+    },
+    {
+      "id": "loot_loose",
+      "name": "Loose Loot",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_ammo",
+      "name": "Ammo Box",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_stash",
+      "name": "Cache",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_cash",
+      "name": "Cash Register",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_pc",
+      "name": "Computer",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_dead",
+      "name": "Dead Scav",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_drawer",
+      "name": "Drawer",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_grenade",
+      "name": "Grenade Box",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_jacket",
+      "name": "Jacket",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_medical",
+      "name": "Medbag",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_medcase",
+      "name": "Medcase",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_duffle",
+      "name": "Sports Bag",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_suitcase",
+      "name": "Suitcase",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_tool",
+      "name": "Toolbox",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_weapon",
+      "name": "Weapon Box",
+      "color": "#fa005a"
+    },
+    {
+      "id": "container_greencrate",
+      "name": "Wooden Crate",
+      "color": "#fa005a"
+    }
+  ],
+  "markers": [
+    {
+      "c": "exfil_transit",
+      "x": 1551,
+      "y": 5342,
+      "t": "Transit to Customs"
+    },
+    {
+      "c": "exfil_transit",
+      "x": 1613,
+      "y": 759,
+      "t": "Transit to Streets of Tarkov"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 4593,
+      "y": 1088,
+      "t": "Power Station V-Ex"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 6191,
+      "y": 3257,
+      "t": "Saferoom Exfil"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 4712,
+      "y": 4507,
+      "t": "Emercom Checkpoint"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 531,
+      "y": 766,
+      "t": "Railway Exfil"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 6462,
+      "y": 2677,
+      "t": "Scav Camp (Co-Op)"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 6468,
+      "y": 2677,
+      "t": "Scav Camp (Co-Op) "
+    },
+    {
+      "c": "exfil_scav",
+      "x": 539,
+      "y": 766,
+      "t": "Railway Exfil"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 4722,
+      "y": 4507,
+      "t": "Emercom Checkpoint"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 3550,
+      "y": 4571,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1249,
+      "y": 2490,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4852,
+      "y": 4430,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1074,
+      "y": 949,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2260,
+      "y": 880,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2220,
+      "y": 5017,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 3004,
+      "y": 4707,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4313,
+      "y": 3117,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4663,
+      "y": 2452,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4636,
+      "y": 3614,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 3965,
+      "y": 896,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 920,
+      "y": 1466,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2568,
+      "y": 847,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2881,
+      "y": 990,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4476,
+      "y": 1421,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1211,
+      "y": 1999,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4699,
+      "y": 3030,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1561,
+      "y": 2996,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1438,
+      "y": 4747,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4542,
+      "y": 2049,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 2240,
+      "y": 4538,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 3399,
+      "y": 950,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1740,
+      "y": 773,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 4092,
+      "y": 4527,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_pmc",
+      "x": 1497,
+      "y": 3591,
+      "t": "PMC Spawn"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 7390,
+      "y": 2766,
+      "t": "Killa Boss Spawn"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 8966,
+      "y": 2724,
+      "t": "Killa Boss Spawn"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 7535,
+      "y": 3802,
+      "t": "Killa Boss Spawn"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 7648,
+      "y": 1801,
+      "t": "Killa Boss Spawn"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 8144,
+      "y": 2769,
+      "t": "Killa Boss Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 671,
+      "y": 3573,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 7579,
+      "y": 3692,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 7536,
+      "y": 2766,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 3982,
+      "y": 1173,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 8972,
+      "y": 2781,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 1668,
+      "y": 2864,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 3961,
+      "y": 3773,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "loot_keycard",
+      "x": 8941,
+      "y": 4121,
+      "t": "TerraGroup Labs Green Keycard"
+    },
+    {
+      "c": "loot_key",
+      "x": 3133,
+      "y": 1296,
+      "t": "IDEA Cash Register Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 7091,
+      "y": 3693,
+      "t": "OLI Cash Register Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 8966,
+      "y": 4054,
+      "t": "RB-MP21 Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 7712,
+      "y": 2992,
+      "t": "RB-OP Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 9251,
+      "y": 3763,
+      "t": "Kiba Arms Outer Door Key"
+    },
+    {
+      "c": "loot_key",
+      "x": 8150,
+      "y": 2399,
+      "t": "Kiba Arms Outer Door Key"
+    },
+    {
+      "c": "locked",
+      "x": 7369,
+      "y": 2481,
+      "t": "EMERCOM Medical Unit"
+    },
+    {
+      "c": "locked",
+      "x": 7422,
+      "y": 2461,
+      "t": "EMERCOM Medical Unit"
+    },
+    {
+      "c": "locked",
+      "x": 7511,
+      "y": 2491,
+      "t": "EMERCOM Medical Unit"
+    },
+    {
+      "c": "locked",
+      "x": 8939,
+      "y": 4041,
+      "t": "Grumpy's Hideout"
+    },
+    {
+      "c": "locked",
+      "x": 7594,
+      "y": 2864,
+      "t": "Kiba Arms Store Inner Door"
+    },
+    {
+      "c": "locked",
+      "x": 7591,
+      "y": 2864,
+      "t": "Kiba Arms Store Outer Door"
+    },
+    {
+      "c": "locked",
+      "x": 5614,
+      "y": 1725,
+      "t": "NecrusPharm Pharmacy"
+    },
+    {
+      "c": "locked",
+      "x": 9421,
+      "y": 2383,
+      "t": "Saferoom Keycard Panel #11SR"
+    },
+    {
+      "c": "locked",
+      "x": 2309,
+      "y": 4459,
+      "t": "TerraGroup Container #21WS"
+    },
+    {
+      "c": "locked",
+      "x": 7109,
+      "y": 3576,
+      "t": "OLI Administration Office"
+    },
+    {
+      "c": "locked",
+      "x": 7116,
+      "y": 3635,
+      "t": "OLI Logistics Department Office"
+    },
+    {
+      "c": "locked",
+      "x": 8073,
+      "y": 3452,
+      "t": "OLI Outlet Utility Room"
+    },
+    {
+      "c": "locked",
+      "x": 4221,
+      "y": 1599,
+      "t": "Power Substation Utility Cabin"
+    },
+    {
+      "c": "locked",
+      "x": 8814,
+      "y": 3233,
+      "t": "ULTRA Medical Storage"
+    },
+    {
+      "c": "locked",
+      "x": 6267,
+      "y": 1556,
+      "t": "TerraGroup Container Object 14"
+    },
+    {
+      "c": "lever",
+      "x": 8980,
+      "y": 3798,
+      "t": "ULTRA shopping mall power lever"
+    },
+    {
+      "c": "lever",
+      "x": 9424,
+      "y": 2383,
+      "t": "Burger Spot urinal flush button"
+    },
+    {
+      "c": "lever",
+      "x": 6224,
+      "y": 3263,
+      "t": "Saferoom door button"
+    },
+    {
+      "c": "lever",
+      "x": 6212,
+      "y": 3252,
+      "t": "TerraGroup container object 14 lever"
+    },
+    {
+      "c": "lever",
+      "x": 7886,
+      "y": 3313,
+      "t": "Security room alarms button"
+    },
+    {
+      "c": "lever",
+      "x": 9395,
+      "y": 2745,
+      "t": "Information desk alarms button"
+    },
+    {
+      "c": "quest",
+      "x": 2310,
+      "y": 4518,
+      "t": "Stash a Toilet paper inside the secret container"
+    },
+    {
+      "c": "quest",
+      "x": 2089,
+      "y": 2828,
+      "t": "Stash BNTI Gzhel-K armors"
+    },
+    {
+      "c": "quest",
+      "x": 6218,
+      "y": 3264,
+      "t": "Stash a Bottle of Fierce Hatchling moonshine"
+    },
+    {
+      "c": "quest",
+      "x": 6219,
+      "y": 3335,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 5875,
+      "y": 2901,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 2461,
+      "y": 4594,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 3955,
+      "y": 1132,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 843,
+      "y": 3701,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 4143,
+      "y": 2654,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "quest",
+      "x": 7645,
+      "y": 2925,
+      "t": "Stash a Salty Dog beef sausage"
+    },
+    {
+      "c": "quest",
+      "x": 7683,
+      "y": 3051,
+      "t": "Stash Golden neck chains"
+    },
+    {
+      "c": "quest",
+      "x": 7500,
+      "y": 2852,
+      "t": "Install a WI-FI Camera"
+    },
+    {
+      "c": "quest",
+      "x": 7669,
+      "y": 2500,
+      "t": "Locate the KOSTIN store"
+    },
+    {
+      "c": "quest",
+      "x": 7057,
+      "y": 3099,
+      "t": "Locate the TOP BRAND store"
+    },
+    {
+      "c": "quest",
+      "x": 7723,
+      "y": 3165,
+      "t": "Locate the AVOKADO store"
+    },
+    {
+      "c": "quest",
+      "x": 7059,
+      "y": 2435,
+      "t": "Locate the DINO CLOTHES store"
+    },
+    {
+      "c": "quest",
+      "x": 7220,
+      "y": 2241,
+      "t": "Locate the tRend store"
+    },
+    {
+      "c": "quest",
+      "x": 7804,
+      "y": 3165,
+      "t": "Stash 6B47 Helmets and Peltor ComTac 2s"
+    },
+    {
+      "c": "quest",
+      "x": 2310,
+      "y": 4489,
+      "t": "Obtain the lost weapon crate"
+    },
+    {
+      "c": "quest",
+      "x": 9082,
+      "y": 2988,
+      "t": "Obtain the special edition gaming magazine"
+    },
+    {
+      "c": "quest",
+      "x": 7936,
+      "y": 2233,
+      "t": "Obtain the Goshan cargo manifests"
+    },
+    {
+      "c": "quest",
+      "x": 7349,
+      "y": 3793,
+      "t": "Obtain the OLI cargo manifests"
+    },
+    {
+      "c": "quest",
+      "x": 7554,
+      "y": 1540,
+      "t": "Obtain the IDEA cargo manifests"
+    },
+    {
+      "c": "quest",
+      "x": 7705,
+      "y": 2344,
+      "t": "Obtain the second Clothes design handbook"
+    },
+    {
+      "c": "quest",
+      "x": 9058,
+      "y": 3004,
+      "t": "Obtain the first Clothes design handbook"
+    },
+    {
+      "c": "quest",
+      "x": 7423,
+      "y": 2624,
+      "t": "Obtain the third Chemical container"
+    },
+    {
+      "c": "quest",
+      "x": 7445,
+      "y": 2494,
+      "t": "Obtain the second Chemical container"
+    },
+    {
+      "c": "quest",
+      "x": 7101,
+      "y": 3658,
+      "t": "Obtain the OLI cargo route documents"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 8014,
+      "y": 2764,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "quest",
+      "x": 2208,
+      "y": 1708,
+      "t": "Investigate the Kart Track"
+    },
+    {
+      "c": "quest",
+      "x": 7328,
+      "y": 1930,
+      "t": "Investigate the Children's Playground "
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 225,
+      "y": 3508,
+      "t": "Path to River (Flare)"
+    },
+    {
+      "c": "spawn_boss",
+      "x": 6779,
+      "y": 2196,
+      "t": "Tagilla Boss Spawn"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 7455,
+      "y": 1766,
+      "t": "Scav Spawn"
+    },
+    {
+      "c": "locked",
+      "x": 9008,
+      "y": 4473,
+      "t": "ARRS Station 14-4 KORD"
+    },
+    {
+      "c": "quest",
+      "x": 2825,
+      "y": 4699,
+      "t": "Marker Spot"
+    },
+    {
+      "c": "stationarygun",
+      "x": 4127,
+      "y": 1209,
+      "t": "NSV \"Utyos\" heavy machine gun"
+    },
+    {
+      "c": "stationarygun",
+      "x": 4062,
+      "y": 1190,
+      "t": "NSV \"Utyos\" heavy machine gun"
+    },
+    {
+      "c": "exfil_pmc",
+      "x": 6671,
+      "y": 2119,
+      "t": "Smugglers' Tunnel"
+    },
+    {
+      "c": "exfil_scav",
+      "x": 6674,
+      "y": 2119,
+      "t": "Smugglers' Tunnel"
+    },
+    {
+      "c": "spawn_scav",
+      "x": 4819,
+      "y": 2826,
+      "t": "Scav Spawn"
+    }
+  ]
+}

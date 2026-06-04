@@ -3,7 +3,7 @@
 import "server-only";
 import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
-import type { Quest, Trader, GameMap } from "./types";
+import type { Quest, Trader, GameMap, MapData } from "./types";
 
 const CONTENT = path.resolve(process.cwd(), "content");
 
@@ -27,6 +27,17 @@ export async function getMaps(): Promise<GameMap[]> {
 export async function getMap(id: string): Promise<GameMap | null> {
   const maps = await getMaps();
   return maps.find((m) => m.id === id) ?? null;
+}
+
+/** Full interactive-map data (image, bounds, categories, markers). */
+export async function getMapData(id: string): Promise<MapData | null> {
+  try {
+    return await readJson<MapData>(
+      path.join(CONTENT, "maps", `${id}.json`),
+    );
+  } catch {
+    return null;
+  }
 }
 
 let questCache: Quest[] | null = null;
