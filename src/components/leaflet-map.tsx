@@ -69,14 +69,19 @@ export default function LeafletMap({
       crs={CRS.Simple}
       bounds={bounds}
       maxBounds={bounds}
+      maxBoundsViscosity={0.85}
       minZoom={-3}
       maxZoom={2}
-      zoomSnap={0.25}
+      zoomSnap={0}
+      zoomDelta={0.5}
+      wheelPxPerZoomLevel={110}
+      wheelDebounceTime={20}
       zoomControl={interactive}
       dragging={interactive}
       scrollWheelZoom={interactive}
       doubleClickZoom={interactive}
       attributionControl={false}
+      preferCanvas
       className="h-full w-full bg-[var(--surface)]"
     >
       <AutoResize />
