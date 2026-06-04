@@ -32,12 +32,17 @@ export function ObjectiveChecklist({
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
+    // Load persisted state after mount (localStorage isn't available during SSR).
+    let initial = new Set<number>();
     try {
       const raw = localStorage.getItem(storageKey);
-      if (raw) setChecked(new Set(JSON.parse(raw) as number[]));
+      if (raw) initial = new Set(JSON.parse(raw) as number[]);
     } catch {
       /* ignore */
     }
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setChecked(initial);
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setReady(true);
   }, [storageKey]);
 

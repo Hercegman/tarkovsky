@@ -49,16 +49,22 @@ export function QuestQuickView({
             exit={{ opacity: 0 }}
             onClick={onClose}
           />
-          <motion.aside
-            className="fixed right-0 top-0 z-[1001] flex h-full w-full max-w-md flex-col overflow-y-auto border-l border-[var(--border)] bg-[var(--surface)] shadow-2xl"
-            initial={{ x: "100%" }}
-            animate={{ x: 0 }}
-            exit={{ x: "100%" }}
-            transition={{ type: "spring", stiffness: 260, damping: 30 }}
+          <div
+            className="fixed inset-0 z-[1001] flex items-center justify-center p-4"
+            onClick={onClose}
+          >
+          <motion.div
+            className="relative flex max-h-[85vh] w-full max-w-lg flex-col overflow-y-auto rounded-2xl border border-[var(--border)] bg-[var(--surface)] shadow-2xl"
+            initial={{ opacity: 0, scale: 0.94, y: 12 }}
+            animate={{ opacity: 1, scale: 1, y: 0 }}
+            exit={{ opacity: 0, scale: 0.96, y: 8 }}
+            transition={{ type: "spring", stiffness: 280, damping: 26 }}
+            onClick={(e) => e.stopPropagation()}
           >
             <button
               onClick={onClose}
-              className="absolute right-3 top-3 z-10 rounded-full bg-[var(--surface-2)]/80 px-2.5 py-1 text-sm text-[var(--muted)] backdrop-blur hover:text-[var(--gold)]"
+              aria-label="Close"
+              className="absolute right-3 top-3 z-10 rounded-full border border-[var(--border)] bg-[var(--surface-2)]/90 px-3 py-1.5 text-base text-[var(--muted)] backdrop-blur transition-colors hover:border-[var(--danger)] hover:text-[var(--danger)]"
             >
               ✕
             </button>
@@ -128,7 +134,8 @@ export function QuestQuickView({
                 </div>
               </div>
             )}
-          </motion.aside>
+          </motion.div>
+          </div>
         </>
       )}
     </AnimatePresence>
