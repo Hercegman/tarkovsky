@@ -25,6 +25,8 @@ use the display font.
 - **Radar background** (`radar-background.tsx`) — pure CSS rings + grid + rotating
   sweep + ping blips on the homepage hero (replaced an earlier 3D particle hero).
 - `prefers-reduced-motion` disables animations.
+- **Custom cursor** (in `globals.css`): a tactical arrow (SVG data URI) site-wide
+  and a military reticle on interactive elements; text fields keep the text cursor.
 
 ## Header / nav
 

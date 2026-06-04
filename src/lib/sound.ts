@@ -1,7 +1,7 @@
-// Synthesized "military digital" UI sounds via the Web Audio API — no audio
-// files needed. Short square/sawtooth blips with fast envelopes. Off by default;
-// the user enables it from the header toggle (which also satisfies the browser
-// autoplay gesture requirement).
+// Synthesized UI sounds via the Web Audio API — no audio files. Style: quiet,
+// percussive mechanical "key clack" (typewriter-ish) rather than musical beeps.
+// Off by default; enabled from the header toggle (which also satisfies the
+// browser autoplay gesture requirement).
 
 let ctx: AudioContext | null = null;
 let enabled = false;
@@ -44,50 +44,67 @@ export function setSoundEnabled(v: boolean): void {
   if (v) ensureCtx();
 }
 
-interface Tone {
-  freq: number;
-  type: OscillatorType;
-  dur: number;
-  gain?: number;
-  slideTo?: number;
+/** Short band-passed noise burst — the "click" of a mechanical key. */
+function noise(c: AudioContext, t: number, dur: number, freq: number, q: number, gain: number) {
+  const len = Math.max(1, Math.ceil(c.sampleRate * dur));
+  const buf = c.createBuffer(1, len, c.sampleRate);
+  const data = buf.getChannelData(0);
+  for (let i = 0; i < len; i++) data[i] = Math.random() * 2 - 1;
+  const src = c.createBufferSource();
+  src.buffer = buf;
+  const bp = c.createBiquadFilter();
+  bp.type = "bandpass";
+  bp.frequency.value = freq;
+  bp.Q.value = q;
+  const g = c.createGain();
+  g.gain.setValueAtTime(gain, t);
+  g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
+  src.connect(bp);
+  bp.connect(g);
+  g.connect(c.destination);
+  src.start(t);
+  src.stop(t + dur);
 }
 
-function blip(tones: Tone[]): void {
+/** Low sine "thock" — the body of the key hitting. */
+function thock(c: AudioContext, t: number, dur: number, freq: number, gain: number) {
+  const osc = c.createOscillator();
+  const g = c.createGain();
+  osc.type = "sine";
+  osc.frequency.setValueAtTime(freq, t);
+  osc.frequency.exponentialRampToValueAtTime(freq * 0.6, t + dur);
+  g.gain.setValueAtTime(gain, t);
+  g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
+  osc.connect(g);
+  g.connect(c.destination);
+  osc.start(t);
+  osc.stop(t + dur + 0.01);
+}
+
+// Faint single tick on hover.
+export function playHover() {
   if (!enabled) return;
   const c = ensureCtx();
   if (!c) return;
-  let t = c.currentTime;
-  for (const tn of tones) {
-    const osc = c.createOscillator();
-    const g = c.createGain();
-    osc.type = tn.type;
-    osc.frequency.setValueAtTime(tn.freq, t);
-    if (tn.slideTo) {
-      osc.frequency.exponentialRampToValueAtTime(tn.slideTo, t + tn.dur);
-    }
-    const peak = tn.gain ?? 0.04;
-    g.gain.setValueAtTime(0.0001, t);
-    g.gain.exponentialRampToValueAtTime(peak, t + 0.005);
-    g.gain.exponentialRampToValueAtTime(0.0001, t + tn.dur);
-    osc.connect(g);
-    g.connect(c.destination);
-    osc.start(t);
-    osc.stop(t + tn.dur + 0.02);
-    t += tn.dur * 0.55;
-  }
+  noise(c, c.currentTime, 0.012, 2600, 1.2, 0.012);
 }
 
-// Subtle high tick on hover.
-export const playHover = () =>
-  blip([{ freq: 1300, type: "square", dur: 0.025, gain: 0.018 }]);
+// Crisp key clack on click: noise tick + low thock.
+export function playClick() {
+  if (!enabled) return;
+  const c = ensureCtx();
+  if (!c) return;
+  const t = c.currentTime;
+  noise(c, t, 0.022, 2200, 0.9, 0.03);
+  thock(c, t, 0.035, 180, 0.035);
+}
 
-// Two-tone confirm on click.
-export const playClick = () =>
-  blip([
-    { freq: 640, type: "square", dur: 0.045, gain: 0.05 },
-    { freq: 960, type: "square", dur: 0.05, gain: 0.045 },
-  ]);
-
-// Descending sweep on close / back / exit.
-export const playClose = () =>
-  blip([{ freq: 720, type: "sawtooth", dur: 0.13, gain: 0.045, slideTo: 280 }]);
+// Heavier clack on close / back / exit (a different, deeper key).
+export function playClose() {
+  if (!enabled) return;
+  const c = ensureCtx();
+  if (!c) return;
+  const t = c.currentTime;
+  noise(c, t, 0.03, 1300, 0.7, 0.03);
+  thock(c, t, 0.05, 120, 0.04);
+}
