@@ -4,8 +4,10 @@ import Link from "next/link";
 import { eq } from "drizzle-orm";
 import { auth } from "@/lib/auth";
 import { db } from "@/lib/db";
-import { questProgress } from "@/lib/db/schema";
-import { getQuests } from "@/lib/data";
+import { questProgress, users } from "@/lib/db/schema";
+import { getQuests, getTraders } from "@/lib/data";
+import { AvatarPicker } from "@/components/avatar-picker";
+import { FriendsPanel } from "@/components/friends-panel";
 import { logoutAction } from "../(auth)/actions";
 
 export const metadata: Metadata = { title: "Profile" };
@@ -15,12 +17,17 @@ export default async function ProfilePage() {
   const session = await auth();
   if (!session?.user?.id) redirect("/login");
 
-  const [progress, quests] = await Promise.all([
+  const [progress, quests, me, traders] = await Promise.all([
     db.query.questProgress.findMany({
       where: eq(questProgress.userId, session.user.id),
       columns: { questId: true },
     }),
     getQuests(),
+    db.query.users.findFirst({
+      where: eq(users.id, session.user.id),
+      columns: { avatar: true },
+    }),
+    getTraders(),
   ]);
 
   const done = new Set(progress.map((p) => p.questId));
@@ -33,9 +40,11 @@ export default async function ProfilePage() {
     <div className="mx-auto max-w-5xl px-4 py-12">
       <div className="glass glow-border rounded-2xl p-6 sm:p-8">
         <div className="flex flex-wrap items-center gap-4">
-          <div className="flex h-16 w-16 items-center justify-center rounded-full border border-[var(--gold-dim)] bg-[var(--surface-2)] text-2xl font-bold text-[var(--gold)]">
-            {session.user.name?.[0]?.toUpperCase() ?? "?"}
-          </div>
+          <AvatarPicker
+            username={session.user.name ?? "?"}
+            initial={me?.avatar ?? null}
+            options={traders.map((t) => ({ id: t.id, name: t.name }))}
+          />
           <div className="flex-1">
             <h1 className="text-2xl font-bold text-[var(--foreground)]">
               {session.user.name}
@@ -91,6 +100,11 @@ export default async function ProfilePage() {
           ))}
         </ul>
       )}
+
+      <h2 className="mt-10 mb-3 text-sm font-semibold uppercase tracking-wider text-[var(--muted)]">
+        Friends
+      </h2>
+      <FriendsPanel />
     </div>
   );
 }
