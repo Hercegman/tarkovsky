@@ -1,0 +1,45 @@
+{
+  "id": "peaceful-atom",
+  "title": "Peaceful Atom",
+  "pageId": 44589,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "icebreaker"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "oil-change",
+      "title": "Oil Change"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "wiring-the-vessel",
+      "title": "Wiring the Vessel"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the nuclear power unit control log on Icebreaker",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 24000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Peaceful_Atom",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

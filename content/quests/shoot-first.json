@@ -1,0 +1,39 @@
+{
+  "id": "shoot-first",
+  "title": "Shoot First",
+  "pageId": 39169,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "stay-on-top",
+      "title": "Stay on Top"
+    }
+  ],
+  "objectives": [
+    "Eliminate 30 enemies with headshots in any game mode"
+  ],
+  "rewards": {
+    "exp": 22000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shoot_First",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

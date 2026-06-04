@@ -1,0 +1,45 @@
+{
+  "id": "debts",
+  "title": "Debts",
+  "pageId": 42750,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "general-cleanup",
+      "title": "General Cleanup"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "more-red",
+      "title": "More Red"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 enemies with headshots in Last Hero mode",
+    "Win a match in CheckPoint mode"
+  ],
+  "rewards": {
+    "exp": 50000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Debts",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

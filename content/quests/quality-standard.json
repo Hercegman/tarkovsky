@@ -1,0 +1,45 @@
+{
+  "id": "quality-standard",
+  "title": "Quality Standard",
+  "pageId": 34257,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-good-times-part-1",
+      "title": "The Good Times - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "airmail",
+      "title": "Airmail"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the special version of the LEDX Skin Transilluminator in The Lab",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 42000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Quality_Standard",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

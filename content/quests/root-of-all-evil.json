@@ -1,0 +1,37 @@
+{
+  "id": "root-of-all-evil",
+  "title": "Root of All Evil",
+  "pageId": 43303,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "restocking-supplies",
+      "title": "Restocking Supplies"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Stash 10 contraband boxes near the green shipping container at the sawmill on Woods"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Root_of_All_Evil",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

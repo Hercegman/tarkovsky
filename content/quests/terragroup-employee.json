@@ -1,0 +1,49 @@
+{
+  "id": "terragroup-employee",
+  "title": "TerraGroup Employee",
+  "pageId": 19198,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "samples",
+      "title": "Samples"
+    },
+    {
+      "id": "the-huntsman-path-sadist",
+      "title": "The Huntsman Path - Sadist"
+    },
+    {
+      "id": "colleagues-part-3",
+      "title": "Colleagues - Part 3"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find Sanitar's workplace in the Lab",
+    "Obtain information about Sanitar's work",
+    "Hand over the Flash drive marked with blue tape to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 17000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Employee",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

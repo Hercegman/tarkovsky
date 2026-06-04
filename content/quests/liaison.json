@@ -1,0 +1,47 @@
+{
+  "id": "liaison",
+  "title": "Liaison",
+  "pageId": 33863,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "a-new-hope",
+      "title": "A New Hope"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "ceasefire-information",
+      "title": "Ceasefire - Information"
+    }
+  ],
+  "objectives": [
+    "Locate the specified zone on Customs",
+    "Stash a Physical Bitcoin in the locker inside the worker's shack",
+    "Launch a signal flare at the weather station",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 58000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Liaison",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

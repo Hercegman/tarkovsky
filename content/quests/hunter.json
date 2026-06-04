@@ -1,0 +1,39 @@
+{
+  "id": "hunter",
+  "title": "Hunter",
+  "pageId": 20434,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-woods-keeper",
+      "title": "The Huntsman Path - Woods Keeper"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate Shturman 20 times"
+  ],
+  "rewards": {
+    "exp": 100000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hunter",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

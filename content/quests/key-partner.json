@@ -1,0 +1,42 @@
+{
+  "id": "key-partner",
+  "title": "Key Partner",
+  "pageId": 37726,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "hindsight-20-20",
+      "title": "Hindsight 20/20"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "killer-argument",
+      "title": "Killer Argument"
+    }
+  ],
+  "objectives": [
+    "Sell any 75 items to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 14600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Key_Partner",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

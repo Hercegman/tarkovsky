@@ -1,0 +1,44 @@
+{
+  "id": "this-is-my-party",
+  "title": "This Is My Party",
+  "pageId": 36796,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "lighthouse",
+    "reserve",
+    "woods",
+    "customs",
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "holiday-beyond-the-means",
+      "title": "Holiday Beyond the Means"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 10 PMC operatives without the Christmas armband in the Khorovod mode"
+  ],
+  "rewards": {
+    "exp": 13800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/This_Is_My_Party",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

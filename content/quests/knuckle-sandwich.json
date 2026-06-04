@@ -1,0 +1,56 @@
+{
+  "id": "knuckle-sandwich",
+  "title": "Knuckle Sandwich",
+  "pageId": 41598,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "come-by-the-fire",
+      "title": "Come by the Fire"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "a-small-celebration",
+      "title": "A Small Celebration"
+    },
+    {
+      "id": "stay-frosty",
+      "title": "Stay Frosty"
+    },
+    {
+      "id": "skiing-with-skier",
+      "title": "Skiing with Skier"
+    }
+  ],
+  "objectives": [
+    "Stash a TP-200 TNT brick at the first spot from Skier's route",
+    "Stash a TP-200 TNT brick at the second spot from Skier's route",
+    "Stash a TP-200 TNT brick at the third spot from Skier's route",
+    "Stash a TP-200 TNT brick at the fourth spot from Skier's route",
+    "Eliminate any 15 targets while wearing a Ushanka ear flap hat on Woods"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Knuckle_Sandwich",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

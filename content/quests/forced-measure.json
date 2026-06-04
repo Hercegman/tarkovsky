@@ -1,0 +1,39 @@
+{
+  "id": "forced-measure",
+  "title": "Forced Measure",
+  "pageId": 36341,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "dont-believe-your-eyes",
+      "title": "Don’t Believe Your Eyes"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 100 infected on The Lab"
+  ],
+  "rewards": {
+    "exp": 60000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Forced_Measure",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

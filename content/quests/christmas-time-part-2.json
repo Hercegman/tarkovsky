@@ -1,0 +1,44 @@
+{
+  "id": "christmas-time-part-2",
+  "title": "Christmas Time - Part 2",
+  "pageId": 36704,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "christmas-time-part-1",
+      "title": "Christmas Time - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "christmas-time-part-3",
+      "title": "Christmas Time - Part 3"
+    }
+  ],
+  "objectives": [
+    "Win 3 matches in CheckPoint"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Christmas_Time_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

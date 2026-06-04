@@ -1,0 +1,46 @@
+{
+  "id": "cargo-x-part-2",
+  "title": "Cargo X - Part 2",
+  "pageId": 7817,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "cargo-x-part-1",
+      "title": "Cargo X - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "cargo-x-part-3",
+      "title": "Cargo X - Part 3"
+    }
+  ],
+  "objectives": [
+    "Locate the room with reservoirs in the Health Resort on Shoreline",
+    "Obtain any information about the second part of the cargo shipment",
+    "Hand over the retrieved information to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 8300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

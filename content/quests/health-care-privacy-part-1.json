@@ -1,0 +1,46 @@
+{
+  "id": "health-care-privacy-part-1",
+  "title": "Health Care Privacy - Part 1",
+  "pageId": 8057,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "pharmacist",
+      "title": "Pharmacist"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "health-care-privacy-part-2",
+      "title": "Health Care Privacy - Part 2"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first ambulance with an MS2000 Marker on Shoreline",
+    "Locate and mark the second ambulance with an MS2000 Marker on Shoreline",
+    "Locate and mark the third ambulance with an MS2000 Marker on Shoreline"
+  ],
+  "rewards": {
+    "exp": 4800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

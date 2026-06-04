@@ -1,0 +1,44 @@
+{
+  "id": "obstruction-destruction",
+  "title": "Obstruction Destruction",
+  "pageId": 33850,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "seeking-information",
+      "title": "Seeking Information"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "a-new-hope",
+      "title": "A New Hope"
+    }
+  ],
+  "objectives": [
+    "Eliminate Skier's people on Customs"
+  ],
+  "rewards": {
+    "exp": 126000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Obstruction_Destruction",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

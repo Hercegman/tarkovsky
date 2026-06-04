@@ -1,0 +1,56 @@
+{
+  "id": "bp-depot",
+  "title": "BP Depot",
+  "pageId": 6179,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "delivery-from-the-past",
+      "title": "Delivery From the Past"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "bad-rep-evidence",
+      "title": "Bad Rep Evidence"
+    },
+    {
+      "id": "the-bunker-part-1",
+      "title": "The Bunker - Part 1"
+    },
+    {
+      "id": "belka-and-strelka",
+      "title": "Belka and Strelka"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first fuel tank with an MS2000 Marker on Customs",
+    "Locate and mark the second fuel tank with an MS2000 Marker on Customs",
+    "Locate and mark the third fuel tank with an MS2000 Marker on Customs",
+    "Locate and mark the fourth fuel tank with an MS2000 Marker on Customs",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 2800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/BP_Depot",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

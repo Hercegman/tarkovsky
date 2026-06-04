@@ -1,0 +1,42 @@
+{
+  "id": "hunting-trip",
+  "title": "Hunting Trip",
+  "pageId": 14965,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-woods-keeper",
+      "title": "The Huntsman Path - Woods Keeper"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "connections-up-north",
+      "title": "Connections Up North"
+    }
+  ],
+  "objectives": [
+    "Locate and neutralize Shturman with a headshot from over 40 meters away while using an M700 sniper rifle with the specified scope"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hunting_Trip",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

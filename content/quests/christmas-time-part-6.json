@@ -1,0 +1,44 @@
+{
+  "id": "christmas-time-part-6",
+  "title": "Christmas Time - Part 6",
+  "pageId": 36789,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "christmas-time-part-5",
+      "title": "Christmas Time - Part 5"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "christmas-time-finale",
+      "title": "Christmas Time - Finale"
+    }
+  ],
+  "objectives": [
+    "Earn a Match MVP in any game mode"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Christmas_Time_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

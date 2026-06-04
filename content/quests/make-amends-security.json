@@ -1,0 +1,42 @@
+{
+  "id": "make-amends-security",
+  "title": "Make Amends - Security",
+  "pageId": 28547,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "make-amends-sweep-up",
+      "title": "Make Amends - Sweep Up"
+    }
+  ],
+  "objectives": [
+    "Place a WI-FI Camera at the yellow bus on the southern bridge approaching the water treatment plant on Lighthouse",
+    "Place a WI-FI Camera at the yellow bulldozer in the south-eastern part of the water treatment plant on Lighthouse",
+    "Place a WI-FI Camera at the police truck in the western part of the water treatment plant on Lighthouse",
+    "Place a WI-FI Camera at the army truck near the industrial zone in the northern part of the water treatment plant on Lighthouse"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Security",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "a-new-hope",
+  "title": "A New Hope",
+  "pageId": 33861,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "obstruction-destruction",
+      "title": "Obstruction Destruction"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "liaison",
+      "title": "Liaison"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain The Unheard's laptop at the smugglers' base on Shoreline",
+    "Hand over the laptop"
+  ],
+  "rewards": {
+    "exp": 47300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_New_Hope",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

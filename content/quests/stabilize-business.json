@@ -1,0 +1,45 @@
+{
+  "id": "stabilize-business",
+  "title": "Stabilize Business",
+  "pageId": 37746,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "ask-for-directions",
+      "title": "Ask for Directions"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "battery-change",
+      "title": "Battery Change"
+    }
+  ],
+  "objectives": [
+    "Eliminate 7 Scavs in one raid on Ground Zero",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 24100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stabilize_Business",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "no-smoke-without-fire",
+  "title": "No Smoke Without Fire",
+  "pageId": 44287,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "lighthouse",
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "stealing-the-stolen",
+      "title": "Stealing the Stolen"
+    }
+  ],
+  "objectives": [
+    "Survive and extract from Shoreline",
+    "Survive and extract from Lighthouse",
+    "Survive and extract from Reserve",
+    "Eliminate 10 Rogues on any location"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Smoke_Without_Fire",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

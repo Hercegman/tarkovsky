@@ -1,0 +1,44 @@
+{
+  "id": "polikhim-hobo",
+  "title": "Polikhim Hobo",
+  "pageId": 6745,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chemical-part-1",
+      "title": "Chemical - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "regulated-materials",
+      "title": "Regulated Materials"
+    }
+  ],
+  "objectives": [
+    "Eliminate 25 Scavs on Customs"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Polikhim_Hobo",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

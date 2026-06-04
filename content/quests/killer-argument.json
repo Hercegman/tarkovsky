@@ -1,0 +1,45 @@
+{
+  "id": "killer-argument",
+  "title": "Killer Argument",
+  "pageId": 37727,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "key-partner",
+      "title": "Key Partner"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "choose-your-friends-wisely",
+      "title": "Choose Your Friends Wisely"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the package with RPG ammo on Woods",
+    "Hand over the package"
+  ],
+  "rewards": {
+    "exp": 22500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Killer_Argument",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

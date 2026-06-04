@@ -1,0 +1,42 @@
+{
+  "id": "gunsmith-part-6",
+  "title": "Gunsmith - Part 6",
+  "pageId": 9597,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-5",
+      "title": "Gunsmith - Part 5"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-7",
+      "title": "Gunsmith - Part 7"
+    }
+  ],
+  "objectives": [
+    "Modify an AKM to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 5800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

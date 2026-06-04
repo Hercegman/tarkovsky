@@ -1,0 +1,46 @@
+{
+  "id": "not-below-zero",
+  "title": "Not Below Zero",
+  "pageId": 41610,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "blood-on-the-snow",
+      "title": "Blood on the Snow"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "arena-masquerade",
+      "title": "Arena Masquerade"
+    }
+  ],
+  "objectives": [
+    "Place 4th or higher in BlastGang or TeamFight mode",
+    "Place 4th or higher in CheckPoint mode",
+    "Place 5th or higher in LastHero mode"
+  ],
+  "rewards": {
+    "exp": 40000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Not_Below_Zero",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

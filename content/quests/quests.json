@@ -1,0 +1,30 @@
+{
+  "id": "quests",
+  "title": "Quests",
+  "pageId": 650,
+  "trader": "unknown",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [],
+  "rewards": {
+    "exp": 3782,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Quests",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

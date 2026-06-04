@@ -1,0 +1,46 @@
+{
+  "id": "compromise",
+  "title": "Compromise",
+  "pageId": 39282,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "rat-hunter",
+      "title": "Rat Hunter"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "best-served-cold",
+      "title": "Best Served Cold"
+    }
+  ],
+  "objectives": [
+    "Win 10 rounds in TeamFight or BlastGang mode",
+    "Score 4500 points in CheckPoint mode",
+    "Claim at least 3rd place in Last Hero mode"
+  ],
+  "rewards": {
+    "exp": 31000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Compromise",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

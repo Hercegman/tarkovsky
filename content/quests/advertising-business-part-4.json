@@ -1,0 +1,44 @@
+{
+  "id": "advertising-business-part-4",
+  "title": "Advertising Business - Part 4",
+  "pageId": 43662,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "advertising-business-part-3",
+      "title": "Advertising Business - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "advertising-business-part-5",
+      "title": "Advertising Business - Part 5"
+    }
+  ],
+  "objectives": [
+    "Win 10 matches while wearing a Banshee or A18 Skanda plate carrier"
+  ],
+  "rewards": {
+    "exp": 7700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

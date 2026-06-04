@@ -1,0 +1,48 @@
+{
+  "id": "sales-night",
+  "title": "Sales Night",
+  "pageId": 10272,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gratitude",
+      "title": "Gratitude"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "supervisor",
+      "title": "Supervisor"
+    },
+    {
+      "id": "the-huntsman-path-sellout",
+      "title": "The Huntsman Path - Sellout"
+    }
+  ],
+  "objectives": [
+    "Survive and extract on Interchange 7 times"
+  ],
+  "rewards": {
+    "exp": 17500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sales_Night",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

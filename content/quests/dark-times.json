@@ -1,0 +1,35 @@
+{
+  "id": "dark-times",
+  "title": "Dark Times",
+  "pageId": 36586,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory",
+    "nighttime-factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 30 targets while using a TOZ-106 on night-time Factory"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Dark_Times",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

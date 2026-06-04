@@ -1,0 +1,44 @@
+{
+  "id": "make-amends-sweep-up",
+  "title": "Make Amends - Sweep Up",
+  "pageId": 28557,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "make-amends-security",
+      "title": "Make Amends - Security"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "make-amends",
+      "title": "Make Amends"
+    }
+  ],
+  "objectives": [
+    "Eliminate 25 Raiders on Reserve"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Sweep_Up",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

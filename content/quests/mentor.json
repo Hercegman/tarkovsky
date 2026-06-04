@@ -1,0 +1,37 @@
+{
+  "id": "mentor",
+  "title": "Mentor",
+  "pageId": 14972,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "wet-job-part-5",
+      "title": "Wet Job - Part 5"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over 50,000 EUR to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 3,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Mentor",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

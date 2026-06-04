@@ -1,0 +1,37 @@
+{
+  "id": "the-art-of-explosion",
+  "title": "The Art of Explosion",
+  "pageId": 38903,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "grenadier",
+      "title": "Grenadier"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 35 targets while using grenades or grenade launchers"
+  ],
+  "rewards": {
+    "exp": 19200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Art_of_Explosion",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

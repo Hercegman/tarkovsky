@@ -1,0 +1,39 @@
+{
+  "id": "parasites",
+  "title": "Parasites",
+  "pageId": 31122,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "poisoning",
+      "title": "Poisoning"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 15 Scavs at the city clinic on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 9500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Parasites",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

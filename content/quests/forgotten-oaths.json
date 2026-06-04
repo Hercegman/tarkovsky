@@ -1,0 +1,46 @@
+{
+  "id": "forgotten-oaths",
+  "title": "Forgotten Oaths",
+  "pageId": 36241,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "darkest-hour-is-just-before-dawn",
+      "title": "Darkest Hour Is Just Before Dawn"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "clear-conscience",
+      "title": "Clear Conscience"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the true vaccine in Sanitar's office on Shoreline",
+    "Hand over the found item",
+    "Locate and neutralize Sanitar"
+  ],
+  "rewards": {
+    "exp": 45000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Forgotten_Oaths",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

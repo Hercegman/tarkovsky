@@ -1,0 +1,47 @@
+{
+  "id": "the-tarkov-mystery",
+  "title": "The Tarkov Mystery",
+  "pageId": 33794,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "burning-rubber",
+      "title": "Burning Rubber"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "break-through",
+      "title": "Break Through"
+    },
+    {
+      "id": "u-turn",
+      "title": "U Turn"
+    }
+  ],
+  "objectives": [
+    "Find the encrypted flash drive in raid",
+    "Hand over the encrypted flash drive to Skier"
+  ],
+  "rewards": {
+    "exp": 6300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Mystery",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

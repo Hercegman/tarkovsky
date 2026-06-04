@@ -1,0 +1,46 @@
+{
+  "id": "scrap-metal",
+  "title": "Scrap Metal",
+  "pageId": 7471,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "tigr-safari",
+      "title": "Tigr Safari"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "eagle-eye",
+      "title": "Eagle Eye"
+    }
+  ],
+  "objectives": [
+    "Mark the first T-90 tank with an MS2000 Marker on Shoreline",
+    "Mark the second T-90 tank with an MS2000 Marker on Shoreline",
+    "Mark the third T-90 tank with an MS2000 Marker on Shoreline"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Scrap_Metal",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "trust-regain",
+  "title": "Trust Regain",
+  "pageId": 7014,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "chemical-part-4",
+      "title": "Chemical - Part 4"
+    },
+    {
+      "id": "big-customer",
+      "title": "Big Customer"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Obtain 1 Dorm room 303 key",
+    "Obtain 1 ZB-014 key",
+    "Obtain 1 Military checkpoint key",
+    "Obtain 1 Gas station storage room key",
+    "Hand over 1 Dorm room 303 key",
+    "Hand over 1 ZB-014 key",
+    "Hand over 1 Customs military checkpoint key",
+    "Hand over 1 Gas station storage room key"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Trust_Regain",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

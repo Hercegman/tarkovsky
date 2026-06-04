@@ -1,0 +1,43 @@
+{
+  "id": "dangerous-road",
+  "title": "Dangerous Road",
+  "pageId": 27771,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "kind-of-sabotage",
+      "title": "Kind of Sabotage"
+    },
+    {
+      "id": "supply-plans",
+      "title": "Supply Plans"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex"
+  ],
+  "rewards": {
+    "exp": 7800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Dangerous_Road",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "broadcast-part-5",
+  "title": "Broadcast - Part 5",
+  "pageId": 30511,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "broadcast-part-4",
+      "title": "Broadcast - Part 4"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate Priest",
+    "Locate the ritual spot on Chekannaya st. on Streets of Tarkov",
+    "Stash a Cultist knife at the ritual spot",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 24000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

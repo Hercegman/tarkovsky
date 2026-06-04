@@ -1,0 +1,40 @@
+{
+  "id": "stick-to-it",
+  "title": "Stick to It",
+  "pageId": 44453,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse",
+    "icebreaker"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "saving-private-roman",
+      "title": "Saving Private Roman"
+    }
+  ],
+  "objectives": [
+    "Eliminate 30 Rogues"
+  ],
+  "rewards": {
+    "exp": 25000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stick_to_It",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

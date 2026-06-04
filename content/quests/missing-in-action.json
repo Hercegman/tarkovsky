@@ -1,0 +1,49 @@
+{
+  "id": "missing-in-action",
+  "title": "Missing in Action",
+  "pageId": 41530,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "reserve",
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "clearing-the-way",
+      "title": "Clearing the Way"
+    }
+  ],
+  "objectives": [
+    "Stash a Pack of Arseniy buckwheat at the Scav house on Woods",
+    "Stash a Bottle of Tarkovskaya vodka at the Scav house on Woods",
+    "Stash an Iskra ration pack at the Scav house on Woods",
+    "Stash a Pack of Arseniy buckwheat at the guard barrack on Reserve",
+    "Stash a Bottle of Tarkovskaya vodka at the guard barrack on Reserve",
+    "Stash an Iskra ration pack at the guard barrack on Reserve",
+    "Stash a Pack of Arseniy buckwheat at the Path to River shack on Interchange",
+    "Stash a Bottle of Tarkovskaya vodka at the Path to River shack on Interchange",
+    "Stash an Iskra ration pack at the Path to River shack on Interchange"
+  ],
+  "rewards": {
+    "exp": 5000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Missing_in_Action",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

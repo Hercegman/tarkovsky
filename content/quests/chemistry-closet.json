@@ -1,0 +1,57 @@
+{
+  "id": "chemistry-closet",
+  "title": "Chemistry Closet",
+  "pageId": 18974,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "colleagues-part-1",
+      "title": "Colleagues - Part 1"
+    },
+    {
+      "id": "anesthesia",
+      "title": "Anesthesia"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-huntsman-path-sadist",
+      "title": "The Huntsman Path - Sadist"
+    },
+    {
+      "id": "colleagues-part-3",
+      "title": "Colleagues - Part 3"
+    },
+    {
+      "id": "calibration",
+      "title": "Calibration"
+    }
+  ],
+  "objectives": [
+    "Locate Sanitar's office in the health resort on Shoreline",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 13400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chemistry_Closet",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

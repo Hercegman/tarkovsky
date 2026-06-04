@@ -1,0 +1,42 @@
+{
+  "id": "reconnaissance",
+  "title": "Reconnaissance",
+  "pageId": 25802,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "easy-job-part-1",
+      "title": "Easy Job - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Recon the roof of the first water treatment plant facility on Lighthouse",
+    "Recon the roof of the second water treatment plant facility on Lighthouse",
+    "Recon the roof of the third water treatment plant facility on Lighthouse",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Reconnaissance",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

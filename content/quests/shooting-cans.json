@@ -1,0 +1,53 @@
+{
+  "id": "shooting-cans",
+  "title": "Shooting Cans",
+  "pageId": 31679,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "debut",
+      "title": "Debut"
+    },
+    {
+      "id": "test-drive-part-1",
+      "title": "Test Drive - Part 1"
+    },
+    {
+      "id": "the-good-times-part-1",
+      "title": "The Good Times - Part 1"
+    },
+    {
+      "id": "grenadier",
+      "title": "Grenadier"
+    }
+  ],
+  "objectives": [
+    "Locate the Utyos machine gun on Ground Zero",
+    "Locate the AGS grenade launcher on Ground Zero",
+    "Eliminate any 5 targets on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 1600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shooting_Cans",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

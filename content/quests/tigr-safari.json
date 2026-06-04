@@ -1,0 +1,46 @@
+{
+  "id": "tigr-safari",
+  "title": "Tigr Safari",
+  "pageId": 7470,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "fishing-gear",
+      "title": "Fishing Gear"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "scrap-metal",
+      "title": "Scrap Metal"
+    }
+  ],
+  "objectives": [
+    "Mark the first Tigr vehicle with an MS2000 Marker on Customs",
+    "Mark the second Tigr vehicle with an MS2000 Marker on Customs",
+    "Mark the third Tigr vehicle with an MS2000 Marker on Customs"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Tigr_Safari",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

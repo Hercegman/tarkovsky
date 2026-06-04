@@ -1,0 +1,40 @@
+{
+  "id": "all-is-revealed",
+  "title": "All Is Revealed",
+  "pageId": 34799,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "capacity-check",
+      "title": "Capacity Check"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Take a sample of the chemicals from the damaged tank container on Factory",
+    "Hand over the collected sample"
+  ],
+  "rewards": {
+    "exp": 17200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/All_Is_Revealed",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

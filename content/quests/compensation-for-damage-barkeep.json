@@ -1,0 +1,33 @@
+{
+  "id": "compensation-for-damage-barkeep",
+  "title": "Compensation for Damage - Barkeep",
+  "pageId": 24721,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over the found in raid Bottle of Dan Jackiel whiskey",
+    "Hand over the 3 found in raid Can of TarCola soda"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Compensation_for_Damage_-_Barkeep",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

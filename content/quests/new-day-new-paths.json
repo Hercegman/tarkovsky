@@ -1,0 +1,44 @@
+{
+  "id": "new-day-new-paths",
+  "title": "New Day, New Paths",
+  "pageId": 35360,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "revision-streets-of-tarkov",
+      "title": "Revision - Streets of Tarkov"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Scout the intersection of Mira Ave and the overpass on Ground Zero (In one raid)",
+    "Locate the passage leading to Streets of Tarkov on Ground Zero (In one raid)",
+    "Use the transit from Ground Zero to Streets of Tarkov (In one raid)",
+    "Survive and extract from Streets of Tarkov (or transit to the next location)",
+    "(Optional) Scout the area around the Rodina cinema on Streets of Tarkov (In one raid)"
+  ],
+  "rewards": {
+    "exp": 11800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/New_Day%2C_New_Paths",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

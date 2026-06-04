@@ -1,0 +1,44 @@
+{
+  "id": "down-the-rabbit-hole-part-2",
+  "title": "Down the Rabbit Hole - Part 2",
+  "pageId": 31052,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "down-the-rabbit-hole-part-1",
+      "title": "Down the Rabbit Hole - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "down-the-rabbit-hole-part-3",
+      "title": "Down the Rabbit Hole - Part 3"
+    }
+  ],
+  "objectives": [
+    "Locate the area where the documents are stashed"
+  ],
+  "rewards": {
+    "exp": 8700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

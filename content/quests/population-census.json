@@ -1,0 +1,49 @@
+{
+  "id": "population-census",
+  "title": "Population Census",
+  "pageId": 27667,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "pharmacist",
+      "title": "Pharmacist"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "urban-medicine",
+      "title": "Urban Medicine"
+    },
+    {
+      "id": "pets-wont-need-it-part-1",
+      "title": "Pets Won't Need It - Part 1"
+    }
+  ],
+  "objectives": [
+    "Obtain the journal containing resident details on Streets of Tarkov",
+    "Hand over the journal"
+  ],
+  "rewards": {
+    "exp": 6900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Population_Census",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "booze",
+  "title": "Booze",
+  "pageId": 21765,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "long-line",
+      "title": "Long Line"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 10 Bottles of Tarkovskaya vodka in raid",
+    "Find 10 Bottles of Dan Jackiel whiskey in raid",
+    "Find 3 Canister with purified water in raid",
+    "Find 20 Bottles of Pevko Light beer in raid",
+    "Hand over 10 Bottles of Tarkovskaya vodka to Ragman",
+    "Hand over 10 Bottles of Dan Jackiel whiskey to Ragman",
+    "Hand over 3 Canister with purified water to Ragman",
+    "Hand over 20 Bottles of Pevko Light beer to Ragman"
+  ],
+  "rewards": {
+    "exp": 107000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Booze",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

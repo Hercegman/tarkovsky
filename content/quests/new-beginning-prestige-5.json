@@ -1,0 +1,53 @@
+{
+  "id": "new-beginning-prestige-5",
+  "title": "New Beginning (Prestige 5)",
+  "pageId": 40704,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab",
+    "streets-of-tarkov",
+    "interchange",
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 45 PMC operatives",
+    "Eliminate 100 Rogues",
+    "Eliminate any boss",
+    "Use the transit from The Lab to Streets of Tarkov",
+    "Use the transit from Streets of Tarkov to Interchange",
+    "Use the transit from Interchange to Customs",
+    "Survive and extract from Customs",
+    "Hand over the found in raid item: BEAR operative figurine",
+    "Hand over the found in raid item: Politician Mutkevich figurine",
+    "Hand over the found in raid item: Killa figurine",
+    "Hand over the found in raid item: Reshala figurine",
+    "Hand over the found in raid item: Ryzhy figurine",
+    "Hand over the found in raid item: Scav figurine",
+    "Hand over the found in raid item: Tagilla figurine",
+    "Hand over the found in raid item: USEC operative figurine",
+    "Hand over the found in raid item: Cultist figurine",
+    "Hand over the found in raid item: Den figurine"
+  ],
+  "rewards": {
+    "exp": 11000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_5)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

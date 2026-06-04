@@ -1,0 +1,51 @@
+{
+  "id": "the-price-of-independence",
+  "title": "The Price of Independence",
+  "pageId": 37768,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "reserve",
+    "woods",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "discombobulate",
+      "title": "Discombobulate"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the incriminating letter on Customs",
+    "Use the transit from Customs to Reserve",
+    "Stash the letter on the third floor of the military headquarters on Reserve",
+    "Use the transit from Reserve to Woods",
+    "Eliminate any 3 targets on Woods",
+    "Use the transit from Woods to Lighthouse",
+    "Launch a yellow signal flare at the train station warehouse on Lighthouse",
+    "Launch a yellow signal flare at the pier on Lighthouse",
+    "Survive and extract from Lighthouse",
+    "Eliminate 10 Scavs while completing the other objectives"
+  ],
+  "rewards": {
+    "exp": 85400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Price_of_Independence",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ceasefire-information",
+  "title": "Ceasefire - Information",
+  "pageId": 33864,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "radio-club",
+      "title": "Radio Club"
+    },
+    {
+      "id": "liaison",
+      "title": "Liaison"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "ceasefire-part-2",
+      "title": "Ceasefire - Part 2"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain Skier and Peacekeeper correspondence in the village on Shoreline",
+    "Hand over the letter"
+  ],
+  "rewards": {
+    "exp": 112000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Ceasefire_-_Information",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

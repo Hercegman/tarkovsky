@@ -1,0 +1,49 @@
+{
+  "id": "snatch",
+  "title": "Snatch",
+  "pageId": 28398,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse",
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "missing-informant",
+      "title": "Missing Informant"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "return-the-favor",
+      "title": "Return the Favor"
+    }
+  ],
+  "objectives": [
+    "Extract from Lighthouse",
+    "Obtain the forged intelligence at the Rogue base on Lighthouse",
+    "Obtain the original intelligence in the repair station on Reserve",
+    "Stash the forged intelligence under the BMP-2 in place of the original",
+    "Bring the original intelligence to Lightkeeper"
+  ],
+  "rewards": {
+    "exp": 3,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Snatch",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "easy-job-part-1",
+  "title": "Easy Job - Part 1",
+  "pageId": 23898,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-2",
+      "title": "The Punisher - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "easy-job-part-2",
+      "title": "Easy Job - Part 2"
+    },
+    {
+      "id": "reconnaissance",
+      "title": "Reconnaissance"
+    }
+  ],
+  "objectives": [
+    "Locate the helicopter at the water treatment plant on Lighthouse",
+    "Mark the helicopter with an MS2000 Marker",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "gunsmith-part-3",
+  "title": "Gunsmith - Part 3",
+  "pageId": 9594,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-1",
+      "title": "Gunsmith - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-4",
+      "title": "Gunsmith - Part 4"
+    },
+    {
+      "id": "insider",
+      "title": "Insider"
+    }
+  ],
+  "objectives": [
+    "Modify an MP5 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 2800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

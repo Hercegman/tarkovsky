@@ -1,0 +1,45 @@
+{
+  "id": "protection-of-interests",
+  "title": "Protection of Interests",
+  "pageId": 34513,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "caught-red-handed",
+      "title": "Caught Red-Handed"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "time-tested",
+      "title": "Time-Tested"
+    }
+  ],
+  "objectives": [
+    "Eliminate 3 PMC operatives on Streets of Tarkov",
+    "Do not kill Gus or Basmach while the quest is active"
+  ],
+  "rewards": {
+    "exp": 82300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Protection_of_Interests",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

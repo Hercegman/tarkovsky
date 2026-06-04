@@ -1,0 +1,56 @@
+{
+  "id": "the-survivalist-path-tough-guy",
+  "title": "The Survivalist Path - Tough Guy",
+  "pageId": 14933,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-wounded-beast",
+      "title": "The Survivalist Path - Wounded Beast"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "courtesy-visit",
+      "title": "Courtesy Visit"
+    },
+    {
+      "id": "the-hermit",
+      "title": "The Hermit"
+    },
+    {
+      "id": "the-survivalist-path-eagle-owl",
+      "title": "The Survivalist Path - Eagle-Owl"
+    },
+    {
+      "id": "the-huntsman-path-secured-perimeter",
+      "title": "The Huntsman Path - Secured Perimeter"
+    }
+  ],
+  "objectives": [
+    "Eliminate 3 Scavs in a single raid without using any medicine on Woods"
+  ],
+  "rewards": {
+    "exp": 7000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Tough_Guy",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

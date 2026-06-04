@@ -1,0 +1,44 @@
+{
+  "id": "vacate-the-premises",
+  "title": "Vacate the Premises",
+  "pageId": 38146,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-labyrinth"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "offensive-reconnaissance",
+      "title": "Offensive Reconnaissance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "keepers-word",
+      "title": "Keeper's Word"
+    }
+  ],
+  "objectives": [
+    "Eliminate 24 PMC operatives inside The Labyrinth"
+  ],
+  "rewards": {
+    "exp": 20400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Vacate_the_Premises",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

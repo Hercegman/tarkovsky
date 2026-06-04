@@ -1,0 +1,40 @@
+{
+  "id": "passion-for-ergonomics",
+  "title": "Passion for Ergonomics",
+  "pageId": 36667,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "farming-part-2",
+      "title": "Farming - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the customized tool set at the garage complex on Customs",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 7200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Passion_for_Ergonomics",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

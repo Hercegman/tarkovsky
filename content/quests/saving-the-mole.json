@@ -1,0 +1,51 @@
+{
+  "id": "saving-the-mole",
+  "title": "Saving the Mole",
+  "pageId": 31682,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-1",
+      "title": "Gunsmith - Part 1"
+    },
+    {
+      "id": "a-helping-hand",
+      "title": "A Helping Hand"
+    },
+    {
+      "id": "shady-contractor",
+      "title": "Shady Contractor"
+    }
+  ],
+  "objectives": [
+    "Access the lab scientist's office on Ground Zero",
+    "(Optional) Locate the USEC group at the parking lot of the TerraGroup complex",
+    "(Optional) Locate the lab scientist in the TerraGroup complex",
+    "Locate and obtain the scientist's hard drive",
+    "Hand over the hard drive"
+  ],
+  "rewards": {
+    "exp": 3800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Saving_the_Mole",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

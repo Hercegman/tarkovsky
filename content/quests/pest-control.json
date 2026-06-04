@@ -1,0 +1,44 @@
+{
+  "id": "pest-control",
+  "title": "Pest Control",
+  "pageId": 21465,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "reserve-quest",
+      "title": "Reserve (quest)"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-huntsman-path-eraser-part-1",
+      "title": "The Huntsman Path - Eraser - Part 1"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 Scavs inside the main barracks on Reserve"
+  ],
+  "rewards": {
+    "exp": 7400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Pest_Control",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

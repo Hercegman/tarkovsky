@@ -1,0 +1,37 @@
+{
+  "id": "overseas-trust-part-2",
+  "title": "Overseas Trust - Part 2",
+  "pageId": 30851,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "overseas-trust-part-1",
+      "title": "Overseas Trust - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over 50,000 USD"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Overseas_Trust_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

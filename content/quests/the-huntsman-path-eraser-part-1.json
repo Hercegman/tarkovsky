@@ -1,0 +1,48 @@
+{
+  "id": "the-huntsman-path-eraser-part-1",
+  "title": "The Huntsman Path - Eraser - Part 1",
+  "pageId": 14947,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "pest-control",
+      "title": "Pest Control"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-huntsman-path-eraser-part-2",
+      "title": "The Huntsman Path - Eraser - Part 2"
+    },
+    {
+      "id": "the-huntsman-path-relentless",
+      "title": "The Huntsman Path - Relentless"
+    }
+  ],
+  "objectives": [
+    "Eliminate Glukhar"
+  ],
+  "rewards": {
+    "exp": 18300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Eraser_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

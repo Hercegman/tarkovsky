@@ -1,0 +1,56 @@
+{
+  "id": "fishing-with-shishiga",
+  "title": "Fishing With Shishiga",
+  "pageId": 33649,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "woods",
+    "shoreline",
+    "interchange",
+    "reserve",
+    "lighthouse",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "grannys-tales",
+      "title": "Granny's Tales"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "spring",
+      "title": "Spring!"
+    }
+  ],
+  "objectives": [
+    "Take part in the Morana followers' ritual on Streets of Tarkov",
+    "Take part in the Morana followers' ritual on Interchange",
+    "Take part in the Morana followers' ritual on Customs",
+    "Take part in the Morana followers' ritual on Woods",
+    "Take part in the Morana followers' ritual on Reserve",
+    "Take part in the Morana followers' ritual on Lighthouse",
+    "Take part in the Morana followers' ritual on Shoreline"
+  ],
+  "rewards": {
+    "exp": 15500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Fishing_With_Shishiga",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

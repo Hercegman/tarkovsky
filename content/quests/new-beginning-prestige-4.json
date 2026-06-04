@@ -1,0 +1,44 @@
+{
+  "id": "new-beginning-prestige-4",
+  "title": "New Beginning (Prestige 4)",
+  "pageId": 39399,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab",
+    "streets-of-tarkov",
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 20 PMC operatives",
+    "Eliminate 30 Rogues",
+    "Use the transit from The Lab to Streets of Tarkov",
+    "Use the transit from Streets of Tarkov to Interchange",
+    "Survive and extract from Interchange",
+    "Hand over 3 found in raid PMC figurines",
+    "Hand over 3 found in raid Scav figurines",
+    "Hand over 3 found in raid Boss figurines",
+    "Hand over 3 found in raid Trader figurines"
+  ],
+  "rewards": {
+    "exp": 11000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_4)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

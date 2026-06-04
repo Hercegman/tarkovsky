@@ -1,0 +1,37 @@
+{
+  "id": "stop-the-fight",
+  "title": "Stop the Fight!",
+  "pageId": 24254,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "to-the-tree",
+      "title": "To the Tree!"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 12 PMC operatives who are dressed in Santa or Ded Moroz hats"
+  ],
+  "rewards": {
+    "exp": 13100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stop_the_Fight!",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

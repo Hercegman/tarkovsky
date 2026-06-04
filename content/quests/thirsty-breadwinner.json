@@ -1,0 +1,43 @@
+{
+  "id": "thirsty-breadwinner",
+  "title": "Thirsty - Breadwinner",
+  "pageId": 34459,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "thirsty-hounds",
+      "title": "Thirsty - Hounds"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "thirsty-delivery",
+      "title": "Thirsty - Delivery"
+    }
+  ],
+  "objectives": [
+    "Find 2 Propane tanks (5L) in raid",
+    "Hand over the items"
+  ],
+  "rewards": {
+    "exp": 9600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Breadwinner",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

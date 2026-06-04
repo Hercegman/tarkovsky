@@ -1,0 +1,47 @@
+{
+  "id": "saving-private-roman",
+  "title": "Saving Private Roman",
+  "pageId": 44465,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "stick-to-it",
+      "title": "Stick to It"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "a-bitter-victory",
+      "title": "A Bitter Victory"
+    }
+  ],
+  "objectives": [
+    "Mark the transit to Lighthouse with an MS2000 Marker on Woods",
+    "Use the transit from Woods to Lighthouse",
+    "Mark the transit to Woods with an MS2000 Marker on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 42000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Saving_Private_Roman",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

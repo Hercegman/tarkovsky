@@ -1,0 +1,42 @@
+{
+  "id": "foresters-duty",
+  "title": "Forester's Duty",
+  "pageId": 35408,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse",
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "nostalgia",
+      "title": "Nostalgia"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 5 Scavs on Lighthouse (In one raid)",
+    "Use the transit from Lighthouse to Shoreline (In one raid)",
+    "Eliminate 5 Scavs on Shoreline (In one raid)"
+  ],
+  "rewards": {
+    "exp": 25600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Forester's_Duty",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

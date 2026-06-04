@@ -1,0 +1,43 @@
+{
+  "id": "silent-caliber",
+  "title": "Silent Caliber",
+  "pageId": 12238,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "bullshit",
+      "title": "Bullshit"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "connections-up-north",
+      "title": "Connections Up North"
+    }
+  ],
+  "objectives": [
+    "Eliminate 20 Scavs while using a suppressed 12 gauge shotgun",
+    "Eliminate 10 PMCs while using a suppressed 12 gauge shotgun"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Silent_Caliber",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

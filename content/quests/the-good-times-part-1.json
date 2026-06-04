@@ -1,0 +1,48 @@
+{
+  "id": "the-good-times-part-1",
+  "title": "The Good Times - Part 1",
+  "pageId": 34255,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "shooting-cans",
+      "title": "Shooting Cans"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "quality-standard",
+      "title": "Quality Standard"
+    },
+    {
+      "id": "hell-on-earth-part-1",
+      "title": "Hell on Earth - Part 1"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 PMC operatives while using Colt M4A1 or M16, 6B43 body armor, and Kiver-M helmet on Factory"
+  ],
+  "rewards": {
+    "exp": 76000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Good_Times_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

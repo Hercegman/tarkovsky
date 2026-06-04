@@ -1,0 +1,44 @@
+{
+  "id": "the-survivalist-path-combat-medic",
+  "title": "The Survivalist Path - Combat Medic",
+  "pageId": 14937,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-eagle-owl",
+      "title": "The Survivalist Path - Eagle-Owl"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-survivalist-path-junkie",
+      "title": "The Survivalist Path - Junkie"
+    }
+  ],
+  "objectives": [
+    "Reach the required Vitality skill level of 5"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Combat_Medic",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "old-patterns",
+  "title": "Old Patterns",
+  "pageId": 34350,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "combat-proven",
+      "title": "Combat Proven"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over 15 Physical Bitcoins"
+  ],
+  "rewards": {
+    "exp": 2,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Old_Patterns",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

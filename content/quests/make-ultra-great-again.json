@@ -1,0 +1,52 @@
+{
+  "id": "make-ultra-great-again",
+  "title": "Make ULTRA Great Again",
+  "pageId": 10249,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "only-business",
+      "title": "Only Business"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-blood-of-war-part-1",
+      "title": "The Blood of War - Part 1"
+    },
+    {
+      "id": "database-part-1",
+      "title": "Database - Part 1"
+    },
+    {
+      "id": "break-the-deal",
+      "title": "Break the Deal"
+    }
+  ],
+  "objectives": [
+    "Eliminate 25 Scavs on Interchange"
+  ],
+  "rewards": {
+    "exp": 9800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Make_ULTRA_Great_Again",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

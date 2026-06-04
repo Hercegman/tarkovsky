@@ -1,0 +1,45 @@
+{
+  "id": "friend-from-norvinsk-part-2",
+  "title": "Friend from Norvinsk - Part 2",
+  "pageId": 39333,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "friend-from-norvinsk-part-1",
+      "title": "Friend from Norvinsk - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "friend-from-norvinsk-part-3",
+      "title": "Friend from Norvinsk - Part 3"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain anything that could help with the investigation at the Health Resort on Shoreline",
+    "Hand over the found info"
+  ],
+  "rewards": {
+    "exp": 4000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

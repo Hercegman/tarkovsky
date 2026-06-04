@@ -1,0 +1,51 @@
+{
+  "id": "the-survivalist-path-thrifty",
+  "title": "The Survivalist Path - Thrifty",
+  "pageId": 14929,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-unprotected-but-dangerous",
+      "title": "The Survivalist Path - Unprotected but Dangerous"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-survivalist-path-zhivchik",
+      "title": "The Survivalist Path - Zhivchik"
+    },
+    {
+      "id": "the-delicious-sausage",
+      "title": "The Delicious Sausage"
+    }
+  ],
+  "objectives": [
+    "Stash 1 Iskra ration pack in the ZB-016 bunker on Woods",
+    "Stash 1 Bottle of water in the ZB-016 bunker on Woods",
+    "Stash 1 Iskra ration pack in the ZB-014 bunker on Woods",
+    "Stash 1 Bottle of water in the ZB-014 bunker on Woods"
+  ],
+  "rewards": {
+    "exp": 4700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Thrifty",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

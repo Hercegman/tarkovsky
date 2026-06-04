@@ -1,0 +1,41 @@
+{
+  "id": "properties-all-around",
+  "title": "Properties All Around",
+  "pageId": 32092,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "glory-to-cpsu-part-2",
+      "title": "Glory to CPSU - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the real estate fund on Streets of Tarkov",
+    "Locate and obtain the Tarkov real estate transactions document",
+    "Hand over the obtained information"
+  ],
+  "rewards": {
+    "exp": 6600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Properties_All_Around",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bad-feeling",
+  "title": "Bad Feeling",
+  "pageId": 34530,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 57 Raiders in The Lab",
+    "Eliminate 23 PMC operatives in The Lab"
+  ],
+  "rewards": {
+    "exp": 200000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Bad_Feeling",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

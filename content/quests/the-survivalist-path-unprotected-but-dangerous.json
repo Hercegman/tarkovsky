@@ -1,0 +1,44 @@
+{
+  "id": "the-survivalist-path-unprotected-but-dangerous",
+  "title": "The Survivalist Path - Unprotected but Dangerous",
+  "pageId": 14928,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "acquaintance",
+      "title": "Acquaintance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-survivalist-path-thrifty",
+      "title": "The Survivalist Path - Thrifty"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 Scavs without wearing any body armor on Woods"
+  ],
+  "rewards": {
+    "exp": 5600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Unprotected_but_Dangerous",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

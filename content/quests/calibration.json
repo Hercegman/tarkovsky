@@ -1,0 +1,42 @@
+{
+  "id": "calibration",
+  "title": "Calibration",
+  "pageId": 21762,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "chemistry-closet",
+      "title": "Chemistry Closet"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-courier",
+      "title": "The Courier"
+    }
+  ],
+  "objectives": [
+    "Eliminate 20 PMC operatives from over 100 meters away"
+  ],
+  "rewards": {
+    "exp": 93000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Calibration",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

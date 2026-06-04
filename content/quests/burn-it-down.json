@@ -1,0 +1,42 @@
+{
+  "id": "burn-it-down",
+  "title": "Burn It Down",
+  "pageId": 36053,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "dirty-blood",
+      "title": "Dirty Blood"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-root-cause",
+      "title": "The Root Cause"
+    }
+  ],
+  "objectives": [
+    "Eliminate 50 infected on any location"
+  ],
+  "rewards": {
+    "exp": 15500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Burn_It_Down",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

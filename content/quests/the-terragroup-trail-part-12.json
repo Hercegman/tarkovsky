@@ -1,0 +1,45 @@
+{
+  "id": "the-terragroup-trail-part-12",
+  "title": "The TerraGroup Trail - Part 12",
+  "pageId": 29707,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-11",
+      "title": "The TerraGroup Trail - Part 11"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-13",
+      "title": "The TerraGroup Trail - Part 13"
+    }
+  ],
+  "objectives": [
+    "Hand over a Piece of plexiglass",
+    "Hand over an Insulating tape",
+    "Hand over a Military circuit board",
+    "Hand over a Military COFDM Wireless Signal Transmitter"
+  ],
+  "rewards": {
+    "exp": 27400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_12",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "the-blood-of-war-part-3",
+  "title": "The Blood of War - Part 3",
+  "pageId": 12252,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-blood-of-war-part-2",
+      "title": "The Blood of War - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "living-high-is-not-a-crime-part-2",
+      "title": "Living High is Not a Crime - Part 2"
+    },
+    {
+      "id": "know-your-place",
+      "title": "Know Your Place!"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first fuel stash with an MS2000 Marker on Woods",
+    "Locate and mark the second fuel stash with an MS2000 Marker on Woods",
+    "Locate and mark the third fuel stash with an MS2000 Marker on Woods",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 21300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

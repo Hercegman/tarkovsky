@@ -1,0 +1,44 @@
+{
+  "id": "friend-from-norvinsk-part-4",
+  "title": "Friend from Norvinsk - Part 4",
+  "pageId": 39331,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "friend-from-norvinsk-part-3",
+      "title": "Friend from Norvinsk - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "friend-from-norvinsk-part-5",
+      "title": "Friend from Norvinsk - Part 5"
+    }
+  ],
+  "objectives": [
+    "Hand over 2 found in raid PC CPUs",
+    "Hand over 4 found in raid RAM sticks",
+    "Hand over 3 found in raid Printed circuit boards or Microcontroller boards"
+  ],
+  "rewards": {
+    "exp": 3000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

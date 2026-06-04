@@ -1,0 +1,48 @@
+{
+  "id": "informed-means-armed",
+  "title": "Informed Means Armed",
+  "pageId": 10754,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange",
+    "woods",
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "setup",
+      "title": "Setup"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "chumming",
+      "title": "Chumming"
+    }
+  ],
+  "objectives": [
+    "Install a WI-FI Camera to watch the sawmill dock on Woods",
+    "Install a WI-FI Camera to watch the road to the port on Customs",
+    "Install a WI-FI Camera to watch the Kiba Arms store entrance on Interchange"
+  ],
+  "rewards": {
+    "exp": 14000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Informed_Means_Armed",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

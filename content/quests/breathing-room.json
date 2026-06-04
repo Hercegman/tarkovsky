@@ -1,0 +1,42 @@
+{
+  "id": "breathing-room",
+  "title": "Breathing Room",
+  "pageId": 39335,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "friend-from-norvinsk-part-5",
+      "title": "Friend from Norvinsk - Part 5"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "game-review-part-1",
+      "title": "Game Review - Part 1"
+    }
+  ],
+  "objectives": [
+    "Modify an IWI UZI to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 3000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Breathing_Room",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

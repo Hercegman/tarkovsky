@@ -1,0 +1,42 @@
+{
+  "id": "take-two",
+  "title": "Take Two",
+  "pageId": 33814,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "break-through",
+      "title": "Break Through"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "photo-hunt",
+      "title": "Photo Hunt"
+    }
+  ],
+  "objectives": [
+    "Hand over Documents with decrypted data"
+  ],
+  "rewards": {
+    "exp": 86300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Take_Two",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ballet-lover",
+  "title": "Ballet Lover",
+  "pageId": 27946,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "audit",
+      "title": "Audit"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "audiophile",
+      "title": "Audiophile"
+    },
+    {
+      "id": "dandies",
+      "title": "Dandies"
+    }
+  ],
+  "objectives": [
+    "Locate the balletmeister's apartment on Streets of Tarkov",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 10700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Ballet_Lover",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

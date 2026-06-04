@@ -1,0 +1,53 @@
+{
+  "id": "pyramid-scheme",
+  "title": "Pyramid Scheme",
+  "pageId": 32250,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "vitamins-part-2",
+      "title": "Vitamins - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the first ATM on Nizhnaya Sadovaya Street on Streets of Tarkov",
+    "Locate the second ATM on Nizhnaya Sadovaya Street on Streets of Tarkov",
+    "Locate the ATM on Razvedchikov Street on Streets of Tarkov",
+    "Locate the first group of ATMs on Klimov Street on Streets of Tarkov",
+    "Locate the first ATM on Klimov Street on Streets of Tarkov",
+    "Locate the group of ATMs on Klimov Street on Streets of Tarkov",
+    "Locate the second ATM on Klimov Street on Streets of Tarkov",
+    "Locate the fourth group of ATMs on Klimov Street on Streets of Tarkov",
+    "Locate the fifth group of ATMs on Klimov Street on Streets of Tarkov",
+    "Locate the third ATM on Klimov Street on Streets of Tarkov",
+    "Locate the fourth ATM on Klimov Street on Streets of Tarkov",
+    "Locate the first ATM on Primorsky Ave on Streets of Tarkov",
+    "Locate the second ATM on Primorsky Ave on Streets of Tarkov",
+    "Locate the third ATM on Primorsky Ave on Streets of Tarkov",
+    "Locate the ATM at the expo on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 12400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Pyramid_Scheme",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

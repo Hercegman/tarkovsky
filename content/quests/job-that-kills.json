@@ -1,0 +1,45 @@
+{
+  "id": "job-that-kills",
+  "title": "Job That Kills",
+  "pageId": 39014,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "weak-compromise",
+      "title": "Weak Compromise"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "illusion-of-mercy",
+      "title": "Illusion of Mercy"
+    }
+  ],
+  "objectives": [
+    "Eliminate 50 enemies while playing as Assault or Enforcer in any game mode",
+    "Eliminate 50 enemies while playing as Scout or Marksman in any game mode"
+  ],
+  "rewards": {
+    "exp": 9000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Job_That_Kills",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

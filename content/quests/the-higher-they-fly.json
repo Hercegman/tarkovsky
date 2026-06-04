@@ -1,0 +1,48 @@
+{
+  "id": "the-higher-they-fly",
+  "title": "The Higher They Fly",
+  "pageId": 37719,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "swift-retribution",
+      "title": "Swift Retribution"
+    },
+    {
+      "id": "inevitable-response",
+      "title": "Inevitable Response"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "route-deviation",
+      "title": "Route Deviation"
+    }
+  ],
+  "objectives": [
+    "Eliminate 2 PMC operatives on Woods"
+  ],
+  "rewards": {
+    "exp": 8000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Higher_They_Fly",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

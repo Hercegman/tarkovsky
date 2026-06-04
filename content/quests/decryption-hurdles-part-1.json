@@ -1,0 +1,48 @@
+{
+  "id": "decryption-hurdles-part-1",
+  "title": "Decryption Hurdles - Part 1",
+  "pageId": 33798,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "break-through",
+      "title": "Break Through"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "decryption-hurdles-part-2",
+      "title": "Decryption Hurdles - Part 2"
+    }
+  ],
+  "objectives": [
+    "Hand over the encrypted flash drive",
+    "Find 3 PC CPUs  in raid",
+    "Hand over the 3 PC CPUs",
+    "Find 3 RAM stick  in raid",
+    "Hand over the 3 RAM stick",
+    "Find 2 SSD drives  in raid",
+    "Hand over the 2 SSD drives"
+  ],
+  "rewards": {
+    "exp": 16400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Decryption_Hurdles_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

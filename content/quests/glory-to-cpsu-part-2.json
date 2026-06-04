@@ -1,0 +1,47 @@
+{
+  "id": "glory-to-cpsu-part-2",
+  "title": "Glory to CPSU - Part 2",
+  "pageId": 30492,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "glory-to-cpsu-part-1",
+      "title": "Glory to CPSU - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "properties-all-around",
+      "title": "Properties All Around"
+    }
+  ],
+  "objectives": [
+    "Locate the place of work of Prapor's friend on Streets of Tarkov",
+    "Obtain any information on the fate of Prapor's friend",
+    "Survive and extract from the location",
+    "Hand over the found data"
+  ],
+  "rewards": {
+    "exp": 10100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Glory_to_CPSU_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

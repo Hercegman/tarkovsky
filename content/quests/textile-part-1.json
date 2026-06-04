@@ -1,0 +1,47 @@
+{
+  "id": "textile-part-1",
+  "title": "Textile - Part 1",
+  "pageId": 17448,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "sew-it-good-part-4",
+      "title": "Sew it Good - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "textile-part-2",
+      "title": "Textile - Part 2"
+    }
+  ],
+  "objectives": [
+    "Find 5 Aramid fabrics in raid",
+    "Hand over 5 Aramid fabrics to Ragman",
+    "Find 10 Ripstop fabrics in raid",
+    "Hand over 10 Ripstop fabrics to Ragman",
+    "Find 3 Paracords in raid",
+    "Hand over 3 Paracords to Ragman"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

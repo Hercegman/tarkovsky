@@ -1,0 +1,46 @@
+{
+  "id": "holiday-beyond-the-means",
+  "title": "Holiday Beyond the Means",
+  "pageId": 36712,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "christmas-dinner",
+      "title": "Christmas Dinner"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "this-is-my-party",
+      "title": "This Is My Party"
+    },
+    {
+      "id": "the-price-of-celebration",
+      "title": "The Price of Celebration"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 PMC operatives while dressed as Ded Moroz or Santa (hat and beard)"
+  ],
+  "rewards": {
+    "exp": 9800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Holiday_Beyond_the_Means",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

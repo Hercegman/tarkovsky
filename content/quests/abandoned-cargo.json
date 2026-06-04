@@ -1,0 +1,50 @@
+{
+  "id": "abandoned-cargo",
+  "title": "Abandoned Cargo",
+  "pageId": 36643,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "seaside-vacation",
+      "title": "Seaside Vacation"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "shipment-tracking",
+      "title": "Shipment Tracking"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first special TerraGroup cargo with an MS2000 Marker on Customs",
+    "Locate and mark the second special TerraGroup cargo with an MS2000 Marker on Customs",
+    "Locate and mark the third special TerraGroup cargo with an MS2000 Marker on Customs",
+    "Locate and mark the fourth special TerraGroup cargo with an MS2000 Marker on Customs",
+    "Locate and mark the fifth special TerraGroup cargo with an MS2000 Marker on Customs",
+    "Locate and mark the sixth special TerraGroup cargo with an MS2000 Marker on Customs",
+    "Locate and mark the seventh special TerraGroup cargo with an MS2000 Marker on Customs"
+  ],
+  "rewards": {
+    "exp": 9400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Abandoned_Cargo",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

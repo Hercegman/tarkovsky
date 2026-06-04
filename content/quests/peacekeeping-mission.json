@@ -1,0 +1,49 @@
+{
+  "id": "peacekeeping-mission",
+  "title": "Peacekeeping Mission",
+  "pageId": 12379,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "interchange",
+    "shoreline",
+    "customs",
+    "streets-of-tarkov",
+    "ground-zero"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "lend-lease-part-2",
+      "title": "Lend-Lease - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 12 Scavs while using a UNTAR helmet, MF-UNTAR armor, and M4A1 or M16 rifle on Customs",
+    "Eliminate 12 Scavs while using a UNTAR helmet, MF-UNTAR armor, and M4A1 or M16 rifle on Interchange",
+    "Eliminate 12 Scavs while using a UNTAR helmet, MF-UNTAR armor, and M4A1 or M16 rifle on Shoreline",
+    "Eliminate 12 Scavs while using a UNTAR helmet, MF-UNTAR armor, and M4A1 or M16 rifle on Woods",
+    "Eliminate 12 Scavs while using a UNTAR helmet, MF-UNTAR armor, and M4A1 or M16 rifle on Streets of Tarkov",
+    "Eliminate 12 Scavs while using a UNTAR helmet, MF-UNTAR armor, and M4A1 or M16 rifle on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 25500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Peacekeeping_Mission",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

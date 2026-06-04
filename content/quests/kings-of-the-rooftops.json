@@ -1,0 +1,45 @@
+{
+  "id": "kings-of-the-rooftops",
+  "title": "Kings of the Rooftops",
+  "pageId": 28077,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-4",
+      "title": "The Punisher - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "best-job-in-the-world",
+      "title": "Best Job in the World"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 snipers on the rooftops on Streets of Tarkov",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 14700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kings_of_the_Rooftops",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

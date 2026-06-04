@@ -1,0 +1,48 @@
+{
+  "id": "thirsty-delivery",
+  "title": "Thirsty - Delivery",
+  "pageId": 34462,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "thirsty-breadwinner",
+      "title": "Thirsty - Breadwinner"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "thirsty-echo",
+      "title": "Thirsty - Echo"
+    }
+  ],
+  "objectives": [
+    "Locate the specified stash spot on Woods",
+    "Locate the specified stash spot on Customs",
+    "Stash the first Propane tank (5L)",
+    "Stash the second Propane tank (5L)"
+  ],
+  "rewards": {
+    "exp": 14200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Delivery",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

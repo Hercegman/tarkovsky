@@ -1,0 +1,46 @@
+{
+  "id": "thirsty-echo",
+  "title": "Thirsty - Echo",
+  "pageId": 34461,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "thirsty-delivery",
+      "title": "Thirsty - Delivery"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "thirsty-secrets",
+      "title": "Thirsty - Secrets"
+    }
+  ],
+  "objectives": [
+    "Locate any information about Thirsty on Shoreline",
+    "Obtain the information in Thirsty's hideout",
+    "Hand over the found information"
+  ],
+  "rewards": {
+    "exp": 11200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Echo",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

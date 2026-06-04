@@ -1,0 +1,46 @@
+{
+  "id": "test-drive-part-4",
+  "title": "Test Drive - Part 4",
+  "pageId": 32442,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "interchange",
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "test-drive-part-3",
+      "title": "Test Drive - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "test-drive-part-5",
+      "title": "Test Drive - Part 5"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 30 targets while using an RPDN with EKP-1S-03 sight on Shoreline, Interchange or Woods"
+  ],
+  "rewards": {
+    "exp": 20000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

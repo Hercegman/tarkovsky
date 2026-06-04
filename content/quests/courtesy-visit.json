@@ -1,0 +1,47 @@
+{
+  "id": "courtesy-visit",
+  "title": "Courtesy Visit",
+  "pageId": 14955,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-tough-guy",
+      "title": "The Survivalist Path - Tough Guy"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "nostalgia",
+      "title": "Nostalgia"
+    }
+  ],
+  "objectives": [
+    "Locate the chairman's house in the abandoned village on Shoreline",
+    "Locate the fisherman's house in the abandoned village on Shoreline",
+    "Locate the priest's house in the abandoned village on Shoreline",
+    "Survive and extract from Shoreline with the \"Survived\" exit status"
+  ],
+  "rewards": {
+    "exp": 11800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Courtesy_Visit",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

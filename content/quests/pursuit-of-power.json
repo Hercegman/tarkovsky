@@ -1,0 +1,45 @@
+{
+  "id": "pursuit-of-power",
+  "title": "Pursuit of Power",
+  "pageId": 31128,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "virtue",
+      "title": "Virtue"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "key-component",
+      "title": "Key Component"
+    }
+  ],
+  "objectives": [
+    "Locate Sanitar's letter on Shoreline",
+    "Hand over the letter"
+  ],
+  "rewards": {
+    "exp": 8900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Pursuit_of_Power",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

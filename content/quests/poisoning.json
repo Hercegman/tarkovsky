@@ -1,0 +1,44 @@
+{
+  "id": "poisoning",
+  "title": "Poisoning",
+  "pageId": 31120,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "parasites",
+      "title": "Parasites"
+    },
+    {
+      "id": "healer",
+      "title": "Healer"
+    }
+  ],
+  "objectives": [
+    "Locate the poisoned area on Customs",
+    "Install a gas analyzer"
+  ],
+  "rewards": {
+    "exp": 9700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Poisoning",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

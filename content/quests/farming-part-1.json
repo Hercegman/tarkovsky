@@ -1,0 +1,49 @@
+{
+  "id": "farming-part-1",
+  "title": "Farming - Part 1",
+  "pageId": 9598,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-1",
+      "title": "Gunsmith - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "farming-part-2",
+      "title": "Farming - Part 2"
+    },
+    {
+      "id": "capacity-check",
+      "title": "Capacity Check"
+    }
+  ],
+  "objectives": [
+    "Fix the first control board with a Toolset on Factory",
+    "Fix the second control board with a Toolset on Factory"
+  ],
+  "rewards": {
+    "exp": 6600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

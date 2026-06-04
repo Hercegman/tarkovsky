@@ -1,0 +1,44 @@
+{
+  "id": "examinatio-part-7",
+  "title": "Examinatio - Part 7",
+  "pageId": 38974,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "examinatio-part-6",
+      "title": "Examinatio - Part 6"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "examinatio-part-8",
+      "title": "Examinatio - Part 8"
+    }
+  ],
+  "objectives": [
+    "Win a round after eliminating 3 or more enemies yourself in TeamFight or BlastGang mode"
+  ],
+  "rewards": {
+    "exp": 11600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Examinatio_-_Part_7",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

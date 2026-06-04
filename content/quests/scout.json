@@ -1,0 +1,60 @@
+{
+  "id": "scout",
+  "title": "Scout",
+  "pageId": 9607,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "signal-part-2",
+      "title": "Signal - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "back-door",
+      "title": "Back Door"
+    },
+    {
+      "id": "the-huntsman-path-factory-chief",
+      "title": "The Huntsman Path - Factory Chief"
+    },
+    {
+      "id": "black-swan",
+      "title": "Black Swan"
+    },
+    {
+      "id": "exit-here",
+      "title": "Exit Here"
+    }
+  ],
+  "objectives": [
+    "Locate the first Factory extraction",
+    "Locate the second Factory extraction",
+    "Locate the third Factory extraction",
+    "Locate the fourth Factory extraction",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 6800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Scout",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

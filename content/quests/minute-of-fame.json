@@ -1,0 +1,45 @@
+{
+  "id": "minute-of-fame",
+  "title": "Minute of Fame",
+  "pageId": 34266,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-good-times-part-2",
+      "title": "The Good Times - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "viewer",
+      "title": "Viewer"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the special edition of the gaming magazine on Interchange",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 40000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Minute_of_Fame",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

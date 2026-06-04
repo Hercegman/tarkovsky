@@ -1,0 +1,41 @@
+{
+  "id": "search-mission",
+  "title": "Search Mission",
+  "pageId": 19941,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "debut",
+      "title": "Debut"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate Prapor's missing convoy on Woods",
+    "Locate the temporary USEC camp on Woods",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 2800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Search_Mission",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

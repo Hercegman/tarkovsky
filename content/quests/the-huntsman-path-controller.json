@@ -1,0 +1,39 @@
+{
+  "id": "the-huntsman-path-controller",
+  "title": "The Huntsman Path - Controller",
+  "pageId": 14942,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-forest-cleaning",
+      "title": "The Huntsman Path - Forest Cleaning"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 2 PMCs while they are suffering from the stun effect"
+  ],
+  "rewards": {
+    "exp": 7200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Controller",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

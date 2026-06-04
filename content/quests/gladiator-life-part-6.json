@@ -1,0 +1,44 @@
+{
+  "id": "gladiator-life-part-6",
+  "title": "Gladiator Life - Part 6",
+  "pageId": 43574,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gladiator-life-part-5",
+      "title": "Gladiator Life - Part 5"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gladiator-life-part-7",
+      "title": "Gladiator Life - Part 7"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 enemies as Scout or Marksman"
+  ],
+  "rewards": {
+    "exp": 3000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

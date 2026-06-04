@@ -1,0 +1,45 @@
+{
+  "id": "dirty-blood",
+  "title": "Dirty Blood",
+  "pageId": 35986,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "dont-believe-your-eyes",
+      "title": "Don’t Believe Your Eyes"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "burn-it-down",
+      "title": "Burn It Down"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the infected blood sample in The Lab",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Dirty_Blood",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

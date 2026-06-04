@@ -1,0 +1,45 @@
+{
+  "id": "the-cult-part-1",
+  "title": "The Cult - Part 1",
+  "pageId": 7474,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "humanitarian-supplies",
+      "title": "Humanitarian Supplies"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-cult-part-2",
+      "title": "The Cult - Part 2"
+    }
+  ],
+  "objectives": [
+    "Locate the missing informant on Shoreline",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 6200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

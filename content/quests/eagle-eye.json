@@ -1,0 +1,49 @@
+{
+  "id": "eagle-eye",
+  "title": "Eagle Eye",
+  "pageId": 7472,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "scrap-metal",
+      "title": "Scrap Metal"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "humanitarian-supplies",
+      "title": "Humanitarian Supplies"
+    }
+  ],
+  "objectives": [
+    "Locate the first UAV crash site on Shoreline",
+    "Obtain the SAS disk from the first crashed drone",
+    "Hand over the first SAS disk  to Peacekeeper",
+    "Locate the second UAV crash site on Shoreline",
+    "Obtain the SAS disk from the second crashed drone",
+    "Hand over the second SAS disk  to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 6600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Eagle_Eye",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "stick-in-the-wheel",
+  "title": "Stick in the Wheel",
+  "pageId": 37739,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "half-empty",
+      "title": "Half-Empty"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "battery-change",
+      "title": "Battery Change"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 30 targets on any location"
+  ],
+  "rewards": {
+    "exp": 21500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stick_in_the_Wheel",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

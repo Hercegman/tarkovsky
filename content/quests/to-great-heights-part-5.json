@@ -1,0 +1,44 @@
+{
+  "id": "to-great-heights-part-5",
+  "title": "To Great Heights! - Part 5",
+  "pageId": 34077,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "to-great-heights-part-4",
+      "title": "To Great Heights! - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "to-great-heights-part-6",
+      "title": "To Great Heights! - Part 6"
+    }
+  ],
+  "objectives": [
+    "Win a match claiming at least 2nd place in the team in TeamFight, BlastGang, or CheckPoint mode in Arena"
+  ],
+  "rewards": {
+    "exp": 6900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

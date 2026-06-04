@@ -1,0 +1,46 @@
+{
+  "id": "the-terragroup-trail-part-4",
+  "title": "The TerraGroup Trail - Part 4",
+  "pageId": 29453,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-3",
+      "title": "The TerraGroup Trail - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-5",
+      "title": "The TerraGroup Trail - Part 5"
+    }
+  ],
+  "objectives": [
+    "Locate the place of Rogues' meeting spot on Shoreline",
+    "Disrupt the deal",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 24300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

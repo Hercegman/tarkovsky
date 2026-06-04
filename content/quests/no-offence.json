@@ -1,0 +1,42 @@
+{
+  "id": "no-offence",
+  "title": "No Offence",
+  "pageId": 7013,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "chemical-part-4",
+      "title": "Chemical - Part 4"
+    },
+    {
+      "id": "out-of-curiosity",
+      "title": "Out of Curiosity"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Obtain 10 M67 grenades",
+    "Hand over 10 grenades to Prapor"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Offence",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

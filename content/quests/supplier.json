@@ -1,0 +1,51 @@
+{
+  "id": "supplier",
+  "title": "Supplier",
+  "pageId": 6193,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "burning-rubber",
+      "title": "Burning Rubber"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-extortionist",
+      "title": "The Extortionist"
+    },
+    {
+      "id": "stirrup",
+      "title": "Stirrup"
+    },
+    {
+      "id": "friend-from-the-west-part-1",
+      "title": "Friend From the West - Part 1"
+    }
+  ],
+  "objectives": [
+    "Hand over 1 found in raid Module-3M armor to Skier",
+    "Hand over 1 found in raid TOZ-106 shotgun to Skier"
+  ],
+  "rewards": {
+    "exp": 3300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Supplier",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

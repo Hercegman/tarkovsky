@@ -1,0 +1,47 @@
+{
+  "id": "photo-hunt",
+  "title": "Photo Hunt",
+  "pageId": 33819,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "take-two",
+      "title": "Take Two"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "forgotten-acquaintance",
+      "title": "Forgotten Acquaintance"
+    }
+  ],
+  "objectives": [
+    "Stash a WI-FI Camera at the TerraGroup HQ parking doorway on Ground Zero",
+    "Stash a WI-FI Camera at the TerraGroup HQ barricaded stairway on Ground Zero",
+    "Stash a WI-FI Camera at the TerraGroup HQ office #3 bookshelf on Ground Zero",
+    "Stash a WI-FI Camera at the TerraGroup HQ office #4 corner window on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 29000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Photo_Hunt",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

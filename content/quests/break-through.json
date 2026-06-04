@@ -1,0 +1,46 @@
+{
+  "id": "break-through",
+  "title": "Break Through",
+  "pageId": 33795,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-tarkov-mystery",
+      "title": "The Tarkov Mystery"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "take-two",
+      "title": "Take Two"
+    },
+    {
+      "id": "decryption-hurdles-part-1",
+      "title": "Decryption Hurdles - Part 1"
+    }
+  ],
+  "objectives": [
+    "Hand over the decrypted flash drive"
+  ],
+  "rewards": {
+    "exp": 217000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Break_Through",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

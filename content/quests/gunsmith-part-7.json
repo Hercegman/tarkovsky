@@ -1,0 +1,46 @@
+{
+  "id": "gunsmith-part-7",
+  "title": "Gunsmith - Part 7",
+  "pageId": 10248,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-6",
+      "title": "Gunsmith - Part 6"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-8",
+      "title": "Gunsmith - Part 8"
+    },
+    {
+      "id": "gunsmith-old-friends-request",
+      "title": "Gunsmith - Old Friend's Request"
+    }
+  ],
+  "objectives": [
+    "Modify an M4A1 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 6300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_7",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

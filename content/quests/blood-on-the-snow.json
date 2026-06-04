@@ -1,0 +1,44 @@
+{
+  "id": "blood-on-the-snow",
+  "title": "Blood on the Snow",
+  "pageId": 41609,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "domain-expansion",
+      "title": "Domain Expansion"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "not-below-zero",
+      "title": "Not Below Zero"
+    }
+  ],
+  "objectives": [
+    "Eliminate 50 enemies on Base, Dorms, or EMERCOM in LastHero mode"
+  ],
+  "rewards": {
+    "exp": 22000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Blood_on_the_Snow",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

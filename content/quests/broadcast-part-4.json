@@ -1,0 +1,49 @@
+{
+  "id": "broadcast-part-4",
+  "title": "Broadcast - Part 4",
+  "pageId": 28165,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "broadcast-part-3",
+      "title": "Broadcast - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "broadcast-part-5",
+      "title": "Broadcast - Part 5"
+    },
+    {
+      "id": "slaughterhouse",
+      "title": "Slaughterhouse"
+    }
+  ],
+  "objectives": [
+    "Locate the cultist meeting spot on Streets of Tarkov",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 22600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

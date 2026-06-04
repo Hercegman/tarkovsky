@@ -1,0 +1,36 @@
+{
+  "id": "hot-zone",
+  "title": "Hot Zone",
+  "pageId": 37967,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Stash 12 Zulu Nylon Gear M4 RSCR chest rigs at the new gas station on Customs",
+    "Stash 12 class 4 ballistic plates on the roof of the specified repair workshop on Reserve"
+  ],
+  "rewards": {
+    "exp": 29400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hot_Zone",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

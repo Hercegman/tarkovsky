@@ -1,0 +1,37 @@
+{
+  "id": "supply-and-demand",
+  "title": "Supply and Demand",
+  "pageId": 34554,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "customer-communication",
+      "title": "Customer Communication"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate PMCs with your favorite weapon"
+  ],
+  "rewards": {
+    "exp": 15,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Supply_and_Demand",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "darkest-hour-is-just-before-dawn",
+  "title": "Darkest Hour Is Just Before Dawn",
+  "pageId": 36236,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "streets-of-tarkov",
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "sample-iv-a-new-hope",
+      "title": "Sample IV - A New Hope"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "forgotten-oaths",
+      "title": "Forgotten Oaths"
+    },
+    {
+      "id": "radical-treatment",
+      "title": "Radical Treatment"
+    },
+    {
+      "id": "contagious-beast",
+      "title": "Contagious Beast"
+    }
+  ],
+  "objectives": [
+    "Eliminate 60 infected on Ground Zero",
+    "Eliminate 60 infected on Streets of Tarkov",
+    "Eliminate 60 infected in The Lab"
+  ],
+  "rewards": {
+    "exp": 33000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Darkest_Hour_Is_Just_Before_Dawn",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

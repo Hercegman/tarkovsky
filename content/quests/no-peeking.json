@@ -1,0 +1,44 @@
+{
+  "id": "no-peeking",
+  "title": "No Peeking!",
+  "pageId": 33820,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "getting-to-the-core",
+      "title": "Getting to the Core"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "forgotten-acquaintance",
+      "title": "Forgotten Acquaintance"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 PMC operatives at the TerraGroup HQ on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 43400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Peeking!",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

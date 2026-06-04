@@ -1,0 +1,42 @@
+{
+  "id": "athlete",
+  "title": "Athlete",
+  "pageId": 12250,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "health-care-privacy-part-4",
+      "title": "Health Care Privacy - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "crisis",
+      "title": "Crisis"
+    }
+  ],
+  "objectives": [
+    "Reach the required 10 Health skill level"
+  ],
+  "rewards": {
+    "exp": 3500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Athlete",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "debtor",
+  "title": "Debtor",
+  "pageId": 28127,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "chumming",
+      "title": "Chumming"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "house-arrest-part-1",
+      "title": "House Arrest - Part 1"
+    }
+  ],
+  "objectives": [
+    "Find the debtor on Streets of Tarkov",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 13200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Debtor",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

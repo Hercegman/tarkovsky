@@ -1,0 +1,38 @@
+{
+  "id": "psycho-sniper",
+  "title": "Psycho Sniper",
+  "pageId": 12244,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "wet-job-part-6",
+      "title": "Wet Job - Part 6"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Reach the required Bolt-action Rifles skill level of 10",
+    "Eliminate 5 PMC operatives without dying while using a bolt-action rifle"
+  ],
+  "rewards": {
+    "exp": 26700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Psycho_Sniper",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "combat-proven",
+  "title": "Combat Proven",
+  "pageId": 34339,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "special-offer",
+      "title": "Special Offer"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "old-patterns",
+      "title": "Old Patterns"
+    }
+  ],
+  "objectives": [
+    "Locate and neutralize any 5 Bosses (excluding The Goons and Partisan) while using any Goons Edition tactical rig"
+  ],
+  "rewards": {
+    "exp": 92000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Combat_Proven",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

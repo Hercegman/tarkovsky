@@ -1,0 +1,52 @@
+{
+  "id": "the-terragroup-trail-part-9",
+  "title": "The TerraGroup Trail - Part 9",
+  "pageId": 29712,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory",
+    "customs",
+    "woods",
+    "interchange",
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-8",
+      "title": "The TerraGroup Trail - Part 8"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-10",
+      "title": "The TerraGroup Trail - Part 10"
+    }
+  ],
+  "objectives": [
+    "Stash 2 Bottles of Dan Jackiel whiskey in the Revis store on Interchange",
+    "Stash a SP-8 Survival Machete inside the pumping station on Factory",
+    "Stash a Desert Tech MDR 7.62x51 assault rifle in dorm room 302 on Customs",
+    "Stash 2 EOTech HHS-1 hybrid sights in the sawmill guard post on Woods",
+    "Stash L3Harris GPNVG-18 night vision goggles in the third structure of the railroad warehouse on Reserve"
+  ],
+  "rewards": {
+    "exp": 27400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_9",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

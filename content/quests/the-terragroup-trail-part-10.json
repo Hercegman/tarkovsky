@@ -1,0 +1,45 @@
+{
+  "id": "the-terragroup-trail-part-10",
+  "title": "The TerraGroup Trail - Part 10",
+  "pageId": 29747,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-9",
+      "title": "The TerraGroup Trail - Part 9"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-15",
+      "title": "The TerraGroup Trail - Part 15"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 30 targets while using VSS Vintorez 9x39 special sniper rifle in the car dealership area on Streets of Tarkov",
+    "Plant Sanitar's bag on the second floor of the car dealership near Kaban's office"
+  ],
+  "rewards": {
+    "exp": 28500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_10",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

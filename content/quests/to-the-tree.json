@@ -1,0 +1,61 @@
+{
+  "id": "to-the-tree",
+  "title": "To the Tree!",
+  "pageId": 24228,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-1",
+      "title": "Gunsmith - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "disrupting-the-party",
+      "title": "Disrupting the Party"
+    },
+    {
+      "id": "fairy-tale-showdown",
+      "title": "Fairy Tale Showdown"
+    },
+    {
+      "id": "home-comfort",
+      "title": "Home Comfort"
+    },
+    {
+      "id": "stop-the-fight",
+      "title": "Stop the Fight!"
+    }
+  ],
+  "objectives": [
+    "Locate and visit the Christmas tree on Customs",
+    "Locate and visit the Christmas tree on Reserve",
+    "Locate and visit the Christmas tree on Lighthouse",
+    "Locate and visit the Christmas tree on Interchange",
+    "Locate and visit the Christmas tree on Shoreline",
+    "Locate and visit the Christmas tree on Woods"
+  ],
+  "rewards": {
+    "exp": 3800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/To_the_Tree!",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "insomnia",
+  "title": "Insomnia",
+  "pageId": 12239,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "cargo-x-part-4",
+      "title": "Cargo X - Part 4"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 25 PMC operatives in the time period of 21:00-06:00 (Excluding Factory and The Lab)"
+  ],
+  "rewards": {
+    "exp": 18200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Insomnia",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

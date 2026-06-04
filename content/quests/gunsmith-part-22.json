@@ -1,0 +1,42 @@
+{
+  "id": "gunsmith-part-22",
+  "title": "Gunsmith - Part 22",
+  "pageId": 28005,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-21",
+      "title": "Gunsmith - Part 21"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-23",
+      "title": "Gunsmith - Part 23"
+    }
+  ],
+  "objectives": [
+    "Modify an M4A1 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 28900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_22",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

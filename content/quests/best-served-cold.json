@@ -1,0 +1,39 @@
+{
+  "id": "best-served-cold",
+  "title": "Best Served Cold",
+  "pageId": 39051,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "compromise",
+      "title": "Compromise"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 150 enemies in any gamemode"
+  ],
+  "rewards": {
+    "exp": 33000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Best_Served_Cold",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "general-cleanup",
+  "title": "General Cleanup",
+  "pageId": 42748,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "debts",
+      "title": "Debts"
+    }
+  ],
+  "objectives": [
+    "Eliminate 25 enemies in CheckPoint or Last Hero mode"
+  ],
+  "rewards": {
+    "exp": 40000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/General_Cleanup",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

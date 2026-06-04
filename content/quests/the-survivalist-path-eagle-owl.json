@@ -1,0 +1,42 @@
+{
+  "id": "the-survivalist-path-eagle-owl",
+  "title": "The Survivalist Path - Eagle-Owl",
+  "pageId": 14936,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-tough-guy",
+      "title": "The Survivalist Path - Tough Guy"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-survivalist-path-combat-medic",
+      "title": "The Survivalist Path - Combat Medic"
+    }
+  ],
+  "objectives": [
+    "Eliminate 6 Scavs in the time period of 21:00-04:00 without using any NVGs or thermal sights (Excluding Factory)"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Eagle-Owl",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

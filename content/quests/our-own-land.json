@@ -1,0 +1,40 @@
+{
+  "id": "our-own-land",
+  "title": "Our Own Land",
+  "pageId": 23964,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-5",
+      "title": "The Punisher - Part 5"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 20 USEC PMC operatives on Lighthouse",
+    "Hand over 20 found in raid USEC PMC dogtags"
+  ],
+  "rewards": {
+    "exp": 22000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Our_Own_Land",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

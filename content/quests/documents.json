@@ -1,0 +1,49 @@
+{
+  "id": "documents",
+  "title": "Documents",
+  "pageId": 21346,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "no-place-for-renegades",
+      "title": "No Place for Renegades"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "special-comms",
+      "title": "Special Comms"
+    }
+  ],
+  "objectives": [
+    "Obtain the first folder with military on Reserve",
+    "Obtain the second folder with military on Reserve",
+    "Obtain the third folder with military on Reserve",
+    "Hand over the first documents to Prapor",
+    "Hand over the second documents to Prapor",
+    "Hand over the third documents to Prapor"
+  ],
+  "rewards": {
+    "exp": 7800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Documents",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

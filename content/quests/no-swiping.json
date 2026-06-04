@@ -1,0 +1,40 @@
+{
+  "id": "no-swiping",
+  "title": "No Swiping",
+  "pageId": 32096,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "chumming",
+      "title": "Chumming"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the smugglers' base on Shoreline",
+    "Eliminate any 10 enemies in the base area"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Swiping",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

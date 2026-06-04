@@ -1,0 +1,71 @@
+{
+  "id": "pharmacist",
+  "title": "Pharmacist",
+  "pageId": 6417,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "painkiller",
+      "title": "Painkiller"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "general-wares",
+      "title": "General Wares"
+    },
+    {
+      "id": "health-care-privacy-part-1",
+      "title": "Health Care Privacy - Part 1"
+    },
+    {
+      "id": "car-repair",
+      "title": "Car Repair"
+    },
+    {
+      "id": "disease-history",
+      "title": "Disease History"
+    },
+    {
+      "id": "population-census",
+      "title": "Population Census"
+    },
+    {
+      "id": "supply-plans",
+      "title": "Supply Plans"
+    },
+    {
+      "id": "kind-of-sabotage",
+      "title": "Kind of Sabotage"
+    }
+  ],
+  "objectives": [
+    "Obtain the case containing the device on Customs",
+    "(Optional) Locate the paramedic's car on Customs",
+    "(Optional) Get into two-story dorm room 114 on Customs",
+    "Hand over the case"
+  ],
+  "rewards": {
+    "exp": 5700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Pharmacist",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

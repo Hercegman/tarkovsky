@@ -1,0 +1,48 @@
+{
+  "id": "all-for-the-show-supremacy",
+  "title": "All for the Show - Supremacy",
+  "pageId": 43672,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "i-am-speed-part-3",
+      "title": "I Am Speed - Part 3"
+    },
+    {
+      "id": "no-limit-to-perfection-part-9",
+      "title": "No Limit to Perfection - Part 9"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "all-for-the-show-major-sponsor",
+      "title": "All for the Show - Major Sponsor"
+    }
+  ],
+  "objectives": [
+    "Earn a Match MVP after eliminating 5 or more enemies with AK-12"
+  ],
+  "rewards": {
+    "exp": 28000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/All_for_the_Show_-_Supremacy",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

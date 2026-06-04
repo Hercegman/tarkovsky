@@ -1,0 +1,43 @@
+{
+  "id": "until-dawn",
+  "title": "Until Dawn",
+  "pageId": 35948,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-graven-image",
+      "title": "The Graven Image"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 15 hooded night people on Ground Zero",
+    "Eliminate 15 hooded night people on Lighthouse",
+    "Eliminate 15 hooded night people on Shoreline",
+    "Eliminate 15 hooded night people on Streets of Tarkov",
+    "Eliminate 15 hooded night people on Woods",
+    "Eliminate 15 hooded night people on Customs",
+    "Eliminate 15 hooded night people on night-time Factory"
+  ],
+  "rewards": {
+    "exp": 75000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Until_Dawn",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

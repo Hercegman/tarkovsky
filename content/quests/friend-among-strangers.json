@@ -1,0 +1,42 @@
+{
+  "id": "friend-among-strangers",
+  "title": "Friend Among Strangers",
+  "pageId": 34284,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "establish-contact",
+      "title": "Establish Contact"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "immunity-quest",
+      "title": "Immunity (quest)"
+    }
+  ],
+  "objectives": [
+    "Eliminate 7 PMC operatives without killing Scavs, Scav Raiders, Rogues or Bosses"
+  ],
+  "rewards": {
+    "exp": 25600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Friend_Among_Strangers",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

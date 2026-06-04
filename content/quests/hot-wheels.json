@@ -1,0 +1,49 @@
+{
+  "id": "hot-wheels",
+  "title": "Hot Wheels",
+  "pageId": 37689,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "shipping-delay-part-1",
+      "title": "Shipping Delay - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "swift-retribution",
+      "title": "Swift Retribution"
+    },
+    {
+      "id": "hot-wheels-lets-try-again",
+      "title": "Hot Wheels - Let's Try Again"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the spare BTR wheels with an MS2000 Marker",
+    "(Optional) Complete the main objective as soon as possible"
+  ],
+  "rewards": {
+    "exp": 24300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hot_Wheels",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

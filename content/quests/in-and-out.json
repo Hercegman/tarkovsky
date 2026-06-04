@@ -1,0 +1,48 @@
+{
+  "id": "in-and-out",
+  "title": "In and Out",
+  "pageId": 35657,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "woods",
+    "reserve",
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "into-the-inferno",
+      "title": "Into the Inferno"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "ours-by-right",
+      "title": "Ours by Right"
+    }
+  ],
+  "objectives": [
+    "Hand over 2 found in raid Radar station spare parts",
+    "Eliminate any 10 targets on any location with mortar strikes (Shoreline, Woods, Reserve, Customs)"
+  ],
+  "rewards": {
+    "exp": 22700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/In_and_Out",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

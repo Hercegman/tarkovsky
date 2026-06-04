@@ -1,0 +1,40 @@
+{
+  "id": "drug-trafficking",
+  "title": "Drug Trafficking",
+  "pageId": 25767,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "lost-contact",
+      "title": "Lost Contact"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the hidden drug lab on Lighthouse",
+    "Stash a WI-FI Camera in the drug lab"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Drug_Trafficking",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

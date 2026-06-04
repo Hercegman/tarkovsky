@@ -1,0 +1,40 @@
+{
+  "id": "car-repair",
+  "title": "Car Repair",
+  "pageId": 6738,
+  "trader": "therapist",
+  "questNumber": 10,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "pharmacist",
+      "title": "Pharmacist"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 4 Car batteries in raid",
+    "Find 8 Spark plugs in raid",
+    "Hand over the 4 batteries to Therapist",
+    "Hand over the 8 spark plugs to Therapist"
+  ],
+  "rewards": {
+    "exp": 6900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Car_Repair",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

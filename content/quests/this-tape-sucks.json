@@ -1,0 +1,46 @@
+{
+  "id": "this-tape-sucks",
+  "title": "This Tape Sucks",
+  "pageId": 38172,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-labyrinth"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "offensive-reconnaissance",
+      "title": "Offensive Reconnaissance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "keepers-word",
+      "title": "Keeper's Word"
+    }
+  ],
+  "objectives": [
+    "Locate the torture room inside The Labyrinth",
+    "Locate and obtain any evidence of torture",
+    "Hand over the found information"
+  ],
+  "rewards": {
+    "exp": 15500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/This_Tape_Sucks",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

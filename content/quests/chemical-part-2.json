@@ -1,0 +1,47 @@
+{
+  "id": "chemical-part-2",
+  "title": "Chemical - Part 2",
+  "pageId": 6752,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chemical-part-1",
+      "title": "Chemical - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "chemical-part-3",
+      "title": "Chemical - Part 3"
+    }
+  ],
+  "objectives": [
+    "Find any evidence on Customs that could help with the investigation",
+    "Hand over the evidence to Skier",
+    "Find any information on Customs that could help with the investigation",
+    "Hand over the info to Skier"
+  ],
+  "rewards": {
+    "exp": 4800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

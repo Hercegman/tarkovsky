@@ -1,0 +1,45 @@
+{
+  "id": "reserve-quest",
+  "title": "Reserve (quest)",
+  "pageId": 14968,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-delicious-sausage",
+      "title": "The Delicious Sausage"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "pest-control",
+      "title": "Pest Control"
+    }
+  ],
+  "objectives": [
+    "Locate the food storage location on Reserve",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 11800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Reserve_(quest)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

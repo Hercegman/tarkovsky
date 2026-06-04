@@ -1,0 +1,48 @@
+{
+  "id": "spotter",
+  "title": "Spotter",
+  "pageId": 28572,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "following-the-bread-crumbs",
+      "title": "Following the Bread Crumbs"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "make-an-impression",
+      "title": "Make an Impression"
+    }
+  ],
+  "objectives": [
+    "Locate a good sniping position in Concordia overlooking the construction site",
+    "Hide AI .338 LM Tactical Sound Moderator near the red table",
+    "Locate a good sniping position at Primorsky overlooking the movie theater",
+    "Hide Trijicon REAP-IR thermal scope under Makhors' bed",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Spotter",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

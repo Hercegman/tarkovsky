@@ -1,0 +1,54 @@
+{
+  "id": "health-care-privacy-part-4",
+  "title": "Health Care Privacy - Part 4",
+  "pageId": 8065,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "health-care-privacy-part-3",
+      "title": "Health Care Privacy - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "health-care-privacy-part-5",
+      "title": "Health Care Privacy - Part 5"
+    },
+    {
+      "id": "private-clinic",
+      "title": "Private Clinic"
+    },
+    {
+      "id": "athlete",
+      "title": "Athlete"
+    },
+    {
+      "id": "an-apple-a-day-keeps-the-doctor-away",
+      "title": "An Apple a Day Keeps the Doctor Away"
+    }
+  ],
+  "objectives": [
+    "Reach the required 4 Health skill level"
+  ],
+  "rewards": {
+    "exp": 6000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

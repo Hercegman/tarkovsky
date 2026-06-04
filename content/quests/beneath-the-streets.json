@@ -1,0 +1,45 @@
+{
+  "id": "beneath-the-streets",
+  "title": "Beneath The Streets",
+  "pageId": 35302,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov",
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "pets-wont-need-it-part-2",
+      "title": "Pets Won't Need It - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Use the transit from Streets of Tarkov to The Lab (In one raid)",
+    "(Optional)  Locate the passage leading to The Lab on Streets of Tarkov (In one raid)",
+    "Scout the server room in The Lab (In one raid)",
+    "Scout the hazard dome in The Lab (In one raid)",
+    "Scout the control room in The Lab (In one raid)",
+    "Locate the passage leading to Streets of Tarkov in The Lab (In one raid)"
+  ],
+  "rewards": {
+    "exp": 24000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Beneath_The_Streets",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

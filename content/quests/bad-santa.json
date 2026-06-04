@@ -1,0 +1,44 @@
+{
+  "id": "bad-santa",
+  "title": "Bad Santa",
+  "pageId": 24428,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "disrupting-the-party",
+      "title": "Disrupting the Party"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 5 celebrating enemies while wearing the specified equipment on Interchange",
+    "Eliminate 5 celebrating enemies while wearing the specified equipment on Lighthouse",
+    "Eliminate 5 celebrating enemies while wearing the specified equipment on Reserve",
+    "Eliminate 5 celebrating enemies while wearing the specified equipment on Shoreline",
+    "Eliminate 5 celebrating enemies while wearing the specified equipment on Woods",
+    "Eliminate 5 celebrating enemies while wearing the specified equipment on Customs",
+    "Eliminate 5 celebrating enemies while wearing the specified equipment on Factory",
+    "Eliminate 5 celebrating enemies while wearing the specified equipment on The Lab"
+  ],
+  "rewards": {
+    "exp": 24200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Bad_Santa",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

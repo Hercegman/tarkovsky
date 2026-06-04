@@ -1,0 +1,45 @@
+{
+  "id": "dressed-to-kill",
+  "title": "Dressed to Kill",
+  "pageId": 10261,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-blood-of-war-part-1",
+      "title": "The Blood of War - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gratitude",
+      "title": "Gratitude"
+    }
+  ],
+  "objectives": [
+    "Find 2 Kinda Cowboy hats in raid",
+    "Find 2 Ushanka ear-flap caps in raid",
+    "Hand over 2 Ushanka ear-flap caps to Ragman",
+    "Hand over 2 Kinda Cowboy hats to Ragman"
+  ],
+  "rewards": {
+    "exp": 8400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Dressed_to_Kill",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

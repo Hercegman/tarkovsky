@@ -1,0 +1,56 @@
+{
+  "id": "new-beginning-prestige-6",
+  "title": "New Beginning (Prestige 6)",
+  "pageId": 41221,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab",
+    "streets-of-tarkov",
+    "interchange",
+    "customs",
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 50 PMC operatives",
+    "Eliminate 100 Rogues",
+    "Locate and neutralize any Boss with a headshot",
+    "Eliminate 5 hooded men",
+    "Use the transit from The Lab to Streets of Tarkov",
+    "Use the transit from Streets of Tarkov to Interchange",
+    "Use the transit from Interchange to Customs",
+    "Use the transit from Customs to Reserve",
+    "Survive and extract from Reserve",
+    "Hand over the found in raid item: BEAR operative figurine",
+    "Hand over the found in raid item: Politician Mutkevich figurine",
+    "Hand over the found in raid item: Killa figurine",
+    "Hand over the found in raid item: Reshala figurine",
+    "Hand over the found in raid item: Ryzhy figurine",
+    "Hand over the found in raid item: Scav figurine",
+    "Hand over the found in raid item: Tagilla figurine",
+    "Hand over the found in raid item: USEC operative figurine",
+    "Hand over the found in raid item: Cultist figurine",
+    "Hand over the found in raid item: Den figurine"
+  ],
+  "rewards": {
+    "exp": 11000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_6)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

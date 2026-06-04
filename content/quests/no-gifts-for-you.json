@@ -1,0 +1,39 @@
+{
+  "id": "no-gifts-for-you",
+  "title": "No Gifts for You",
+  "pageId": 24421,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "disrupting-the-party",
+      "title": "Disrupting the Party"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over 3 found in raid Santa bags to Jaeger"
+  ],
+  "rewards": {
+    "exp": 13800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Gifts_for_You",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

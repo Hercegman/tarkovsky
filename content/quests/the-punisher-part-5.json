@@ -1,0 +1,52 @@
+{
+  "id": "the-punisher-part-5",
+  "title": "The Punisher - Part 5",
+  "pageId": 6530,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-4",
+      "title": "The Punisher - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-punisher-part-6",
+      "title": "The Punisher - Part 6"
+    },
+    {
+      "id": "our-own-land",
+      "title": "Our Own Land"
+    }
+  ],
+  "objectives": [
+    "Find any Kalashnikov AK-74 assault rifle in raid",
+    "Hand over the AK-74",
+    "Find a Colt M4A1 assault rifle in raid",
+    "Hand over the M4A1",
+    "Find any 2 Makarov PM pistols in raid",
+    "Hand over the pistols",
+    "Eliminate 10 PMC operatives while wearing a PACA body armor and 6B47 helmet"
+  ],
+  "rewards": {
+    "exp": 18200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

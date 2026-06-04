@@ -1,0 +1,49 @@
+{
+  "id": "another-shipping-delay",
+  "title": "Another Shipping Delay",
+  "pageId": 37730,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "hot-wheels",
+      "title": "Hot Wheels"
+    },
+    {
+      "id": "natural-exchange",
+      "title": "Natural Exchange"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "ask-for-directions",
+      "title": "Ask for Directions"
+    }
+  ],
+  "objectives": [
+    "Locate the missing courier crew on Woods",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 12800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Another_Shipping_Delay",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

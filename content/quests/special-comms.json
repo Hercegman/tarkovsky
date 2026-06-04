@@ -1,0 +1,44 @@
+{
+  "id": "special-comms",
+  "title": "Special Comms",
+  "pageId": 34873,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "documents",
+      "title": "Documents"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Stash a Military cable at the boulder next to RUAF gate on Woods",
+    "Stash a Bulbex cable cutter at the boulder next to RUAF gate on Woods",
+    "Use the transit from Woods to Reserve",
+    "Stash a Military cable at the sandbags next to LAV III above the storage warehouse on Reserve",
+    "Stash a Bulbex cable cutter at the sandbags next to LAV III above the storage warehouse on Reserve"
+  ],
+  "rewards": {
+    "exp": 12800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Special_Comms",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

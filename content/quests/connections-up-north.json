@@ -1,0 +1,41 @@
+{
+  "id": "connections-up-north",
+  "title": "Connections Up North",
+  "pageId": 36871,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "silent-caliber",
+      "title": "Silent Caliber"
+    },
+    {
+      "id": "hunting-trip",
+      "title": "Hunting Trip"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 20 PMC operatives from over 40 meters away while using a bolt-action rifle with night or thermal scope"
+  ],
+  "rewards": {
+    "exp": 21000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Connections_Up_North",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

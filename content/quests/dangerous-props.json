@@ -1,0 +1,37 @@
+{
+  "id": "dangerous-props",
+  "title": "Dangerous Props",
+  "pageId": 36005,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "irresistible",
+      "title": "Irresistible"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 20 targets while using the MPS Auto Assault-12 shotgun"
+  ],
+  "rewards": {
+    "exp": 39900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Dangerous_Props",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

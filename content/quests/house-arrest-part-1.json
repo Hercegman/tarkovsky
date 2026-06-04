@@ -1,0 +1,45 @@
+{
+  "id": "house-arrest-part-1",
+  "title": "House Arrest - Part 1",
+  "pageId": 28117,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "debtor",
+      "title": "Debtor"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "house-arrest-part-2",
+      "title": "House Arrest - Part 2"
+    }
+  ],
+  "objectives": [
+    "Locate where the missing group was held captive on Streets of Tarkov",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 28800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/House_Arrest_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "thirsty-hounds",
+  "title": "Thirsty - Hounds",
+  "pageId": 34458,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-delicious-sausage",
+      "title": "The Delicious Sausage"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "thirsty-breadwinner",
+      "title": "Thirsty - Breadwinner"
+    }
+  ],
+  "objectives": [
+    "Eliminate 12 Scavs in the time period of 22:00-7:00 on Shoreline"
+  ],
+  "rewards": {
+    "exp": 8500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Hounds",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

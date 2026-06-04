@@ -1,0 +1,42 @@
+{
+  "id": "down-the-rabbit-hole-part-4",
+  "title": "Down the Rabbit Hole - Part 4",
+  "pageId": 31082,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "down-the-rabbit-hole-part-3",
+      "title": "Down the Rabbit Hole - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "down-the-rabbit-hole-part-5",
+      "title": "Down the Rabbit Hole - Part 5"
+    }
+  ],
+  "objectives": [
+    "Hand over 1 BEAR Buddy plush toy"
+  ],
+  "rewards": {
+    "exp": 5000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

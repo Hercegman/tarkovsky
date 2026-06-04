@@ -1,0 +1,43 @@
+{
+  "id": "decontamination-service",
+  "title": "Decontamination Service",
+  "pageId": 12378,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "health-care-privacy-part-5",
+      "title": "Health Care Privacy - Part 5"
+    },
+    {
+      "id": "private-clinic",
+      "title": "Private Clinic"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 40 Scavs from less than 60 meters away while wearing specific gear on Interchange"
+  ],
+  "rewards": {
+    "exp": 12500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Decontamination_Service",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

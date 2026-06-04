@@ -1,0 +1,47 @@
+{
+  "id": "into-the-inferno",
+  "title": "Into the Inferno",
+  "pageId": 35648,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "woods",
+    "reserve",
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "background-check",
+      "title": "Background Check"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "in-and-out",
+      "title": "In and Out"
+    }
+  ],
+  "objectives": [
+    "Visit an active mortar strike area on any specified location (Shoreline, Woods, Reserve, Customs)"
+  ],
+  "rewards": {
+    "exp": 5000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Into_the_Inferno",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

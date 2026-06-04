@@ -1,0 +1,49 @@
+{
+  "id": "only-business",
+  "title": "Only Business",
+  "pageId": 10250,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "make-ultra-great-again",
+      "title": "Make ULTRA Great Again"
+    },
+    {
+      "id": "big-sale",
+      "title": "Big Sale"
+    },
+    {
+      "id": "audit",
+      "title": "Audit"
+    },
+    {
+      "id": "the-invisible-hand",
+      "title": "The Invisible Hand"
+    }
+  ],
+  "objectives": [
+    "Reach Loyalty Level 2 with Ragman"
+  ],
+  "rewards": {
+    "exp": 6700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Only_Business",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

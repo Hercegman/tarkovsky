@@ -1,0 +1,45 @@
+{
+  "id": "matter-of-technique",
+  "title": "Matter of Technique",
+  "pageId": 36124,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-root-cause",
+      "title": "The Root Cause"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "find-the-source",
+      "title": "Find the Source"
+    }
+  ],
+  "objectives": [
+    "Locate the required computer at TerraGroup's Cardinal office on Streets of Tarkov",
+    "Install the flash drive at the computer to download the files"
+  ],
+  "rewards": {
+    "exp": 20500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Matter_of_Technique",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

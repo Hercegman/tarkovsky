@@ -1,0 +1,50 @@
+{
+  "id": "battery-change",
+  "title": "Battery Change",
+  "pageId": 37747,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov",
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "stick-in-the-wheel",
+      "title": "Stick in the Wheel"
+    },
+    {
+      "id": "stabilize-business",
+      "title": "Stabilize Business"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "protect-the-sky",
+      "title": "Protect the Sky"
+    }
+  ],
+  "objectives": [
+    "Find the item: 6-STEN-140-M military battery",
+    "Hand over the item: 6-STEN-140-M military battery"
+  ],
+  "rewards": {
+    "exp": 58700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Battery_Change",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

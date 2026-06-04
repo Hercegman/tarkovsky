@@ -1,0 +1,37 @@
+{
+  "id": "tournament",
+  "title": "Tournament",
+  "pageId": 38607,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Win a match in TeamFight or BlastGang mode",
+    "Claim at least 3rd place in LastHero mode",
+    "Win a match in CheckPoint mode",
+    "Eliminate 50 enemies in any game mode"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Tournament",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

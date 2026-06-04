@@ -1,0 +1,45 @@
+{
+  "id": "hypotheses-testing",
+  "title": "Hypotheses Testing",
+  "pageId": 38148,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-labyrinth"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "offensive-reconnaissance",
+      "title": "Offensive Reconnaissance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "keepers-word",
+      "title": "Keeper's Word"
+    }
+  ],
+  "objectives": [
+    "Locate the lab area with the prototype weapon inside The Labyrinth",
+    "Hand over 5 found in raid Labrys research notes"
+  ],
+  "rewards": {
+    "exp": 15900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hypotheses_Testing",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

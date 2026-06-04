@@ -1,0 +1,61 @@
+{
+  "id": "spa-tour-part-7",
+  "title": "Spa Tour - Part 7",
+  "pageId": 7595,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "spa-tour-part-6",
+      "title": "Spa Tour - Part 6"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "wet-job-part-1",
+      "title": "Wet Job - Part 1"
+    },
+    {
+      "id": "cargo-x-part-1",
+      "title": "Cargo X - Part 1"
+    },
+    {
+      "id": "green-corridor",
+      "title": "Green Corridor"
+    },
+    {
+      "id": "road-closed",
+      "title": "Road Closed"
+    }
+  ],
+  "objectives": [
+    "Find 4 Morphine injectors in raid",
+    "Hand over 4 Morphine injectors to Peacekeeper",
+    "Find 2 Alkaline cleaners for heat exchangers in raid",
+    "Hand over 2 Alkaline cleaners for heat exchangers to Peacekeeper",
+    "Find 2 Corrugated hoses in raid",
+    "Hand over 2 Corrugated hoses to Peacekeeper",
+    "Find 2 5L propane tanks in raid",
+    "Hand over 2 5L propane tanks to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 9700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_7",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

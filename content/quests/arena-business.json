@@ -1,0 +1,41 @@
+{
+  "id": "arena-business",
+  "title": "Arena Business",
+  "pageId": 43242,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "balancing-part-1",
+      "title": "Balancing - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Complete the task Professional Fitness - Part 2",
+    "Complete the task To Great Heights! - Part 6",
+    "Complete the task Hold the Lead"
+  ],
+  "rewards": {
+    "exp": 19500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Arena_Business",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "home-comfort",
+  "title": "Home Comfort",
+  "pageId": 24246,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "to-the-tree",
+      "title": "To the Tree!"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "a-kind-snow-maiden",
+      "title": "A Kind Snow Maiden"
+    }
+  ],
+  "objectives": [
+    "Hand over 7 found in raid Christmas tree ornament (Red)",
+    "Hand over 5 found in raid Christmas tree ornament (Silver)",
+    "Hand over 3 found in raid Christmas tree ornament (Violet)"
+  ],
+  "rewards": {
+    "exp": 9100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Home_Comfort",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

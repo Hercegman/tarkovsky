@@ -1,0 +1,44 @@
+{
+  "id": "advertising-business-part-5",
+  "title": "Advertising Business - Part 5",
+  "pageId": 43663,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "advertising-business-part-4",
+      "title": "Advertising Business - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "advertising-business-part-6",
+      "title": "Advertising Business - Part 6"
+    }
+  ],
+  "objectives": [
+    "Eliminate 30 enemies while using a T-5000M or RPDN in BlastGang or TeamFight mode"
+  ],
+  "rewards": {
+    "exp": 8000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

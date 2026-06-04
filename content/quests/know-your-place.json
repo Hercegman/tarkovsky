@@ -1,0 +1,42 @@
+{
+  "id": "know-your-place",
+  "title": "Know Your Place!",
+  "pageId": 35409,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov",
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-blood-of-war-part-3",
+      "title": "The Blood of War - Part 3"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 5 targets on Streets of Tarkov (In one raid)",
+    "Use the transit from Streets of Tarkov to Interchange (In one raid)",
+    "Eliminate any 5 targets on Interchange (In one raid)"
+  ],
+  "rewards": {
+    "exp": 28800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Know_Your_Place!",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

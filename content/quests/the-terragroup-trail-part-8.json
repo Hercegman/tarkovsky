@@ -1,0 +1,58 @@
+{
+  "id": "the-terragroup-trail-part-8",
+  "title": "The TerraGroup Trail - Part 8",
+  "pageId": 29705,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange",
+    "shoreline",
+    "factory",
+    "woods",
+    "customs",
+    "reserve",
+    "lighthouse",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-7",
+      "title": "The TerraGroup Trail - Part 7"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-9",
+      "title": "The TerraGroup Trail - Part 9"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 Scavs while equipped with RUAF gear and weapons on Streets of Tarkov",
+    "Eliminate 10 Scavs while equipped with RUAF gear and weapons on Interchange",
+    "Eliminate 10 Scavs while equipped with RUAF gear and weapons on Customs",
+    "Eliminate 10 Scavs while equipped with RUAF gear and weapons on Factory",
+    "Eliminate 10 Scavs while equipped with RUAF gear and weapons on Woods",
+    "Eliminate 10 Scavs while equipped with RUAF gear and weapons on Reserve",
+    "Eliminate 10 Scavs while equipped with RUAF gear and weapons on Lighthouse",
+    "Eliminate 10 Scavs while equipped with RUAF gear and weapons on Shoreline"
+  ],
+  "rewards": {
+    "exp": 25300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_8",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "one-less-loose-end",
+  "title": "One Less Loose End",
+  "pageId": 34615,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory",
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "overpopulation",
+      "title": "Overpopulation"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "dragnet",
+      "title": "Dragnet"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the lab journal on Factory",
+    "Stash the journal at the old sawmill on Woods"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/One_Less_Loose_End",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

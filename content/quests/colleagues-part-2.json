@@ -1,0 +1,51 @@
+{
+  "id": "colleagues-part-2",
+  "title": "Colleagues - Part 2",
+  "pageId": 18904,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "colleagues-part-1",
+      "title": "Colleagues - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-huntsman-path-sadist",
+      "title": "The Huntsman Path - Sadist"
+    },
+    {
+      "id": "colleagues-part-3",
+      "title": "Colleagues - Part 3"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain Sanitar's surgery kit marked with a blue symbol on Shoreline",
+    "Hand over Sanitar's surgery kit to Therapist",
+    "Locate and obtain Sanitar's ophthalmoscope on Shoreline",
+    "Hand over Sanitar's ophthalmoscope to Therapist"
+  ],
+  "rewards": {
+    "exp": 12400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

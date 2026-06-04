@@ -1,0 +1,37 @@
+{
+  "id": "time-tested",
+  "title": "Time-Tested",
+  "pageId": 34515,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "protection-of-interests",
+      "title": "Protection of Interests"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate as many targets as possible while using Russian weapons"
+  ],
+  "rewards": {
+    "exp": 102900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Time-Tested",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

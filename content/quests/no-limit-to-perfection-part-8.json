@@ -1,0 +1,44 @@
+{
+  "id": "no-limit-to-perfection-part-8",
+  "title": "No Limit to Perfection - Part 8",
+  "pageId": 43684,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "no-limit-to-perfection-part-7",
+      "title": "No Limit to Perfection - Part 7"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "no-limit-to-perfection-part-9",
+      "title": "No Limit to Perfection - Part 9"
+    }
+  ],
+  "objectives": [
+    "Eliminate 50 enemies with point fire while using light machine guns"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_8",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

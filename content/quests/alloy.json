@@ -1,0 +1,47 @@
+{
+  "id": "alloy",
+  "title": "Alloy",
+  "pageId": 44290,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "stealing-the-stolen",
+      "title": "Stealing the Stolen"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "mayday",
+      "title": "Mayday"
+    }
+  ],
+  "objectives": [
+    "Plant a WI-FI Camera at the weather station on Shoreline",
+    "Transit from Shoreline to Lighthouse",
+    "Plant a WI-FI Camera at the waterside cottage on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Alloy",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

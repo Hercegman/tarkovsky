@@ -1,0 +1,42 @@
+{
+  "id": "wiring-the-vessel",
+  "title": "Wiring the Vessel",
+  "pageId": 44607,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "icebreaker"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "peaceful-atom",
+      "title": "Peaceful Atom"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Repair the equipment in the automation room leading to the engine room on Icebreaker",
+    "Repair the equipment in the automation room under the engine room on Icebreaker",
+    "Repair the equipment in the automation room near the storage room on Icebreaker",
+    "Install the hacking device in the central control station room on Icebreaker"
+  ],
+  "rewards": {
+    "exp": 30000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Wiring_the_Vessel",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

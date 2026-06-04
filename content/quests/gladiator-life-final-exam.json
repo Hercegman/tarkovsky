@@ -1,0 +1,44 @@
+{
+  "id": "gladiator-life-final-exam",
+  "title": "Gladiator Life - Final Exam",
+  "pageId": 43579,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gladiator-life-part-10",
+      "title": "Gladiator Life - Part 10"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gladiator-doping-part-1",
+      "title": "Gladiator Doping - Part 1"
+    }
+  ],
+  "objectives": [
+    "Win a round without dying in TeamFight, BlastGang or ShootOut mode"
+  ],
+  "rewards": {
+    "exp": 5000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Final_Exam",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

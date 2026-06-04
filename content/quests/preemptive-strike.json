@@ -1,0 +1,50 @@
+{
+  "id": "preemptive-strike",
+  "title": "Preemptive Strike",
+  "pageId": 38901,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "customs",
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "an-alternative",
+      "title": "An Alternative"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "fearless-beast",
+      "title": "Fearless Beast"
+    },
+    {
+      "id": "staff-shortage",
+      "title": "Staff Shortage"
+    }
+  ],
+  "objectives": [
+    "Eliminate 12 Scavs at Skier's charity checkpoints"
+  ],
+  "rewards": {
+    "exp": 10500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Preemptive_Strike",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

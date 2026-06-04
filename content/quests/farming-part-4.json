@@ -1,0 +1,53 @@
+{
+  "id": "farming-part-4",
+  "title": "Farming - Part 4",
+  "pageId": 9601,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "farming-part-3",
+      "title": "Farming - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "fertilizers",
+      "title": "Fertilizers"
+    },
+    {
+      "id": "import",
+      "title": "Import"
+    },
+    {
+      "id": "energy-crisis",
+      "title": "Energy Crisis"
+    }
+  ],
+  "objectives": [
+    "Find 3 Graphics cards in raid",
+    "Find 15 CPU fans in raid",
+    "Hand over 3 Graphics cards to Mechanic",
+    "Hand over 15 CPU fans to Mechanic"
+  ],
+  "rewards": {
+    "exp": 8000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

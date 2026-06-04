@@ -1,0 +1,48 @@
+{
+  "id": "missing-informant",
+  "title": "Missing Informant",
+  "pageId": 28368,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "information-source",
+      "title": "Information Source"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "snatch",
+      "title": "Snatch"
+    }
+  ],
+  "objectives": [
+    "Locate the informant's hideout on Streets of Tarkov",
+    "(Optional) Obtain the key to the second hideout",
+    "Locate the informant's backup hideout",
+    "Obtain the informant's journal",
+    "Bring the information to Lightkeeper"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Missing_Informant",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

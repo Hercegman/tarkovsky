@@ -1,0 +1,48 @@
+{
+  "id": "bad-rep-evidence",
+  "title": "Bad Rep Evidence",
+  "pageId": 6321,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "bp-depot",
+      "title": "BP Depot"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "ice-cream-cones",
+      "title": "Ice Cream Cones"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain Secure Folder 0031 in one of the bunkhouses on Customs",
+    "(Optional) Gain access to the locked room in the office hallway on the third floor on Factory",
+    "(Optional) Obtain the Portable bunkhouse key",
+    "Hand over the folder to Prapor",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 4100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Bad_Rep_Evidence",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

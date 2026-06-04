@@ -1,0 +1,43 @@
+{
+  "id": "steady-signal",
+  "title": "Steady Signal",
+  "pageId": 32182,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "signal-part-4",
+      "title": "Signal - Part 4"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Mark the first weather station with an MS2000 Marker on Woods",
+    "Mark the second weather station with an MS2000 Marker on Woods",
+    "Mark the third weather station with an MS2000 Marker on Woods",
+    "Mark the fourth weather station with an MS2000 Marker on Woods",
+    "Mark the fifth weather station with an MS2000 Marker on Woods"
+  ],
+  "rewards": {
+    "exp": 14000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Steady_Signal",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

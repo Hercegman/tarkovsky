@@ -1,0 +1,47 @@
+{
+  "id": "the-extortionist",
+  "title": "The Extortionist",
+  "pageId": 6194,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "supplier",
+      "title": "Supplier"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "whats-on-the-flash-drive",
+      "title": "What’s on the Flash Drive?"
+    }
+  ],
+  "objectives": [
+    "Obtain the hidden valuable cargo on Customs",
+    "(Optional) Locate the messengers body",
+    "(Optional) Find the place where the messenger hid the cargo",
+    "Hand over the valuable cargo to Skier"
+  ],
+  "rewards": {
+    "exp": 3200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Extortionist",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

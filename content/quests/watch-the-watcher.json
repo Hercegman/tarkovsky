@@ -1,0 +1,39 @@
+{
+  "id": "watch-the-watcher",
+  "title": "Watch the Watcher",
+  "pageId": 36282,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "dont-believe-your-eyes",
+      "title": "Don’t Believe Your Eyes"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 55 infected on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 45000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Watch_the_Watcher",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

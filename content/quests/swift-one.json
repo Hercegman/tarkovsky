@@ -1,0 +1,43 @@
+{
+  "id": "swift-one",
+  "title": "Swift One",
+  "pageId": 21758,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-sadist",
+      "title": "The Huntsman Path - Sadist"
+    },
+    {
+      "id": "colleagues-part-3",
+      "title": "Colleagues - Part 3"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 15 PMCs without using any armor or helmets on Woods"
+  ],
+  "rewards": {
+    "exp": 107000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Swift_One",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

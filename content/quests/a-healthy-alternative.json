@@ -1,0 +1,44 @@
+{
+  "id": "a-healthy-alternative",
+  "title": "A Healthy Alternative",
+  "pageId": 34618,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "overpopulation",
+      "title": "Overpopulation"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "dragnet",
+      "title": "Dragnet"
+    }
+  ],
+  "objectives": [
+    "Hand over the lab journal"
+  ],
+  "rewards": {
+    "exp": 13500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Healthy_Alternative",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

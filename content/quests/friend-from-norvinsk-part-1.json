@@ -1,0 +1,47 @@
+{
+  "id": "friend-from-norvinsk-part-1",
+  "title": "Friend from Norvinsk - Part 1",
+  "pageId": 39334,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "introduction",
+      "title": "Introduction"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "friend-from-norvinsk-part-2",
+      "title": "Friend from Norvinsk - Part 2"
+    }
+  ],
+  "objectives": [
+    "Scout the command bunker offices on Reserve",
+    "Scout the medical building commander's office on Reserve",
+    "Scout the educational building offices on Reserve",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 7000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

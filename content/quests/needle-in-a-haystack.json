@@ -1,0 +1,52 @@
+{
+  "id": "needle-in-a-haystack",
+  "title": "Needle in a Haystack",
+  "pageId": 37923,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "interchange",
+    "streets-of-tarkov",
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "shady-contractor",
+      "title": "Shady Contractor"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "hidden-layer",
+      "title": "Hidden Layer"
+    }
+  ],
+  "objectives": [
+    "Investigate the courtyard park by TerraGroup HQ on Ground Zero",
+    "Investigate the kart track on Interchange",
+    "Investigate the indoor children's playground on Interchange",
+    "Investigate the children's playground by Concordia on Streets of Tarkov",
+    "Investigate the coast-side construction site on Shoreline",
+    "Investigate the children's playground by the Health Resort on Shoreline"
+  ],
+  "rewards": {
+    "exp": 9800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Needle_in_a_Haystack",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

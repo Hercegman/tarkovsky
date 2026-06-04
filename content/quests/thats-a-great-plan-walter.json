@@ -1,0 +1,37 @@
+{
+  "id": "thats-a-great-plan-walter",
+  "title": "That’s a Great Plan, Walter",
+  "pageId": 36522,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "chop-the-thieving-hand",
+      "title": "Chop the Thieving Hand"
+    }
+  ],
+  "objectives": [
+    "Locate and hand over 3 locked cases with cargo"
+  ],
+  "rewards": {
+    "exp": 6200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/That%E2%80%99s_a_Great_Plan%2C_Walter",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

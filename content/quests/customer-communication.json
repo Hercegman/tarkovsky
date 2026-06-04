@@ -1,0 +1,47 @@
+{
+  "id": "customer-communication",
+  "title": "Customer Communication",
+  "pageId": 34553,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gun-connoisseur",
+      "title": "Gun Connoisseur"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "supply-and-demand",
+      "title": "Supply and Demand"
+    }
+  ],
+  "objectives": [
+    "Find 1 Military cable in raid",
+    "Find 2 Working LCDs in raid",
+    "Find 2 Power cords in raid",
+    "Hand over 1 Military cable to Mechanic",
+    "Hand over 2 Working LCDs to Mechanic",
+    "Hand over 2 Power cords to Mechanic"
+  ],
+  "rewards": {
+    "exp": 25000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Customer_Communication",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

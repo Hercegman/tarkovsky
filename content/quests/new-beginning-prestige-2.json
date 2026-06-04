@@ -1,0 +1,39 @@
+{
+  "id": "new-beginning-prestige-2",
+  "title": "New Beginning (Prestige 2)",
+  "pageId": 37785,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 10 PMC operatives",
+    "Survive and extract from The Lab",
+    "Hand over 2 found in raid PMC figurines",
+    "Hand over 2 found in raid Scav figurines",
+    "Hand over 2 found in raid Boss figurines",
+    "Hand over 2 found in raid Trader figurines"
+  ],
+  "rewards": {
+    "exp": 11000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_2)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

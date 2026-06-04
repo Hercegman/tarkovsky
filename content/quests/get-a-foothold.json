@@ -1,0 +1,49 @@
+{
+  "id": "get-a-foothold",
+  "title": "Get a Foothold",
+  "pageId": 38940,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "never-too-late-to-learn",
+      "title": "Never Too Late To Learn"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "profit-retention",
+      "title": "Profit Retention"
+    }
+  ],
+  "objectives": [
+    "Hand over the item: 30 SJ6 TGLabs combat stimulant injector",
+    "Hand over the item: 30 Obdolbos 2 cocktail injector",
+    "Hand over the item: 30 Propital regenerative stimulant injector",
+    "Hand over the item: 30 M.U.L.E. stimulant injector",
+    "Hand over the item: 30 ETG-change regenerative stimulant injector",
+    "Hand over the item: 30 SJ9 TGLabs combat stimulant injector",
+    "Hand over the item: 30 SJ12 TGLabs combat stimulant injector",
+    "Hand over the item: 30 Meldonin injector"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Get_a_Foothold",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

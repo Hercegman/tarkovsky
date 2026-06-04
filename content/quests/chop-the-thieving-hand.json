@@ -1,0 +1,53 @@
+{
+  "id": "chop-the-thieving-hand",
+  "title": "Chop the Thieving Hand",
+  "pageId": 36531,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange",
+    "shoreline",
+    "factory",
+    "woods",
+    "customs",
+    "reserve",
+    "lighthouse",
+    "streets-of-tarkov",
+    "ground-zero",
+    "ground-zero-level-21"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "thats-a-great-plan-walter",
+      "title": "That’s a Great Plan, Walter"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "shell-game",
+      "title": "Shell Game"
+    }
+  ],
+  "objectives": [
+    "Eliminate 25 \"Smugglers\""
+  ],
+  "rewards": {
+    "exp": 11400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chop_the_Thieving_Hand",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

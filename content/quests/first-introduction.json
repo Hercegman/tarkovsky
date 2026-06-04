@@ -1,0 +1,39 @@
+{
+  "id": "first-introduction",
+  "title": "First Introduction",
+  "pageId": 43559,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "gladiator-life-part-1",
+      "title": "Gladiator Life - Part 1"
+    }
+  ],
+  "objectives": [
+    "Play a match in Last Hero or CheckPoint mode"
+  ],
+  "rewards": {
+    "exp": 1800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/First_Introduction",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

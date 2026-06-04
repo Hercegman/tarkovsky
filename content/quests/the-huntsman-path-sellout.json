@@ -1,0 +1,54 @@
+{
+  "id": "the-huntsman-path-sellout",
+  "title": "The Huntsman Path - Sellout",
+  "pageId": 14943,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "sales-night",
+      "title": "Sales Night"
+    },
+    {
+      "id": "the-huntsman-path-forest-cleaning",
+      "title": "The Huntsman Path - Forest Cleaning"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "stray-dogs",
+      "title": "Stray Dogs"
+    },
+    {
+      "id": "the-huntsman-path-relentless",
+      "title": "The Huntsman Path - Relentless"
+    }
+  ],
+  "objectives": [
+    "Eliminate Killa",
+    "Find 1 Killa's Maska-1SCh bulletproof helmet in raid",
+    "Hand over 1 Killa's Maska-1SCh bulletproof helmet to Jaeger"
+  ],
+  "rewards": {
+    "exp": 20000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Sellout",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

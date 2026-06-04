@@ -1,0 +1,63 @@
+{
+  "id": "revision-reserve",
+  "title": "Revision - Reserve",
+  "pageId": 21372,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "humanitarian-supplies",
+      "title": "Humanitarian Supplies"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "classified-technologies",
+      "title": "Classified Technologies"
+    },
+    {
+      "id": "revision-lighthouse",
+      "title": "Revision - Lighthouse"
+    },
+    {
+      "id": "revision-streets-of-tarkov",
+      "title": "Revision - Streets of Tarkov"
+    }
+  ],
+  "objectives": [
+    "Locate and inspect the first BMP-2 on Reserve",
+    "Mark the first BMP-2 with an MS2000 Marker",
+    "Locate and inspect the second BMP-2 on Reserve",
+    "Mark the second BMP-2 with an MS2000 Marker",
+    "Locate and inspect the third BMP-2 on Reserve",
+    "Mark the third BMP-2 with an MS2000 Marker",
+    "Locate and inspect the fourth BMP-2 on Reserve",
+    "Mark the fourth BMP-2 with an MS2000 Marker",
+    "Locate and inspect the first LAV III on Reserve",
+    "Mark the first LAV III with an MS2000 Marker",
+    "Locate and inspect the second LAV III on Reserve",
+    "Locate and inspect the T-90 tank on Reserve"
+  ],
+  "rewards": {
+    "exp": 7300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Reserve",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "comfort-zone",
+  "title": "Comfort Zone",
+  "pageId": 41612,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "arena-masquerade",
+      "title": "Arena Masquerade"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "only-victories",
+      "title": "Only Victories"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 enemies from less than 5 meters away in any game mode"
+  ],
+  "rewards": {
+    "exp": 25000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Comfort_Zone",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "the-survivalist-path-wounded-beast",
+  "title": "The Survivalist Path - Wounded Beast",
+  "pageId": 14932,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-zhivchik",
+      "title": "The Survivalist Path - Zhivchik"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-survivalist-path-tough-guy",
+      "title": "The Survivalist Path - Tough Guy"
+    },
+    {
+      "id": "the-survivalist-path-cold-blooded",
+      "title": "The Survivalist Path - Cold Blooded"
+    }
+  ],
+  "objectives": [
+    "Eliminate 3 Scavs while suffering from pain effect"
+  ],
+  "rewards": {
+    "exp": 5800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Wounded_Beast",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

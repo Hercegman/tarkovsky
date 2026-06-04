@@ -1,0 +1,43 @@
+{
+  "id": "hint",
+  "title": "Hint",
+  "pageId": 29143,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and eliminate Reshala",
+    "Locate and eliminate Glukhar",
+    "Locate and eliminate Killa",
+    "Locate and eliminate Shturman",
+    "Locate and eliminate Knight",
+    "Locate and eliminate Big Pipe",
+    "Locate and eliminate Birdeye",
+    "Locate and eliminate Sanitar",
+    "Locate and eliminate Tagilla",
+    "Eliminate 5 Raiders",
+    "Eliminate 5 Rogues",
+    "Locate and eliminate Priest"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hint",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "return-the-favor",
+  "title": "Return the Favor",
+  "pageId": 28502,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "snatch",
+      "title": "Snatch"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "payback",
+      "title": "Payback"
+    }
+  ],
+  "objectives": [
+    "Eliminate 15 PMC operatives around the mountain area on Woods",
+    "Hide the TerraGroup \"Blue Folders\" materials inside the black SUV in the USEC camp on Woods",
+    "Hide the TerraGroup \"Blue Folders\" materials in the crates near the satellite antenna in the USEC camp on Woods"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Return_the_Favor",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

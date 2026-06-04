@@ -1,0 +1,67 @@
+{
+  "id": "the-blood-of-war-part-1",
+  "title": "The Blood of War - Part 1",
+  "pageId": 10260,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "make-ultra-great-again",
+      "title": "Make ULTRA Great Again"
+    },
+    {
+      "id": "big-sale",
+      "title": "Big Sale"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-blood-of-war-part-2",
+      "title": "The Blood of War - Part 2"
+    },
+    {
+      "id": "charisma-brings-success",
+      "title": "Charisma Brings Success"
+    },
+    {
+      "id": "living-high-is-not-a-crime-part-1",
+      "title": "Living High is Not a Crime - Part 1"
+    },
+    {
+      "id": "a-fuel-matter",
+      "title": "A Fuel Matter"
+    },
+    {
+      "id": "dressed-to-kill",
+      "title": "Dressed to Kill"
+    }
+  ],
+  "objectives": [
+    "Mark the first fuel tank with an MS2000 Marker on Interchange",
+    "Mark the second fuel tank with an MS2000 Marker on Interchange",
+    "Mark the third fuel tank with an MS2000 Marker on Interchange",
+    "Mark the fourth fuel tank with an MS2000 Marker on Interchange"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Blood_of_War_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

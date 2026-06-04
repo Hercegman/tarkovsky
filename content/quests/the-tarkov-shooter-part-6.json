@@ -1,0 +1,42 @@
+{
+  "id": "the-tarkov-shooter-part-6",
+  "title": "The Tarkov Shooter - Part 6",
+  "pageId": 11802,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-tarkov-shooter-part-5",
+      "title": "The Tarkov Shooter - Part 5"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-tarkov-shooter-part-7",
+      "title": "The Tarkov Shooter - Part 7"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 Sniper Scavs while using a bolt-action rifle"
+  ],
+  "rewards": {
+    "exp": 13100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

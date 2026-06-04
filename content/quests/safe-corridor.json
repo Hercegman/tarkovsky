@@ -1,0 +1,47 @@
+{
+  "id": "safe-corridor",
+  "title": "Safe Corridor",
+  "pageId": 21409,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chemical-part-4",
+      "title": "Chemical - Part 4"
+    },
+    {
+      "id": "out-of-curiosity",
+      "title": "Out of Curiosity"
+    },
+    {
+      "id": "big-customer",
+      "title": "Big Customer"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 10 Scavs in the underground warehouse on Reserve"
+  ],
+  "rewards": {
+    "exp": 9000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Safe_Corridor",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

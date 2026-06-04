@@ -1,0 +1,43 @@
+{
+  "id": "foreign-support",
+  "title": "Foreign Support",
+  "pageId": 36330,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "dont-believe-your-eyes",
+      "title": "Don’t Believe Your Eyes"
+    },
+    {
+      "id": "fishing-gear",
+      "title": "Fishing Gear"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 40 infected while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle) on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 40000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Foreign_Support",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

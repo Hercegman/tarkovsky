@@ -1,0 +1,37 @@
+{
+  "id": "shell-game",
+  "title": "Shell Game",
+  "pageId": 36543,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "chop-the-thieving-hand",
+      "title": "Chop the Thieving Hand"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over 15 of Skier's contraband from the locked cases"
+  ],
+  "rewards": {
+    "exp": 23600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shell_Game",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

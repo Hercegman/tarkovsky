@@ -1,0 +1,41 @@
+{
+  "id": "rite-of-passage",
+  "title": "Rite of Passage",
+  "pageId": 36742,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "work-smarter",
+      "title": "Work Smarter"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 10 Scavs at the old gas station on Customs",
+    "Eliminate 10 Scavs at the new gas station on Customs",
+    "Hand over 2 found in raid Metal fuel tanks"
+  ],
+  "rewards": {
+    "exp": 43000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Rite_of_Passage",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

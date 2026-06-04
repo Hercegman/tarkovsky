@@ -1,0 +1,46 @@
+{
+  "id": "progression-difficulties-part-2",
+  "title": "Progression Difficulties - Part 2",
+  "pageId": 39357,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "progression-difficulties-part-1",
+      "title": "Progression Difficulties - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "game-review-part-2",
+      "title": "Game Review - Part 2"
+    },
+    {
+      "id": "external-interest",
+      "title": "External Interest"
+    }
+  ],
+  "objectives": [
+    "Hand over the item: Decrypted intelligence folder"
+  ],
+  "rewards": {
+    "exp": 29000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Progression_Difficulties_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

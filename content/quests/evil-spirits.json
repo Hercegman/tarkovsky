@@ -1,0 +1,51 @@
+{
+  "id": "evil-spirits",
+  "title": "Evil Spirits",
+  "pageId": 33638,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "customs",
+    "woods",
+    "shoreline",
+    "interchange",
+    "reserve",
+    "lighthouse",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "grannys-tales",
+      "title": "Granny's Tales"
+    },
+    {
+      "id": "spring-never-changes",
+      "title": "Spring Never Changes"
+    }
+  ],
+  "objectives": [
+    "Locate the effigy of Morana on any location",
+    "Eliminate a follower of Morana"
+  ],
+  "rewards": {
+    "exp": 2400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Evil_Spirits",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

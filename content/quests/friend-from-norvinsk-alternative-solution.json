@@ -1,0 +1,42 @@
+{
+  "id": "friend-from-norvinsk-alternative-solution",
+  "title": "Friend from Norvinsk - Alternative Solution",
+  "pageId": 39429,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "friend-from-norvinsk-part-3",
+      "title": "Friend from Norvinsk - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "friend-from-norvinsk-part-5",
+      "title": "Friend from Norvinsk - Part 5"
+    }
+  ],
+  "objectives": [
+    "Hand over 1,000,000 RUB to Mechanic"
+  ],
+  "rewards": {
+    "exp": 500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Alternative_Solution",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

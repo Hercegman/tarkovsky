@@ -1,0 +1,45 @@
+{
+  "id": "the-root-cause",
+  "title": "The Root Cause",
+  "pageId": 36054,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "burn-it-down",
+      "title": "Burn It Down"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "matter-of-technique",
+      "title": "Matter of Technique"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the virus sample in The Lab",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 24000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Root_Cause",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

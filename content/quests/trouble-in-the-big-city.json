@@ -1,0 +1,43 @@
+{
+  "id": "trouble-in-the-big-city",
+  "title": "Trouble in the Big City",
+  "pageId": 28597,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "make-an-impression",
+      "title": "Make an Impression"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the transport holding the cargo on Streets of Tarkov",
+    "Secure the area from 50 hostile PMC operatives",
+    "Mark the cargo area with an MS2000 Marker",
+    "Launch a yellow flare near the armored convoy to confirm that the job is done",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Trouble_in_the_Big_City",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

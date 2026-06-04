@@ -1,0 +1,44 @@
+{
+  "id": "advertising-business-part-6",
+  "title": "Advertising Business - Part 6",
+  "pageId": 43664,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "advertising-business-part-5",
+      "title": "Advertising Business - Part 5"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "i-am-speed-part-1",
+      "title": "I Am Speed - Part 1"
+    }
+  ],
+  "objectives": [
+    "Eliminate 40 enemies with headshots while using a Velociraptor, PKP or SR-2M"
+  ],
+  "rewards": {
+    "exp": 8000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "shady-business",
+  "title": "Shady Business",
+  "pageId": 14950,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "whats-on-the-flash-drive",
+      "title": "What’s on the Flash Drive?"
+    },
+    {
+      "id": "acquaintance",
+      "title": "Acquaintance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "ambulance",
+      "title": "Ambulance"
+    }
+  ],
+  "objectives": [
+    "Find 3 Secure Flash drives in raid",
+    "Hand over 3 Secure Flash drives to Jaeger"
+  ],
+  "rewards": {
+    "exp": 11400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shady_Business",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

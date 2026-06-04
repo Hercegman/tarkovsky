@@ -1,0 +1,41 @@
+{
+  "id": "order-from-outside",
+  "title": "Order From Outside",
+  "pageId": 37823,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve",
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "inevitable-response",
+      "title": "Inevitable Response"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the electronic jammer at the electromechanical warehouse on Reserve",
+    "Stash the device at the specified location on Woods"
+  ],
+  "rewards": {
+    "exp": 46700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Order_From_Outside",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

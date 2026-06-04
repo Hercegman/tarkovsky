@@ -1,0 +1,48 @@
+{
+  "id": "proper-comeback",
+  "title": "Proper Comeback",
+  "pageId": 34280,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "shoreline",
+    "factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "camera-action",
+      "title": "Camera, Action!"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "key-to-the-city",
+      "title": "Key to the City"
+    }
+  ],
+  "objectives": [
+    "Stash a Golden rooster figurine at Prapor's WI-FI Camera on Woods",
+    "Stash a Golden rooster figurine at Prapor's WI-FI Camera on Shoreline",
+    "Stash a Golden rooster figurine at Prapor's WI-FI Camera on Factory"
+  ],
+  "rewards": {
+    "exp": 78000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Proper_Comeback",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

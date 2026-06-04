@@ -1,0 +1,37 @@
+{
+  "id": "stay-frosty",
+  "title": "Stay Frosty",
+  "pageId": 41710,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "knuckle-sandwich",
+      "title": "Knuckle Sandwich"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate PMC operatives in Pompon hats while wearing a Ushanka ear flap hat"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stay_Frosty",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "creator-inspiration-part-2",
+  "title": "Creator Inspiration - Part 2",
+  "pageId": 37953,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "creator-inspiration-part-1",
+      "title": "Creator Inspiration - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Win 2 matches in TeamFight mode",
+    "Win 2 rounds as attackers after the device is planted in BlastGang mode",
+    "Eliminate 10 enemies in BlastGang mode",
+    "Earn 3000 points in CheckPoint mode"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Creator_Inspiration_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "the-cult-part-2",
+  "title": "The Cult - Part 2",
+  "pageId": 7526,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "customs",
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-cult-part-1",
+      "title": "The Cult - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and mark the first ritual spot with an MS2000 Marker on Woods",
+    "Locate and mark the ritual spot with an MS2000 Marker on Customs",
+    "Locate and mark the second ritual spot with an MS2000 Marker on Woods",
+    "Locate and mark the the ritual spot with an MS2000 Marker on Shoreline"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

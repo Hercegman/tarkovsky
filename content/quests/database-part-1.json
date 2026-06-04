@@ -1,0 +1,53 @@
+{
+  "id": "database-part-1",
+  "title": "Database - Part 1",
+  "pageId": 10262,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "make-ultra-great-again",
+      "title": "Make ULTRA Great Again"
+    },
+    {
+      "id": "big-sale",
+      "title": "Big Sale"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "database-part-2",
+      "title": "Database - Part 2"
+    }
+  ],
+  "objectives": [
+    "Obtain the Goshan cargo manifests on Interchange",
+    "Hand over the Goshan cargo manifests to Ragman",
+    "Obtain the OLI cargo manifests on Interchange",
+    "Hand over the OLI cargo manifests to Ragman",
+    "Obtain the IDEA cargo manifests on Interchange",
+    "Hand over the IDEA cargo manifests to Ragman"
+  ],
+  "rewards": {
+    "exp": 8400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Database_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

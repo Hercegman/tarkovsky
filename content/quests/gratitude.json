@@ -1,0 +1,55 @@
+{
+  "id": "gratitude",
+  "title": "Gratitude",
+  "pageId": 10271,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "dressed-to-kill",
+      "title": "Dressed to Kill"
+    },
+    {
+      "id": "database-part-2",
+      "title": "Database - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "sales-night",
+      "title": "Sales Night"
+    },
+    {
+      "id": "hot-delivery",
+      "title": "Hot Delivery"
+    }
+  ],
+  "objectives": [
+    "Stash 1 Ghost balaclava at the sawmill docks on Woods",
+    "Stash 1 Shemagh (Green) at the sawmill docks on Woods",
+    "Stash 1 RayBench Hipster Reserve sunglasses at the sawmill docks on Woods",
+    "Stash 1 Round frame sunglasses at the sawmill docks on Woods"
+  ],
+  "rewards": {
+    "exp": 14400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gratitude",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

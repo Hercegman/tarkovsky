@@ -1,0 +1,50 @@
+{
+  "id": "gladiator-doping-part-4",
+  "title": "Gladiator Doping - Part 4",
+  "pageId": 43607,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gladiator-doping-part-3",
+      "title": "Gladiator Doping - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "jack-of-all-trades",
+      "title": "Jack of All Trades"
+    },
+    {
+      "id": "professional-part-1",
+      "title": "Professional - Part 1"
+    }
+  ],
+  "objectives": [
+    "Eliminate 30 enemies while under the effect of the Zagustin stimulant",
+    "Eliminate 30 enemies while under the effect of the Propital stimulant",
+    "Eliminate 30 enemies while under the effect of the Meldonin stimulant"
+  ],
+  "rewards": {
+    "exp": 9999,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Doping_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

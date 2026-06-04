@@ -1,0 +1,49 @@
+{
+  "id": "the-terragroup-trail-part-14",
+  "title": "The TerraGroup Trail - Part 14",
+  "pageId": 29713,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-13",
+      "title": "The TerraGroup Trail - Part 13"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-15",
+      "title": "The TerraGroup Trail - Part 15"
+    }
+  ],
+  "objectives": [
+    "Obtain Reagent Omega from the testing area in The Lab",
+    "Obtain Reagent Beta from the laboratory zone in The Lab",
+    "Obtain Reagent Alpha from the laboratory testing area in The Lab",
+    "Hand over Reagent Omega",
+    "Hand over Reagent Beta",
+    "Hand over Reagent Alpha"
+  ],
+  "rewards": {
+    "exp": 30000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_14",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

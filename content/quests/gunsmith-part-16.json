@@ -1,0 +1,42 @@
+{
+  "id": "gunsmith-part-16",
+  "title": "Gunsmith - Part 16",
+  "pageId": 10747,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-15",
+      "title": "Gunsmith - Part 15"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-17",
+      "title": "Gunsmith - Part 17"
+    }
+  ],
+  "objectives": [
+    "Modify a DVL-10 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 20400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_16",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "protect-the-sky",
+  "title": "Protect the Sky",
+  "pageId": 37757,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "battery-change",
+      "title": "Battery Change"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "discombobulate",
+      "title": "Discombobulate"
+    }
+  ],
+  "objectives": [
+    "Locate the package in the specified spot on Woods",
+    "Hand over the package"
+  ],
+  "rewards": {
+    "exp": 25400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Protect_the_Sky",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

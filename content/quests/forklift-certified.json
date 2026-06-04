@@ -1,0 +1,55 @@
+{
+  "id": "forklift-certified",
+  "title": "Forklift Certified",
+  "pageId": 35177,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "black-swan",
+      "title": "Black Swan"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "capacity-check",
+      "title": "Capacity Check"
+    }
+  ],
+  "objectives": [
+    "Locate the first forklift on Factory",
+    "Locate the second forklift on Factory",
+    "Locate the third forklift on Factory",
+    "Locate the fourth forklift on Factory",
+    "Locate the fifth forklift on Factory",
+    "Locate the sixth forklift on Factory",
+    "Locate the seventh forklift on Factory",
+    "Locate the eighth forklift on Factory",
+    "Locate the ninth forklift on Factory",
+    "Locate the tenth forklift on Factory",
+    "Locate the eleventh forklift on Factory",
+    "Locate the twelfth forklift on Factory"
+  ],
+  "rewards": {
+    "exp": 10700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Forklift_Certified",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

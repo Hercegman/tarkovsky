@@ -1,0 +1,60 @@
+{
+  "id": "slaughterhouse",
+  "title": "Slaughterhouse",
+  "pageId": 28124,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory",
+    "streets-of-tarkov",
+    "lighthouse",
+    "woods",
+    "shoreline",
+    "interchange",
+    "customs",
+    "reserve",
+    "ground-zero",
+    "daytime-factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-administrator",
+      "title": "The Huntsman Path - Administrator"
+    },
+    {
+      "id": "broadcast-part-4",
+      "title": "Broadcast - Part 4"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 10 Scavs while using melee weapons on daytime Factory",
+    "Eliminate 10 Scavs while using melee weapons on Streets of Tarkov",
+    "Eliminate 10 Scavs while using melee weapons on Lighthouse",
+    "Eliminate 10 Scavs while using melee weapons on Woods",
+    "Eliminate 10 Scavs while using melee weapons on Shoreline",
+    "Eliminate 10 Scavs while using melee weapons on Interchange",
+    "Eliminate 10 Scavs while using melee weapons on Customs",
+    "Eliminate 10 Scavs while using melee weapons on Reserve",
+    "Eliminate 10 Scavs while using melee weapons on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 34700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Slaughterhouse",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

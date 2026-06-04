@@ -1,0 +1,45 @@
+{
+  "id": "gladiator-life-part-10",
+  "title": "Gladiator Life - Part 10",
+  "pageId": 43578,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gladiator-life-part-9",
+      "title": "Gladiator Life - Part 9"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gladiator-life-final-exam",
+      "title": "Gladiator Life - Final Exam"
+    }
+  ],
+  "objectives": [
+    "Earn 1,500 objective score in CheckPoint mode",
+    "Eliminate 20 enemies in CheckPoint mode"
+  ],
+  "rewards": {
+    "exp": 6900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_10",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

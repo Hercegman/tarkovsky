@@ -1,0 +1,42 @@
+{
+  "id": "revision-lighthouse",
+  "title": "Revision - Lighthouse",
+  "pageId": 23939,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "revision-reserve",
+      "title": "Revision - Reserve"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and mark the first BRDM with an MS2000 Marker",
+    "Locate and mark the second BRDM with an MS2000 Marker",
+    "Locate and mark the first Stryker with an MS2000 Marker",
+    "Locate and mark the second Stryker with an MS2000 Marker"
+  ],
+  "rewards": {
+    "exp": 7800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Lighthouse",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

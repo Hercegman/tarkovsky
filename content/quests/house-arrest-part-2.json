@@ -1,0 +1,41 @@
+{
+  "id": "house-arrest-part-2",
+  "title": "House Arrest - Part 2",
+  "pageId": 28129,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "house-arrest-part-1",
+      "title": "House Arrest - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the improvised jail warden's apartment on Streets of Tarkov",
+    "Find out what happened to the warden",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 29200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/House_Arrest_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

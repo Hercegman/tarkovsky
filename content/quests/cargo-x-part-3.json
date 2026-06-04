@@ -1,0 +1,45 @@
+{
+  "id": "cargo-x-part-3",
+  "title": "Cargo X - Part 3",
+  "pageId": 7820,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "cargo-x-part-2",
+      "title": "Cargo X - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "cargo-x-part-4",
+      "title": "Cargo X - Part 4"
+    }
+  ],
+  "objectives": [
+    "Locate the TerraGroup cargo hidden inside the Health Resort on Shoreline",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 8400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

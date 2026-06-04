@@ -1,0 +1,46 @@
+{
+  "id": "hot-delivery",
+  "title": "Hot Delivery",
+  "pageId": 10750,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gratitude",
+      "title": "Gratitude"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "scavenger",
+      "title": "Scavenger"
+    }
+  ],
+  "objectives": [
+    "Stash 2 ComTac II headsets in the specified place on Interchange",
+    "Stash 2 6B47 helmets (Olive Drab) in the specified place on Interchange",
+    "Stash 2 Gzhel-K body armors in the specified place on Interchange"
+  ],
+  "rewards": {
+    "exp": 20300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hot_Delivery",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

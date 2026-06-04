@@ -1,0 +1,50 @@
+{
+  "id": "make-amends",
+  "title": "Make Amends",
+  "pageId": 28570,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "make-amends-equipment",
+      "title": "Make Amends - Equipment"
+    },
+    {
+      "id": "make-amends-sweep-up",
+      "title": "Make Amends - Sweep Up"
+    },
+    {
+      "id": "make-amends-quarantine",
+      "title": "Make Amends - Quarantine"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Obtain the V3 Flash drive on Lighthouse",
+    "Reflash the Radio transmitter",
+    "Hand over the flash drive to Mechanic",
+    "Visit the lighthouse building"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

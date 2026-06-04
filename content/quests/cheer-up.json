@@ -1,0 +1,44 @@
+{
+  "id": "cheer-up",
+  "title": "Cheer Up",
+  "pageId": 36707,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "hideout"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "burning-rubber",
+      "title": "Burning Rubber"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "khorovod",
+      "title": "Khorovod"
+    }
+  ],
+  "objectives": [
+    "Christmas Tree level 1"
+  ],
+  "rewards": {
+    "exp": 5000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Cheer_Up",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

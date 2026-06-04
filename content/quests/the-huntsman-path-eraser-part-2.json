@@ -1,0 +1,44 @@
+{
+  "id": "the-huntsman-path-eraser-part-2",
+  "title": "The Huntsman Path - Eraser - Part 2",
+  "pageId": 14948,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab",
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-eraser-part-1",
+      "title": "The Huntsman Path - Eraser - Part 1"
+    },
+    {
+      "id": "the-huntsman-path-secured-perimeter",
+      "title": "The Huntsman Path - Secured Perimeter"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 6 Raiders"
+  ],
+  "rewards": {
+    "exp": 22500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Eraser_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "wet-job-part-4",
+  "title": "Wet Job - Part 4",
+  "pageId": 7826,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "wet-job-part-3",
+      "title": "Wet Job - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "wet-job-part-5",
+      "title": "Wet Job - Part 5"
+    }
+  ],
+  "objectives": [
+    "Obtain a list of the resort's tenants on Shoreline",
+    "Hand over the list of tenants to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 8300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

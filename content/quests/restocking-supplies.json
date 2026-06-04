@@ -1,0 +1,42 @@
+{
+  "id": "restocking-supplies",
+  "title": "Restocking Supplies",
+  "pageId": 43302,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "thirty-pieces-of-silver",
+      "title": "Thirty Pieces of Silver"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "root-of-all-evil",
+      "title": "Root of All Evil"
+    }
+  ],
+  "objectives": [
+    "Obtain and hand over 10 locked smugglers' weapon cases"
+  ],
+  "rewards": {
+    "exp": 13000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Restocking_Supplies",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "shady-contractor",
+  "title": "Shady Contractor",
+  "pageId": 37911,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "saving-the-mole",
+      "title": "Saving the Mole"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "needle-in-a-haystack",
+      "title": "Needle in a Haystack"
+    }
+  ],
+  "objectives": [
+    "Locate the Knossos LLC senior manager's car on Ground Zero",
+    "Locate and obtain the manager's diary",
+    "Hand over the diary"
+  ],
+  "rewards": {
+    "exp": 10600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shady_Contractor",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

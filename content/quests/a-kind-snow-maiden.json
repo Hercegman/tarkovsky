@@ -1,0 +1,42 @@
+{
+  "id": "a-kind-snow-maiden",
+  "title": "A Kind Snow Maiden",
+  "pageId": 24366,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "home-comfort",
+      "title": "Home Comfort"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hide a Golden neck chain under the Christmas tree on Lighthouse",
+    "Hide a Horse figurine under the Christmas tree on Customs",
+    "Hide a Chainlet under the Christmas tree on Reserve",
+    "Hide an Antique teapot under the Christmas tree on Interchange",
+    "Hide an Antique vase under the Christmas tree on Shoreline",
+    "Hide a Cat figurine under the Christmas tree on Woods"
+  ],
+  "rewards": {
+    "exp": 16600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Kind_Snow_Maiden",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

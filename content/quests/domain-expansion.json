@@ -1,0 +1,41 @@
+{
+  "id": "domain-expansion",
+  "title": "Domain Expansion",
+  "pageId": 41605,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "blood-on-the-snow",
+      "title": "Blood on the Snow"
+    }
+  ],
+  "objectives": [
+    "Play a match on EMERCOM in LastHero mode",
+    "Play a match on Base in LastHero mode",
+    "Play a match on Dorms in LastHero mode"
+  ],
+  "rewards": {
+    "exp": 28000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Domain_Expansion",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

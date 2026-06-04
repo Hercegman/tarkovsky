@@ -1,0 +1,63 @@
+{
+  "id": "out-of-time",
+  "title": "Out of Time",
+  "pageId": 30506,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov",
+    "customs",
+    "the-lab",
+    "reserve",
+    "shoreline",
+    "interchange",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain clock dial painting #1 on Streets of Tarkov",
+    "Locate and obtain clock dial painting #2 on Streets of Tarkov",
+    "Locate and obtain clock dial painting #3 on Streets of Tarkov",
+    "Locate and obtain clock dial painting #4 on Streets of Tarkov",
+    "Locate and obtain clock dial painting #5 on Streets of Tarkov",
+    "Locate and obtain clock dial painting #6 on Streets of Tarkov",
+    "Locate and obtain clock dial painting #7 on Customs",
+    "Locate and obtain clock dial painting #8 in The Lab",
+    "Locate and obtain clock dial painting #9 on Reserve",
+    "Locate and obtain clock dial painting #10 on Shoreline",
+    "Locate and obtain clock dial painting #11 on Interchange",
+    "Locate and obtain clock dial painting #12 on Lighthouse",
+    "Hand over clock dial painting #1 to Ragman",
+    "Hand over clock dial painting #2 to Ragman",
+    "Hand over clock dial painting #3 to Ragman",
+    "Hand over clock dial painting #4 to Ragman",
+    "Hand over clock dial painting #5 to Ragman",
+    "Hand over clock dial painting #6 to Ragman",
+    "Hand over clock dial painting #7 to Ragman",
+    "Hand over clock dial painting #8 to Ragman",
+    "Hand over clock dial painting #9 to Ragman",
+    "Hand over clock dial painting #10 to Ragman",
+    "Hand over clock dial painting #11 to Ragman",
+    "Hand over clock dial painting #12 to Ragman"
+  ],
+  "rewards": {
+    "exp": 25700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Out_of_Time",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

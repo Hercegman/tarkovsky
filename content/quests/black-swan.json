@@ -1,0 +1,46 @@
+{
+  "id": "black-swan",
+  "title": "Black Swan",
+  "pageId": 34801,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "scout",
+      "title": "Scout"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "forklift-certified",
+      "title": "Forklift Certified"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first heat exchanger with an MS2000 Marker on Factory",
+    "Locate and mark the second heat exchanger with an MS2000 Marker on Factory",
+    "Locate and mark the third heat exchanger with an MS2000 Marker on Factory"
+  ],
+  "rewards": {
+    "exp": 8600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Black_Swan",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

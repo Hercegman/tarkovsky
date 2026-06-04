@@ -1,0 +1,54 @@
+{
+  "id": "lend-lease-part-1",
+  "title": "Lend-Lease - Part 1",
+  "pageId": 10756,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "friend-from-the-west-part-2",
+      "title": "Friend From the West - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "lend-lease-part-2",
+      "title": "Lend-Lease - Part 2"
+    }
+  ],
+  "objectives": [
+    "Obtain the first Motor Controller on Woods",
+    "Obtain the second Motor Controller on Shoreline",
+    "Obtain the third Motor Controller on Shoreline",
+    "Obtain the first Single-axis Fiber Optic Gyroscope on Woods",
+    "Obtain the second Single-axis Fiber Optic Gyroscope on Shoreline",
+    "Hand over the first controller to Skier",
+    "Hand over the second controller to Skier",
+    "Hand over the third controller to Skier",
+    "Hand over the first Single-axis Fiber Optic Gyroscope to Skier",
+    "Hand over the second Single-axis Fiber Optic Gyroscope to Skier"
+  ],
+  "rewards": {
+    "exp": 17500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Lend-Lease_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

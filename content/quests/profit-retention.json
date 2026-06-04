@@ -1,0 +1,43 @@
+{
+  "id": "profit-retention",
+  "title": "Profit Retention",
+  "pageId": 38948,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "get-a-foothold",
+      "title": "Get a Foothold"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "a-life-lesson",
+      "title": "A Life Lesson"
+    }
+  ],
+  "objectives": [
+    "Hand over the item: 30 Graphics card",
+    "Hand over the item: 15 Physical Bitcoin"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Profit_Retention",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

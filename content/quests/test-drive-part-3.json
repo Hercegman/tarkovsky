@@ -1,0 +1,46 @@
+{
+  "id": "test-drive-part-3",
+  "title": "Test Drive - Part 3",
+  "pageId": 30655,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse",
+    "customs",
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "test-drive-part-2",
+      "title": "Test Drive - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "test-drive-part-4",
+      "title": "Test Drive - Part 4"
+    }
+  ],
+  "objectives": [
+    "Eliminate 20 PMCs with AK-12 with the proprietary suppressor and PS-320 scope on Lighthouse, Customs, or Reserve"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "habet-hoc-habet",
+  "title": "Habet, hoc habet!",
+  "pageId": 43469,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "run-aground",
+      "title": "Run Aground"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Mark the stash with new Arena rewards with 2 MS2000 Markers",
+    "Eliminate 10 PMC operatives while wearing a painted CQCM mask (Demon, Skull, Demonic Face)"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Habet%2C_hoc_habet!",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

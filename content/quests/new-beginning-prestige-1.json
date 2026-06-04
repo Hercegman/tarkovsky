@@ -1,0 +1,39 @@
+{
+  "id": "new-beginning-prestige-1",
+  "title": "New Beginning (Prestige 1)",
+  "pageId": 37391,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 50 Scavs",
+    "Survive and extract from The Lab",
+    "Hand over any PMC figurine",
+    "Hand over any Scav figurine",
+    "Hand over any Boss figurine",
+    "Hand over any Trader figurine"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_1)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

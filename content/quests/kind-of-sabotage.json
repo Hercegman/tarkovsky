@@ -1,0 +1,48 @@
+{
+  "id": "kind-of-sabotage",
+  "title": "Kind of Sabotage",
+  "pageId": 6422,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "pharmacist",
+      "title": "Pharmacist"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "dangerous-road",
+      "title": "Dangerous Road"
+    },
+    {
+      "id": "the-huntsman-path-woods-keeper",
+      "title": "The Huntsman Path - Woods Keeper"
+    }
+  ],
+  "objectives": [
+    "Hand over Secure Folder 0052 to Skier"
+  ],
+  "rewards": {
+    "exp": 4500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kind_of_Sabotage",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

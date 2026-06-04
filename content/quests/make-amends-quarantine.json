@@ -1,0 +1,42 @@
+{
+  "id": "make-amends-quarantine",
+  "title": "Make Amends - Quarantine",
+  "pageId": 34229,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "make-amends-software",
+      "title": "Make Amends - Software"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "make-amends",
+      "title": "Make Amends"
+    }
+  ],
+  "objectives": [
+    "Place a WI-FI Camera inside the quarantine zone in The Lab"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Quarantine",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

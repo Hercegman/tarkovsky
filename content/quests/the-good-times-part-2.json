@@ -1,0 +1,42 @@
+{
+  "id": "the-good-times-part-2",
+  "title": "The Good Times - Part 2",
+  "pageId": 34265,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "airmail",
+      "title": "Airmail"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "minute-of-fame",
+      "title": "Minute of Fame"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 10 targets while using the golden TT-33 pistol"
+  ],
+  "rewards": {
+    "exp": 62400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Good_Times_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

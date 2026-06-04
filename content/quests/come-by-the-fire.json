@@ -1,0 +1,48 @@
+{
+  "id": "come-by-the-fire",
+  "title": "Come by the Fire",
+  "pageId": 41591,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "clearing-the-way",
+      "title": "Clearing the Way"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "knuckle-sandwich",
+      "title": "Knuckle Sandwich"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first spot from Skier's route with an MS2000 Marker",
+    "Locate and mark the second spot from Skier's route with an MS2000 Marker",
+    "Locate and mark the third spot from Skier's route with an MS2000 Marker",
+    "Locate and mark the fourth spot from Skier's route with an MS2000 Marker",
+    "Eliminate any 5 targets while wearing a Pompon hat on Woods"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Come_by_the_Fire",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

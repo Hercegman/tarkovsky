@@ -1,0 +1,66 @@
+{
+  "id": "the-huntsman-path-relentless",
+  "title": "The Huntsman Path - Relentless",
+  "pageId": 21763,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-trophy",
+      "title": "The Huntsman Path - Trophy"
+    },
+    {
+      "id": "the-huntsman-path-woods-keeper",
+      "title": "The Huntsman Path - Woods Keeper"
+    },
+    {
+      "id": "the-huntsman-path-eraser-part-1",
+      "title": "The Huntsman Path - Eraser - Part 1"
+    },
+    {
+      "id": "the-huntsman-path-sellout",
+      "title": "The Huntsman Path - Sellout"
+    },
+    {
+      "id": "the-huntsman-path-factory-chief",
+      "title": "The Huntsman Path - Factory Chief"
+    },
+    {
+      "id": "the-huntsman-path-sadist",
+      "title": "The Huntsman Path - Sadist"
+    },
+    {
+      "id": "colleagues-part-3",
+      "title": "Colleagues - Part 3"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate Tagilla",
+    "Eliminate Killa",
+    "Eliminate Reshala",
+    "Eliminate Shturman",
+    "Eliminate Glukhar",
+    "Eliminate Sanitar"
+  ],
+  "rewards": {
+    "exp": 280000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Relentless",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

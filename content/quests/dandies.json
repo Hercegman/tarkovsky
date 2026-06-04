@@ -1,0 +1,46 @@
+{
+  "id": "dandies",
+  "title": "Dandies",
+  "pageId": 32145,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "ballet-lover",
+      "title": "Ballet Lover"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "drip-out-part-2",
+      "title": "Drip-Out - Part 2"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 30 enemies while wearing a Bomber beanie and RayBench Hipster Reserve sunglasses on Streets of Tarkov",
+    "Stash a Bomber beanie inside the barber shop on Streets of Tarkov",
+    "Stash RayBench Hipster Reserve sunglasses inside the barber shop on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 11000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Dandies",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

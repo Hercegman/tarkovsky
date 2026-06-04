@@ -1,0 +1,42 @@
+{
+  "id": "virtue",
+  "title": "Virtue",
+  "pageId": 31138,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "remedy",
+      "title": "Remedy"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "pursuit-of-power",
+      "title": "Pursuit of Power"
+    }
+  ],
+  "objectives": [
+    "Hand over medical tools"
+  ],
+  "rewards": {
+    "exp": 11400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Virtue",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

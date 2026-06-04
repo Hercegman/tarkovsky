@@ -1,0 +1,44 @@
+{
+  "id": "no-limit-to-perfection-part-6",
+  "title": "No Limit to Perfection - Part 6",
+  "pageId": 43682,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "no-limit-to-perfection-part-5",
+      "title": "No Limit to Perfection - Part 5"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "no-limit-to-perfection-part-7",
+      "title": "No Limit to Perfection - Part 7"
+    }
+  ],
+  "objectives": [
+    "Eliminate 2 enemies within 15 seconds while using a submachine gun 20 times"
+  ],
+  "rewards": {
+    "exp": 28000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

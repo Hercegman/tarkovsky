@@ -1,0 +1,42 @@
+{
+  "id": "ambulance",
+  "title": "Ambulance",
+  "pageId": 14949,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "shady-business",
+      "title": "Shady Business"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 1 Portable defibrillator in raid",
+    "Find 2 CMS surgery kits in raid",
+    "Hand over 1 Portable defibrillator to Jaeger",
+    "Hand over 2 CMS surgery kits to Jaeger"
+  ],
+  "rewards": {
+    "exp": 14800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Ambulance",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "living-high-is-not-a-crime-part-2",
+  "title": "Living High is Not a Crime - Part 2",
+  "pageId": 12371,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "living-high-is-not-a-crime-part-1",
+      "title": "Living High is Not a Crime - Part 1"
+    },
+    {
+      "id": "the-blood-of-war-part-3",
+      "title": "The Blood of War - Part 3"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 3 Antique teapots in raid",
+    "Find 2 Antique vases in raid",
+    "Find 1 Axel parrot figurine in raid",
+    "Find 2 Raven figurines in raid",
+    "Hand over 3 Antique teapots to Ragman",
+    "Hand over 2 Antique vases to Ragman",
+    "Hand over 1 Axel parrot figurine to Ragman",
+    "Hand over 2 Raven figurines to Ragman"
+  ],
+  "rewards": {
+    "exp": 25900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Living_High_is_Not_a_Crime_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

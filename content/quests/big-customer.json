@@ -1,0 +1,53 @@
+{
+  "id": "big-customer",
+  "title": "Big Customer",
+  "pageId": 6776,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chemical-part-3",
+      "title": "Chemical - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "trust-regain",
+      "title": "Trust Regain"
+    },
+    {
+      "id": "loyalty-buyout",
+      "title": "Loyalty Buyout"
+    },
+    {
+      "id": "safe-corridor",
+      "title": "Safe Corridor"
+    }
+  ],
+  "objectives": [
+    "Locate the transport with the chemicals on Customs",
+    "Mark the vehicle with an MS2000 Marker"
+  ],
+  "rewards": {
+    "exp": 8100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Big_Customer",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

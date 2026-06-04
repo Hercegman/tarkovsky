@@ -1,0 +1,49 @@
+{
+  "id": "sew-it-good-part-4",
+  "title": "Sew it Good - Part 4",
+  "pageId": 10267,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "sew-it-good-part-3",
+      "title": "Sew it Good - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "textile-part-1",
+      "title": "Textile - Part 1"
+    },
+    {
+      "id": "charisma-brings-success",
+      "title": "Charisma Brings Success"
+    }
+  ],
+  "objectives": [
+    "Find 2 WARTECH TV-109 + TV-106 chest rigs in raid",
+    "Hand over the chest rigs",
+    "Find 2 BlackRock chest rigs in raid",
+    "Hand over the chest rigs"
+  ],
+  "rewards": {
+    "exp": 18500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sew_it_Good_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

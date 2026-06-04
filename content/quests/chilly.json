@@ -1,0 +1,42 @@
+{
+  "id": "chilly",
+  "title": "Chilly",
+  "pageId": 36637,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "acquaintance",
+      "title": "Acquaintance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "illegal-logging",
+      "title": "Illegal Logging"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 10 targets while suffering from the Frostbite effect"
+  ],
+  "rewards": {
+    "exp": 8900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chilly",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

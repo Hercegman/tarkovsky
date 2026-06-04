@@ -1,0 +1,39 @@
+{
+  "id": "the-survivalist-path-junkie",
+  "title": "The Survivalist Path - Junkie",
+  "pageId": 24686,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-combat-medic",
+      "title": "The Survivalist Path - Combat Medic"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 15 Scavs while under any stimulant effect on Woods"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Junkie",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

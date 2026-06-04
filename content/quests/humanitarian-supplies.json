@@ -1,0 +1,62 @@
+{
+  "id": "humanitarian-supplies",
+  "title": "Humanitarian Supplies",
+  "pageId": 7473,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "eagle-eye",
+      "title": "Eagle Eye"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-cult-part-1",
+      "title": "The Cult - Part 1"
+    },
+    {
+      "id": "spa-tour-part-1",
+      "title": "Spa Tour - Part 1"
+    },
+    {
+      "id": "revision-reserve",
+      "title": "Revision - Reserve"
+    },
+    {
+      "id": "seizing-the-initiative",
+      "title": "Seizing the Initiative"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first truck with an MS2000 Marker",
+    "(Optional) Locate the first truck that was holding the lost UN cargo on Shoreline",
+    "Locate and mark the second truck with an MS2000 Marker",
+    "(Optional) Locate the second truck that was holding the lost UN cargo on Shoreline",
+    "Obtain 5 MRE ration packs",
+    "Hand over 5 MRE ration packs to Peacekeeper",
+    "Eliminate 10 Scavs while wearing a UN uniform (MF-UNTAR body armor and UN helmet) on Shoreline"
+  ],
+  "rewards": {
+    "exp": 11500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Humanitarian_Supplies",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

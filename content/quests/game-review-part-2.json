@@ -1,0 +1,42 @@
+{
+  "id": "game-review-part-2",
+  "title": "Game Review - Part 2",
+  "pageId": 39383,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "progression-difficulties-part-2",
+      "title": "Progression Difficulties - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "last-spurt-pioneer",
+      "title": "Last Spurt - Pioneer"
+    }
+  ],
+  "objectives": [
+    "Continue exploring the disk's contents"
+  ],
+  "rewards": {
+    "exp": 1500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Game_Review_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

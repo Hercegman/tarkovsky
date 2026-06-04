@@ -1,0 +1,41 @@
+{
+  "id": "the-door",
+  "title": "The Door",
+  "pageId": 30527,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "signal-part-3",
+      "title": "Signal - Part 3"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the cause of the signal jamming on Streets of Tarkov",
+    "Install a WI-FI Camera to watch the door",
+    "Install a WI-FI Camera to watch the stairwell"
+  ],
+  "rewards": {
+    "exp": 30200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Door",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

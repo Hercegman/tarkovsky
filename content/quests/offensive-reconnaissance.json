@@ -1,0 +1,61 @@
+{
+  "id": "offensive-reconnaissance",
+  "title": "Offensive Reconnaissance",
+  "pageId": 38118,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "hidden-layer",
+      "title": "Hidden Layer"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "vacate-the-premises",
+      "title": "Vacate the Premises"
+    },
+    {
+      "id": "hypotheses-testing",
+      "title": "Hypotheses Testing"
+    },
+    {
+      "id": "confidential-info",
+      "title": "Confidential Info"
+    },
+    {
+      "id": "indisputable-authority",
+      "title": "Indisputable Authority"
+    },
+    {
+      "id": "this-tape-sucks",
+      "title": "This Tape Sucks"
+    }
+  ],
+  "objectives": [
+    "Find out what is behind the Health Resort bunker door on Shoreline",
+    "(Optional) Obtain the Labrys access keycard"
+  ],
+  "rewards": {
+    "exp": 4500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Offensive_Reconnaissance",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

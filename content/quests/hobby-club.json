@@ -1,0 +1,48 @@
+{
+  "id": "hobby-club",
+  "title": "Hobby Club",
+  "pageId": 39232,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve",
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "fair-price-part-1",
+      "title": "Fair Price - Part 1"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the AK-50 barrel on Reserve",
+    "(Optional) Locate Glukhar's workshop on Reserve",
+    "Locate and obtain the AK-50 dust cover at one of Tarkov's security checkpoints",
+    "(Optional) Locate the checkpoint with seized cargo",
+    "Stash the AK-50 body at the specified spot on Customs",
+    "(Optional) Build the AK-50 body",
+    "Stash the AK-50 handguard at the specified spot on Customs",
+    "Stash the AK-50 barrel at the specified spot on Customs",
+    "Stash the AK-50 dust cover at the specified spot on Customs"
+  ],
+  "rewards": {
+    "exp": 21380,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hobby_Club",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

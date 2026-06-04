@@ -1,0 +1,37 @@
+{
+  "id": "gunsmith-special-order",
+  "title": "Gunsmith - Special Order",
+  "pageId": 34543,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "gun-connoisseur",
+      "title": "Gun Connoisseur"
+    }
+  ],
+  "objectives": [
+    "Modify an M4A1 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 2,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Special_Order",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

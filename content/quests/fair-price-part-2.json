@@ -1,0 +1,41 @@
+{
+  "id": "fair-price-part-2",
+  "title": "Fair Price - Part 2",
+  "pageId": 39231,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "fair-price-part-1",
+      "title": "Fair Price - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Complete the task Hobby Club",
+    "(Optional) Locate the stash spot",
+    "(Optional) Locate and obtain the AK-50 handguard at the old sawmill on Woods"
+  ],
+  "rewards": {
+    "exp": 3000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Fair_Price_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ambulances-again",
+  "title": "Ambulances Again",
+  "pageId": 30499,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "cease-fire",
+      "title": "Cease Fire!"
+    },
+    {
+      "id": "urban-medicine",
+      "title": "Urban Medicine"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the ambulance paramedic's smartphone on Streets of Tarkov",
+    "Extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex",
+    "Hand over the smartphone"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Ambulances_Again",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

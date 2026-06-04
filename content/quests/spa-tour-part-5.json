@@ -1,0 +1,45 @@
+{
+  "id": "spa-tour-part-5",
+  "title": "Spa Tour - Part 5",
+  "pageId": 7498,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "spa-tour-part-4",
+      "title": "Spa Tour - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "spa-tour-part-6",
+      "title": "Spa Tour - Part 6"
+    }
+  ],
+  "objectives": [
+    "Obtain the key to the closed premises of the Sanatorium on Shoreline",
+    "Hand over the key to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 6500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

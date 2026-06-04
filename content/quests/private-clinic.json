@@ -1,0 +1,45 @@
+{
+  "id": "private-clinic",
+  "title": "Private Clinic",
+  "pageId": 12249,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "health-care-privacy-part-4",
+      "title": "Health Care Privacy - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "decontamination-service",
+      "title": "Decontamination Service"
+    }
+  ],
+  "objectives": [
+    "Find 1 Ophthalmoscope in raid",
+    "Find 1 LEDX Skin Transilluminator in raid",
+    "Hand over the 1 Ophthalmoscope",
+    "Hand over the 1 LEDX Skin Transilluminator"
+  ],
+  "rewards": {
+    "exp": 30600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Private_Clinic",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

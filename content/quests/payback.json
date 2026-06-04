@@ -1,0 +1,47 @@
+{
+  "id": "payback",
+  "title": "Payback",
+  "pageId": 28530,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "return-the-favor",
+      "title": "Return the Favor"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "provocation",
+      "title": "Provocation"
+    }
+  ],
+  "objectives": [
+    "Locate and eliminate Glukhar",
+    "Eliminate 6 of Glukhar's guards",
+    "Shoot a yellow signal flare at the radar station",
+    "Survive and extract from Reserve through Cliff Descent"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Payback",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

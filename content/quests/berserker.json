@@ -1,0 +1,39 @@
+{
+  "id": "berserker",
+  "title": "Berserker",
+  "pageId": 39016,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "illusion-of-mercy",
+      "title": "Illusion of Mercy"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 50 enemies while under the influence of Adrenaline in any game mode"
+  ],
+  "rewards": {
+    "exp": 10500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Berserker",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

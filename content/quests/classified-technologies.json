@@ -1,0 +1,40 @@
+{
+  "id": "classified-technologies",
+  "title": "Classified Technologies",
+  "pageId": 21400,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "revision-reserve",
+      "title": "Revision - Reserve"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Obtain the package with T-90M Commander control panel on Reserve",
+    "Hand over the package to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 7200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Classified_Technologies",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

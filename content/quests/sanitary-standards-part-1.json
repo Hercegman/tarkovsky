@@ -1,0 +1,43 @@
+{
+  "id": "sanitary-standards-part-1",
+  "title": "Sanitary Standards - Part 1",
+  "pageId": 6324,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "shortage",
+      "title": "Shortage"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "sanitary-standards-part-2",
+      "title": "Sanitary Standards - Part 2"
+    }
+  ],
+  "objectives": [
+    "Find 1 Gas analyzer in raid",
+    "Hand over the 1 Gas analyzer to Therapist"
+  ],
+  "rewards": {
+    "exp": 2200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sanitary_Standards_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

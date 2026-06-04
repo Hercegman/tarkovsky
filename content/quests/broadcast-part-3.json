@@ -1,0 +1,45 @@
+{
+  "id": "broadcast-part-3",
+  "title": "Broadcast - Part 3",
+  "pageId": 28159,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "broadcast-part-2",
+      "title": "Broadcast - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "broadcast-part-4",
+      "title": "Broadcast - Part 4"
+    }
+  ],
+  "objectives": [
+    "Locate the place of bloody broadcast inside the old house on Streets of Tarkov",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 10800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

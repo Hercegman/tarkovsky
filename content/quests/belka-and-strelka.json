@@ -1,0 +1,39 @@
+{
+  "id": "belka-and-strelka",
+  "title": "Belka and Strelka",
+  "pageId": 36679,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "bp-depot",
+      "title": "BP Depot"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Survive and extract from Customs through Railroad Passage"
+  ],
+  "rewards": {
+    "exp": 8200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Belka_and_Strelka",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

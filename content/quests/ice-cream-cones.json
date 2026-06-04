@@ -1,0 +1,49 @@
+{
+  "id": "ice-cream-cones",
+  "title": "Ice Cream Cones",
+  "pageId": 6370,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "bad-rep-evidence",
+      "title": "Bad Rep Evidence"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "postman-pat-part-1",
+      "title": "Postman Pat - Part 1"
+    },
+    {
+      "id": "shaking-up-the-teller",
+      "title": "Shaking Up the Teller"
+    }
+  ],
+  "objectives": [
+    "Find 3 AK-74 5.45x39 6L31 60-round magazines in raid",
+    "(Optional) Find the key to the bunker in the TerraGroup employee's dorm room",
+    "(Optional) Locate the locked bunker on Woods",
+    "Hand over the 3 AK-74 5.45x39 6L31 60-round magazines"
+  ],
+  "rewards": {
+    "exp": 5200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Ice_Cream_Cones",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

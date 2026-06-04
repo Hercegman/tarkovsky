@@ -1,0 +1,44 @@
+{
+  "id": "hustle-2023",
+  "title": "Hustle (2023)",
+  "pageId": 29362,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "woods",
+    "shoreline",
+    "interchange",
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and eliminate Reshala",
+    "Locate and eliminate Glukhar",
+    "Locate and eliminate Killa",
+    "Locate and eliminate Shturman",
+    "Locate and eliminate Sanitar",
+    "Locate and eliminate Tagilla",
+    "Survive and extract from the location."
+  ],
+  "rewards": {
+    "exp": 50000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hustle_(2023)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

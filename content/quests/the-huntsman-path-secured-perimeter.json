@@ -1,0 +1,64 @@
+{
+  "id": "the-huntsman-path-secured-perimeter",
+  "title": "The Huntsman Path - Secured Perimeter",
+  "pageId": 14938,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-tarkov-shooter-part-3",
+      "title": "The Tarkov Shooter - Part 3"
+    },
+    {
+      "id": "the-survivalist-path-tough-guy",
+      "title": "The Survivalist Path - Tough Guy"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-huntsman-path-trophy",
+      "title": "The Huntsman Path - Trophy"
+    },
+    {
+      "id": "the-huntsman-path-justice",
+      "title": "The Huntsman Path - Justice"
+    },
+    {
+      "id": "the-huntsman-path-woods-keeper",
+      "title": "The Huntsman Path - Woods Keeper"
+    },
+    {
+      "id": "the-huntsman-path-forest-cleaning",
+      "title": "The Huntsman Path - Forest Cleaning"
+    },
+    {
+      "id": "the-huntsman-path-eraser-part-2",
+      "title": "The Huntsman Path - Eraser - Part 2"
+    }
+  ],
+  "objectives": [
+    "Eliminate 6 PMСs in the office area (any floor) on Factory"
+  ],
+  "rewards": {
+    "exp": 9800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Secured_Perimeter",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

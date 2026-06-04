@@ -1,0 +1,43 @@
+{
+  "id": "half-empty",
+  "title": "Half-Empty",
+  "pageId": 37738,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "forge-a-friendship",
+      "title": "Forge a Friendship"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "stick-in-the-wheel",
+      "title": "Stick in the Wheel"
+    }
+  ],
+  "objectives": [
+    "Hand over 5 found in raid military electronic items",
+    "Hand over 10 found in raid PC component items"
+  ],
+  "rewards": {
+    "exp": 14900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Half-Empty",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

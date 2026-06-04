@@ -1,0 +1,68 @@
+{
+  "id": "the-punisher-part-6",
+  "title": "The Punisher - Part 6",
+  "pageId": 6532,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-5",
+      "title": "The Punisher - Part 5"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "capturing-outposts",
+      "title": "Capturing Outposts"
+    },
+    {
+      "id": "intimidator",
+      "title": "Intimidator"
+    },
+    {
+      "id": "escort",
+      "title": "Escort"
+    },
+    {
+      "id": "the-choice",
+      "title": "The Choice"
+    },
+    {
+      "id": "gendarmerie-mall-cop",
+      "title": "Gendarmerie - Mall Cop"
+    },
+    {
+      "id": "best-job-in-the-world",
+      "title": "Best Job in the World"
+    },
+    {
+      "id": "no-questions-asked",
+      "title": "No Questions Asked"
+    }
+  ],
+  "objectives": [
+    "Eliminate 15 PMC operatives while using an SVD rifle (excluding Factory)",
+    "Hand over any 7 BEAR dogtags",
+    "Hand over any 7 USEC dogtags"
+  ],
+  "rewards": {
+    "exp": 19400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

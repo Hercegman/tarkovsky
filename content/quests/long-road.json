@@ -1,0 +1,44 @@
+{
+  "id": "long-road",
+  "title": "Long Road",
+  "pageId": 23921,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "friend-from-the-west-part-2",
+      "title": "Friend From the West - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "missing-cargo",
+      "title": "Missing Cargo"
+    }
+  ],
+  "objectives": [
+    "Eliminate 4 Scavs along the shore and the main road on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 15300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Long_Road",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

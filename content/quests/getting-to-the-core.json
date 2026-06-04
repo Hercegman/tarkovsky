@@ -1,0 +1,42 @@
+{
+  "id": "getting-to-the-core",
+  "title": "Getting to the Core",
+  "pageId": 33807,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "u-turn",
+      "title": "U Turn"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "no-peeking",
+      "title": "No Peeking!"
+    }
+  ],
+  "objectives": [
+    "Hand over the Documents with decrypted data"
+  ],
+  "rewards": {
+    "exp": 86300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Getting_to_the_Core",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

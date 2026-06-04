@@ -1,0 +1,42 @@
+{
+  "id": "small-business-part-2",
+  "title": "Small Business - Part 2",
+  "pageId": 34379,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "small-business-part-1",
+      "title": "Small Business - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "small-business-part-3",
+      "title": "Small Business - Part 3"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 10 Boss guards without killing the Bosses"
+  ],
+  "rewards": {
+    "exp": 36800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Small_Business_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

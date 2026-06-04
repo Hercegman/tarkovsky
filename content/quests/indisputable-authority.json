@@ -1,0 +1,45 @@
+{
+  "id": "indisputable-authority",
+  "title": "Indisputable Authority",
+  "pageId": 38173,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-labyrinth"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "offensive-reconnaissance",
+      "title": "Offensive Reconnaissance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "keepers-word",
+      "title": "Keeper's Word"
+    }
+  ],
+  "objectives": [
+    "Locate and neutralize the \"Minotaur\" inside The Labyrinth",
+    "Eliminate 6 of \"Minotaur's\" guards inside The Labyrinth"
+  ],
+  "rewards": {
+    "exp": 25500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Indisputable_Authority",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

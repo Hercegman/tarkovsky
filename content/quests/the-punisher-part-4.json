@@ -1,0 +1,51 @@
+{
+  "id": "the-punisher-part-4",
+  "title": "The Punisher - Part 4",
+  "pageId": 6405,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-3",
+      "title": "The Punisher - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-punisher-part-5",
+      "title": "The Punisher - Part 5"
+    },
+    {
+      "id": "kings-of-the-rooftops",
+      "title": "Kings of the Rooftops"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 Scavs while using a 12ga shotgun on Lighthouse",
+    "Eliminate 10 PMC operatives while wearing a balaclava (any type) and Scav Vest on Lighthouse",
+    "Find 5 Bars A-2607 95Kh18 knives in raid",
+    "Hand over the 5 Bars A-2607 95Kh18 knives"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

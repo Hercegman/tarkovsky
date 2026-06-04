@@ -1,0 +1,45 @@
+{
+  "id": "illegal-logging",
+  "title": "Illegal Logging",
+  "pageId": 36932,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "woods",
+    "shoreline",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "chilly",
+      "title": "Chilly"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 5 targets in the forest area in the time period of 22:00-10:00 on Woods",
+    "Eliminate any 5 targets in the forest area in the time period of 22:00-10:00 on Shoreline",
+    "Eliminate any 5 targets in the forest area in the time period of 22:00-10:00 on Lighthouse",
+    "Eliminate any 5 targets in the forest area in the time period of 22:00-10:00 on Customs"
+  ],
+  "rewards": {
+    "exp": 9400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Illegal_Logging",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

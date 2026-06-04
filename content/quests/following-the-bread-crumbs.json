@@ -1,0 +1,49 @@
+{
+  "id": "following-the-bread-crumbs",
+  "title": "Following the Bread Crumbs",
+  "pageId": 28558,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab",
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "provocation",
+      "title": "Provocation"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "spotter",
+      "title": "Spotter"
+    }
+  ],
+  "objectives": [
+    "Eliminate 20 Raiders",
+    "Search the weapon testing area in The Lab",
+    "Search the human experiment room in The Lab",
+    "Obtain the secured tape inside the manager's office in The Lab",
+    "Bring the tape to Lightkeeper"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Following_the_Bread_Crumbs",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

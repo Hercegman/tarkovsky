@@ -1,0 +1,47 @@
+{
+  "id": "cream-of-the-crop",
+  "title": "Cream of the Crop",
+  "pageId": 35664,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "provide-cover",
+      "title": "Provide Cover"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "before-the-rain",
+      "title": "Before the Rain"
+    }
+  ],
+  "objectives": [
+    "Find the KOSA UAV electronic jamming device in raid",
+    "Use the transit from Shoreline to Lighthouse",
+    "Stash the KOSA device on the second floor of the yacht club cottage on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 52600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Cream_of_the_Crop",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

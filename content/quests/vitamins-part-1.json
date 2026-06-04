@@ -1,0 +1,50 @@
+{
+  "id": "vitamins-part-1",
+  "title": "Vitamins - Part 1",
+  "pageId": 10752,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chemical-part-3",
+      "title": "Chemical - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "vitamins-part-2",
+      "title": "Vitamins - Part 2"
+    }
+  ],
+  "objectives": [
+    "Obtain the first Chemical container",
+    "Hand over the first Chemical container to Skier",
+    "Obtain the second Chemical container",
+    "Hand over the second Chemical container to Skier",
+    "Obtain the third Chemical container",
+    "Hand over the third Chemical container to Skier"
+  ],
+  "rewards": {
+    "exp": 13000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Vitamins_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

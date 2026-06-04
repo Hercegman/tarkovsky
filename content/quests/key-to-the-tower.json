@@ -1,0 +1,55 @@
+{
+  "id": "key-to-the-tower",
+  "title": "Key to the Tower",
+  "pageId": 28272,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "assessment-part-3",
+      "title": "Assessment - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "knock-knock",
+      "title": "Knock-Knock"
+    }
+  ],
+  "objectives": [
+    "Find 2 Pieces of plexiglass in raid",
+    "Find 1 Insulating tape in raid",
+    "Find 2 Military circuit boards in raid",
+    "Find 1 Military COFDM Wireless Signal Transmitter in raid",
+    "Find 1 Working LCD in raid",
+    "Obtain 1 Radio transmitter body on Lighthouse",
+    "Hand over 2 Pieces of plexiglass to Mechanic",
+    "Hand over 1 Insulating tape to Mechanic",
+    "Hand over 2 Military circuit boards to Mechanic",
+    "Hand over 1 Military COFDM Wireless Signal Transmitter to Mechanic",
+    "Hand over 1 Working LCD to Mechanic",
+    "Hand over 1 Radio transmitter body to Mechanic"
+  ],
+  "rewards": {
+    "exp": 30500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Key_to_the_Tower",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

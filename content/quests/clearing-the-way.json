@@ -1,0 +1,48 @@
+{
+  "id": "clearing-the-way",
+  "title": "Clearing the Way",
+  "pageId": 41554,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "missing-in-action",
+      "title": "Missing in Action"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "kolotun",
+      "title": "Kolotun"
+    },
+    {
+      "id": "come-by-the-fire",
+      "title": "Come by the Fire"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 20 targets on Customs"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Clearing_the_Way",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

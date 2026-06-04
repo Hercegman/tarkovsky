@@ -1,0 +1,62 @@
+{
+  "id": "the-guide",
+  "title": "The Guide",
+  "pageId": 12382,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange",
+    "shoreline",
+    "factory",
+    "the-lab",
+    "woods",
+    "customs",
+    "reserve",
+    "lighthouse",
+    "streets-of-tarkov",
+    "ground-zero"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "wet-job-part-6",
+      "title": "Wet Job - Part 6"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-cleaner",
+      "title": "The Cleaner"
+    }
+  ],
+  "objectives": [
+    "Survive and extract from Woods with the \"Survived\" exit status",
+    "Survive and extract from Customs with the \"Survived\" exit status",
+    "Survive and extract from Interchange with the \"Survived\" exit status",
+    "Survive and extract from Shoreline with the \"Survived\" exit status",
+    "Survive and extract from Factory with the \"Survived\" exit status",
+    "Survive and extract from The Lab with the \"Survived\" exit status",
+    "Survive and extract from Reserve with the \"Survived\" exit status",
+    "Survive and extract from Lighthouse with the \"Survived\" exit status",
+    "Survive and extract from Streets of Tarkov with the \"Survived\" exit status",
+    "Survive and extract from Ground Zero with the \"Survived\" exit status"
+  ],
+  "rewards": {
+    "exp": 42600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Guide",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

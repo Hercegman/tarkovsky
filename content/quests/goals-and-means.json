@@ -1,0 +1,41 @@
+{
+  "id": "goals-and-means",
+  "title": "Goals and Means",
+  "pageId": 40208,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-15",
+      "title": "Gunsmith - Part 15"
+    },
+    {
+      "id": "getting-acquainted",
+      "title": "Getting Acquainted"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 20 PMC operatives from over 50 meters away while using any 9x39 caliber weapon"
+  ],
+  "rewards": {
+    "exp": 12500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Goals_and_Means",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

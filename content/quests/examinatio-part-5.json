@@ -1,0 +1,44 @@
+{
+  "id": "examinatio-part-5",
+  "title": "Examinatio - Part 5",
+  "pageId": 38972,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "examinatio-part-4",
+      "title": "Examinatio - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "examinatio-part-6",
+      "title": "Examinatio - Part 6"
+    }
+  ],
+  "objectives": [
+    "Claim at least 4th place in LastHero mode thrice"
+  ],
+  "rewards": {
+    "exp": 5400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Examinatio_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "decryption-hurdles-part-2",
+  "title": "Decryption Hurdles - Part 2",
+  "pageId": 33799,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "decryption-hurdles-part-1",
+      "title": "Decryption Hurdles - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "decryption-hurdles-part-3",
+      "title": "Decryption Hurdles - Part 3"
+    }
+  ],
+  "objectives": [
+    "Stash a Military gyrotachometer at the designated place on Reserve",
+    "Launch a signal flare at the roof of the radar station on Reserve"
+  ],
+  "rewards": {
+    "exp": 29600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Decryption_Hurdles_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

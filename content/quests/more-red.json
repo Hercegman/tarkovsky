@@ -1,0 +1,39 @@
+{
+  "id": "more-red",
+  "title": "More Red",
+  "pageId": 42751,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "debts",
+      "title": "Debts"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 50 enemies in any game mode"
+  ],
+  "rewards": {
+    "exp": 60000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/More_Red",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "delivery-from-the-past",
+  "title": "Delivery From the Past",
+  "pageId": 6183,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "background-check",
+      "title": "Background Check"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "bp-depot",
+      "title": "BP Depot"
+    }
+  ],
+  "objectives": [
+    "Obtain the secure folder in the Tarcone Director's office at the Customs terminal warehouse",
+    "Stash the package in the break room on the 2nd floor near Gate 3 on Factory"
+  ],
+  "rewards": {
+    "exp": 4000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Delivery_From_the_Past",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

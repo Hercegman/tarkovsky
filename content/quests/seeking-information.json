@@ -1,0 +1,50 @@
+{
+  "id": "seeking-information",
+  "title": "Seeking Information",
+  "pageId": 33835,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "forgotten-acquaintance",
+      "title": "Forgotten Acquaintance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "obstacle-course",
+      "title": "Obstacle Course"
+    },
+    {
+      "id": "obstruction-destruction",
+      "title": "Obstruction Destruction"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the hard drive inside the cottage hideout on Lighthouse",
+    "(Optional) Obtain the USEC cottage room key",
+    "Hand over the hard drive"
+  ],
+  "rewards": {
+    "exp": 37900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Seeking_Information",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

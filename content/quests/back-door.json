@@ -1,0 +1,45 @@
+{
+  "id": "back-door",
+  "title": "Back Door",
+  "pageId": 21419,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "scout",
+      "title": "Scout"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "surplus-goods",
+      "title": "Surplus Goods"
+    }
+  ],
+  "objectives": [
+    "Find the unpowered secret exit on Reserve",
+    "Survive and extract from the location through the secret exit"
+  ],
+  "rewards": {
+    "exp": 8200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Back_Door",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

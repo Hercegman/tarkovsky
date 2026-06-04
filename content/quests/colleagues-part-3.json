@@ -1,0 +1,66 @@
+{
+  "id": "colleagues-part-3",
+  "title": "Colleagues - Part 3",
+  "pageId": 19166,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "colleagues-part-2",
+      "title": "Colleagues - Part 2"
+    },
+    {
+      "id": "rigged-game",
+      "title": "Rigged Game"
+    },
+    {
+      "id": "chemistry-closet",
+      "title": "Chemistry Closet"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "terragroup-employee",
+      "title": "TerraGroup Employee"
+    },
+    {
+      "id": "swift-one",
+      "title": "Swift One"
+    },
+    {
+      "id": "the-huntsman-path-relentless",
+      "title": "The Huntsman Path - Relentless"
+    }
+  ],
+  "objectives": [
+    "Do not kill Sanitar",
+    "Find 10 TerraGroup Labs access keycards in raid",
+    "Hand over the keycards",
+    "Find AHF1-M stimulant injector in raid",
+    "Hand over the injector",
+    "Find 3-(b-TG) stimulant injector in raid",
+    "Hand over the injector"
+  ],
+  "rewards": {
+    "exp": 27500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

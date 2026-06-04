@@ -1,0 +1,40 @@
+{
+  "id": "enough-drinks-for-that-one",
+  "title": "Enough Drinks for That One",
+  "pageId": 36860,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "hide-in-plain-sight",
+      "title": "Hide in Plain Sight"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and neutralize Killa in the time period of 22:00-10:00 on Interchange",
+    "Eliminate 10 Scavs with festive masks in the time period of 22:00-10:00 on Interchange"
+  ],
+  "rewards": {
+    "exp": 16000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Enough_Drinks_for_That_One",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "debut",
+  "title": "Debut",
+  "pageId": 6137,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "shooting-cans",
+      "title": "Shooting Cans"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "search-mission",
+      "title": "Search Mission"
+    },
+    {
+      "id": "luxurious-life",
+      "title": "Luxurious Life"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 Scavs all over the Tarkov territory",
+    "Obtain and hand over 2 MP-133 12ga shotguns"
+  ],
+  "rewards": {
+    "exp": 1700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Debut",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

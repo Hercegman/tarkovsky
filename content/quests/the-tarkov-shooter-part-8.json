@@ -1,0 +1,37 @@
+{
+  "id": "the-tarkov-shooter-part-8",
+  "title": "The Tarkov Shooter - Part 8",
+  "pageId": 11804,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-tarkov-shooter-part-7",
+      "title": "The Tarkov Shooter - Part 7"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 3 PMCs with a headshot and without dying while using a bolt-action rifle"
+  ],
+  "rewards": {
+    "exp": 30000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_8",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}
