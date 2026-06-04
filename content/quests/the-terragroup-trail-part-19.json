@@ -47,5 +47,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-19.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "zid-sp-81-26x75-signal-pistol",
+    "26x75mm-flare-cartridge-yellow",
+    "rsp-30-reactive-signal-cartridge-yellow"
+  ]
 }

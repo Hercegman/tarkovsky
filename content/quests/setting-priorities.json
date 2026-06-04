@@ -40,5 +40,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/setting-priorities.webp",
-  "order": 81
+  "order": 81,
+  "items": [
+    "earpieces",
+    "tsh-4m-l-soft-tank-crew-helmet",
+    "cens-proflex-dx5-tactical-earplug",
+    "armor-vest"
+  ]
 }

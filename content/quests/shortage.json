@@ -45,5 +45,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/shortage.webp",
-  "order": 1
+  "order": 1,
+  "items": [
+    "salewa-first-aid-kit",
+    "car-first-aid-kit",
+    "analgin-painkillers",
+    "immobilizing-splint"
+  ]
 }

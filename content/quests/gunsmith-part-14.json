@@ -40,5 +40,24 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-14.webp",
-  "order": 15
+  "order": 15,
+  "items": [
+    "hk-416a5",
+    "torrey-pines-logic-t12w-30hz-thermal-reflex-sight",
+    "gunpowder-eagle",
+    "ar-15-magpul-prs-gen3-stock-black",
+    "surefire-socom556-rc2-5-56x45-sound-suppressor",
+    "magpul-rvg-foregrip-fde",
+    "eotech-exps3-0-holographic-sight-tan",
+    "ar-15-magpul-ubr-gen2-stock-fde",
+    "ar-15-magpul-moe-pistol-grip-fde",
+    "l3harris-la-5b-peq-tactical-device",
+    "ar-15-5-56x45-hk-30-stanag-polymer-30-round-magazine",
+    "hk-416-5-56x45-11-inch-barrel",
+    "ar-15-surefire-sf3p-5-56x45-flash-hider",
+    "hk-416-midwest-industries-9-inch-m-lok-handguard",
+    "magpul-m-lok-4-1-inch-rail",
+    "magpul-mbus-gen2-flip-up-rear-sight",
+    "magpul-mbus-gen2-flip-up-front-sight"
+  ]
 }

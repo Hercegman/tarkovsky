@@ -49,5 +49,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/supplier.webp",
-  "order": 1
+  "order": 1,
+  "items": [
+    "bnti-module-3m-body-armor",
+    "toz-106-20ga-bolt-action-shotgun",
+    "saiga-9-9x19-carbine",
+    "7-62x54mm-r-sp-bt"
+  ]
 }

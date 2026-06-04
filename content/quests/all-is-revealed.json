@@ -51,5 +51,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/all-is-revealed.webp",
-  "order": 41
+  "order": 41,
+  "items": [
+    "chemical-sample",
+    "documents-case"
+  ]
 }

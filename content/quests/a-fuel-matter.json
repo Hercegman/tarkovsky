@@ -44,5 +44,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/a-fuel-matter.webp",
-  "order": 3
+  "order": 3,
+  "items": [
+    "ms2000-marker",
+    "propane-tank-5l"
+  ]
 }

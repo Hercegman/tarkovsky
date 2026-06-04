@@ -53,5 +53,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/in-and-out.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "radar-station-spare-parts",
+    "military-power-filter",
+    "the-eye-mortar-strike-signaling-device"
+  ]
 }

@@ -43,5 +43,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/lend-lease-part-2.webp",
-  "order": 27
+  "order": 27,
+  "items": [
+    "virtex-programmable-processor",
+    "military-cofdm-wireless-signal-transmitter",
+    "hk-416a5-5-56x45-assault-rifle",
+    "ar-15-5-56x45-magpul-pmag-d-60-stanag-60-round-magazine",
+    "ar-15-5-56x45-surefire-mag5-60-stanag-60-round-magazine",
+    "5-56x45mm-m995-ammo-pack-100-pcs"
+  ]
 }

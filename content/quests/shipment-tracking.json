@@ -43,5 +43,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/shipment-tracking.webp",
-  "order": 38
+  "order": 38,
+  "items": [
+    "terragroup-shipment-report",
+    "topographic-survey-maps",
+    "company-directors-room-key"
+  ]
 }

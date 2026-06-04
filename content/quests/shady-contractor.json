@@ -51,5 +51,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/shady-contractor.webp",
-  "order": 75
+  "order": 75,
+  "items": [
+    "knossos-senior-managers-diary",
+    "military-corrugated-tube"
+  ]
 }

@@ -64,5 +64,17 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/colleagues-part-3.webp",
-  "order": 24
+  "order": 24,
+  "items": [
+    "sanitar",
+    "terragroup-labs-access-keycard",
+    "ahf1-m-stimulant-injector",
+    "3-b-tg-stimulant-injector",
+    "terragroup-labs-keycard-black",
+    "medicine-case",
+    "l1-norepinephrine-injector",
+    "meldonin-injector",
+    "obdolbos-2-cocktail-injector",
+    "grizzly-medical-kit"
+  ]
 }

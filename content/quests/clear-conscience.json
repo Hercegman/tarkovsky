@@ -47,5 +47,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/clear-conscience.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "tg-vi-24-true-vaccine",
+    "t-h-i-c-c-weapon-case"
+  ]
 }

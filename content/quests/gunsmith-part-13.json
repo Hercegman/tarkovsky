@@ -40,5 +40,19 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-13.webp",
-  "order": 14
+  "order": 14,
+  "items": [
+    "rsass",
+    "corrugated-hose",
+    "pack-of-nails",
+    "kac-prs-qdc-7-62x51-sound-suppressor",
+    "silencerco-hybrid-46-direct-thread-mount-adapter",
+    "silencerco-hybrid-46-multi-caliber-sound-suppressor",
+    "remington-rahg-4-inch-rail",
+    "zenit-rk-6-tactical-foregrip",
+    "iea-mil-optics-kh-f-34mm-one-piece-magmount",
+    "nightforce-atacr-7-35x56-34mm-riflescope",
+    "ar-15-adar-2-15-buffer-tube",
+    "ar-15-kriss-defiance-ds150-stock"
+  ]
 }

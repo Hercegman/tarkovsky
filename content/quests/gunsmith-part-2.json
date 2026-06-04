@@ -44,5 +44,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-2.webp",
-  "order": 3
+  "order": 3,
+  "items": [
+    "aks-74u",
+    "capacitors",
+    "bundle-of-wires",
+    "light-bulb",
+    "ak-100-series-polymer-handguard",
+    "kalashnikov-aks-74u-5-45x39-assault-rifle",
+    "aks-74u-zenit-b-11-handguard",
+    "ak-74-5-45x39-6l31-60-round-magazine"
+  ]
 }

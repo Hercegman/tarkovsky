@@ -36,5 +36,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/teacher.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "lega-medal",
+    "valuables-crate-rare",
+    "snowman-t-shirt"
+  ]
 }

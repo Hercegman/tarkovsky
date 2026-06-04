@@ -45,5 +45,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/safe-corridor.webp",
-  "order": 24
+  "order": 24,
+  "items": [
+    "5-45x39mm-bp-gs-ammo-pack-120-pcs",
+    "expeditionary-fuel-tank",
+    "tagged-and-cursed"
+  ]
 }

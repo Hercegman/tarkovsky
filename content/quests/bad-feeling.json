@@ -33,5 +33,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/bad-feeling.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "scav-raiders",
+    "sig-sauer-echo1-1-2x30mm-30hz-thermal-reflex-scope",
+    "l3harris-gpnvg-18-night-vision-goggles",
+    "armasight-zeus-pro-640-2-8x50-30hz-thermal-scope",
+    "trijicon-reap-ir-thermal-scope",
+    "t-7-thermal-goggles-with-a-night-vision-mount"
+  ]
 }

@@ -40,5 +40,21 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-18.webp",
-  "order": 19
+  "order": 19,
+  "items": [
+    "akmn",
+    "eotech-vudu-1-6x24-30mm-riflescope",
+    "ak-74-hexagon-wafflemaker-5-45x39-sound-suppressor",
+    "ak-hexagon-reactor-5-45x39-muzzle-brake",
+    "steiner-las-tac-2-tactical-flashlight",
+    "akm-7-62x39-kiba-arms-308-muzzle-device-adapter",
+    "ak-magpul-moe-akm-handguard-black",
+    "akm-ak-74-magpul-zhukov-s-stock",
+    "ak-magpul-moe-pistol-grip-black",
+    "ak-7-62x39-magpul-pmag-30-gen-m3-30-round-magazine",
+    "magpul-m-lok-afg-tactical-foregrip-black",
+    "rotor-43-7-62x39-sound-suppressor",
+    "eotech-hhs-1-hybrid-sight",
+    "ak-akademia-bastion-dust-cover"
+  ]
 }

@@ -50,5 +50,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/minute-of-fame.webp",
-  "order": 44
+  "order": 44,
+  "items": [
+    "gaming-magazine",
+    "awc-thor-psr-xl-multi-caliber-sound-suppressor",
+    "ar-10-awc-psr-7-62x51-muzzle-brake",
+    "sig-sauer-srd762ti-7-62x51-sound-suppressor"
+  ]
 }

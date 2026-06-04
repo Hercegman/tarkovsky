@@ -62,5 +62,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-secured-perimeter.webp",
-  "order": 13
+  "order": 13,
+  "items": [
+    "pliers-elite",
+    "toolset",
+    "nippers",
+    "corrugated-hose"
+  ]
 }

@@ -56,5 +56,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/a-shooter-born-in-heaven.webp",
-  "order": 45
+  "order": 45,
+  "items": [
+    "bolt-action-rifles",
+    "hk-g28-7-62x51-marksman-rifle",
+    "hk417-g28-7-62x51-20-round-magazine",
+    "7-62x51mm-m993-ammo-pack-20-pcs",
+    "magazine-case"
+  ]
 }

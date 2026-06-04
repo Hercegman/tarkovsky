@@ -35,5 +35,19 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/shell-game.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "contraband-box",
+    "locked-case",
+    "m60-7-62x51-capco-100-round-assault-box",
+    "7-62x51mm-m61-ammo-pack-20-pcs",
+    "7-62x51mm-m993-ammo-pack-20-pcs",
+    "npp-klass-bagariy-plate-carrier-emr",
+    "mystery-ranch-satl-bridger-assault-pack-foliage",
+    "u-s-ordnance-m60e6-7-62x51-light-machine-gun",
+    "underground-parking-utility-room-key",
+    "rb-st-key",
+    "cottage-back-door-key",
+    "tarcone-directors-office-key"
+  ]
 }

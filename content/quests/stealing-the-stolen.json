@@ -53,5 +53,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/stealing-the-stolen.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "radar-station-spare-parts",
+    "hk-416a5-5-56x45-assault-rifle",
+    "ar-15-5-56x45-hk-steel-maritime-stanag-30-round-magazine",
+    "5-56x45mm-m855-ammo-pack-50-pcs"
+  ]
 }

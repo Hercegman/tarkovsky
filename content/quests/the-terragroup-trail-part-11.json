@@ -70,5 +70,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-11.png",
-  "order": null
+  "order": null,
+  "items": [
+    "radio-repeater",
+    "radio-repeater",
+    "secure-container-epsilon"
+  ]
 }

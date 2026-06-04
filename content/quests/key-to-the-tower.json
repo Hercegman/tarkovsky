@@ -60,5 +60,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/key-to-the-tower.webp",
-  "order": 64
+  "order": 64,
+  "items": [
+    "piece-of-plexiglass",
+    "insulating-tape",
+    "military-circuit-board",
+    "military-cofdm-wireless-signal-transmitter",
+    "working-lcd",
+    "radio-transmitter-body",
+    "nsv-utyos-12-7x108-heavy-machine-gun"
+  ]
 }

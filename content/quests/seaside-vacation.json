@@ -43,5 +43,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/seaside-vacation.webp",
-  "order": 29
+  "order": 29,
+  "items": [
+    "laptop-with-information",
+    "aluminum-splint"
+  ]
 }

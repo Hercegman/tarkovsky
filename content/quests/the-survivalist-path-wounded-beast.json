@@ -46,5 +46,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-survivalist-path-wounded-beast.webp",
-  "order": 4
+  "order": 4,
+  "items": [
+    "stress-resistance",
+    "benelli-m3-super-90-12ga-dual-mode-shotgun",
+    "jar-of-devildog-mayo"
+  ]
 }

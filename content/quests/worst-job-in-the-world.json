@@ -39,5 +39,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/worst-job-in-the-world.webp",
-  "order": 41
+  "order": 41,
+  "items": [
+    "m203-40mm-underbarrel-grenade-launcher",
+    "40x46mm-m386-he-grenade",
+    "m4a1",
+    "adar-2-15",
+    "tx-15-dml",
+    "radian-model-1",
+    "m16a1",
+    "m16a2"
+  ]
 }

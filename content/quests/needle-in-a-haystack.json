@@ -99,5 +99,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/needle-in-a-haystack.webp",
-  "order": 76
+  "order": 76,
+  "items": [
+    "light-bulb",
+    "energy-saving-lamp"
+  ]
 }

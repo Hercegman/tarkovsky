@@ -60,5 +60,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/route-deviation.webp",
-  "order": 49
+  "order": 49,
+  "items": [
+    "ms2000-marker",
+    "desert-tech-mdr-5-56x45-assault-rifle",
+    "ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine",
+    "5-56x45mm-m855a1-ammo-pack-50-pcs"
+  ]
 }

@@ -43,5 +43,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/dirty-blood.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "infected-blood-sample",
+    "12-70-ap-20-ammo-pack-25-pcs",
+    "aa-12-12ga-8-round-magazine",
+    "mps-auto-assault-12-gen-2-12ga-automatic-shotgun"
+  ]
 }

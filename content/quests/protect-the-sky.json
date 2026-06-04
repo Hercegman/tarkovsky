@@ -50,5 +50,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/protect-the-sky.webp",
-  "order": 9
+  "order": 9,
+  "items": [
+    "kosa-uav-electronic-jamming-device",
+    "300-blackout-cbj-ammo-pack-50-pcs",
+    "aklys-defense-velociraptor-300-blackout-assault-rifle"
+  ]
 }

@@ -61,5 +61,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/acquaintance.webp",
-  "order": 0
+  "order": 0,
+  "items": [
+    "iskra-ration-pack",
+    "pack-of-instant-noodles",
+    "can-of-beef-stew-large",
+    "survl-survivor-lighter",
+    "provisions",
+    "ration-supply-crate"
+  ]
 }

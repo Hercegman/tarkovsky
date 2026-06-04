@@ -43,5 +43,6 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/kings-of-the-rooftops.webp",
-  "order": 50
+  "order": 50,
+  "items": []
 }

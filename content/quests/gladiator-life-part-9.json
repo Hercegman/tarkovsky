@@ -42,5 +42,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gladiator-life-part-9.webp",
-  "order": 29
+  "order": 29,
+  "items": [
+    "escape-from-tarkov-arena",
+    "beret-olive-drab",
+    "weapon-paint-set-german-flecktarn"
+  ]
 }

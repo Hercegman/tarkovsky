@@ -53,5 +53,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/broadcast-part-5.webp",
-  "order": 52
+  "order": 52,
+  "items": [
+    "cultist-priest",
+    "mysterious-room-marked-key",
+    "cultist-knife",
+    "molot-arms-vpo-101-vepr-hunter-7-62x51-carbine",
+    "7-62x51mm-m61-ammo-pack-20-pcs",
+    "armasight-zeus-pro-640-2-8x50-30hz-thermal-scope"
+  ]
 }

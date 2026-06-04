@@ -1,17 +1,17 @@
 "use client";
 
 import { useEffect, useMemo } from "react";
+import { MapContainer, ImageOverlay, Marker, Popup, useMap } from "react-leaflet";
 import {
-  MapContainer,
-  ImageOverlay,
-  CircleMarker,
-  Popup,
-  useMap,
-} from "react-leaflet";
-import { CRS, latLngBounds, type LatLngBoundsExpression } from "leaflet";
+  CRS,
+  divIcon,
+  latLngBounds,
+  type DivIcon,
+  type LatLngBoundsExpression,
+} from "leaflet";
 import "leaflet/dist/leaflet.css";
 import type { MapData } from "@/lib/types";
-import { categoryColor } from "@/lib/map-colors";
+import { categoryColor, categoryShape, shapeSvg } from "@/lib/map-colors";
 
 export interface HighlightMarker {
   x: number;
@@ -19,7 +19,6 @@ export interface HighlightMarker {
   label: string;
 }
 
-/** Keeps Leaflet sized correctly when the container resizes (fullscreen, panels). */
 function AutoResize() {
   const map = useMap();
   useEffect(() => {
@@ -31,7 +30,6 @@ function AutoResize() {
   return null;
 }
 
-/** Flies to the highlighted markers when a quest is selected. */
 function FlyToHighlight({ highlight }: { highlight: HighlightMarker[] }) {
   const map = useMap();
   useEffect(() => {
@@ -42,6 +40,14 @@ function FlyToHighlight({ highlight }: { highlight: HighlightMarker[] }) {
   }, [map, highlight]);
   return null;
 }
+
+const highlightIcon = (): DivIcon =>
+  divIcon({
+    className: "",
+    iconSize: [26, 26],
+    iconAnchor: [13, 13],
+    html: `<svg xmlns='http://www.w3.org/2000/svg' width='26' height='26' viewBox='0 0 26 26' style='filter:drop-shadow(0 0 4px rgba(227,193,112,0.9))'><polygon points='13,2 24,13 13,24 2,13' fill='#e3c170' stroke='#fff7e0' stroke-width='2' stroke-linejoin='round'/></svg>`,
+  });
 
 export default function LeafletMap({
   map,
@@ -64,6 +70,22 @@ export default function LeafletMap({
     [map.markers, activeSet],
   );
 
+  // One shaped icon per category, built once.
+  const iconByCat = useMemo(() => {
+    const make = (id: string) =>
+      divIcon({
+        className: "",
+        iconSize: [16, 16],
+        iconAnchor: [8, 8],
+        html: shapeSvg(categoryShape(id), categoryColor(id)),
+      });
+    const m = new Map<string, DivIcon>();
+    for (const c of map.categories) m.set(c.id, make(c.id));
+    for (const mk of map.markers) if (!m.has(mk.c)) m.set(mk.c, make(mk.c));
+    return m;
+  }, [map.categories, map.markers]);
+  const hIcon = useMemo(() => highlightIcon(), []);
+
   return (
     <MapContainer
       crs={CRS.Simple}
@@ -81,7 +103,6 @@ export default function LeafletMap({
       scrollWheelZoom={interactive}
       doubleClickZoom={interactive}
       attributionControl={false}
-      preferCanvas
       className="h-full w-full bg-[var(--surface)]"
     >
       <AutoResize />
@@ -89,42 +110,21 @@ export default function LeafletMap({
       {map.image && <ImageOverlay url={map.image} bounds={bounds} />}
 
       {shown.map((p, i) => (
-        <CircleMarker
-          key={i}
-          center={[p.y, p.x]}
-          radius={5}
-          pathOptions={{
-            color: "#14150f",
-            weight: 1,
-            fillColor: categoryColor(p.c),
-            fillOpacity: 0.9,
-          }}
-        >
+        <Marker key={i} position={[p.y, p.x]} icon={iconByCat.get(p.c)}>
           {p.t && (
             <Popup>
               <strong>{p.t}</strong>
             </Popup>
           )}
-        </CircleMarker>
+        </Marker>
       ))}
 
-      {/* Selected quest's own location(s), drawn on top. */}
       {highlight.map((p, i) => (
-        <CircleMarker
-          key={`h-${i}`}
-          center={[p.y, p.x]}
-          radius={9}
-          pathOptions={{
-            color: "#fff7e0",
-            weight: 2,
-            fillColor: "#e3c170",
-            fillOpacity: 1,
-          }}
-        >
+        <Marker key={`h-${i}`} position={[p.y, p.x]} icon={hIcon} zIndexOffset={1000}>
           <Popup>
             <strong>{p.label}</strong>
           </Popup>
-        </CircleMarker>
+        </Marker>
       ))}
     </MapContainer>
   );

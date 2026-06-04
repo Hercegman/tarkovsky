@@ -44,5 +44,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-big-game.webp",
-  "order": 51
+  "order": 51,
+  "items": [
+    "kaban",
+    "6-sten-140-m-military-battery",
+    "military-circuit-board",
+    "armasight-zeus-pro-640-2-8x50-30hz-thermal-scope"
+  ]
 }

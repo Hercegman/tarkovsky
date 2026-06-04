@@ -40,5 +40,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/flint.webp",
-  "order": 20
+  "order": 20,
+  "items": [
+    "stress-resistance",
+    "bottle-of-tarkovskaya-vodka",
+    "bottle-of-pevko-light-beer",
+    "miller-bros-blades-m-2-tactical-sword"
+  ]
 }

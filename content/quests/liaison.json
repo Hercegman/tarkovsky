@@ -45,5 +45,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/liaison.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "physical-bitcoin",
+    "7-62x51mm-m62-tracer-ammo-pack-20-pcs",
+    "ar-10-7-62x51-magpul-pmag-20-sr-lr-gen-m3-20-round-magazine",
+    "remington-r11-rsass-7-62x51-marksman-rifle",
+    "rsp-30-reactive-signal-cartridge-yellow",
+    "26x75mm-flare-cartridge-yellow",
+    "zid-sp-81-26x75-signal-pistol"
+  ]
 }

@@ -77,5 +77,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/energy-crisis.webp",
-  "order": 54
+  "order": 54,
+  "items": [
+    "ms2000-marker",
+    "fn-scar-l-5-56x45-assault-rifle",
+    "tromix-monster-claw-12ga-muzzle-brake",
+    "granit-4-ballistic-plate-front"
+  ]
 }

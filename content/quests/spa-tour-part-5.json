@@ -50,5 +50,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/spa-tour-part-5.webp",
-  "order": 11
+  "order": 11,
+  "items": [
+    "key-to-the-closed-premises-of-the-health-resort",
+    "rb-ao-key"
+  ]
 }

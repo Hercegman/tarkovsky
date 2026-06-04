@@ -30,5 +30,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/compensation-for-damage-collection.webp",
-  "order": 14
+  "order": 14,
+  "items": [
+    "colt-m4a1-5-56x45-assault-rifle"
+  ]
 }

@@ -66,5 +66,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/ballet-lover.webp",
-  "order": 32
+  "order": 32,
+  "items": [
+    "eagle-industries-mmac-plate-carrier-ranger-green",
+    "6b5-15-zh-86-uley-armored-rig-flora",
+    "primorsky-46-48-skybridge-key"
+  ]
 }

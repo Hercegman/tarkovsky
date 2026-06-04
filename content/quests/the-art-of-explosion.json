@@ -35,5 +35,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-art-of-explosion.webp",
-  "order": 25
+  "order": 25,
+  "items": [
+    "rshg-2-72-5mm-rocket-launcher",
+    "ags-30-30x29mm-automatic-grenade-launcher",
+    "40x46mm-m576-mp-apers-grenade"
+  ]
 }

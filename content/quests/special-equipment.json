@@ -44,5 +44,16 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/special-equipment.webp",
-  "order": 32
+  "order": 32,
+  "items": [
+    "vpx-flash-storage-module",
+    "uhf-rfid-reader",
+    "virtex-programmable-processor",
+    "military-cofdm-wireless-signal-transmitter",
+    "military-flash-drive",
+    "weapon-case",
+    "terragroup-labs-access-keycard",
+    "iridium-military-thermal-vision-module",
+    "t-h-i-c-c-item-case"
+  ]
 }

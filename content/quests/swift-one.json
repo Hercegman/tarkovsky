@@ -41,5 +41,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/swift-one.webp",
-  "order": 40
+  "order": 40,
+  "items": [
+    "endurance",
+    "stress-resistance",
+    "armband-train-hard",
+    "338-lapua-magnum-ap-ammo-pack-20-pcs",
+    "7-62x39mm-mai-ap-ammo-pack-20-pcs",
+    "armor-vest",
+    "ana-tactical-alpha-chest-rig-multicam"
+  ]
 }

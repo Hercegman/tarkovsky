@@ -57,5 +57,20 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/samples.webp",
-  "order": 25
+  "order": 25,
+  "items": [
+    "m-u-l-e-stimulant-injector",
+    "obdolbos-cocktail-injector",
+    "meldonin-injector",
+    "ahf1-m-stimulant-injector",
+    "p22-product-22-stimulant-injector",
+    "l1-norepinephrine-injector",
+    "3-b-tg-stimulant-injector",
+    "ammunition-case",
+    "ds-arms-sa58-7-62x51-assault-rifle",
+    "ops-core-fast-multi-hit-ballistic-face-shield",
+    "team-wendy-exfil-ballistic-helmet-black",
+    "keycard-with-a-blue-marking",
+    "sanitar"
+  ]
 }

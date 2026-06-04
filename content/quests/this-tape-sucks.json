@@ -44,5 +44,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/this-tape-sucks.webp",
-  "order": 47
+  "order": 47,
+  "items": [
+    "the-labyrinth",
+    "slaughter-videotape",
+    "sj12-tglabs-combat-stimulant-injector",
+    "meldonin-injector",
+    "3-b-tg-stimulant-injector",
+    "taurus-poster"
+  ]
 }

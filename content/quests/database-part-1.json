@@ -76,5 +76,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/database-part-1.webp",
-  "order": 11
+  "order": 11,
+  "items": [
+    "goshan-cargo-manifests",
+    "oli-cargo-manifests",
+    "idea-cargo-manifests",
+    "msa-sordin-supreme-pro-x-l-headset",
+    "raybench-aviator-glasses",
+    "malboro-cigarettes",
+    "nfm-thor-concealable-reinforced-vest-body-armor"
+  ]
 }

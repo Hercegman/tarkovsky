@@ -50,5 +50,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/operation-aquarius-part-1.webp",
-  "order": 2
+  "order": 2,
+  "items": [
+    "dorm-room-206-key",
+    "bottle-of-water-0-6l",
+    "water-filter"
+  ]
 }

@@ -35,5 +35,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/skiing-with-skier.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "ushanka-ear-flap-hat",
+    "pompon-hat",
+    "7-62x51mm-m80-ammo-pack-20-pcs",
+    "sa58-fal-7-62x51-20-round-magazine",
+    "kel-tec-rfb-7-62x51-rifle"
+  ]
 }

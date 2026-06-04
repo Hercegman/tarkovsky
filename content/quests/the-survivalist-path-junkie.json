@@ -37,5 +37,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-survivalist-path-junkie.webp",
-  "order": 9
+  "order": 9,
+  "items": [
+    "metabolism",
+    "12-70-rip-ammo-pack-5-pcs",
+    "5-56x45mm-warmageddon-ammo-pack-20-pcs",
+    "5-45x39mm-bt-gs-ammo-pack-120-pcs",
+    "provisions"
+  ]
 }

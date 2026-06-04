@@ -53,5 +53,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/break-the-deal.webp",
-  "order": 30
+  "order": 30,
+  "items": [
+    "lobaev-arms-dvl-10-7-62x51-bolt-action-sniper-rifle",
+    "dvl-10-7-62x51-10-round-magazine",
+    "elcan-specterdr-1x-4x-scope",
+    "7-62x51mm-nato",
+    "iotv-gen4-body-armor-high-mobility-kit-multicam",
+    "7-62x51mm-bcp-fmj-ammo-pack-20-pcs",
+    "dvl-10"
+  ]
 }

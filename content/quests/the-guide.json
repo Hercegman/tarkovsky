@@ -60,5 +60,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-guide.webp",
-  "order": 24
+  "order": 24,
+  "items": [
+    "eotech-hhs-1-hybrid-sight",
+    "velocity-systems-slaap-plate-tan",
+    "ar-15-vltor-mur-1s-5-56x45-upper-receiver",
+    "4-6x30mm-ap-sx"
+  ]
 }

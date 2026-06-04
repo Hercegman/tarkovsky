@@ -58,5 +58,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/wet-job-part-5.webp",
-  "order": 21
+  "order": 21,
+  "items": [
+    "working-hard-drive",
+    "highcom-trooper-tfo-body-armor-multicam",
+    "remington-r11-rsass-7-62x51-marksman-rifle",
+    "afak-tactical-individual-first-aid-kit",
+    "health-resort-east-wing-room-328-key"
+  ]
 }

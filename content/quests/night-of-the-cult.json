@@ -35,5 +35,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/night-of-the-cult.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "cultists",
+    "cult-locust-ballistic-plate",
+    "cult-termite-ballistic-plate",
+    "l3harris-gpnvg-18-night-vision-goggles",
+    "dorm-room-314-marked-key"
+  ]
 }

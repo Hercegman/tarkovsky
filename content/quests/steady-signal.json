@@ -41,5 +41,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/steady-signal.webp",
-  "order": 68
+  "order": 68,
+  "items": [
+    "ms2000-marker",
+    "military-cable",
+    "military-circuit-board"
+  ]
 }

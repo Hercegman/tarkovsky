@@ -101,5 +101,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/capacity-check.webp",
-  "order": 32
+  "order": 32,
+  "items": [
+    "toolset",
+    "fn-scar-l-5-56x45-assault-rifle-fde",
+    "fn-scar-l-5-56x45-30-round-magazine-fde",
+    "5-56x45mm-m855-ammo-pack-50-pcs"
+  ]
 }

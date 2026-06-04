@@ -51,5 +51,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/health-care-privacy-part-6.webp",
-  "order": 17
+  "order": 17,
+  "items": [
+    "blood-sample",
+    "ibuprofen-painkillers",
+    "factory-emergency-exit-key",
+    "blood-sample"
+  ]
 }

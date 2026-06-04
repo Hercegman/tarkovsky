@@ -46,5 +46,17 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/friend-from-norvinsk-part-5.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "disk-with-unknown-data",
+    "dvd-drive",
+    "capacitors",
+    "construction-measuring-tape",
+    "intelligence-folder",
+    "svds-7-62x54r-sniper-rifle",
+    "programmers-diary-copy",
+    "expeditionary-fuel-tank",
+    "zibbo-lighter",
+    "programmers-diary"
+  ]
 }

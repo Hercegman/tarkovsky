@@ -71,5 +71,19 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hobby-club.webp",
-  "order": 80
+  "order": 80,
+  "items": [
+    "ak-50-barrel",
+    "glukhar",
+    "ak-50-dust-cover-quest-item",
+    "ak-50",
+    "ak-50-handguard-with-gas-block",
+    "theakguy-ak-50-50-bmg-anti-materiel-rifle",
+    "m82a1-50-bmg-10-round-magazine",
+    "50-bmg-m33",
+    "ak-50-50-bmg-muzzle-brake",
+    "ak-50-m-lok-handguard-with-gas-tube",
+    "ak-50-dust-cover",
+    "ak-50-50-bmg-24-inch-barrel"
+  ]
 }

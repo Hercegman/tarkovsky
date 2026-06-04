@@ -51,5 +51,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/your-car-needs-a-service.webp",
-  "order": 42
+  "order": 42,
+  "items": [
+    "secure-flash-drive-your-car-needs-a-service",
+    "car-dealership-directors-office-room-key",
+    "5-56x45mm-m855a1",
+    "car-dealership-closed-section-key",
+    "claymores"
+  ]
 }

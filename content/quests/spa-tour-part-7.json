@@ -59,5 +59,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/spa-tour-part-7.webp",
-  "order": 13
+  "order": 13,
+  "items": [
+    "morphine-injector",
+    "alkaline-cleaner-for-heat-exchangers",
+    "corrugated-hose",
+    "propane-tank-5l",
+    "rb-st-key",
+    "crye-precision-airframe-helmet-tan"
+  ]
 }

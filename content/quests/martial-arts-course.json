@@ -31,5 +31,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/martial-arts-course.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "tagilla",
+    "red-rebel-ice-pick",
+    "miller-bros-blades-m-2-tactical-sword",
+    "toz-ks-23m-23x75mm-pump-action-shotgun",
+    "23x75mm-zvezda-flashbang-round"
+  ]
 }

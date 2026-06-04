@@ -82,5 +82,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/pharmacist.webp",
-  "order": 7
+  "order": 7,
+  "items": [
+    "carbon-case",
+    "dorm-room-114-key",
+    "afak-tactical-individual-first-aid-kit",
+    "pile-of-meds"
+  ]
 }

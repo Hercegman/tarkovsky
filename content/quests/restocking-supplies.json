@@ -40,5 +40,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/restocking-supplies.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "sealed-weapon-case",
+    "kalashnikov-pkm-7-62x54r-machine-gun",
+    "pk-7-62x54r-100-round-box",
+    "7-62x54mm-r-snb-gzh-ammo-pack-20-pcs"
+  ]
 }

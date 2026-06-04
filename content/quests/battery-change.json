@@ -48,5 +48,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/battery-change.webp",
-  "order": 8
+  "order": 8,
+  "items": [
+    "6-sten-140-m-military-battery",
+    "body-armor-repair-kit"
+  ]
 }

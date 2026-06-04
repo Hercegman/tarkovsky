@@ -40,5 +40,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/test-drive-part-1.webp",
-  "order": 26
+  "order": 26,
+  "items": [
+    "sr-25",
+    "silencerco-hybrid-46-multi-caliber-sound-suppressor",
+    "schmidt-bender-pm-ii-1-8x24-30mm-riflescope",
+    "vss-vintorez-9x39-special-sniper-rifle",
+    "9x39mm-pab-9-gs-ammo-pack-20-pcs",
+    "vss-val-9x39-30-round-magazine",
+    "9x39mm-pab-9-gs",
+    "knights-armament-company-sr-25-7-62x51-marksman-rifle"
+  ]
 }

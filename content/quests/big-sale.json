@@ -86,5 +86,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/big-sale.webp",
-  "order": 2
+  "order": 2,
+  "items": [
+    "oakley-mechanism-heavy-duty-backpack-black"
+  ]
 }

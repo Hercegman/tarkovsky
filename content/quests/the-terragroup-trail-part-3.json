@@ -43,5 +43,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-3.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "toughbook-reinforced-laptop",
+    "sr-2m-veresk-9x21-submachine-gun",
+    "sr-2m-9x21-30-round-magazine",
+    "9x21mm-bt-ammo-pack-30-pcs"
+  ]
 }

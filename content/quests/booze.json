@@ -42,5 +42,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/booze.webp",
-  "order": 29
+  "order": 29,
+  "items": [
+    "bottle-of-tarkovskaya-vodka",
+    "bottle-of-dan-jackiel-whiskey",
+    "canister-with-purified-water",
+    "bottle-of-pevko-light-beer",
+    "paracord",
+    "piece-of-plexiglass"
+  ]
 }

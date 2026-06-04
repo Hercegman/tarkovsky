@@ -64,5 +64,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/broadcast-part-2.webp",
-  "order": 56
+  "order": 56,
+  "items": [
+    "steyr-aug-a1-5-56x45-assault-rifle",
+    "steyr-aug-5-56x45-10-round-magazine",
+    "5-56x45mm-m855a1-ammo-pack-100-pcs"
+  ]
 }

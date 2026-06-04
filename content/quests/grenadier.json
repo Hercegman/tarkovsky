@@ -40,5 +40,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/grenadier.webp",
-  "order": 24
+  "order": 24,
+  "items": [
+    "12-7x55mm-ps12b-10-pcs",
+    "f-1-hand-grenade",
+    "vog-17-khattabka-improvised-hand-grenade",
+    "vog-25-khattabka-improvised-hand-grenade",
+    "rgn-hand-grenade"
+  ]
 }

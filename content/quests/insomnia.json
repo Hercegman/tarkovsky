@@ -35,5 +35,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/insomnia.webp",
-  "order": 34
+  "order": 34,
+  "items": [
+    "l3harris-gpnvg-18-night-vision-goggles",
+    "ops-core-fast-mt-super-high-cut-helmet-black",
+    "ops-core-fast-multi-hit-ballistic-face-shield",
+    "sapi-level-iii-ballistic-plate"
+  ]
 }

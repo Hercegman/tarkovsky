@@ -42,5 +42,28 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/setup.webp",
-  "order": 19
+  "order": 19,
+  "items": [
+    "kel-tec-rfb-7-62x51-rifle",
+    "12-70-ap-20-ammo-pack-25-pcs",
+    "12-70-flechette",
+    "ushanka-ear-flap-hat",
+    "domontovich-ushanka-hat",
+    "new-year-ushanka-hat",
+    "scav-vest",
+    "tac-kek-jaypc-plate-carrier-black",
+    "tac-kek-jaypc-plate-carrier-od-green",
+    "mp-18-7-62x54r-single-shot-rifle",
+    "mp-43-1c-12ga-double-barrel-shotgun",
+    "mp-43-12ga-sawed-off-double-barrel-shotgun",
+    "mp-133-12ga-pump-action-shotgun",
+    "mp-153-12ga-semi-automatic-shotgun",
+    "mp-155-12ga-semi-automatic-shotgun",
+    "mp-18",
+    "mp-43-1c",
+    "mp-43-sawed-off",
+    "mp-133",
+    "mp-153",
+    "mp-155"
+  ]
 }

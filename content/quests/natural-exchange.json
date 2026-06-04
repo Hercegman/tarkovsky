@@ -64,5 +64,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/natural-exchange.webp",
-  "order": 6
+  "order": 6,
+  "items": [
+    "metal-fuel-tank",
+    "graphics-card"
+  ]
 }

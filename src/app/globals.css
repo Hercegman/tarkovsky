@@ -121,6 +121,12 @@ body::before {
   background: var(--gold);
 }
 
+/* Leaflet shaped markers: drop the default white box around div icons. */
+.leaflet-div-icon {
+  background: transparent;
+  border: 0;
+}
+
 /* ---------- Keyframes ---------- */
 @keyframes glow-pulse {
   0%, 100% { box-shadow: 0 0 18px rgba(157, 160, 121, 0.25), 0 0 40px rgba(157, 160, 121, 0.08); }

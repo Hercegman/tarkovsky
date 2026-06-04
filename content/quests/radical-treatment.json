@@ -47,5 +47,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/radical-treatment.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "sanitar",
+    "tg-vi-24-lethal-vaccine",
+    "item-case",
+    "3-b-tg-stimulant-injector",
+    "trimadol-stimulant-injector",
+    "sj6-tglabs-combat-stimulant-injector"
+  ]
 }

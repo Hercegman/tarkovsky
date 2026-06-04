@@ -42,5 +42,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/to-great-heights-part-3.webp",
-  "order": 14
+  "order": 14,
+  "items": [
+    "valuables-crate-rare"
+  ]
 }

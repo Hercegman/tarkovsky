@@ -38,5 +38,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/our-own-land.webp",
-  "order": 44
+  "order": 44,
+  "items": [
+    "dogtag",
+    "23x75mm-zvezda-flashbang-round",
+    "toz-ks-23m-23x75mm-pump-action-shotgun"
+  ]
 }

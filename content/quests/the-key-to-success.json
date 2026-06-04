@@ -62,5 +62,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-key-to-success.webp",
-  "order": 19
+  "order": 19,
+  "items": [
+    "clothes-design-handbook-part-1",
+    "clothes-design-handbook-part-2",
+    "ghost-balaclava"
+  ]
 }

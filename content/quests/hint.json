@@ -41,5 +41,22 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hint.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "reshala",
+    "glukhar",
+    "killa",
+    "shturman",
+    "knight",
+    "big-pipe",
+    "birdeye",
+    "sanitar",
+    "tagilla",
+    "priest",
+    "tdi-kriss-vector-gen-2-9x19-submachine-gun",
+    "tdi-kriss-vector-gen-2-45-acp-submachine-gun",
+    "glock-9x19-big-stick-33-round-magazine",
+    "glock-45-acp-kriss-g30-magex-30-round-magazine",
+    "9x19mm-pbp-gzh"
+  ]
 }

@@ -38,5 +38,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/counteraction.webp",
-  "order": 35
+  "order": 35,
+  "items": [
+    "dogtag",
+    "ssd-drive",
+    "intelligence-folder",
+    "topographic-survey-maps",
+    "23x75mm-zvezda-flashbang-round"
+  ]
 }

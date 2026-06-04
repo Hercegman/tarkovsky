@@ -44,5 +44,20 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-15.webp",
-  "order": 16
+  "order": 16,
+  "items": [
+    "as-val",
+    "kiba-arms-inner-grate-door-key",
+    "pressure-gauge",
+    "vss-val-toz-6p29m-mount",
+    "ar-15-fab-defense-gl-shock-buttstock",
+    "l3harris-an-peq-15-tactical-device",
+    "nspu-m-3-5x-dovetail-night-vision-scope",
+    "nspu-m-scope-eyecup",
+    "as-val-rotor-43-pistol-grip-with-buffer-tube",
+    "vss-val-9x39-sr3m-130-30-round-magazine",
+    "vss-val-9x39-30-round-magazine",
+    "vss-val-zenit-b-3-ring-mount",
+    "vss-val-zenit-b-3-mount-combo"
+  ]
 }

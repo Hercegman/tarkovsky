@@ -40,5 +40,27 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-22.webp",
-  "order": 23
+  "order": 23,
+  "items": [
+    "m4a1",
+    "magazine-case",
+    "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
+    "trijicon-reap-ir-thermal-scope",
+    "silencerco-saker-asr-556-5-56x45-sound-suppressor",
+    "kac-qdss-nt4-5-56x45-sound-suppressor-fde",
+    "ar-15-alexander-arms-mk10-rifle-length-handguard",
+    "ar-15-5-56x45-surefire-mag5-60-stanag-60-round-magazine",
+    "ar-15-5-56x45-magpul-pmag-d-60-stanag-60-round-magazine",
+    "ar-15-5-56x45-surefire-mag5-100-stanag-100-round-magazine",
+    "alexander-arms-10-inch-rail",
+    "zenit-rk-1-tactical-foregrip",
+    "ar-15-magpul-miad-pistol-grip-fde",
+    "ar-15-5-56x45-10-3-inch-barrel",
+    "ar-15-kac-qdc-5-56x45-flash-suppressor-kit",
+    "ar-15-ballistic-advantage-lo-pro-gas-block",
+    "unv-dloc-ird-sight-mount",
+    "trijicon-reap-ir-scope-eyecup",
+    "ar-15-kriss-defiance-ds150-stock",
+    "ar-15-magpul-b-a-d-lever-bolt-release"
+  ]
 }

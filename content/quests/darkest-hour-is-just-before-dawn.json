@@ -54,5 +54,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/darkest-hour-is-just-before-dawn.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "338-lapua-magnum-fmj-ammo-pack-20-pcs",
+    "mk-18-338-lm-10-round-magazine",
+    "sword-international-mk-18-338-lm-marksman-rifle"
+  ]
 }

@@ -42,5 +42,6 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hold-the-lead.webp",
-  "order": 10
+  "order": 10,
+  "items": []
 }

@@ -40,5 +40,17 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/textile-part-2.webp",
-  "order": 27
+  "order": 27,
+  "items": [
+    "fleece-fabric",
+    "cordura-polyamide-fabric",
+    "kektape-duct-tape",
+    "mystery-ranch-blackjack-50-backpack-multicam",
+    "bear-tigr-upper",
+    "usec-tier2-upper",
+    "sport-bag",
+    "buried-barrel-cache",
+    "ground-cache",
+    "toolbox"
+  ]
 }

@@ -40,5 +40,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/surprise.webp",
-  "order": 4
+  "order": 4,
+  "items": [
+    "armor-plates",
+    "maska-1sch-bulletproof-helmet-killa-edition",
+    "armor-plate",
+    "6b13-custom-ballistic-plates-back"
+  ]
 }

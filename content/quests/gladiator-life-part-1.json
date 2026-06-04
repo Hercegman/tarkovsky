@@ -42,5 +42,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gladiator-life-part-1.webp",
-  "order": 21
+  "order": 21,
+  "items": [
+    "escape-from-tarkov-arena",
+    "diamond-age-neosteel-high-cut-helmet-black",
+    "kalashnikov-akmsn-7-62x39-assault-rifle",
+    "ana-tactical-m2-plate-carrier-od-green"
+  ]
 }

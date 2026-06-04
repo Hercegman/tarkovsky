@@ -55,5 +55,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-trophy.webp",
-  "order": 20
+  "order": 20,
+  "items": [
+    "reshala",
+    "tokarev-tt-33-7-62x25-tt-pistol-golden",
+    "magazine-case",
+    "golden-neck-chain",
+    "gold-skull-ring",
+    "roler-submariner-gold-wrist-watch"
+  ]
 }

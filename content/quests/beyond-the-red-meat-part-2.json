@@ -63,5 +63,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/beyond-the-red-meat-part-2.webp",
-  "order": 36
+  "order": 36,
+  "items": [
+    "secret-component",
+    "sig-mcx-300-blackout-assault-rifle",
+    "ar-15-5-56x45-colt-stanag-30-round-magazine",
+    "300-blackout-cbj-ammo-pack-50-pcs",
+    "zenit-rk-1-tactical-foregrip-on-b-25u-mount",
+    "terragroup-meeting-room-key",
+    "secret-component"
+  ]
 }

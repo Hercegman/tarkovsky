@@ -40,5 +40,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hunting-trip.webp",
-  "order": 24
+  "order": 24,
+  "items": [
+    "shturman",
+    "remington-model-700-7-62x51-bolt-action-sniper-rifle",
+    "burris-fullfield-tac30-1-4x24-30mm-riflescope",
+    "vpx-flash-storage-module",
+    "iridium-military-thermal-vision-module",
+    "phased-array-element",
+    "accuracy-international-axmc-338-lm-bolt-action-sniper-rifle",
+    "recknagel-era-tac-30mm-ring-scope-mount"
+  ]
 }

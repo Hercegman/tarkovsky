@@ -40,5 +40,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/calibration.webp",
-  "order": 51
+  "order": 51,
+  "items": [
+    "perception",
+    "armband-kiba-arms",
+    "can-of-thermite",
+    "5-45x39mm-7n40",
+    "altyn-bulletproof-helmet-olive-drab"
+  ]
 }

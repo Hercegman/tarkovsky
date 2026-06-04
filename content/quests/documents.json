@@ -66,5 +66,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/documents.webp",
-  "order": 14
+  "order": 14,
+  "items": [
+    "military-documents-1",
+    "military-documents-2",
+    "military-documents-3",
+    "nspu-m-3-5x-dovetail-night-vision-scope",
+    "zenit-klesch-2p-flashlight-with-laser",
+    "akm-pbs-1-7-62x39-sound-suppressor"
+  ]
 }

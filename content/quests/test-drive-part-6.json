@@ -37,5 +37,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/test-drive-part-6.webp",
-  "order": 31
+  "order": 31,
+  "items": [
+    "aklys-defense-velociraptor-300-blackout-assault-rifle",
+    "bnti-zhuk-body-armor-emr",
+    "300-blackout-cbj-ammo-pack-50-pcs"
+  ]
 }

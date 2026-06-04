@@ -45,5 +45,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/photo-hunt.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "wi-fi-camera",
+    "ak-hexagon-reactor-5-45x39-muzzle-brake",
+    "ak-74-hexagon-wafflemaker-5-45x39-sound-suppressor",
+    "rotor-43-7-62x54r-sound-suppressor",
+    "terragroup-science-office-key"
+  ]
 }

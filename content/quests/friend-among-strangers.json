@@ -40,5 +40,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/friend-among-strangers.webp",
-  "order": 1
+  "order": 1,
+  "items": [
+    "scav-raiders",
+    "bosses",
+    "military-flash-drive"
+  ]
 }

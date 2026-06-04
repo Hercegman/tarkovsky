@@ -42,5 +42,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/exit-here.webp",
-  "order": 34
+  "order": 34,
+  "items": [
+    "tp-200-tnt-brick"
+  ]
 }

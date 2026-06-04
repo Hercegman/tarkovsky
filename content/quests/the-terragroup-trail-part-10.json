@@ -43,5 +43,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-10.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "vss-vintorez-9x39-special-sniper-rifle",
+    "sanitars-bag",
+    "kaban",
+    "m203-40mm-underbarrel-grenade-launcher",
+    "40x46mm-m386-he-grenade",
+    "car-dealership-closed-section-key"
+  ]
 }

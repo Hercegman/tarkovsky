@@ -43,5 +43,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/network-provider-part-1.webp",
-  "order": 59
+  "order": 59,
+  "items": [
+    "batya",
+    "the-ticket",
+    "electronic-components",
+    "military-cofdm-wireless-signal-transmitter",
+    "gas-analyzer",
+    "broken-gphone-smartphone"
+  ]
 }

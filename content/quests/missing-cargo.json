@@ -51,5 +51,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/missing-cargo.webp",
-  "order": 28
+  "order": 28,
+  "items": [
+    "stolen-military-documents",
+    "ar-15-magpul-moe-carbine-stock-black",
+    "ak-zenit-rk-3-pistol-grip",
+    "magpul-moe-carbine-rubber-buttpad"
+  ]
 }

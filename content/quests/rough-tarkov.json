@@ -57,5 +57,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/rough-tarkov.webp",
-  "order": 54
+  "order": 54,
+  "items": [
+    "tripwire-installation-kit"
+  ]
 }

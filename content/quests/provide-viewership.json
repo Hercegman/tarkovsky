@@ -48,5 +48,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/provide-viewership.webp",
-  "order": 1
+  "order": 1,
+  "items": [
+    "wi-fi-camera",
+    "lone-star-tx-15-dml-5-56x45-carbine",
+    "ar-15-5-56x45-hk-30-stanag-polymer-30-round-magazine",
+    "5-56x45mm-m855a1-ammo-pack-50-pcs"
+  ]
 }

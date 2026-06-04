@@ -40,5 +40,21 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-8.webp",
-  "order": 9
+  "order": 9,
+  "items": [
+    "aks-74n",
+    "aks-74u-caa-xrsu47su-tactical-handguard",
+    "ak-74-thread-type-jmac-customs-rrd-4c-multi-caliber-muzzle-brake",
+    "5-45x39mm-bs-gs-ammo-pack-30-pcs",
+    "ak-zenit-b-30-handguard-with-b-31s-upper-handguard-rail",
+    "zenit-rk-0-tactical-foregrip",
+    "ak-12-5-45x39-30-round-magazine",
+    "zenit-klesch-2iks-ir-illuminator-with-laser",
+    "ak-zenit-dtk-1-7-62x39-5-45x39-muzzle-brake",
+    "ak-zenit-rk-3-pistol-grip",
+    "aks-74-aks-74u-zenit-pt-lock",
+    "ak-zenit-pt-3-klassika-stock",
+    "ak-zenit-b-33-dust-cover",
+    "ak-12-5-45x39-early-model-30-round-magazine"
+  ]
 }

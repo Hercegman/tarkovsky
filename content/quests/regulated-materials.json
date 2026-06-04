@@ -40,5 +40,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/regulated-materials.webp",
-  "order": 36
+  "order": 36,
+  "items": [
+    "6-sten-140-m-military-battery",
+    "ofz-30x165mm-shell",
+    "12-7x55mm-ps12b-10-pcs",
+    "ash-12-12-7x55-assault-rifle"
+  ]
 }

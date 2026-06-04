@@ -40,5 +40,21 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-19.webp",
-  "order": 20
+  "order": 20,
+  "items": [
+    "svds",
+    "ratchet-wrench",
+    "bulbex-cable-cutter",
+    "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+    "ar-15-magpul-ubr-gen2-stock-black",
+    "svd-sag-mk1-chassis",
+    "ak-magpul-moe-pistol-grip-black",
+    "march-tactical-3-24x42-ffp-30mm-riflescope",
+    "svds-lynx-arms-ak-series-pistol-grip-adapter",
+    "svds-custom-cut-dust-cover",
+    "svds-lynx-arms-hinge-buffer-tube-adapter",
+    "svds-rotor-43-thread-adapter",
+    "rotor-43-7-62x54r-sound-suppressor",
+    "lobaev-arms-30mm-scope-mount"
+  ]
 }

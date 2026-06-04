@@ -40,5 +40,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/new-beginning-prestige-3.webp",
-  "order": 52
+  "order": 52,
+  "items": [
+    "prestige",
+    "physical-bitcoin"
+  ]
 }

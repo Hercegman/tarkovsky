@@ -42,5 +42,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/khorovod.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "sr-3m-9x39-compact-assault-rifle",
+    "vss-val-9x39-sr3m-130-30-round-magazine",
+    "9x39mm-bp-ammo-pack-20-pcs",
+    "khorovod-armband",
+    "special-40-degree-fuel",
+    "leatherman-multitool"
+  ]
 }

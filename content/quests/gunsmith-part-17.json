@@ -40,5 +40,23 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-17.webp",
-  "order": 18
+  "order": 18,
+  "items": [
+    "ak-102",
+    "spark-plug",
+    "greenbat-lithium-battery",
+    "magpul-afg-tactical-foregrip-olive-drab",
+    "ar-15-hera-arms-cqr-pistol-grip-buttstock",
+    "ak-cnc-warrior-5-56x45-muzzle-device-adapter",
+    "akm-ak-74-hera-arms-cqr47-pistol-grip-buttstock",
+    "ferfrans-crd-5-56x45-concussion-reduction-device",
+    "zenit-klesch-2u-tactical-flashlight",
+    "rpk-16-buffer-tube",
+    "slr-106-ak-5-56x45-circle-10-30-round-magazine",
+    "ar-15-ferfrans-cqb-5-56x45-muzzle-brake",
+    "ak-zenit-b-10-handguard",
+    "ak-akademia-bastion-dust-cover",
+    "sig-sauer-romeo7-1x30-reflex-sight-prototype",
+    "ar-15-kriss-defiance-ds150-stock"
+  ]
 }

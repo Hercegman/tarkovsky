@@ -50,5 +50,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/pursuit-of-power.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "sanitars-letter",
+    "calok-b-hemostatic-applicator",
+    "salewa-first-aid-kit"
+  ]
 }

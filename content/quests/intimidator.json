@@ -35,5 +35,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/intimidator.webp",
-  "order": 40
+  "order": 40,
+  "items": [
+    "aim-drills",
+    "assault-rifles",
+    "7-62x39mm-bp-gzh"
+  ]
 }

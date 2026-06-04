@@ -65,5 +65,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/farming-part-3.webp",
-  "order": 42
+  "order": 42,
+  "items": [
+    "package-of-graphics-cards",
+    "uhf-rfid-reader",
+    "tarcone-directors-office-key"
+  ]
 }

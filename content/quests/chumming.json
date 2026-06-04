@@ -100,5 +100,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/chumming.webp",
-  "order": 16
+  "order": 16,
+  "items": [
+    "golden-neck-chain",
+    "roler-submariner-gold-wrist-watch"
+  ]
 }

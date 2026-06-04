@@ -59,5 +59,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-13.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "secure-flash-drive-v4",
+    "digital-secure-dsp-radio-transmitter",
+    "zryachiy"
+  ]
 }

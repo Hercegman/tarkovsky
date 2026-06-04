@@ -66,5 +66,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/population-census.webp",
-  "order": 31
+  "order": 31,
+  "items": [
+    "housing-office-journal",
+    "salewa-first-aid-kit",
+    "medical-tools"
+  ]
 }

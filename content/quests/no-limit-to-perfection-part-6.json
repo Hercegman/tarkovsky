@@ -42,5 +42,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-limit-to-perfection-part-6.webp",
-  "order": 44
+  "order": 44,
+  "items": [
+    "escape-from-tarkov-arena",
+    "submachine-guns",
+    "valuables-crate-rare"
+  ]
 }

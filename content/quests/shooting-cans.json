@@ -64,5 +64,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/shooting-cans.webp",
-  "order": 0
+  "order": 0,
+  "items": [
+    "nsv-utyos-12-7x108-heavy-machine-gun",
+    "ags-30-30x29mm-automatic-grenade-launcher",
+    "mosin-7-62x54r-bolt-action-rifle-infantry",
+    "7-62x54mm-r-fmj-ammo-pack-20-pcs"
+  ]
 }

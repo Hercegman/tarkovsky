@@ -52,5 +52,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/green-corridor.webp",
-  "order": 51
+  "order": 51,
+  "items": [
+    "sr-2m-veresk-9x21-submachine-gun",
+    "sr-2m-9x21-20-round-magazine",
+    "9x21mm-p-gzh",
+    "ags-30-30x29mm-automatic-grenade-launcher",
+    "claymores"
+  ]
 }

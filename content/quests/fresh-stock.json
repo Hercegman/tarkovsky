@@ -33,5 +33,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/fresh-stock.webp",
-  "order": 49
+  "order": 49,
+  "items": [
+    "icebreaker",
+    "compartment-c-1-keycard",
+    "boreas",
+    "black-division",
+    "rys-t-bulletproof-helmet-black",
+    "ferro-concepts-fcpc-v5-plate-carrier-black-division",
+    "spiritus-systems-lv-119-plate-carrier-black-division-v2",
+    "spiritus-systems-lv-119-plate-carrier-multicam-black"
+  ]
 }

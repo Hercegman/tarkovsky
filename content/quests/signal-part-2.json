@@ -51,5 +51,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/signal-part-2.webp",
-  "order": 30
+  "order": 30,
+  "items": [
+    "pc-cpu",
+    "rechargeable-battery",
+    "printed-circuit-board",
+    "broken-gphone-smartphone",
+    "pc-block"
+  ]
 }

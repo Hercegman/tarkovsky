@@ -51,5 +51,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/possessor.webp",
-  "order": 60
+  "order": 60,
+  "items": [
+    "pilot-logbook",
+    "metal-fuel-tank"
+  ]
 }

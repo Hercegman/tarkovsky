@@ -43,5 +43,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/work-smarter.webp",
-  "order": 59
+  "order": 59,
+  "items": [
+    "note-with-code-word-voron",
+    "cms-surgical-kit"
+  ]
 }

@@ -45,5 +45,20 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gun-connoisseur.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "5-56x45mm-nato",
+    "5-45x39mm",
+    "7-62x39mm",
+    "7-62x54mmr",
+    "9x19mm-parabellum",
+    "9x39mm",
+    "5-56x45mm-m855a1-ammo-pack-100-pcs",
+    "5-45x39mm-7n40-ammo-pack-120-pcs",
+    "7-62x39mm-pp-gzh-ammo-pack-20-pcs",
+    "7-62x54mm-r-bs-ammo-pack-20-pcs",
+    "9x19mm-pbp-ammo-pack-50-pcs",
+    "9x39mm-bp-ammo-pack-20-pcs",
+    "mp-18-7-62x54r-single-shot-rifle"
+  ]
 }

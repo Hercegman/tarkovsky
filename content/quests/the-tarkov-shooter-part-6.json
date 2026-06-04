@@ -40,5 +40,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-tarkov-shooter-part-6.webp",
-  "order": 33
+  "order": 33,
+  "items": [
+    "mosin-rifle-ati-monte-carlo-stock",
+    "ski-hat-with-holes-for-eyes"
+  ]
 }
