@@ -37,7 +37,98 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 365,
+      "y": 1144,
+      "label": "Locate Prapor's Friend Apartment"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 514,
+      "y": 1144,
+      "label": "Locate the Warden's Apartment"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 1194,
+      "y": 1383,
+      "label": "Locate the Balletmeister's Apartment"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3641,
+      "y": 5505,
+      "label": "Locat the third pharmacy"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4459,
+      "y": 1718,
+      "label": "Locate the second pharmacy"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3924,
+      "y": 2828,
+      "label": "Locate the first pharmacy"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3598,
+      "y": 3922,
+      "label": "Locate the First group of ATMs on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3690,
+      "y": 3977,
+      "label": "Locate the First ATM on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6405,
+      "y": 2627,
+      "label": "Locate the Second ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6360,
+      "y": 2474,
+      "label": "Locate the Third ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4878,
+      "y": 3875,
+      "label": "Locate the Third ATM on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 5701,
+      "y": 4896,
+      "label": "Locate the Second ATM on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3863,
+      "y": 2349,
+      "label": "Locate the First ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4493,
+      "y": 1013,
+      "label": "Locate the First ATM on Nizhnaya Sadovaya Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4539,
+      "y": 1013,
+      "label": "Locate the Second ATM on Nizhnaya Sadovaya Street"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Pets_Won't_Need_It_-_Part_2",
     "license": "CC BY-NC-SA",

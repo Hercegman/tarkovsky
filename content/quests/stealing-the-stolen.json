@@ -38,7 +38,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 756,
+      "y": 623,
+      "label": "Stash the AK-50 Parts"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Stealing_the_Stolen",
     "license": "CC BY-NC-SA",

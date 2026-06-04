@@ -39,7 +39,44 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 58,
+      "y": 2451,
+      "label": "Stash Bottle of Water/Iskra Ration Pack"
+    },
+    {
+      "map": "woods",
+      "x": 6519,
+      "y": 2285,
+      "label": "Stash Bottle of Water/Iskra Ration Pack"
+    },
+    {
+      "map": "woods",
+      "x": 5282,
+      "y": 5421,
+      "label": "Stash the first Russian AP ammo pack"
+    },
+    {
+      "map": "woods",
+      "x": 5201,
+      "y": 5464,
+      "label": "Stash the second Russian AP ammo pack"
+    },
+    {
+      "map": "woods",
+      "x": 5182,
+      "y": 5492,
+      "label": "Stash the third Russian AP ammo pack"
+    },
+    {
+      "map": "interchange",
+      "x": 6218,
+      "y": 2138,
+      "label": "Stash a Bottle of Fierce Hatchling moonshine"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Missing_in_Action",
     "license": "CC BY-NC-SA",

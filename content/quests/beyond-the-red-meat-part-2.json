@@ -30,7 +30,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 3703,
+      "y": 2958,
+      "label": "Obtain the Housing Office Journal"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3857,
+      "y": 4221,
+      "label": "Obtain the Secret Component"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4415,
+      "y": 4507,
+      "label": "Obtain the Secret Component"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2682,
+      "y": 3463,
+      "label": "Obtain the Tarkov City Souvenir Key"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Beyond_the_Red_Meat_-_Part_2",
     "license": "CC BY-NC-SA",

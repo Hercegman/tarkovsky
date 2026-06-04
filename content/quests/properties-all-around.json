@@ -31,7 +31,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 4697,
+      "y": 794,
+      "label": "Obtain the real estate transactions document"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2682,
+      "y": 3463,
+      "label": "Obtain the Tarkov City Souvenir Key"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Properties_All_Around",
     "license": "CC BY-NC-SA",

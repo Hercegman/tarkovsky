@@ -36,7 +36,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "interchange",
+      "x": 2089,
+      "y": 2574,
+      "label": "Stash BNTI Gzhel-K armors"
+    },
+    {
+      "map": "interchange",
+      "x": 7804,
+      "y": 2237,
+      "label": "Stash 6B47 Helmets and Peltor ComTac 2s"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Hot_Delivery",
     "license": "CC BY-NC-SA",

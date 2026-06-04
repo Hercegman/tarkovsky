@@ -39,7 +39,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "interchange",
+      "x": 6218,
+      "y": 2138,
+      "label": "Stash a Bottle of Fierce Hatchling moonshine"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Spring!",
     "license": "CC BY-NC-SA",

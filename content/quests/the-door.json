@@ -31,7 +31,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 1729,
+      "y": 3290,
+      "label": "Install a WI-FI Camera"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 1683,
+      "y": 3484,
+      "label": "Install a WI-FI Camera"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Door",
     "license": "CC BY-NC-SA",

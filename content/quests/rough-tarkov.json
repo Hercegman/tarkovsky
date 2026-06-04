@@ -36,7 +36,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 1747,
+      "y": 4537,
+      "label": "Locate the Heavily Mined Area"
+    },
+    {
+      "map": "ground-zero",
+      "x": 2868,
+      "y": 3232,
+      "label": "Locate the Claymore Mine"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Rough_Tarkov",
     "license": "CC BY-NC-SA",

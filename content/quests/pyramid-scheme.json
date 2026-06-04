@@ -43,7 +43,116 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 397,
+      "y": 850,
+      "label": "Locate the Missing Group"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4459,
+      "y": 1718,
+      "label": "Locate the second pharmacy"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3924,
+      "y": 2828,
+      "label": "Locate the first pharmacy"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2730,
+      "y": 4369,
+      "label": "Locate the ATM at the expo"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3598,
+      "y": 3922,
+      "label": "Locate the First group of ATMs on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3690,
+      "y": 3977,
+      "label": "Locate the First ATM on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6405,
+      "y": 2627,
+      "label": "Locate the Second ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6360,
+      "y": 2474,
+      "label": "Locate the Third ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4416,
+      "y": 4229,
+      "label": "Locate the Fourth group of ATMs on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4529,
+      "y": 4219,
+      "label": "Locate the Fifth group of ATMs on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4878,
+      "y": 3875,
+      "label": "Locate the Third ATM on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 5235,
+      "y": 3813,
+      "label": "Locate the Fourth ATM on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 5181,
+      "y": 4084,
+      "label": "Locate the Group of ATMs on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 5701,
+      "y": 4896,
+      "label": "Locate the Second ATM on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3863,
+      "y": 2349,
+      "label": "Locate the First ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2487,
+      "y": 1522,
+      "label": "Locate the ATM on Razvedchikov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4493,
+      "y": 1013,
+      "label": "Locate the First ATM on Nizhnaya Sadovaya Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4539,
+      "y": 1013,
+      "label": "Locate the Second ATM on Nizhnaya Sadovaya Street"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Pyramid_Scheme",
     "license": "CC BY-NC-SA",

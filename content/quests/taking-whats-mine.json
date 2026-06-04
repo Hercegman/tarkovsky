@@ -40,7 +40,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 2347,
+      "y": 1940,
+      "label": "Stash Posters in the Designated Spot"
+    },
+    {
+      "map": "customs",
+      "x": 2407,
+      "y": 1843,
+      "label": "Stash Posters in the Designated Spot"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Taking_What's_Mine",
     "license": "CC BY-NC-SA",

@@ -35,7 +35,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 1242,
+      "y": 1386,
+      "label": "Obtain the AG Guitar Pick"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 7052,
+      "y": 1567,
+      "label": "Locate the Cultist Meeting Spot"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Audiophile",
     "license": "CC BY-NC-SA",

@@ -39,7 +39,50 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 9440,
+      "y": 5442,
+      "label": "Fix the Second Control Board with a Toolset"
+    },
+    {
+      "map": "factory",
+      "x": 8434,
+      "y": 5637,
+      "label": "Fix the First Control Board with a Toolset"
+    },
+    {
+      "map": "factory",
+      "x": 8093,
+      "y": 4402,
+      "label": "Fix the First Reactor Mixer with a Toolset"
+    },
+    {
+      "map": "factory",
+      "x": 8093,
+      "y": 4130,
+      "label": "Fix the Second Reactor Mixer with a Toolset"
+    },
+    {
+      "map": "factory",
+      "x": 8092,
+      "y": 3854,
+      "label": "Fix the Third Reactor Mixer with a Toolset"
+    },
+    {
+      "map": "factory",
+      "x": 10661,
+      "y": 3538,
+      "label": "Mark first Heat Exchanger with MS2000 Marker"
+    },
+    {
+      "map": "factory",
+      "x": 11640,
+      "y": 4803,
+      "label": "Mark second Heat Exchanger with MS2000 Marker"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_1",
     "license": "CC BY-NC-SA",

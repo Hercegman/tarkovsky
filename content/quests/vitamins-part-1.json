@@ -40,7 +40,38 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 5849,
+      "y": 2309,
+      "label": "Obtain Chemical container 1"
+    },
+    {
+      "map": "interchange",
+      "x": 7705,
+      "y": 3058,
+      "label": "Obtain the second Clothes design handbook"
+    },
+    {
+      "map": "interchange",
+      "x": 9058,
+      "y": 2398,
+      "label": "Obtain the first Clothes design handbook"
+    },
+    {
+      "map": "interchange",
+      "x": 7423,
+      "y": 2779,
+      "label": "Obtain the third Chemical container"
+    },
+    {
+      "map": "interchange",
+      "x": 7445,
+      "y": 2908,
+      "label": "Obtain the second Chemical container"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Vitamins_-_Part_1",
     "license": "CC BY-NC-SA",

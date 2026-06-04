@@ -35,7 +35,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 2066,
+      "y": 505,
+      "label": "Shoot a Yellow Signal Flare at Radar Station"
+    },
+    {
+      "map": "reserve",
+      "x": 1235,
+      "y": 2184,
+      "label": "Stash a Military cable and Bulbex cable cutter"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Decryption_Hurdles_-_Part_2",
     "license": "CC BY-NC-SA",

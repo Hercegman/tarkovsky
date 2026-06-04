@@ -30,7 +30,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 3926,
+      "y": 1745,
+      "label": "Obtain the Customized Tool Set"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Passion_for_Ergonomics",
     "license": "CC BY-NC-SA",

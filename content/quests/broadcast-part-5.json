@@ -32,7 +32,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 7052,
+      "y": 1567,
+      "label": "Locate the Cultist Meeting Spot"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3042,
+      "y": 2406,
+      "label": "Stash the Cultist knife"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_5",
     "license": "CC BY-NC-SA",

@@ -52,7 +52,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 5502,
+      "y": 1819,
+      "label": "Locate the TerraGroup Cargo"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Humanitarian_Supplies",
     "license": "CC BY-NC-SA",

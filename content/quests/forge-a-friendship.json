@@ -39,7 +39,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 2894,
+      "y": 452,
+      "label": "Obtain Prapor's Cargo"
+    },
+    {
+      "map": "shoreline",
+      "x": 5502,
+      "y": 1819,
+      "label": "Locate the TerraGroup Cargo"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Forge_a_Friendship",
     "license": "CC BY-NC-SA",

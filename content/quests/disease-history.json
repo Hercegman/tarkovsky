@@ -37,7 +37,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 3516,
+      "y": 347,
+      "label": "Obtain Medical Record #1"
+    },
+    {
+      "map": "reserve",
+      "x": 3604,
+      "y": 339,
+      "label": "Obtain Medical Record #2"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Disease_History",
     "license": "CC BY-NC-SA",

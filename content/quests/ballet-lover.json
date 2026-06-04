@@ -39,7 +39,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 365,
+      "y": 1144,
+      "label": "Locate Prapor's Friend Apartment"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 514,
+      "y": 1144,
+      "label": "Locate the Warden's Apartment"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 1194,
+      "y": 1383,
+      "label": "Locate the Balletmeister's Apartment"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Ballet_Lover",
     "license": "CC BY-NC-SA",

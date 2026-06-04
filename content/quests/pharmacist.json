@@ -61,7 +61,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 2722,
+      "y": 112,
+      "label": "Obtain the Carbon Case"
+    },
+    {
+      "map": "customs",
+      "x": 3552,
+      "y": 458,
+      "label": "Obtain the Bank case"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Pharmacist",
     "license": "CC BY-NC-SA",

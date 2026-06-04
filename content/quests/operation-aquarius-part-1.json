@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 2537,
+      "y": 348,
+      "label": "Locate the Water Hidden Inside of the Dorms"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius_-_Part_1",
     "license": "CC BY-NC-SA",

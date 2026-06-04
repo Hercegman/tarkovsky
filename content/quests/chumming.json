@@ -55,7 +55,44 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 3439,
+      "y": 1865,
+      "label": "Stash the Golden Zibbo Lighter"
+    },
+    {
+      "map": "customs",
+      "x": 3338,
+      "y": 213,
+      "label": "Stash Golden Neck Chain"
+    },
+    {
+      "map": "woods",
+      "x": 3269,
+      "y": 2667,
+      "label": "Stash Golden Neck Chain"
+    },
+    {
+      "map": "woods",
+      "x": 4320,
+      "y": 3389,
+      "label": "Stash the Golden Rooster Figurine"
+    },
+    {
+      "map": "woods",
+      "x": 5716,
+      "y": 3173,
+      "label": "Stash the Journal at the Old Sawmill"
+    },
+    {
+      "map": "interchange",
+      "x": 7683,
+      "y": 2351,
+      "label": "Stash Golden neck chains"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Chumming",
     "license": "CC BY-NC-SA",

@@ -40,7 +40,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 2600,
+      "y": 2337,
+      "label": "Place the Jammer"
+    },
+    {
+      "map": "shoreline",
+      "x": 3431,
+      "y": 1234,
+      "label": "Place the Jammer"
+    },
+    {
+      "map": "shoreline",
+      "x": 4215,
+      "y": 1759,
+      "label": "Place the Jammer"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_3",
     "license": "CC BY-NC-SA",

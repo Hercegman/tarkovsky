@@ -35,7 +35,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 3944,
+      "y": 3062,
+      "label": "Obtain the Registered Letter"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2682,
+      "y": 3463,
+      "label": "Obtain the Tarkov City Souvenir Key"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/You've_Got_Mail",
     "license": "CC BY-NC-SA",

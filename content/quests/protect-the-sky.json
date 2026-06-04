@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 3532,
+      "y": 4718,
+      "label": "Locate the Package"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Protect_the_Sky",
     "license": "CC BY-NC-SA",

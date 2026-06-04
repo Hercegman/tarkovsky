@@ -39,7 +39,92 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 4310,
+      "y": 2259,
+      "label": "Locate the Control Room in Underground Bunker"
+    },
+    {
+      "map": "reserve",
+      "x": 4147,
+      "y": 2370,
+      "label": "Locate the Hermetic Door to White Bishop"
+    },
+    {
+      "map": "reserve",
+      "x": 4129,
+      "y": 2185,
+      "label": "Locate the Hermetic Door to King"
+    },
+    {
+      "map": "reserve",
+      "x": 4497,
+      "y": 2413,
+      "label": "Locate One of Two Hermetic Doors to Black Bishop"
+    },
+    {
+      "map": "reserve",
+      "x": 4345,
+      "y": 2413,
+      "label": "Locate One of Two Hermetic Doors to Black Bishop"
+    },
+    {
+      "map": "reserve",
+      "x": 4531,
+      "y": 2279,
+      "label": "Locate One of Two Hermetic Doors to Black Pawn"
+    },
+    {
+      "map": "reserve",
+      "x": 4531,
+      "y": 2108,
+      "label": "Locate One of Two Hermetic Doors to Black Pawn"
+    },
+    {
+      "map": "reserve",
+      "x": 4418,
+      "y": 2018,
+      "label": "Locate One of Two Hermetic Doors to White Pawn"
+    },
+    {
+      "map": "reserve",
+      "x": 4245,
+      "y": 2017,
+      "label": "Locate One of Two Hermetic Doors to White Pawn"
+    },
+    {
+      "map": "reserve",
+      "x": 4383,
+      "y": 989,
+      "label": "Check the First Arsenal in Black Pawn"
+    },
+    {
+      "map": "reserve",
+      "x": 4268,
+      "y": 989,
+      "label": "Check the Duty Room in Black Pawn"
+    },
+    {
+      "map": "reserve",
+      "x": 4149,
+      "y": 989,
+      "label": "Check the Second Arsenal in Black Pawn"
+    },
+    {
+      "map": "reserve",
+      "x": 4553,
+      "y": 530,
+      "label": "Check the First Arsenal in White Pawn"
+    },
+    {
+      "map": "reserve",
+      "x": 4553,
+      "y": 297,
+      "label": "Check the Second Arsenal in White Pawn"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Bunker_-_Part_2",
     "license": "CC BY-NC-SA",

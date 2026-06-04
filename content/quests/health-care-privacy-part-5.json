@@ -40,7 +40,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 767,
+      "y": 4551,
+      "label": "Stash Gunpowder \"Kite\" in the Designated Spot"
+    },
+    {
+      "map": "factory",
+      "x": 739,
+      "y": 4571,
+      "label": "Locate a good Tripwire Installation Spot"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_5",
     "license": "CC BY-NC-SA",

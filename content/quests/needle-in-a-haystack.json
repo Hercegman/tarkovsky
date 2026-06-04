@@ -42,7 +42,56 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "ground-zero",
+      "x": 3315,
+      "y": 4773,
+      "label": "Investigate the Courtyard Park by TerraGroup HQ "
+    },
+    {
+      "map": "interchange",
+      "x": 2208,
+      "y": 3694,
+      "label": "Investigate the Kart Track"
+    },
+    {
+      "map": "interchange",
+      "x": 7328,
+      "y": 3472,
+      "label": "Investigate the Children's Playground "
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2931,
+      "y": 1562,
+      "label": "Investigate the Children's Playground"
+    },
+    {
+      "map": "shoreline",
+      "x": 2668,
+      "y": 2252,
+      "label": "Locate Group Sent to Health Resort"
+    },
+    {
+      "map": "shoreline",
+      "x": 2323,
+      "y": 3047,
+      "label": "Obtain the Key to Closed Premises of Health Resort"
+    },
+    {
+      "map": "shoreline",
+      "x": 3005,
+      "y": 2507,
+      "label": "Investigate the Children's Playground"
+    },
+    {
+      "map": "shoreline",
+      "x": 3905,
+      "y": 454,
+      "label": "Investigate the coast-side Construction Site"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Needle_in_a_Haystack",
     "license": "CC BY-NC-SA",

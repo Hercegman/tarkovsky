@@ -39,7 +39,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 3665,
+      "y": 2475,
+      "label": "Obtain UAV SAS Disk #1"
+    },
+    {
+      "map": "shoreline",
+      "x": 1541,
+      "y": 2608,
+      "label": "Obtain UAV SAS Disk #2"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Eagle_Eye",
     "license": "CC BY-NC-SA",

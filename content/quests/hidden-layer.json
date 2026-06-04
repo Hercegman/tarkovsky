@@ -40,7 +40,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 6094,
+      "y": 1829,
+      "label": "Find a Way inside the Knossos LLC facility"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Hidden_Layer",
     "license": "CC BY-NC-SA",

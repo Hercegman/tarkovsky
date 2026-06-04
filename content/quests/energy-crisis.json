@@ -32,7 +32,44 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "lighthouse",
+      "x": 860,
+      "y": 1848,
+      "label": "Find the Laptop with Information"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1238,
+      "y": 1164,
+      "label": "Find the Lost Group"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1382,
+      "y": 1454,
+      "label": "Mark the First Cliff Path Section"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1438,
+      "y": 1552,
+      "label": "Mark the Second Cliff Path Section"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1462,
+      "y": 1676,
+      "label": "Mark the Third Cliff Path Section"
+    },
+    {
+      "map": "lighthouse",
+      "x": 808,
+      "y": 1702,
+      "label": "Find the Laptop with information"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Energy_Crisis",
     "license": "CC BY-NC-SA",

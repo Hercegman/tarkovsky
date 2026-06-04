@@ -38,7 +38,56 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 3269,
+      "y": 2667,
+      "label": "Stash Golden Neck Chain"
+    },
+    {
+      "map": "woods",
+      "x": 4320,
+      "y": 3389,
+      "label": "Stash the Golden Rooster Figurine"
+    },
+    {
+      "map": "shoreline",
+      "x": 3368,
+      "y": 197,
+      "label": "Stash the Golden Rooster Figurine at the top"
+    },
+    {
+      "map": "factory",
+      "x": 3982,
+      "y": 4992,
+      "label": "Stash the Secure Folder 0022 in Factory Break Room"
+    },
+    {
+      "map": "factory",
+      "x": 860,
+      "y": 4854,
+      "label": "Stash the Golden Rooster Figurine"
+    },
+    {
+      "map": "factory",
+      "x": 874,
+      "y": 5559,
+      "label": "Stash a WI-FI Camera in the first Crane's Cockpit"
+    },
+    {
+      "map": "factory",
+      "x": 2568,
+      "y": 3831,
+      "label": "Stash a WI-FI Camera in the second Crane's Cockpit"
+    },
+    {
+      "map": "factory",
+      "x": 199,
+      "y": 3363,
+      "label": "Stash a WI-FI Camera in the third Crane's Cockpit"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Proper_Comeback",
     "license": "CC BY-NC-SA",

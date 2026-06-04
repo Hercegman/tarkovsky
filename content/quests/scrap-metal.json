@@ -36,7 +36,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 3859,
+      "y": 2642,
+      "label": "Stash the first Metal Fuel Tank"
+    },
+    {
+      "map": "shoreline",
+      "x": 3915,
+      "y": 2821,
+      "label": "Stash the second Metal Fuel Tank"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Scrap_Metal",
     "license": "CC BY-NC-SA",

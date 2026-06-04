@@ -36,7 +36,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "ground-zero",
+      "x": 2552,
+      "y": 2683,
+      "label": "Obtain the Manager's Diary"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Shady_Contractor",
     "license": "CC BY-NC-SA",

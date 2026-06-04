@@ -33,7 +33,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 4109,
+      "y": 2394,
+      "label": "Locate the Cargo Convoy"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4608,
+      "y": 3107,
+      "label": "Shoot a Yellow Flare in Courtyard"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4133,
+      "y": 2446,
+      "label": "Launch a Yellow Flare"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Trouble_in_the_Big_City",
     "license": "CC BY-NC-SA",

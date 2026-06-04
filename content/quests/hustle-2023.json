@@ -34,7 +34,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 5860,
+      "y": 132,
+      "label": "Locate Sanitar's Office"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Hustle_(2023)",
     "license": "CC BY-NC-SA",

@@ -41,7 +41,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "interchange",
+      "x": 7705,
+      "y": 3058,
+      "label": "Obtain the second Clothes design handbook"
+    },
+    {
+      "map": "interchange",
+      "x": 9058,
+      "y": 2398,
+      "label": "Obtain the first Clothes design handbook"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Key_to_Success",
     "license": "CC BY-NC-SA",

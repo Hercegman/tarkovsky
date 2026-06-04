@@ -36,7 +36,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 5646,
+      "y": 4624,
+      "label": "Obtain the Lab Journal "
+    },
+    {
+      "map": "factory",
+      "x": 10356,
+      "y": 3475,
+      "label": "Obtain the Factory plant topographic intel maps"
+    },
+    {
+      "map": "woods",
+      "x": 5716,
+      "y": 3173,
+      "label": "Stash the Journal at the Old Sawmill"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/One_Less_Loose_End",
     "license": "CC BY-NC-SA",

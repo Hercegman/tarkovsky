@@ -38,7 +38,62 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 1533,
+      "y": 6479,
+      "label": "Stash the Propane tank (5L)"
+    },
+    {
+      "map": "woods",
+      "x": 5282,
+      "y": 5421,
+      "label": "Stash the first Russian AP ammo pack"
+    },
+    {
+      "map": "woods",
+      "x": 5201,
+      "y": 5464,
+      "label": "Stash the second Russian AP ammo pack"
+    },
+    {
+      "map": "woods",
+      "x": 3321,
+      "y": 2079,
+      "label": "Stash VOG-25 Grenade at first RPG ammo crate"
+    },
+    {
+      "map": "woods",
+      "x": 2123,
+      "y": 2642,
+      "label": "Stash VOG-25 Grenade at second RPG ammo crate"
+    },
+    {
+      "map": "customs",
+      "x": 2347,
+      "y": 1940,
+      "label": "Stash Posters in the Designated Spot"
+    },
+    {
+      "map": "customs",
+      "x": 2407,
+      "y": 1843,
+      "label": "Stash Posters in the Designated Spot"
+    },
+    {
+      "map": "customs",
+      "x": 2634,
+      "y": 887,
+      "label": "Stash the Propane tank (5L)"
+    },
+    {
+      "map": "customs",
+      "x": 3960,
+      "y": 341,
+      "label": "Locate a good Tripwire Installation Spot"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Thirsty_-_Delivery",
     "license": "CC BY-NC-SA",

@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 3944,
+      "y": 2723,
+      "label": "Locate the Smuggler Base"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/A_New_Hope",
     "license": "CC BY-NC-SA",

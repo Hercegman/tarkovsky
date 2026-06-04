@@ -38,7 +38,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 3108,
+      "y": 1916,
+      "label": "Install a WI-FI Camera"
+    },
+    {
+      "map": "woods",
+      "x": 4320,
+      "y": 3397,
+      "label": "Install a WI-FI Camera"
+    },
+    {
+      "map": "shoreline",
+      "x": 3368,
+      "y": 177,
+      "label": "Install a WI-FI Camera at the pier tower"
+    },
+    {
+      "map": "factory",
+      "x": 860,
+      "y": 4878,
+      "label": "Install a WI-FI Camera"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Viewer",
     "license": "CC BY-NC-SA",

@@ -41,7 +41,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 2668,
+      "y": 2252,
+      "label": "Locate Group Sent to Health Resort"
+    },
+    {
+      "map": "shoreline",
+      "x": 1498,
+      "y": 1850,
+      "label": "Locate Group Sent to Cottages"
+    },
+    {
+      "map": "shoreline",
+      "x": 2843,
+      "y": 458,
+      "label": "Locate Group Sent to Pier"
+    },
+    {
+      "map": "shoreline",
+      "x": 2323,
+      "y": 3047,
+      "label": "Obtain the Key to Closed Premises of Health Resort"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_1",
     "license": "CC BY-NC-SA",

@@ -30,7 +30,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "ground-zero",
+      "x": 1833,
+      "y": 6047,
+      "label": "Locate the Emercom Station"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/First_in_Line",
     "license": "CC BY-NC-SA",

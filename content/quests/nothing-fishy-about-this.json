@@ -30,7 +30,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 1048,
+      "y": 2601,
+      "label": "Locate Ragman's SUV"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Nothing_Fishy_About_This",
     "license": "CC BY-NC-SA",

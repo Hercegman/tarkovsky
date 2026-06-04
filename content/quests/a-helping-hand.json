@@ -44,7 +44,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 2325,
+      "y": 5168,
+      "label": "Locate Prapor's Missing Convoy"
+    },
+    {
+      "map": "woods",
+      "x": 6193,
+      "y": 1689,
+      "label": "Obtain Prapor's Package"
+    },
+    {
+      "map": "woods",
+      "x": 1301,
+      "y": 1155,
+      "label": "Obtain the Package with RPG Ammo"
+    },
+    {
+      "map": "woods",
+      "x": 3532,
+      "y": 4718,
+      "label": "Locate the Package"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/A_Helping_Hand",
     "license": "CC BY-NC-SA",

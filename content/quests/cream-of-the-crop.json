@@ -37,7 +37,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 3915,
+      "y": 2821,
+      "label": "Stash the second Metal Fuel Tank"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Cream_of_the_Crop",
     "license": "CC BY-NC-SA",

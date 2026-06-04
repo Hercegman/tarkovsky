@@ -39,7 +39,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 2325,
+      "y": 5168,
+      "label": "Locate Prapor's Missing Convoy"
+    },
+    {
+      "map": "woods",
+      "x": 3452,
+      "y": 3493,
+      "label": "Locate the Missing Courier Crew"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Another_Shipping_Delay",
     "license": "CC BY-NC-SA",

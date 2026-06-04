@@ -39,7 +39,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 4608,
+      "y": 3107,
+      "label": "Shoot a Yellow Flare in Courtyard"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4133,
+      "y": 2446,
+      "label": "Launch a Yellow Flare"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4648,
+      "y": 2807,
+      "label": "Scout the Sparja Store in Pinewood Hotel"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Administrator",
     "license": "CC BY-NC-SA",

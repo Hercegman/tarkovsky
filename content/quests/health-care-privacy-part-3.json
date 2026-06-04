@@ -37,7 +37,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 3709,
+      "y": 1232,
+      "label": "Take a Blood Sample"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_3",
     "license": "CC BY-NC-SA",

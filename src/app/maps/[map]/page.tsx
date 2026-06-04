@@ -26,7 +26,13 @@ export default async function MapPage(props: PageProps<"/maps/[map]">) {
   ]);
   if (!meta) notFound();
 
-  const mapQuests: MapQuest[] = quests.map((q) => ({ id: q.id, title: q.title }));
+  const mapQuests: MapQuest[] = quests.map((q) => ({
+    id: q.id,
+    title: q.title,
+    markers: q.markers
+      .filter((mk) => mk.map === map)
+      .map((mk) => ({ x: mk.x, y: mk.y, label: mk.label })),
+  }));
 
   return (
     <div className="radial-glow min-h-full">

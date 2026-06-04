@@ -44,7 +44,38 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 3726,
+      "y": 1679,
+      "label": "Obtain the Motor Controller #2"
+    },
+    {
+      "map": "shoreline",
+      "x": 5631,
+      "y": 1029,
+      "label": "Obtain the Motor Controller #3"
+    },
+    {
+      "map": "shoreline",
+      "x": 5683,
+      "y": 2595,
+      "label": "Obtain the Single-Axis Fiber Optic Gyroscope #2"
+    },
+    {
+      "map": "woods",
+      "x": 2988,
+      "y": 2553,
+      "label": "Obtain the Single-Axis Fiber Optic Gyroscope #1"
+    },
+    {
+      "map": "woods",
+      "x": 2139,
+      "y": 2649,
+      "label": "Obtain the Motor Controller #1"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Lend-Lease_-_Part_1",
     "license": "CC BY-NC-SA",

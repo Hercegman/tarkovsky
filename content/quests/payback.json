@@ -37,7 +37,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 2066,
+      "y": 505,
+      "label": "Shoot a Yellow Signal Flare at Radar Station"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Payback",
     "license": "CC BY-NC-SA",

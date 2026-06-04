@@ -38,7 +38,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 4412,
+      "y": 2307,
+      "label": "Locate the Informant's Hideout"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 5001,
+      "y": 1352,
+      "label": "Locate the Informant's Journal"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3703,
+      "y": 2958,
+      "label": "Obtain the Housing Office Journal"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2420,
+      "y": 3404,
+      "label": "Obtain the Journal of Prapor's Friend"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Missing_Informant",
     "license": "CC BY-NC-SA",

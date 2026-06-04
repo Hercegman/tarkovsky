@@ -29,7 +29,80 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "lighthouse",
+      "x": 1382,
+      "y": 1454,
+      "label": "Mark the First Cliff Path Section"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1438,
+      "y": 1552,
+      "label": "Mark the Second Cliff Path Section"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3614,
+      "y": 1815,
+      "label": "Locate the Chemical Container with Samples"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4459,
+      "y": 1718,
+      "label": "Locate the second pharmacy"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3924,
+      "y": 2828,
+      "label": "Locate the first pharmacy"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3598,
+      "y": 3922,
+      "label": "Locate the First group of ATMs on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3690,
+      "y": 3977,
+      "label": "Locate the First ATM on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6405,
+      "y": 2627,
+      "label": "Locate the Second ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 5701,
+      "y": 4896,
+      "label": "Locate the Second ATM on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3863,
+      "y": 2349,
+      "label": "Locate the First ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4493,
+      "y": 1013,
+      "label": "Locate the First ATM on Nizhnaya Sadovaya Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4539,
+      "y": 1013,
+      "label": "Locate the Second ATM on Nizhnaya Sadovaya Street"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Harley_Forever",
     "license": "CC BY-NC-SA",

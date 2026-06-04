@@ -30,7 +30,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 4338,
+      "y": 1628,
+      "label": "Obtain T-90M Commander Control Panel"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Classified_Technologies",
     "license": "CC BY-NC-SA",

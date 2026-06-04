@@ -39,7 +39,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 4608,
+      "y": 3107,
+      "label": "Shoot a Yellow Flare in Courtyard"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4133,
+      "y": 2446,
+      "label": "Launch a Yellow Flare"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2682,
+      "y": 3463,
+      "label": "Obtain the Tarkov City Souvenir Key"
+    },
+    {
+      "map": "customs",
+      "x": 2537,
+      "y": 348,
+      "label": "Locate the Water Hidden Inside of the Dorms"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_3",
     "license": "CC BY-NC-SA",

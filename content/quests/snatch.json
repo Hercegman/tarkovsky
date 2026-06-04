@@ -39,7 +39,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 1324,
+      "y": 908,
+      "label": "Stash the Forged Lightkeeper Intelligence"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Snatch",
     "license": "CC BY-NC-SA",

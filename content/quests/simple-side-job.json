@@ -31,7 +31,38 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 4299,
+      "y": 2257,
+      "label": "Obtain Military Documents #1"
+    },
+    {
+      "map": "reserve",
+      "x": 4354,
+      "y": 2215,
+      "label": "Obtain Military Documents #2"
+    },
+    {
+      "map": "reserve",
+      "x": 4311,
+      "y": 2198,
+      "label": "Obtain Military Documents #3"
+    },
+    {
+      "map": "reserve",
+      "x": 3549,
+      "y": 480,
+      "label": "Obtain Lightkeeper's Cargo Crate"
+    },
+    {
+      "map": "woods",
+      "x": 1270,
+      "y": 1155,
+      "label": "Stash the Cargo"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Simple_Side_Job",
     "license": "CC BY-NC-SA",

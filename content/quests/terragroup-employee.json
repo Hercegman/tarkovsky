@@ -39,7 +39,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "the-lab",
+      "x": 3131,
+      "y": 1253,
+      "label": "Obtain the Flash drive with blue tape"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/TerraGroup_Employee",
     "license": "CC BY-NC-SA",

@@ -38,7 +38,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "interchange",
+      "x": 7500,
+      "y": 2550,
+      "label": "Install a WI-FI Camera"
+    },
+    {
+      "map": "woods",
+      "x": 3108,
+      "y": 1916,
+      "label": "Install a WI-FI Camera"
+    },
+    {
+      "map": "woods",
+      "x": 4320,
+      "y": 3397,
+      "label": "Install a WI-FI Camera"
+    },
+    {
+      "map": "customs",
+      "x": 2595,
+      "y": 639,
+      "label": "Install a WI-FI Camera"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Informed_Means_Armed",
     "license": "CC BY-NC-SA",

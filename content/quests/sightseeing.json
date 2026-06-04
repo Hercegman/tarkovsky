@@ -41,7 +41,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 10661,
+      "y": 3538,
+      "label": "Mark first Heat Exchanger with MS2000 Marker"
+    },
+    {
+      "map": "factory",
+      "x": 11640,
+      "y": 4803,
+      "label": "Mark second Heat Exchanger with MS2000 Marker"
+    },
+    {
+      "map": "factory",
+      "x": 12409,
+      "y": 5083,
+      "label": "Mark third Heat Exchanger with MS2000 Marker"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Sightseeing",
     "license": "CC BY-NC-SA",

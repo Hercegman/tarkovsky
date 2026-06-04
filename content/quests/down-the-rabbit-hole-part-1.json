@@ -36,7 +36,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 4478,
+      "y": 2258,
+      "label": "Obtain Jaeger's Encrypted Message"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_1",
     "license": "CC BY-NC-SA",

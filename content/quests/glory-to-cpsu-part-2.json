@@ -37,7 +37,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 365,
+      "y": 1144,
+      "label": "Locate Prapor's Friend Apartment"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2420,
+      "y": 3404,
+      "label": "Obtain the Journal of Prapor's Friend"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Glory_to_CPSU_-_Part_2",
     "license": "CC BY-NC-SA",

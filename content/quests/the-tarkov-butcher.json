@@ -26,7 +26,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 5849,
+      "y": 2309,
+      "label": "Obtain Chemical container 1"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Butcher",
     "license": "CC BY-NC-SA",

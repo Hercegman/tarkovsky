@@ -32,9 +32,12 @@ export default async function QuestPage(props: PageProps<"/quest/[id]">) {
   const [trader, maps] = await Promise.all([getTrader(quest.trader), getMaps()]);
   const mapName = Object.fromEntries(maps.map((m) => [m.id, m.name]));
 
-  // Mini-map: the quest's first known location, quest markers only.
+  // Mini-map: the quest's first known location, highlighting its own markers.
   const primaryMapId = quest.maps[0];
   const mapData = primaryMapId ? await getMapData(primaryMapId) : null;
+  const questMarkers = quest.markers
+    .filter((m) => m.map === primaryMapId)
+    .map((m) => ({ x: m.x, y: m.y, label: m.label }));
 
   return (
     <div className="radial-glow min-h-full">
@@ -104,9 +107,12 @@ export default async function QuestPage(props: PageProps<"/quest/[id]">) {
 
         {mapData && (
           <Section title={`Location · ${mapData.name}`}>
-            <QuestMiniMap map={mapData} />
+            <QuestMiniMap map={mapData} highlight={questMarkers} />
             <p className="mt-2 text-xs text-[var(--muted)]">
-              Quest-related markers on {mapData.name}. Open the{" "}
+              {questMarkers.length
+                ? "Gold markers show this quest's objectives. "
+                : "No specific location markers for this quest — showing quest-related spots. "}
+              Open the{" "}
               <Link href={`/maps/${mapData.id}`} className="text-[var(--gold)] hover:underline">
                 full map
               </Link>{" "}

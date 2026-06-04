@@ -39,7 +39,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 7052,
+      "y": 1567,
+      "label": "Locate the Cultist Meeting Spot"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_4",
     "license": "CC BY-NC-SA",

@@ -30,7 +30,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "lighthouse",
+      "x": 1338,
+      "y": 3167,
+      "label": "Stash a WI-FI Camera"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Drug_Trafficking",
     "license": "CC BY-NC-SA",

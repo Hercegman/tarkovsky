@@ -36,7 +36,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 2175,
+      "y": 1833,
+      "label": "Locate and Inspect the Second LAV III"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Last_Spurt_-_Pioneer",
     "license": "CC BY-NC-SA",

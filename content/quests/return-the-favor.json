@@ -36,7 +36,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 1858,
+      "y": 4480,
+      "label": "Locate the Temporary USEC Camp"
+    },
+    {
+      "map": "woods",
+      "x": 1881,
+      "y": 4412,
+      "label": "Hide the \"Blue Folders\""
+    },
+    {
+      "map": "woods",
+      "x": 1920,
+      "y": 4733,
+      "label": "Hide the \"Blue Folders\""
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Return_the_Favor",
     "license": "CC BY-NC-SA",
