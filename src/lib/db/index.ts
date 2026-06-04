@@ -3,7 +3,8 @@ import { drizzle } from "drizzle-orm/postgres-js";
 import postgres from "postgres";
 import * as schema from "./schema";
 
-const connectionString = process.env.DATABASE_URL;
+// Vercel's Neon/Postgres integration may expose the URL under either name.
+const connectionString = process.env.DATABASE_URL ?? process.env.POSTGRES_URL;
 if (!connectionString) {
   // Fail loudly at first DB use rather than at import, so the app can still
   // build and render static pages without a database configured.
