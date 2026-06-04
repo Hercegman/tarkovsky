@@ -36,5 +36,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/the-huntsman-path-evil-watchman.webp"
+  "image": "/quests/the-huntsman-path-evil-watchman.webp",
+  "order": 18
 }

@@ -34,5 +34,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/the-art-of-explosion.webp"
+  "image": "/quests/the-art-of-explosion.webp",
+  "order": 25
 }

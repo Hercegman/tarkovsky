@@ -34,5 +34,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/shell-game.webp"
+  "image": "/quests/shell-game.webp",
+  "order": null
 }

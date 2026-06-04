@@ -34,5 +34,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/old-patterns.webp"
+  "image": "/quests/old-patterns.webp",
+  "order": 41
 }

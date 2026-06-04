@@ -35,5 +35,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/psycho-sniper.webp"
+  "image": "/quests/psycho-sniper.webp",
+  "order": 44
 }

@@ -81,5 +81,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/pharmacist.webp"
+  "image": "/quests/pharmacist.webp",
+  "order": 7
 }

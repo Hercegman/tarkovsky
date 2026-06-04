@@ -39,5 +39,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/make-amends-equipment.webp"
+  "image": "/quests/make-amends-equipment.webp",
+  "order": 83
 }

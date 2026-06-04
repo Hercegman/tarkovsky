@@ -68,9 +68,14 @@ export async function getQuest(id: string): Promise<Quest | null> {
 }
 
 export async function getQuestsByTrader(traderId: string): Promise<Quest[]> {
-  const quests = await getQuests();
-  // In-game unlock order via the prerequisite graph.
-  return orderQuests(quests.filter((q) => q.trader === traderId));
+  const quests = (await getQuests()).filter((q) => q.trader === traderId);
+  // Prefer the wiki's in-game order; fall back to a topological sort of the
+  // prerequisite graph for any quests the wiki order didn't cover.
+  const withOrder = quests
+    .filter((q) => q.order != null)
+    .sort((a, b) => (a.order as number) - (b.order as number));
+  const without = orderQuests(quests.filter((q) => q.order == null));
+  return [...withOrder, ...without];
 }
 
 export async function getQuestsByMap(mapId: string): Promise<Quest[]> {

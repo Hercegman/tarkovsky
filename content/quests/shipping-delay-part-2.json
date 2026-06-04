@@ -58,5 +58,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/shipping-delay-part-2.webp"
+  "image": "/quests/shipping-delay-part-2.webp",
+  "order": 0
 }

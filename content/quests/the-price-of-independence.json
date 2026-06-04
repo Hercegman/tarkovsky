@@ -103,5 +103,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/the-price-of-independence.webp"
+  "image": "/quests/the-price-of-independence.webp",
+  "order": 11
 }

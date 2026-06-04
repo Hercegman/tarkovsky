@@ -38,5 +38,6 @@
     "wiki": "Escape from Tarkov Wiki",
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
-  "image": "/quests/morituri-te-salutant.webp"
+  "image": "/quests/morituri-te-salutant.webp",
+  "order": null
 }

@@ -62,6 +62,7 @@ export interface Quest {
   guideText: string | null;
   markers: MapMarker[];
   image: string | null; // self-hosted banner image, e.g. /quests/debut.webp
+  order: number | null; // in-game order within the trader (from the wiki)
   source: QuestSource;
 }
 
