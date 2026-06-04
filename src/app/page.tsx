@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { getTraders, getMaps, getQuests } from "@/lib/data";
-import { HeroCanvas } from "@/components/hero-canvas";
+import { RadarBackground } from "@/components/radar-background";
 import { Reveal, RevealGroup, RevealItem } from "@/components/ui/reveal";
 import { AnimatedCard } from "@/components/ui/animated-card";
 
@@ -16,7 +16,7 @@ export default async function Home() {
       {/* Hero */}
       <section className="relative overflow-hidden border-b border-[var(--border)]">
         <div className="grid-bg absolute inset-0 opacity-60" />
-        <HeroCanvas />
+        <RadarBackground />
         <div className="relative mx-auto max-w-6xl px-4 py-28 text-center sm:py-36">
           <Reveal>
             <span className="inline-block rounded-full border border-[var(--gold-dim)] bg-[var(--surface)]/60 px-4 py-1 text-xs uppercase tracking-[0.2em] text-[var(--gold)]">
@@ -86,21 +86,6 @@ export default async function Home() {
             </RevealItem>
           ))}
         </RevealGroup>
-      </section>
-
-      {/* Trader marquee */}
-      <section className="overflow-hidden border-y border-[var(--border)] bg-[var(--surface)]/40 py-6">
-        <div className="flex w-max marquee-track gap-3">
-          {[...traders, ...traders].map((t, i) => (
-            <Link
-              key={`${t.id}-${i}`}
-              href={`/quests/${t.id}`}
-              className="whitespace-nowrap rounded-lg border border-[var(--border)] bg-[var(--surface)] px-4 py-2 text-sm text-[var(--muted)] transition-colors hover:border-[var(--gold-dim)] hover:text-[var(--gold)]"
-            >
-              {t.name}
-            </Link>
-          ))}
-        </div>
       </section>
 
       {/* Maps grid */}
