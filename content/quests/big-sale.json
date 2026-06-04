@@ -1,0 +1,57 @@
+{
+  "id": "big-sale",
+  "title": "Big Sale",
+  "pageId": 10259,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "only-business",
+      "title": "Only Business"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-blood-of-war-part-1",
+      "title": "The Blood of War - Part 1"
+    },
+    {
+      "id": "database-part-1",
+      "title": "Database - Part 1"
+    },
+    {
+      "id": "nothing-fishy-about-this",
+      "title": "Nothing Fishy About This"
+    }
+  ],
+  "objectives": [
+    "Locate the AVOKADO store on Interchange",
+    "Locate the KOSTIN store on Interchange",
+    "Locate the tRend store on Interchange",
+    "Locate the DINO CLOTHES store on Interchange",
+    "Locate the TOP BRAND store on Interchange",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 8200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Big_Sale",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

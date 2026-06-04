@@ -1,0 +1,40 @@
+{
+  "id": "import",
+  "title": "Import",
+  "pageId": 12383,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "farming-part-4",
+      "title": "Farming - Part 4"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 1 UHF RFID Fixed Reader in raid",
+    "Find 1 VPX Flash Storage Module in raid",
+    "Hand over 1 UHF RFID Fixed Reader to Mechanic",
+    "Hand over 1 VPX Flash Storage Module to Mechanic"
+  ],
+  "rewards": {
+    "exp": 29000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Import",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

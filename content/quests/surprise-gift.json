@@ -1,0 +1,46 @@
+{
+  "id": "surprise-gift",
+  "title": "Surprise Gift",
+  "pageId": 38313,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "against-the-conscience-part-2",
+      "title": "Against the Conscience - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "postponed-reward",
+      "title": "Postponed Reward"
+    }
+  ],
+  "objectives": [
+    "Return to the old champion's hideout on Customs",
+    "Locate and obtain the compromising information on Ref",
+    "Hand over the found info"
+  ],
+  "rewards": {
+    "exp": 25500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Surprise_Gift",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

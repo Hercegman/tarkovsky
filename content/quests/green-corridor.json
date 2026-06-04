@@ -1,0 +1,41 @@
+{
+  "id": "green-corridor",
+  "title": "Green Corridor",
+  "pageId": 28200,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "spa-tour-part-7",
+      "title": "Spa Tour - Part 7"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the cargo convoy on Streets of Tarkov",
+    "Determine the ambush spot",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 10400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Green_Corridor",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

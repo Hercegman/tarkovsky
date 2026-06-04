@@ -1,0 +1,44 @@
+{
+  "id": "long-line",
+  "title": "Long Line",
+  "pageId": 21756,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "supervisor",
+      "title": "Supervisor"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "booze",
+      "title": "Booze"
+    }
+  ],
+  "objectives": [
+    "Eliminate 20 PMCs inside the ULTRA mall on Interchange"
+  ],
+  "rewards": {
+    "exp": 84000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Long_Line",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "circulate",
+  "title": "Circulate",
+  "pageId": 34301,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-invisible-hand",
+      "title": "The Invisible Hand"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "special-offer",
+      "title": "Special Offer"
+    }
+  ],
+  "objectives": [
+    "Sell Ragman any 250 backpacks or tactical rigs"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Circulate",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

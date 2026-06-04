@@ -1,0 +1,40 @@
+{
+  "id": "creator-inspiration-part-1",
+  "title": "Creator Inspiration - Part 1",
+  "pageId": 38210,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "creator-inspiration-part-2",
+      "title": "Creator Inspiration - Part 2"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 enemies while under the influence of the Adrenaline stimulant",
+    "Eliminate 10 enemies while under the influence of the AHF1-M stimulant"
+  ],
+  "rewards": {
+    "exp": 5000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Creator_Inspiration_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "a-helping-hand",
+  "title": "A Helping Hand",
+  "pageId": 37667,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "saving-the-mole",
+      "title": "Saving the Mole"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "shipping-delay-part-1",
+      "title": "Shipping Delay - Part 1"
+    },
+    {
+      "id": "shipping-delay-part-2",
+      "title": "Shipping Delay - Part 2"
+    },
+    {
+      "id": "hot-wheels",
+      "title": "Hot Wheels"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain Prapor's package on Woods",
+    "Survive and extract from the location",
+    "Complete the task Shipping Delay - Part 1"
+  ],
+  "rewards": {
+    "exp": 14000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Helping_Hand",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "provide-cover",
+  "title": "Provide Cover",
+  "pageId": 35662,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "ours-by-right",
+      "title": "Ours by Right"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "cream-of-the-crop",
+      "title": "Cream of the Crop"
+    }
+  ],
+  "objectives": [
+    "Stash the Radar station spare parts inside the old sawmill hangar on Woods",
+    "Stash the GARY ZONT portable electronic warfare device inside the weather station tower on Shoreline"
+  ],
+  "rewards": {
+    "exp": 39800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Provide_Cover",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

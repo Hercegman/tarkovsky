@@ -1,0 +1,44 @@
+{
+  "id": "stay-on-top",
+  "title": "Stay on Top",
+  "pageId": 39170,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "shoot-first",
+      "title": "Shoot First"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "arena-pantheon",
+      "title": "Arena Pantheon"
+    }
+  ],
+  "objectives": [
+    "Eliminate 50 enemies in BlastGang or TeamFight mode"
+  ],
+  "rewards": {
+    "exp": 17000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stay_on_Top",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

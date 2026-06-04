@@ -1,0 +1,44 @@
+{
+  "id": "gladiator-life-part-3",
+  "title": "Gladiator Life - Part 3",
+  "pageId": 43570,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gladiator-life-part-2",
+      "title": "Gladiator Life - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gladiator-life-part-4",
+      "title": "Gladiator Life - Part 4"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 enemies as Enforcer or Assault in CheckPoint mode"
+  ],
+  "rewards": {
+    "exp": 2400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

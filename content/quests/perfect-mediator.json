@@ -1,0 +1,43 @@
+{
+  "id": "perfect-mediator",
+  "title": "Perfect Mediator",
+  "pageId": 12377,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "shaking-up-the-teller",
+      "title": "Shaking Up the Teller"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Reach Loyalty Level 4 with Ragman",
+    "Reach Loyalty Level 4 with Skier",
+    "Reach Loyalty Level 4 with Mechanic",
+    "Reach Loyalty Level 4 with Peacekeeper",
+    "Reach Loyalty Level 4 with Prapor",
+    "Reach Loyalty Level 4 with Therapist",
+    "Reach Loyalty Level 4 with Jaeger"
+  ],
+  "rewards": {
+    "exp": 20900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Perfect_Mediator",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

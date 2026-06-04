@@ -1,0 +1,40 @@
+{
+  "id": "closer-to-the-people",
+  "title": "Closer to the People",
+  "pageId": 36729,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "shipment-tracking",
+      "title": "Shipment Tracking"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the delivery crew's shipment notes on Customs",
+    "Hand over the found information"
+  ],
+  "rewards": {
+    "exp": 10300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Closer_to_the_People",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "every-hunter-knows-this",
+  "title": "Every Hunter Knows This",
+  "pageId": 34972,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory",
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "rough-tarkov",
+      "title": "Rough Tarkov"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate a good tripwire installation spot on Factory",
+    "Locate a good tripwire installation spot on Customs"
+  ],
+  "rewards": {
+    "exp": 5800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Every_Hunter_Knows_This",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

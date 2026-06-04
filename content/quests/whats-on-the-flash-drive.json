@@ -1,0 +1,47 @@
+{
+  "id": "whats-on-the-flash-drive",
+  "title": "What’s on the Flash Drive?",
+  "pageId": 6424,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-extortionist",
+      "title": "The Extortionist"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "golden-swag",
+      "title": "Golden Swag"
+    },
+    {
+      "id": "shady-business",
+      "title": "Shady Business"
+    }
+  ],
+  "objectives": [
+    "Find 2 Secure flash drives in raid",
+    "Hand over 2 Secure flash drives to Skier"
+  ],
+  "rewards": {
+    "exp": 4500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/What%E2%80%99s_on_the_Flash_Drive%3F",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "shipping-delay-part-1",
+  "title": "Shipping Delay - Part 1",
+  "pageId": 37680,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "a-helping-hand",
+      "title": "A Helping Hand"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over the package from the depot on Woods"
+  ],
+  "rewards": {
+    "exp": 11000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shipping_Delay_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

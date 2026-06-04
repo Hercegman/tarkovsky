@@ -1,0 +1,44 @@
+{
+  "id": "professional-part-1",
+  "title": "Professional - Part 1",
+  "pageId": 43685,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gladiator-doping-part-4",
+      "title": "Gladiator Doping - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "professional-part-2",
+      "title": "Professional - Part 2"
+    }
+  ],
+  "objectives": [
+    "Plant or deactivate the device 3 times in BlastGang mode"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Professional_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

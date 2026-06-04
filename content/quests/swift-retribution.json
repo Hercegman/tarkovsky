@@ -1,0 +1,52 @@
+{
+  "id": "swift-retribution",
+  "title": "Swift Retribution",
+  "pageId": 37718,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "hot-wheels",
+      "title": "Hot Wheels"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "building-foundations",
+      "title": "Building Foundations"
+    },
+    {
+      "id": "the-higher-they-fly",
+      "title": "The Higher They Fly"
+    },
+    {
+      "id": "simple-side-job",
+      "title": "Simple Side Job"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 Scavs on Woods"
+  ],
+  "rewards": {
+    "exp": 16000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Swift_Retribution",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

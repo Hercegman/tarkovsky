@@ -1,0 +1,54 @@
+{
+  "id": "farming-part-3",
+  "title": "Farming - Part 3",
+  "pageId": 9600,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "farming-part-2",
+      "title": "Farming - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "farming-part-4",
+      "title": "Farming - Part 4"
+    },
+    {
+      "id": "corporate-secrets",
+      "title": "Corporate Secrets"
+    },
+    {
+      "id": "a-shooter-born-in-heaven",
+      "title": "A Shooter Born in Heaven"
+    }
+  ],
+  "objectives": [
+    "Locate the warehouse of seized goods on Customs",
+    "Obtain the package of graphics cards",
+    "Hand over the package of graphics cards to Mechanic"
+  ],
+  "rewards": {
+    "exp": 6500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

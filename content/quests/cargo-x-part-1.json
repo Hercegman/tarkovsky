@@ -1,0 +1,45 @@
+{
+  "id": "cargo-x-part-1",
+  "title": "Cargo X - Part 1",
+  "pageId": 7781,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "spa-tour-part-7",
+      "title": "Spa Tour - Part 7"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "cargo-x-part-2",
+      "title": "Cargo X - Part 2"
+    }
+  ],
+  "objectives": [
+    "Obtain the data in the computer room in the east wing of the Health Resort on Shoreline",
+    "Hand over the retrieved data to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 8200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

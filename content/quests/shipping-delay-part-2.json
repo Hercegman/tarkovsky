@@ -1,0 +1,42 @@
+{
+  "id": "shipping-delay-part-2",
+  "title": "Shipping Delay - Part 2",
+  "pageId": 37688,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "a-helping-hand",
+      "title": "A Helping Hand"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and scout the warehouses at the depot on Woods",
+    "Locate and scout the office at the depot on Woods",
+    "Locate and scout the garages at the depot on Woods",
+    "Complete the task A Helping Hand"
+  ],
+  "rewards": {
+    "exp": 11500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shipping_Delay_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

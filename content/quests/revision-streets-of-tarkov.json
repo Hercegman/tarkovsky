@@ -1,0 +1,50 @@
+{
+  "id": "revision-streets-of-tarkov",
+  "title": "Revision - Streets of Tarkov",
+  "pageId": 27696,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "revision-reserve",
+      "title": "Revision - Reserve"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "worst-job-in-the-world",
+      "title": "Worst Job in the World"
+    },
+    {
+      "id": "new-day-new-paths",
+      "title": "New Day, New Paths"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first LAV III with an MS2000 Marker on Streets of Tarkov",
+    "Locate and mark the Stryker with an MS2000 Marker on Streets of Tarkov",
+    "Locate and mark the second LAV III with an MS2000 Marker on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 8600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Streets_of_Tarkov",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "test-drive-part-1",
+  "title": "Test Drive - Part 1",
+  "pageId": 12240,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "shooting-cans",
+      "title": "Shooting Cans"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "test-drive-part-2",
+      "title": "Test Drive - Part 2"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 PMCs using an SR-25 with Hybrid 46 suppressor and Schmidt & Bender PM II 1-8x24 scope"
+  ],
+  "rewards": {
+    "exp": 9100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

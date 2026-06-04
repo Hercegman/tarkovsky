@@ -1,0 +1,42 @@
+{
+  "id": "overseas-trust-part-1",
+  "title": "Overseas Trust - Part 1",
+  "pageId": 30729,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "overseas-trust-part-2",
+      "title": "Overseas Trust - Part 2"
+    }
+  ],
+  "objectives": [
+    "Locate and eliminate Reshala 15 times",
+    "Locate and eliminate Glukhar 15 times",
+    "Locate and eliminate Killa 15 times",
+    "Locate and eliminate Shturman 15 times",
+    "Locate and eliminate Sanitar 15 times",
+    "Locate and eliminate Tagilla 15 times"
+  ],
+  "rewards": {
+    "exp": 100000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Overseas_Trust_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

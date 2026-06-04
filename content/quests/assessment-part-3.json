@@ -1,0 +1,50 @@
+{
+  "id": "assessment-part-3",
+  "title": "Assessment - Part 3",
+  "pageId": 28271,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "assessment-part-2",
+      "title": "Assessment - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "key-to-the-tower",
+      "title": "Key to the Tower"
+    }
+  ],
+  "objectives": [
+    "Eliminate 7 Raiders in The Lab",
+    "Find 15 SJ1 TGLabs combat stimulant injector in raid",
+    "Find 5 SJ6 TGLabs combat stimulant injector in raid",
+    "Find 1 SJ9 TGLabs combat stimulant injector in raid",
+    "Hand over 15 SJ1 TGLabs combat stimulant injector to Mechanic",
+    "Hand over 5 SJ6 TGLabs combat stimulant injector to Mechanic",
+    "Hand over 1 SJ9 TGLabs combat stimulant injector to Mechanic"
+  ],
+  "rewards": {
+    "exp": 24800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Assessment_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

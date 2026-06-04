@@ -1,0 +1,37 @@
+{
+  "id": "no-questions-asked",
+  "title": "No Questions Asked",
+  "pageId": 40207,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-6",
+      "title": "The Punisher - Part 6"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over 2 found in raid Red Rebel ice picks to Prapor"
+  ],
+  "rewards": {
+    "exp": 11200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Questions_Asked",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

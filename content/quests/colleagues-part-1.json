@@ -1,0 +1,51 @@
+{
+  "id": "colleagues-part-1",
+  "title": "Colleagues - Part 1",
+  "pageId": 18891,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "general-wares",
+      "title": "General Wares"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "colleagues-part-2",
+      "title": "Colleagues - Part 2"
+    },
+    {
+      "id": "chemistry-closet",
+      "title": "Chemistry Closet"
+    }
+  ],
+  "objectives": [
+    "Locate the group that was sent to the Health Resort on Shoreline",
+    "Locate the group that was sent to the pier on Shoreline",
+    "Locate the group that was sent to the cottages on Shoreline",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 12300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

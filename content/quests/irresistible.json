@@ -1,0 +1,45 @@
+{
+  "id": "irresistible",
+  "title": "Irresistible",
+  "pageId": 35987,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "flint",
+      "title": "Flint"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "dangerous-props",
+      "title": "Dangerous Props"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the lost weapon crate on Interchange",
+    "Hand over the retrieved cargo"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Irresistible",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

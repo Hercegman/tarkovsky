@@ -1,0 +1,61 @@
+{
+  "id": "keepers-word",
+  "title": "Keeper's Word",
+  "pageId": 38171,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-labyrinth"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "sensory-analysis-part-2",
+      "title": "Sensory Analysis - Part 2"
+    },
+    {
+      "id": "hypotheses-testing",
+      "title": "Hypotheses Testing"
+    },
+    {
+      "id": "vacate-the-premises",
+      "title": "Vacate the Premises"
+    },
+    {
+      "id": "confidential-info",
+      "title": "Confidential Info"
+    },
+    {
+      "id": "indisputable-authority",
+      "title": "Indisputable Authority"
+    },
+    {
+      "id": "this-tape-sucks",
+      "title": "This Tape Sucks"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Stash a Cultist knife in the first special place inside The Labyrinth",
+    "Stash a Cultist knife in the second special place inside The Labyrinth",
+    "Stash a Cultist knife in the third special place inside The Labyrinth"
+  ],
+  "rewards": {
+    "exp": 56800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Keeper's_Word",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

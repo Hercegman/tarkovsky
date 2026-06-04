@@ -1,0 +1,44 @@
+{
+  "id": "no-limit-to-perfection-part-5",
+  "title": "No Limit to Perfection - Part 5",
+  "pageId": 43681,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "no-limit-to-perfection-part-4",
+      "title": "No Limit to Perfection - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "no-limit-to-perfection-part-6",
+      "title": "No Limit to Perfection - Part 6"
+    }
+  ],
+  "objectives": [
+    "Eliminate 100 enemies while aiming down sights"
+  ],
+  "rewards": {
+    "exp": 27000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "the-delicious-sausage",
+  "title": "The Delicious Sausage",
+  "pageId": 27694,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-thrifty",
+      "title": "The Survivalist Path - Thrifty"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "cease-fire",
+      "title": "Cease Fire!"
+    },
+    {
+      "id": "reserve-quest",
+      "title": "Reserve (quest)"
+    },
+    {
+      "id": "thirsty-hounds",
+      "title": "Thirsty - Hounds"
+    }
+  ],
+  "objectives": [
+    "Scout the Shestyorochka store at Nikitskaya street",
+    "Scout the Sparja store at Primorsky ave",
+    "Scout the Sparja store in Pinewood hotel",
+    "Scout the Goshan store in Concordia",
+    "Hand over 1 found in raid Salty Dog beef sausage"
+  ],
+  "rewards": {
+    "exp": 2600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Delicious_Sausage",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

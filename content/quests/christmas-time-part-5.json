@@ -1,0 +1,50 @@
+{
+  "id": "christmas-time-part-5",
+  "title": "Christmas Time - Part 5",
+  "pageId": 36748,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "christmas-time-part-4",
+      "title": "Christmas Time - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "christmas-time-part-6",
+      "title": "Christmas Time - Part 6"
+    }
+  ],
+  "objectives": [
+    "Eliminate an enemy while using an Assault rifle and wearing a Ded Moroz / Santa hat and Fake white beard",
+    "Eliminate an enemy while using a Marksman rifle and wearing a Ded Moroz / Santa hat and Fake white beard",
+    "Eliminate an enemy while using an Assault carabine and wearing a Ded Moroz / Santa hat and Fake white beard",
+    "Eliminate an enemy while using a Bolt-action rifle and wearing a Ded Moroz / Santa hat and Fake white beard",
+    "Eliminate an enemy while using a Submachine gun and wearing a Ded Moroz / Santa hat and Fake white beard",
+    "Eliminate an enemy while using a Shotgun and wearing a Ded Moroz / Santa hat and Fake white beard",
+    "Eliminate an enemy while using a Pistol and wearing a Ded Moroz / Santa hat and Fake white beard"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Christmas_Time_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

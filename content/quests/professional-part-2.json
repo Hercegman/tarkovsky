@@ -1,0 +1,44 @@
+{
+  "id": "professional-part-2",
+  "title": "Professional - Part 2",
+  "pageId": 43686,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "professional-part-1",
+      "title": "Professional - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "professional-part-3",
+      "title": "Professional - Part 3"
+    }
+  ],
+  "objectives": [
+    "Win a match claiming at least 4th place in the team in BlastGang or TeamFight mode"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Professional_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

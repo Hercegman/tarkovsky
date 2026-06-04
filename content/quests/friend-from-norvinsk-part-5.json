@@ -1,0 +1,48 @@
+{
+  "id": "friend-from-norvinsk-part-5",
+  "title": "Friend from Norvinsk - Part 5",
+  "pageId": 39330,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "friend-from-norvinsk-part-4",
+      "title": "Friend from Norvinsk - Part 4"
+    },
+    {
+      "id": "friend-from-norvinsk-alternative-solution",
+      "title": "Friend from Norvinsk - Alternative Solution"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "breathing-room",
+      "title": "Breathing Room"
+    }
+  ],
+  "objectives": [
+    "Figure out the cipher and hand over the found item",
+    "(Optional) Locate the place mentioned in the cipher",
+    "(Optional) Stash the copy of the diary in the specified location"
+  ],
+  "rewards": {
+    "exp": 2000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

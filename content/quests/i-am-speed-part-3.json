@@ -1,0 +1,44 @@
+{
+  "id": "i-am-speed-part-3",
+  "title": "I Am Speed - Part 3",
+  "pageId": 43667,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "i-am-speed-part-2",
+      "title": "I Am Speed - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "all-for-the-show-supremacy",
+      "title": "All for the Show - Supremacy"
+    }
+  ],
+  "objectives": [
+    "Eliminate 25 enemies within one match in CheckPoint, BlastGang, LastHero or TeamFight"
+  ],
+  "rewards": {
+    "exp": 40000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/I_Am_Speed_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

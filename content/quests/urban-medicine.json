@@ -1,0 +1,50 @@
+{
+  "id": "urban-medicine",
+  "title": "Urban Medicine",
+  "pageId": 27840,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "population-census",
+      "title": "Population Census"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-huntsman-path-big-game",
+      "title": "The Huntsman Path - Big Game"
+    },
+    {
+      "id": "ambulances-again",
+      "title": "Ambulances Again"
+    }
+  ],
+  "objectives": [
+    "Locate the chemical laboratory on Streets of Tarkov",
+    "Obtain the container with drug samples",
+    "Hand over the container"
+  ],
+  "rewards": {
+    "exp": 10200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Urban_Medicine",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

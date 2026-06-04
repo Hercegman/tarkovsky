@@ -1,0 +1,42 @@
+{
+  "id": "surprise",
+  "title": "Surprise",
+  "pageId": 34016,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "balancing-part-2",
+      "title": "Balancing - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "create-a-distraction-part-1",
+      "title": "Create a Distraction - Part 1"
+    }
+  ],
+  "objectives": [
+    "Hand over 3 found in raid class 4 or higher ballistic plates to Ref"
+  ],
+  "rewards": {
+    "exp": 3600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Surprise",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

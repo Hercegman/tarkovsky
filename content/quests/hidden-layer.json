@@ -1,0 +1,50 @@
+{
+  "id": "hidden-layer",
+  "title": "Hidden Layer",
+  "pageId": 37946,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "needle-in-a-haystack",
+      "title": "Needle in a Haystack"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "offensive-reconnaissance",
+      "title": "Offensive Reconnaissance"
+    },
+    {
+      "id": "sensory-analysis-part-1",
+      "title": "Sensory Analysis - Part 1"
+    }
+  ],
+  "objectives": [
+    "Locate a good lead related to Knossos LLC",
+    "Find a way inside the Knossos LLC facility",
+    "(Optional) Locate and obtain the Knossos LLC facility key"
+  ],
+  "rewards": {
+    "exp": 10300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hidden_Layer",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

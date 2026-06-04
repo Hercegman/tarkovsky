@@ -1,0 +1,45 @@
+{
+  "id": "golden-swag",
+  "title": "Golden Swag",
+  "pageId": 6743,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "whats-on-the-flash-drive",
+      "title": "What’s on the Flash Drive?"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "chemical-part-1",
+      "title": "Chemical - Part 1"
+    }
+  ],
+  "objectives": [
+    "Find the Golden Zibbo lighter",
+    "Stash the Golden Zibbo lighter in the bunkhouse in the trailer parking lot on Customs"
+  ],
+  "rewards": {
+    "exp": 4500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Golden_Swag",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

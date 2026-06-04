@@ -1,0 +1,46 @@
+{
+  "id": "down-the-rabbit-hole-part-6",
+  "title": "Down the Rabbit Hole - Part 6",
+  "pageId": 31096,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "down-the-rabbit-hole-part-5",
+      "title": "Down the Rabbit Hole - Part 5"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and eliminate Reshala in a single raid",
+    "Locate and eliminate Glukhar in a single raid",
+    "Locate and eliminate Killa in a single raid",
+    "Locate and eliminate Shturman in a single raid",
+    "Locate and eliminate Sanitar in a single raid",
+    "Locate and eliminate Tagilla in a single raid",
+    "Locate and eliminate Kaban in a single raid",
+    "Survive and extract from Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 37600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

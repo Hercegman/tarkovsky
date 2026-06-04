@@ -1,0 +1,45 @@
+{
+  "id": "operation-aquarius-part-1",
+  "title": "Operation Aquarius - Part 1",
+  "pageId": 6328,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "shortage",
+      "title": "Shortage"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "operation-aquarius-part-2",
+      "title": "Operation Aquarius - Part 2"
+    }
+  ],
+  "objectives": [
+    "Locate the water hidden inside of the dorms on Customs",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 3300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

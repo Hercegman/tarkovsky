@@ -1,0 +1,51 @@
+{
+  "id": "friend-from-norvinsk-part-3",
+  "title": "Friend from Norvinsk - Part 3",
+  "pageId": 39332,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "friend-from-norvinsk-part-2",
+      "title": "Friend from Norvinsk - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "friend-from-norvinsk-part-4",
+      "title": "Friend from Norvinsk - Part 4"
+    },
+    {
+      "id": "friend-from-norvinsk-alternative-solution",
+      "title": "Friend from Norvinsk - Alternative Solution"
+    }
+  ],
+  "objectives": [
+    "Eliminate 15 Scavs",
+    "(Optional) Obtain any information on the diary from the Scavs",
+    "Locate and obtain Mechanic friend's diary",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 6000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Friend_from_Norvinsk_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

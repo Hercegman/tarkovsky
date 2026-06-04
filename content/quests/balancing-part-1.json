@@ -1,0 +1,50 @@
+{
+  "id": "balancing-part-1",
+  "title": "Balancing - Part 1",
+  "pageId": 34006,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "easy-money-part-2",
+      "title": "Easy Money - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "balancing-part-2",
+      "title": "Balancing - Part 2"
+    },
+    {
+      "id": "arena-business",
+      "title": "Arena Business"
+    },
+    {
+      "id": "professional-fitness-part-1",
+      "title": "Professional Fitness - Part 1"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 Scavs while using a Steyr AUG on any location"
+  ],
+  "rewards": {
+    "exp": 5100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Balancing_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

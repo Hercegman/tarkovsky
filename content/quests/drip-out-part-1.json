@@ -1,0 +1,38 @@
+{
+  "id": "drip-out-part-1",
+  "title": "Drip-Out - Part 1",
+  "pageId": 33710,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "minibus",
+      "title": "Minibus"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 100 Raiders",
+    "Hand over 50 found in raid WARTECH brand equipment"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Drip-Out_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

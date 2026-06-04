@@ -1,0 +1,48 @@
+{
+  "id": "building-foundations",
+  "title": "Building Foundations",
+  "pageId": 37709,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "swift-retribution",
+      "title": "Swift Retribution"
+    },
+    {
+      "id": "inevitable-response",
+      "title": "Inevitable Response"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "natural-exchange",
+      "title": "Natural Exchange"
+    }
+  ],
+  "objectives": [
+    "Sell any 50 items to Ragman",
+    "Sell any 50 items to Prapor",
+    "Sell any 50 items to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 14500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Building_Foundations",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

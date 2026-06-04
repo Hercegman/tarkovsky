@@ -1,0 +1,45 @@
+{
+  "id": "work-smarter",
+  "title": "Work Smarter",
+  "pageId": 36775,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "acquaintance",
+      "title": "Acquaintance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "rite-of-passage",
+      "title": "Rite of Passage"
+    }
+  ],
+  "objectives": [
+    "Locate the secret exfil on Customs",
+    "(Optional) Obtain the special item to extract through the secret exfil"
+  ],
+  "rewards": {
+    "exp": 6600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Work_Smarter",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

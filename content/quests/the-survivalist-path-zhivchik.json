@@ -1,0 +1,43 @@
+{
+  "id": "the-survivalist-path-zhivchik",
+  "title": "The Survivalist Path - Zhivchik",
+  "pageId": 14931,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-thrifty",
+      "title": "The Survivalist Path - Thrifty"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-survivalist-path-wounded-beast",
+      "title": "The Survivalist Path - Wounded Beast"
+    }
+  ],
+  "objectives": [
+    "Survive for 5 minutes while suffering from complete dehydration (Excluding Factory)",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 5700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Zhivchik",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

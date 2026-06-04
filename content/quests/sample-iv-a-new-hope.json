@@ -1,0 +1,47 @@
+{
+  "id": "sample-iv-a-new-hope",
+  "title": "Sample IV - A New Hope",
+  "pageId": 36160,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gloves-off",
+      "title": "Gloves Off"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "darkest-hour-is-just-before-dawn",
+      "title": "Darkest Hour Is Just Before Dawn"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the vaccine vial in The Lab",
+    "Use the transit from The Lab to Streets of Tarkov",
+    "Stash the vaccine under Kaban's office on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 26000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sample_IV_-_A_New_Hope",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

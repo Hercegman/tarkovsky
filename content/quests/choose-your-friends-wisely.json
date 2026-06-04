@@ -1,0 +1,50 @@
+{
+  "id": "choose-your-friends-wisely",
+  "title": "Choose Your Friends Wisely",
+  "pageId": 37764,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "reserve",
+    "woods",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "discombobulate",
+      "title": "Discombobulate"
+    },
+    {
+      "id": "killer-argument",
+      "title": "Killer Argument"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Use the transit from Customs to Reserve",
+    "Use the transit from Reserve to Woods",
+    "Use the transit from Woods to Lighthouse",
+    "Survive and extract from Lighthouse",
+    "Eliminate 5 PMC operatives while completing the other objectives"
+  ],
+  "rewards": {
+    "exp": 85200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Choose_Your_Friends_Wisely",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

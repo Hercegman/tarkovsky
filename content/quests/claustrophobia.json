@@ -1,0 +1,39 @@
+{
+  "id": "claustrophobia",
+  "title": "Claustrophobia",
+  "pageId": 34790,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-forest-cleaning",
+      "title": "The Huntsman Path - Forest Cleaning"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 5 targets in the old cellars while using a shotgun on Factory"
+  ],
+  "rewards": {
+    "exp": 25400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Claustrophobia",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

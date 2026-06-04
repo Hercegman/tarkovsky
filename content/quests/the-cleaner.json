@@ -1,0 +1,39 @@
+{
+  "id": "the-cleaner",
+  "title": "The Cleaner",
+  "pageId": 21760,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-guide",
+      "title": "The Guide"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 40 Scav Raiders on Reserve"
+  ],
+  "rewards": {
+    "exp": 84000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Cleaner",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

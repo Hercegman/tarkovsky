@@ -1,0 +1,46 @@
+{
+  "id": "crisis",
+  "title": "Crisis",
+  "pageId": 21759,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "athlete",
+      "title": "Athlete"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 3 Portable defibrillators in raid",
+    "Find 3 Ophthalmoscopes in raid",
+    "Find 2 LEDX Skin Transilluminators in raid",
+    "Find 20 Piles of meds in raid",
+    "Find 10 Bottles of OLOLO Multivitamins in raid",
+    "Hand over the 3 ophthalmoscopes",
+    "Hand over the 3 defibrillators",
+    "Hand over the 2 LEDX",
+    "Hand over the 20 Piles of meds",
+    "Hand over the 10 multivitamins"
+  ],
+  "rewards": {
+    "exp": 34000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Crisis",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

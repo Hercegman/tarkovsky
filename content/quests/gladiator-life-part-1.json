@@ -1,0 +1,44 @@
+{
+  "id": "gladiator-life-part-1",
+  "title": "Gladiator Life - Part 1",
+  "pageId": 43560,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "first-introduction",
+      "title": "First Introduction"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gladiator-life-part-2",
+      "title": "Gladiator Life - Part 2"
+    }
+  ],
+  "objectives": [
+    "Eliminate 15 enemies in Last Hero mode"
+  ],
+  "rewards": {
+    "exp": 2100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gladiator_Life_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "gunsmith-part-20",
+  "title": "Gunsmith - Part 20",
+  "pageId": 28006,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-19",
+      "title": "Gunsmith - Part 19"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-21",
+      "title": "Gunsmith - Part 21"
+    }
+  ],
+  "objectives": [
+    "Modify an M1A to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 26600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_20",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

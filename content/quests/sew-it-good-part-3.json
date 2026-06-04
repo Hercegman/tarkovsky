@@ -1,0 +1,47 @@
+{
+  "id": "sew-it-good-part-3",
+  "title": "Sew it Good - Part 3",
+  "pageId": 10266,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "sew-it-good-part-2",
+      "title": "Sew it Good - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "sew-it-good-part-4",
+      "title": "Sew it Good - Part 4"
+    },
+    {
+      "id": "living-high-is-not-a-crime-part-1",
+      "title": "Living High is Not a Crime - Part 1"
+    }
+  ],
+  "objectives": [
+    "Hand over the 6B43 assault armor in 0-75% durability",
+    "Hand over the 6B43 assault armor in 75-100% durability"
+  ],
+  "rewards": {
+    "exp": 18200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sew_it_Good_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

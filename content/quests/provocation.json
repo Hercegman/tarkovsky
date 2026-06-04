@@ -1,0 +1,48 @@
+{
+  "id": "provocation",
+  "title": "Provocation",
+  "pageId": 28534,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "payback",
+      "title": "Payback"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "following-the-bread-crumbs",
+      "title": "Following the Bread Crumbs"
+    }
+  ],
+  "objectives": [
+    "Eliminate 20 enemies around the Kiba Arms store while using an ASh-12 on Interchange",
+    "Stash a Salty Dog beef sausage inside the Kiba Arms store",
+    "Stash a Bottle of Fierce Hatchling moonshine inside the secret secure hideout",
+    "Stash a Toilet paper inside the secret container stash",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 2,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Provocation",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

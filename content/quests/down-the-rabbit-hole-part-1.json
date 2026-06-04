@@ -1,0 +1,46 @@
+{
+  "id": "down-the-rabbit-hole-part-1",
+  "title": "Down the Rabbit Hole - Part 1",
+  "pageId": 31051,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "debut",
+      "title": "Debut"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "down-the-rabbit-hole-part-2",
+      "title": "Down the Rabbit Hole - Part 2"
+    }
+  ],
+  "objectives": [
+    "Eliminate 15 Scavs on Woods",
+    "Obtain the encrypted drive",
+    "Hand over the device"
+  ],
+  "rewards": {
+    "exp": 11500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

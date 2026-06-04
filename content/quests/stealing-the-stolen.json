@@ -1,0 +1,48 @@
+{
+  "id": "stealing-the-stolen",
+  "title": "Stealing the Stolen",
+  "pageId": 44289,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "customs",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "no-smoke-without-fire",
+      "title": "No Smoke Without Fire"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "alloy",
+      "title": "Alloy"
+    }
+  ],
+  "objectives": [
+    "Stash 2 Radar station spare parts at the weather station on Woods",
+    "Stash 2 Radar station spare parts in the specified bunkhouse on Customs",
+    "Stash 2 Radar station spare parts in the specified bunkhouse on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stealing_the_Stolen",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

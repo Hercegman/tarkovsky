@@ -1,0 +1,46 @@
+{
+  "id": "introduction",
+  "title": "Introduction",
+  "pageId": 14926,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-1",
+      "title": "Gunsmith - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "acquaintance",
+      "title": "Acquaintance"
+    }
+  ],
+  "objectives": [
+    "Find Jaeger's camp at the specified spot on Woods",
+    "Obtain Jaeger's encrypted message",
+    "Hand over the message to Mechanic"
+  ],
+  "rewards": {
+    "exp": 4500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Introduction",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

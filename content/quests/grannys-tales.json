@@ -1,0 +1,51 @@
+{
+  "id": "grannys-tales",
+  "title": "Granny's Tales",
+  "pageId": 33641,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "customs",
+    "woods",
+    "shoreline",
+    "interchange",
+    "reserve",
+    "lighthouse",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "evil-spirits",
+      "title": "Evil Spirits"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "fishing-with-shishiga",
+      "title": "Fishing With Shishiga"
+    }
+  ],
+  "objectives": [
+    "Eliminate 50 followers of Morana"
+  ],
+  "rewards": {
+    "exp": 22000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Granny's_Tales",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

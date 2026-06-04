@@ -1,0 +1,42 @@
+{
+  "id": "energy-crisis",
+  "title": "Energy Crisis",
+  "pageId": 23936,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "farming-part-4",
+      "title": "Farming - Part 4"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find and mark the group of fuel tanks with an MS2000 Marker on Lighthouse",
+    "Find and mark the first tanker truck with an MS2000 Marker on Lighthouse",
+    "Find and mark the second tanker truck with an MS2000 Marker on Lighthouse",
+    "Find and mark the third tanker truck with an MS2000 Marker on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 13000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Energy_Crisis",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

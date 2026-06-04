@@ -1,0 +1,41 @@
+{
+  "id": "the-hermit",
+  "title": "The Hermit",
+  "pageId": 23849,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-tough-guy",
+      "title": "The Survivalist Path - Tough Guy"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the hideout of Jaeger's friend on Lighthouse",
+    "Find and obtain the message for Jaeger",
+    "Hand over the message to Jaeger"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Hermit",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

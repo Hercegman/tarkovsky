@@ -1,0 +1,49 @@
+{
+  "id": "the-terragroup-trail-part-19",
+  "title": "The TerraGroup Trail - Part 19",
+  "pageId": 29770,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-16",
+      "title": "The TerraGroup Trail - Part 16"
+    },
+    {
+      "id": "the-terragroup-trail-part-17",
+      "title": "The TerraGroup Trail - Part 17"
+    },
+    {
+      "id": "the-terragroup-trail-part-18",
+      "title": "The TerraGroup Trail - Part 18"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 7 targets during night time on Shoreline (in one raid)",
+    "Send a signal with a flare from the top of the small lighthouse on the coast to the ship waiting in the bay (in one raid)",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 50000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_19",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

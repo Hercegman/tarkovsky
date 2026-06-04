@@ -1,0 +1,47 @@
+{
+  "id": "ask-for-directions",
+  "title": "Ask for Directions",
+  "pageId": 37745,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "another-shipping-delay",
+      "title": "Another Shipping Delay"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "stabilize-business",
+      "title": "Stabilize Business"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first section of the cliff path with an MS2000 Marker on Lighthouse",
+    "Locate and mark the second section of the cliff path with an MS2000 Marker on Lighthouse",
+    "Locate and mark the third section of the cliff path with an MS2000 Marker on Lighthouse",
+    "Locate and mark the fourth section of the cliff path with an MS2000 Marker on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 13200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Ask_for_Directions",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "no-place-for-renegades",
+  "title": "No Place for Renegades",
+  "pageId": 21348,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-bunker-part-2",
+      "title": "The Bunker - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "documents",
+      "title": "Documents"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 Raiders in the command bunker on Reserve"
+  ],
+  "rewards": {
+    "exp": 15300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Place_for_Renegades",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

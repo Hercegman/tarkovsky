@@ -1,0 +1,57 @@
+{
+  "id": "chemical-part-3",
+  "title": "Chemical - Part 3",
+  "pageId": 6786,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chemical-part-2",
+      "title": "Chemical - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "vitamins-part-1",
+      "title": "Vitamins - Part 1"
+    },
+    {
+      "id": "chemical-part-4",
+      "title": "Chemical - Part 4"
+    },
+    {
+      "id": "out-of-curiosity",
+      "title": "Out of Curiosity"
+    },
+    {
+      "id": "big-customer",
+      "title": "Big Customer"
+    }
+  ],
+  "objectives": [
+    "Obtain the chemical-filled syringe hidden in Factory",
+    "Hand over the chemical-filled syringe to Skier"
+  ],
+  "rewards": {
+    "exp": 5400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "khorovod",
+  "title": "Khorovod",
+  "pageId": 36770,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "lighthouse",
+    "reserve",
+    "woods",
+    "customs",
+    "interchange"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "cheer-up",
+      "title": "Cheer Up"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Reach Interchange in the Khorovod mode"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Khorovod",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

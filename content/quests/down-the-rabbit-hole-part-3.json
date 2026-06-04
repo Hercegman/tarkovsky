@@ -1,0 +1,49 @@
+{
+  "id": "down-the-rabbit-hole-part-3",
+  "title": "Down the Rabbit Hole - Part 3",
+  "pageId": 31069,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov",
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "down-the-rabbit-hole-part-2",
+      "title": "Down the Rabbit Hole - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "down-the-rabbit-hole-part-4",
+      "title": "Down the Rabbit Hole - Part 4"
+    }
+  ],
+  "objectives": [
+    "Place a WI-FI Camera at the fenced area on the second floor of the car dealership on Streets of Tarkov",
+    "Place a WI-FI Camera at Kaban's office on the second floor of the car dealership on Streets of Tarkov",
+    "Obtain the documents in the car dealership on Streets of Tarkov",
+    "Stash the documents at the marked room inside dorms on Customs",
+    "Shoot a yellow signal flare from the dorms courtyard on Customs"
+  ],
+  "rewards": {
+    "exp": 32300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

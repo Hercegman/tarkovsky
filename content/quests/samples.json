@@ -1,0 +1,59 @@
+{
+  "id": "samples",
+  "title": "Samples",
+  "pageId": 19173,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "anesthesia",
+      "title": "Anesthesia"
+    },
+    {
+      "id": "fishing-gear",
+      "title": "Fishing Gear"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "terragroup-employee",
+      "title": "TerraGroup Employee"
+    }
+  ],
+  "objectives": [
+    "Find 1 M.U.L.E. stimulant injector in raid",
+    "Hand over 1 M.U.L.E. stimulant injector to Peacekeeper",
+    "Find 1 Obdolbos cocktail injector in raid",
+    "Hand over 1 Obdolbos cocktail injector to Peacekeeper",
+    "Find 1 Meldonin stimulant injector in raid",
+    "Hand over 1 Meldonin stimulant injector to Peacekeeper",
+    "Find 1 AHF1-M stimulant injector in raid",
+    "Hand over 1 AHF1-M stimulant injector to Peacekeeper",
+    "Find 1 P22 (Product 22) stimulant injector in raid",
+    "Hand over 1 P22 (Product 22) stimulant injector to Peacekeeper",
+    "Find 1 L1 (Norepinephrine) stimulant injector in raid",
+    "Hand over 1 L1 (Norepinephrine) stimulant injector to Peacekeeper",
+    "Find 1 3-(b-TG) stimulant injector in raid",
+    "Hand over 1 3-(b-TG) stimulant injector to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 15300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Samples",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

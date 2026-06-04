@@ -1,0 +1,55 @@
+{
+  "id": "getting-acquainted",
+  "title": "Getting Acquainted",
+  "pageId": 28274,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "knock-knock",
+      "title": "Knock-Knock"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "information-source",
+      "title": "Information Source"
+    },
+    {
+      "id": "top-secret",
+      "title": "Top Secret"
+    },
+    {
+      "id": "goals-and-means",
+      "title": "Goals and Means"
+    }
+  ],
+  "objectives": [
+    "Obtain the V3 Flash drive on Lighthouse",
+    "Reflash the Radio transmitter",
+    "Hand over the flash drive to Mechanic",
+    "Visit the lighthouse building"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Getting_Acquainted",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

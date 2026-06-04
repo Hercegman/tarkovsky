@@ -1,0 +1,38 @@
+{
+  "id": "teacher",
+  "title": "Teacher",
+  "pageId": 36597,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Play a game of TeamFight or BlastGang",
+    "Play a game of LastHero",
+    "Play a game of Checkpoint",
+    "Win a match in any game mode or claim the First place in Last Hero once",
+    "Eliminate 35 enemies"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Teacher",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

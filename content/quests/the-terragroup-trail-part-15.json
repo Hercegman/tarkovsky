@@ -1,0 +1,61 @@
+{
+  "id": "the-terragroup-trail-part-15",
+  "title": "The TerraGroup Trail - Part 15",
+  "pageId": 29748,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "the-lab",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-10",
+      "title": "The TerraGroup Trail - Part 10"
+    },
+    {
+      "id": "the-terragroup-trail-part-14",
+      "title": "The TerraGroup Trail - Part 14"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-16",
+      "title": "The TerraGroup Trail - Part 16"
+    },
+    {
+      "id": "the-terragroup-trail-part-17",
+      "title": "The TerraGroup Trail - Part 17"
+    },
+    {
+      "id": "the-terragroup-trail-part-18",
+      "title": "The TerraGroup Trail - Part 18"
+    }
+  ],
+  "objectives": [
+    "Obtain the first part of the encoded intel on Woods",
+    "Obtain the second part of the encoded intel on Woods",
+    "Transfer the first part of the data from the manager's terminal in The Lab",
+    "Transfer the second part of the data from the USEC terminal on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 30000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_15",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

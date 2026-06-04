@@ -1,0 +1,39 @@
+{
+  "id": "pressured-by-circumstances",
+  "title": "Pressured by Circumstances",
+  "pageId": 36292,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "dont-believe-your-eyes",
+      "title": "Don’t Believe Your Eyes"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 25 infected while using pistols or revolvers on Factory"
+  ],
+  "rewards": {
+    "exp": 50000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Pressured_by_Circumstances",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

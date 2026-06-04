@@ -1,0 +1,44 @@
+{
+  "id": "arena-masquerade",
+  "title": "Arena Masquerade",
+  "pageId": 41611,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "not-below-zero",
+      "title": "Not Below Zero"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "comfort-zone",
+      "title": "Comfort Zone"
+    }
+  ],
+  "objectives": [
+    "Eliminate 20 enemies while wearing the Grinch, Aybolit, Fox, or Hare mask on Dorms, EMERCOM, or Base in LastHero mode"
+  ],
+  "rewards": {
+    "exp": 20000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Arena_Masquerade",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

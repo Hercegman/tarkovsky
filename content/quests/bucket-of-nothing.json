@@ -1,0 +1,35 @@
+{
+  "id": "bucket-of-nothing",
+  "title": "Bucket of Nothing",
+  "pageId": 43415,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and neutralize Reshala while using a Toy gun",
+    "Eliminate 3 Reshala's guards while using a Toy gun"
+  ],
+  "rewards": {
+    "exp": 25000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Bucket_of_Nothing",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

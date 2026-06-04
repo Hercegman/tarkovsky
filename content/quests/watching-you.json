@@ -1,0 +1,41 @@
+{
+  "id": "watching-you",
+  "title": "Watching You",
+  "pageId": 28149,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "broadcast-part-2",
+      "title": "Broadcast - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the surveillance spot on Streets of Tarkov",
+    "Obtain the observation results",
+    "Hand over the data"
+  ],
+  "rewards": {
+    "exp": 18500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Watching_You",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

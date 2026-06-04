@@ -1,0 +1,46 @@
+{
+  "id": "a-small-celebration",
+  "title": "A Small Celebration",
+  "pageId": 41750,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "interchange",
+    "lighthouse",
+    "reserve",
+    "shoreline",
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "knuckle-sandwich",
+      "title": "Knuckle Sandwich"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Launch a firework in the appropriate spot",
+    "Eat some Olivier salad",
+    "Drink some vodka"
+  ],
+  "rewards": {
+    "exp": 20000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Small_Celebration",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

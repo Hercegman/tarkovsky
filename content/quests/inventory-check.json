@@ -1,0 +1,44 @@
+{
+  "id": "inventory-check",
+  "title": "Inventory Check",
+  "pageId": 24484,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "a-fuel-matter",
+      "title": "A Fuel Matter"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Check the first arsenal in the eastern barracks (Black Pawn) on Reserve",
+    "Check the duty room in the eastern barracks (Black Pawn) on Reserve",
+    "Check the second arsenal in the eastern barracks (Black Pawn) on Reserve",
+    "Check the first arsenal in the southern barracks (White Pawn) on Reserve",
+    "Check the second arsenal in the southern barracks (White Pawn) on Reserve",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Inventory_Check",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

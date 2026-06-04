@@ -1,0 +1,42 @@
+{
+  "id": "signal-part-4",
+  "title": "Signal - Part 4",
+  "pageId": 9605,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "signal-part-3",
+      "title": "Signal - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "steady-signal",
+      "title": "Steady Signal"
+    }
+  ],
+  "objectives": [
+    "Reach the required Attention skill level of 8"
+  ],
+  "rewards": {
+    "exp": 8600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

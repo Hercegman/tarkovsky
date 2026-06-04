@@ -1,0 +1,42 @@
+{
+  "id": "textile-part-2",
+  "title": "Textile - Part 2",
+  "pageId": 17482,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "textile-part-1",
+      "title": "Textile - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 10 Fleece fabrics in raid",
+    "Hand over 10 Fleece fabrics to Ragman",
+    "Find 10 Cordura polyamide fabrics in raid",
+    "Hand over 10 Cordura polyamide fabrics to Ragman",
+    "Find 5 KEKTAPE duct tapes in raid",
+    "Hand over 5 KEKTAPE duct tapes to Ragman"
+  ],
+  "rewards": {
+    "exp": 34300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Textile_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

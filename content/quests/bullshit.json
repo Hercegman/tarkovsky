@@ -1,0 +1,48 @@
+{
+  "id": "bullshit",
+  "title": "Bullshit",
+  "pageId": 12237,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "chumming",
+      "title": "Chumming"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "silent-caliber",
+      "title": "Silent Caliber"
+    }
+  ],
+  "objectives": [
+    "Obtain the False flash drive from the specified spot on Customs",
+    "Stash the False flash drive in the trash opposite of the stairs on the 3rd floor of the dorm on Customs",
+    "Stash 1 SV-98 sniper rifle in the trash opposite of the stairs on the 3rd floor of the dorm on Customs",
+    "Stash 1 Roler Submariner gold wrist watch in the trash opposite of the stairs on the 3rd floor of the dorm on Customs",
+    "You must not kill any Scavs on Customs while the task is active"
+  ],
+  "rewards": {
+    "exp": 29900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Bullshit",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

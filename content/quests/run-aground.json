@@ -1,0 +1,47 @@
+{
+  "id": "run-aground",
+  "title": "Run Aground",
+  "pageId": 43467,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "short-on-hands",
+      "title": "Short on Hands"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "habet-hoc-habet",
+      "title": "Habet, hoc habet!"
+    }
+  ],
+  "objectives": [
+    "Stash 2 6L18 magazines in the specified spot on Customs",
+    "(Optional) Do not assist Ref with eliminating pillagers and stashing the masks",
+    "Stash 2 5.45x39mm PS gs ammo packs (120 pcs) in the specified spot on Customs",
+    "Stash 2 RGD-5 hand grenades in the specified spot on Customs"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Run_Aground",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "an-alternative",
+  "title": "An Alternative",
+  "pageId": 38898,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "secret-benefactor",
+      "title": "Secret Benefactor"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "preemptive-strike",
+      "title": "Preemptive Strike"
+    }
+  ],
+  "objectives": [
+    "Hand over 5 found in raid dry food type items",
+    "Hand over 5 found in raid clean water type items"
+  ],
+  "rewards": {
+    "exp": 8600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/An_Alternative",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

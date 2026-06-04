@@ -1,0 +1,50 @@
+{
+  "id": "discombobulate",
+  "title": "Discombobulate",
+  "pageId": 37759,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "protect-the-sky",
+      "title": "Protect the Sky"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-price-of-independence",
+      "title": "The Price of Independence"
+    },
+    {
+      "id": "choose-your-friends-wisely",
+      "title": "Choose Your Friends Wisely"
+    }
+  ],
+  "objectives": [
+    "Stash a VOG-25 Khattabka grenade at the first RPG ammo crate on Woods",
+    "Stash a VOG-25 Khattabka grenade at the second RPG ammo crate on Woods",
+    "Stash a VOG-25 Khattabka grenade at the third RPG ammo crate on Woods"
+  ],
+  "rewards": {
+    "exp": 23400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Discombobulate",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "dont-believe-your-eyes",
+  "title": "Don’t Believe Your Eyes",
+  "pageId": 35985,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "dirty-blood",
+      "title": "Dirty Blood"
+    },
+    {
+      "id": "watch-the-watcher",
+      "title": "Watch the Watcher"
+    },
+    {
+      "id": "global-threat",
+      "title": "Global Threat"
+    },
+    {
+      "id": "not-a-step-back",
+      "title": "Not a Step Back!"
+    },
+    {
+      "id": "conservation-area",
+      "title": "Conservation Area"
+    },
+    {
+      "id": "every-man-for-himself",
+      "title": "Every Man for Himself"
+    },
+    {
+      "id": "pressured-by-circumstances",
+      "title": "Pressured by Circumstances"
+    },
+    {
+      "id": "reduce-the-distance",
+      "title": "Reduce the Distance"
+    },
+    {
+      "id": "spread-the-damage",
+      "title": "Spread the Damage"
+    },
+    {
+      "id": "foreign-support",
+      "title": "Foreign Support"
+    },
+    {
+      "id": "forced-measure",
+      "title": "Forced Measure"
+    }
+  ],
+  "objectives": [
+    "Locate the source of rumors of the living dead in The Lab",
+    "Find a way inside the quarantined section in The Lab"
+  ],
+  "rewards": {
+    "exp": 7000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Don%E2%80%99t_Believe_Your_Eyes",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

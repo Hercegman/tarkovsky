@@ -1,0 +1,36 @@
+{
+  "id": "a-wedge-between-us",
+  "title": "A Wedge Between Us",
+  "pageId": 44650,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "icebreaker"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and neutralize 4 members of The Wedge's squad",
+    "Claim a trophy from The Wedge",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 52000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Wedge_Between_Us",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

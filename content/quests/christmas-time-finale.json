@@ -1,0 +1,39 @@
+{
+  "id": "christmas-time-finale",
+  "title": "Christmas Time - Finale",
+  "pageId": 37016,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "christmas-time-part-6",
+      "title": "Christmas Time - Part 6"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Win a round after eliminating 4 enemies in TeamFight or BlastGang"
+  ],
+  "rewards": {
+    "exp": 14000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Christmas_Time_-_Finale",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

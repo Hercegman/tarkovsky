@@ -1,0 +1,39 @@
+{
+  "id": "the-huntsman-path-justice",
+  "title": "The Huntsman Path - Justice",
+  "pageId": 14945,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-secured-perimeter",
+      "title": "The Huntsman Path - Secured Perimeter"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 3 Scavs dressed in police uniform (Reshala's bodyguards)"
+  ],
+  "rewards": {
+    "exp": 12300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Justice",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

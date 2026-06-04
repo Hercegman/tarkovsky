@@ -1,0 +1,46 @@
+{
+  "id": "find-the-source",
+  "title": "Find the Source",
+  "pageId": 36125,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "matter-of-technique",
+      "title": "Matter of Technique"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gloves-off",
+      "title": "Gloves Off"
+    }
+  ],
+  "objectives": [
+    "Access the sealed room with the virus in The Lab",
+    "Locate and obtain the diary inside the room",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 30000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Find_the_Source",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

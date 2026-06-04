@@ -1,0 +1,47 @@
+{
+  "id": "the-terragroup-trail-part-2",
+  "title": "The TerraGroup Trail - Part 2",
+  "pageId": 29440,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-1",
+      "title": "The TerraGroup Trail - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-3",
+      "title": "The TerraGroup Trail - Part 3"
+    }
+  ],
+  "objectives": [
+    "Eliminate 2 weird Scavs",
+    "Find the source of their abnormal behavior",
+    "Hand over the found evidence"
+  ],
+  "rewards": {
+    "exp": 12700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

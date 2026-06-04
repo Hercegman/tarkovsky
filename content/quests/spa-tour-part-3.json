@@ -1,0 +1,53 @@
+{
+  "id": "spa-tour-part-3",
+  "title": "Spa Tour - Part 3",
+  "pageId": 7496,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "spa-tour-part-2",
+      "title": "Spa Tour - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "spa-tour-part-4",
+      "title": "Spa Tour - Part 4"
+    },
+    {
+      "id": "counteraction",
+      "title": "Counteraction"
+    }
+  ],
+  "objectives": [
+    "Find 1 WD-40 (100ml) or WD-40 (400ml) in raid",
+    "Hand over 1 WD-40 (100ml) or WD-40 (400ml) to Peacekeeper",
+    "Find 2 Clin window cleaners in raid",
+    "Hand over 2 Clin window cleaners to Peacekeeper",
+    "Find 2 Corrugated hoses in raid",
+    "Hand over 2 Corrugated hoses to Peacekeeper",
+    "Find 2 Ox bleachs in raid",
+    "Hand over 2 Ox bleachs to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 7600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

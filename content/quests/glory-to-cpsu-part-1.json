@@ -1,0 +1,45 @@
+{
+  "id": "glory-to-cpsu-part-1",
+  "title": "Glory to CPSU - Part 1",
+  "pageId": 27957,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "youve-got-mail",
+      "title": "You've Got Mail"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "glory-to-cpsu-part-2",
+      "title": "Glory to CPSU - Part 2"
+    }
+  ],
+  "objectives": [
+    "Locate the apartment of Prapor's friend on Streets of Tarkov",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 7300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Glory_to_CPSU_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

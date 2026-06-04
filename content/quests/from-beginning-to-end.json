@@ -1,0 +1,50 @@
+{
+  "id": "from-beginning-to-end",
+  "title": "From Beginning To End",
+  "pageId": 35261,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "streets-of-tarkov",
+    "interchange",
+    "customs",
+    "factory",
+    "woods",
+    "reserve",
+    "lighthouse",
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Use the transit from Ground Zero to Streets of Tarkov",
+    "Use the transit from Streets of Tarkov to Interchange",
+    "Use the transit from Interchange to Customs",
+    "Use the transit from Customs to Factory",
+    "Use the transit from Factory to Woods",
+    "Use the transit from Woods to Reserve",
+    "Use the transit from Reserve to Lighthouse",
+    "Use the transit from Lighthouse to Shoreline",
+    "Survive and extract from Shoreline"
+  ],
+  "rewards": {
+    "exp": 100000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/From_Beginning_To_End",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

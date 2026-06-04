@@ -1,0 +1,54 @@
+{
+  "id": "friend-from-the-west-part-2",
+  "title": "Friend From the West - Part 2",
+  "pageId": 7459,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "friend-from-the-west-part-1",
+      "title": "Friend From the West - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "fishing-gear",
+      "title": "Fishing Gear"
+    },
+    {
+      "id": "lend-lease-part-1",
+      "title": "Lend-Lease - Part 1"
+    },
+    {
+      "id": "long-road",
+      "title": "Long Road"
+    },
+    {
+      "id": "setup",
+      "title": "Setup"
+    }
+  ],
+  "objectives": [
+    "Hand over 5,000 USD to Skier"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Friend_From_the_West_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

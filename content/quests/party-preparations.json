@@ -1,0 +1,39 @@
+{
+  "id": "party-preparations",
+  "title": "Party Preparations",
+  "pageId": 24227,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "only-business",
+      "title": "Only Business"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over 5 found in raid Santa hats to Ragman",
+    "Hand over 5 found in raid Ded Moroz hats to Ragman",
+    "Hand over 5 found in raid Fake white beards to Ragman"
+  ],
+  "rewards": {
+    "exp": 5400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Party_Preparations",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

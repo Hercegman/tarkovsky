@@ -1,0 +1,46 @@
+{
+  "id": "confidential-info",
+  "title": "Confidential Info",
+  "pageId": 38174,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-labyrinth"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "offensive-reconnaissance",
+      "title": "Offensive Reconnaissance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "keepers-word",
+      "title": "Keeper's Word"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the special storage module inside The Labyrinth",
+    "Plant a hand grenade in the assembly workshop inside Labyrinth",
+    "Hand over the found information"
+  ],
+  "rewards": {
+    "exp": 17600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Confidential_Info",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

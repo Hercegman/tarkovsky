@@ -1,0 +1,42 @@
+{
+  "id": "gunsmith-part-14",
+  "title": "Gunsmith - Part 14",
+  "pageId": 10745,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-13",
+      "title": "Gunsmith - Part 13"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-15",
+      "title": "Gunsmith - Part 15"
+    }
+  ],
+  "objectives": [
+    "Modify an HK 416A5 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 14900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_14",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "grenadier",
+  "title": "Grenadier",
+  "pageId": 12376,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "shooting-cans",
+      "title": "Shooting Cans"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-art-of-explosion",
+      "title": "The Art of Explosion"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 PMC operatives with grenades"
+  ],
+  "rewards": {
+    "exp": 12500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Grenadier",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

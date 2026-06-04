@@ -1,0 +1,42 @@
+{
+  "id": "flint",
+  "title": "Flint",
+  "pageId": 12241,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chumming",
+      "title": "Chumming"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "irresistible",
+      "title": "Irresistible"
+    }
+  ],
+  "objectives": [
+    "Reach the required Stress resistance skill level of 5"
+  ],
+  "rewards": {
+    "exp": 25100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Flint",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

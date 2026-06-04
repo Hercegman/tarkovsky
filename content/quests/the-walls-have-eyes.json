@@ -1,0 +1,41 @@
+{
+  "id": "the-walls-have-eyes",
+  "title": "The Walls Have Eyes",
+  "pageId": 35205,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "exit-here",
+      "title": "Exit Here"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Install a WI-FI Camera in the first crane's cockpit on Factory",
+    "Install a WI-FI Camera in the second crane's cockpit on Factory",
+    "Install a WI-FI Camera in the third crane's cockpit on Factory"
+  ],
+  "rewards": {
+    "exp": 7200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Walls_Have_Eyes",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

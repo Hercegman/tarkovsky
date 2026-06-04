@@ -1,0 +1,58 @@
+{
+  "id": "a-shooter-born-in-heaven",
+  "title": "A Shooter Born in Heaven",
+  "pageId": 12243,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "reserve",
+    "shoreline",
+    "customs",
+    "lighthouse",
+    "streets-of-tarkov",
+    "interchange",
+    "ground-zero"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "farming-part-3",
+      "title": "Farming - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "setting-priorities",
+      "title": "Setting Priorities"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Woods",
+    "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Reserve",
+    "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Shoreline",
+    "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Customs",
+    "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Lighthouse",
+    "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Streets of Tarkov",
+    "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Interchange",
+    "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 55000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Shooter_Born_in_Heaven",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

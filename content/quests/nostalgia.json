@@ -1,0 +1,50 @@
+{
+  "id": "nostalgia",
+  "title": "Nostalgia",
+  "pageId": 14951,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "courtesy-visit",
+      "title": "Courtesy Visit"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "fishing-place",
+      "title": "Fishing Place"
+    },
+    {
+      "id": "foresters-duty",
+      "title": "Forester's Duty"
+    }
+  ],
+  "objectives": [
+    "Locate Jaeger's Health Resort room with a view of the bay on Shoreline",
+    "Obtain Jaeger's Photo album",
+    "Hand over the Photo album to Jaeger"
+  ],
+  "rewards": {
+    "exp": 16800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Nostalgia",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

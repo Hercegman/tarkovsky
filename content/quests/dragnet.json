@@ -1,0 +1,44 @@
+{
+  "id": "dragnet",
+  "title": "Dragnet",
+  "pageId": 34982,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "one-less-loose-end",
+      "title": "One Less Loose End"
+    },
+    {
+      "id": "a-healthy-alternative",
+      "title": "A Healthy Alternative"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the chemical container at the TerraGroup warehouse on Factory",
+    "Hand over the chemical container"
+  ],
+  "rewards": {
+    "exp": 17300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Dragnet",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

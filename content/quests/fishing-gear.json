@@ -1,0 +1,50 @@
+{
+  "id": "fishing-gear",
+  "title": "Fishing Gear",
+  "pageId": 7463,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "friend-from-the-west-part-2",
+      "title": "Friend From the West - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "tigr-safari",
+      "title": "Tigr Safari"
+    },
+    {
+      "id": "samples",
+      "title": "Samples"
+    }
+  ],
+  "objectives": [
+    "Locate the boat hidden next to the breakwater on Shoreline",
+    "Stash the SV-98 sniper rifle in the boat",
+    "Stash the multitool in the boat"
+  ],
+  "rewards": {
+    "exp": 4800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Fishing_Gear",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

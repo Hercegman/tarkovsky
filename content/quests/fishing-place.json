@@ -1,0 +1,38 @@
+{
+  "id": "fishing-place",
+  "title": "Fishing Place",
+  "pageId": 14953,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "nostalgia",
+      "title": "Nostalgia"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 2 TerraGroup Labs access keycards in raid",
+    "Hand over 2 TerraGroup Labs access keycards to Jaeger"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Fishing_Place",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "serious-allegations",
+  "title": "Serious Allegations",
+  "pageId": 34275,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "viewer",
+      "title": "Viewer"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "camera-action",
+      "title": "Camera, Action!"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the hard drive at the old house on Shoreline",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 36000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Serious_Allegations",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

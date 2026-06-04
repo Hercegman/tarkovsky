@@ -1,0 +1,46 @@
+{
+  "id": "a-fuel-matter",
+  "title": "A Fuel Matter",
+  "pageId": 21248,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-blood-of-war-part-1",
+      "title": "The Blood of War - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "inventory-check",
+      "title": "Inventory Check"
+    }
+  ],
+  "objectives": [
+    "Mark the first group of fuel tanks with an MS2000 Marker on Reserve",
+    "Mark the second group of fuel tanks with an MS2000 Marker on Reserve",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 8200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Fuel_Matter",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

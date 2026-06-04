@@ -1,0 +1,37 @@
+{
+  "id": "the-survivalist-path-cold-blooded",
+  "title": "The Survivalist Path - Cold Blooded",
+  "pageId": 14934,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-survivalist-path-wounded-beast",
+      "title": "The Survivalist Path - Wounded Beast"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 2 PMC operatives with headshots while suffering from the tremor effect"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Survivalist_Path_-_Cold_Blooded",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

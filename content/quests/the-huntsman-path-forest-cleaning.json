@@ -1,0 +1,76 @@
+{
+  "id": "the-huntsman-path-forest-cleaning",
+  "title": "The Huntsman Path - Forest Cleaning",
+  "pageId": 14941,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-secured-perimeter",
+      "title": "The Huntsman Path - Secured Perimeter"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-huntsman-path-controller",
+      "title": "The Huntsman Path - Controller"
+    },
+    {
+      "id": "the-huntsman-path-factory-chief",
+      "title": "The Huntsman Path - Factory Chief"
+    },
+    {
+      "id": "the-huntsman-path-evil-watchman",
+      "title": "The Huntsman Path - Evil Watchman"
+    },
+    {
+      "id": "the-huntsman-path-outcasts",
+      "title": "The Huntsman Path - Outcasts"
+    },
+    {
+      "id": "the-huntsman-path-administrator",
+      "title": "The Huntsman Path - Administrator"
+    },
+    {
+      "id": "the-huntsman-path-sellout",
+      "title": "The Huntsman Path - Sellout"
+    },
+    {
+      "id": "the-huntsman-path-big-game",
+      "title": "The Huntsman Path - Big Game"
+    },
+    {
+      "id": "trophies",
+      "title": "Trophies"
+    },
+    {
+      "id": "claustrophobia",
+      "title": "Claustrophobia"
+    }
+  ],
+  "objectives": [
+    "Eliminate 30 Scavs all over the Tarkov territory"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Forest_Cleaning",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "spring",
+  "title": "Spring!",
+  "pageId": 33652,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "customs",
+    "woods",
+    "shoreline",
+    "interchange",
+    "reserve",
+    "lighthouse",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "fishing-with-shishiga",
+      "title": "Fishing With Shishiga"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eat a can of squash spread",
+    "Eliminate 6 spirits of winter in one raid",
+    "Drink a bottle of Fierce Hatchling moonshine",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 26000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Spring!",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

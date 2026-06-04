@@ -1,0 +1,47 @@
+{
+  "id": "the-terragroup-trail-part-11",
+  "title": "The TerraGroup Trail - Part 11",
+  "pageId": 29706,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-6",
+      "title": "The TerraGroup Trail - Part 6"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-12",
+      "title": "The TerraGroup Trail - Part 12"
+    }
+  ],
+  "objectives": [
+    "Plant a radio repeater inside the Mi-8 helicopter at the water treatment plant on Lighthouse",
+    "Plant a radio repeater inside the abandoned USEC cottage on Lighthouse",
+    "Plant a radio repeater on the hill in front of the Lighthouse island",
+    "Plant a radio repeater on the roof of the landing stage on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_11",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

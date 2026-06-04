@@ -1,0 +1,49 @@
+{
+  "id": "surveillance",
+  "title": "Surveillance",
+  "pageId": 28147,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "broadcast-part-2",
+      "title": "Broadcast - Part 2"
+    },
+    {
+      "id": "corporate-secrets",
+      "title": "Corporate Secrets"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "developers-secrets-part-1",
+      "title": "Developer's Secrets - Part 1"
+    }
+  ],
+  "objectives": [
+    "Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov",
+    "Hand over the information"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Surveillance",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

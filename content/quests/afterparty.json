@@ -1,0 +1,55 @@
+{
+  "id": "afterparty",
+  "title": "Afterparty",
+  "pageId": 31102,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "reserve",
+    "interchange",
+    "woods",
+    "shoreline",
+    "factory",
+    "streets-of-tarkov",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "debut",
+      "title": "Debut"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and eliminate Reshala",
+    "Locate and eliminate Glukhar",
+    "Locate and eliminate Killa",
+    "Locate and eliminate Shturman",
+    "Locate and eliminate Sanitar",
+    "Locate and eliminate Tagilla",
+    "Locate and eliminate Kaban",
+    "Locate and eliminate Knight",
+    "Locate and eliminate Big Pipe",
+    "Locate and eliminate Birdeye"
+  ],
+  "rewards": {
+    "exp": 37600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Afterparty",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

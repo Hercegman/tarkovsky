@@ -1,0 +1,48 @@
+{
+  "id": "create-a-distraction-part-1",
+  "title": "Create a Distraction - Part 1",
+  "pageId": 34027,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "surprise",
+      "title": "Surprise"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "create-a-distraction-part-2",
+      "title": "Create a Distraction - Part 2"
+    },
+    {
+      "id": "against-the-conscience-part-1",
+      "title": "Against the Conscience - Part 1"
+    }
+  ],
+  "objectives": [
+    "Plant 3 TP-200 TNT bricks on the second floor of the cafe on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 5000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Create_a_Distraction_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

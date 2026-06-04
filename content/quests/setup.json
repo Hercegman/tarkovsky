@@ -1,0 +1,44 @@
+{
+  "id": "setup",
+  "title": "Setup",
+  "pageId": 12373,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "friend-from-the-west-part-2",
+      "title": "Friend From the West - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "informed-means-armed",
+      "title": "Informed Means Armed"
+    }
+  ],
+  "objectives": [
+    "Eliminate 8 PMC operatives while wearing the specified gear on Customs"
+  ],
+  "rewards": {
+    "exp": 21900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Setup",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

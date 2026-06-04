@@ -1,0 +1,54 @@
+{
+  "id": "anesthesia",
+  "title": "Anesthesia",
+  "pageId": 18895,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "shaking-up-the-teller",
+      "title": "Shaking Up the Teller"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "rigged-game",
+      "title": "Rigged Game"
+    },
+    {
+      "id": "samples",
+      "title": "Samples"
+    },
+    {
+      "id": "chemistry-closet",
+      "title": "Chemistry Closet"
+    }
+  ],
+  "objectives": [
+    "Mark the first trading post with an MS2000 Marker on Shoreline",
+    "Mark the second trading post with an MS2000 Marker on Shoreline",
+    "Mark the third trading post with an MS2000 Marker on Shoreline"
+  ],
+  "rewards": {
+    "exp": 18100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Anesthesia",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

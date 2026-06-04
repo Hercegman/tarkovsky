@@ -1,0 +1,54 @@
+{
+  "id": "information-source",
+  "title": "Information Source",
+  "pageId": 28275,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "woods",
+    "interchange",
+    "streets-of-tarkov",
+    "ground-zero"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "getting-acquainted",
+      "title": "Getting Acquainted"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "missing-informant",
+      "title": "Missing Informant"
+    }
+  ],
+  "objectives": [
+    "Survive and extract from Woods through Bridge V-Ex",
+    "Survive and extract from Customs through Dorms V-Ex",
+    "Survive and extract from Interchange through Power Station V-Ex",
+    "Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex",
+    "Survive and extract from Ground Zero through Police Cordon V-Ex",
+    "Locate and mark the first Patrol-A armored vehicle with an MS2000 Marker on Streets of Tarkov",
+    "Locate and mark the second Patrol-A armored vehicle with an MS2000 Marker on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Information_Source",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

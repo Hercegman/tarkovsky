@@ -1,0 +1,50 @@
+{
+  "id": "background-check",
+  "title": "Background Check",
+  "pageId": 6162,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "luxurious-life",
+      "title": "Luxurious Life"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "shootout-picnic",
+      "title": "Shootout Picnic"
+    },
+    {
+      "id": "delivery-from-the-past",
+      "title": "Delivery From the Past"
+    }
+  ],
+  "objectives": [
+    "Obtain the Bronze pocket watch on a chain on Customs",
+    "(Optional) Obtain the key to the fuel tanker truck",
+    "Hand over the pocket watch"
+  ],
+  "rewards": {
+    "exp": 1800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Background_Check",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

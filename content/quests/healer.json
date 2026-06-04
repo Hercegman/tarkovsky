@@ -1,0 +1,46 @@
+{
+  "id": "healer",
+  "title": "Healer",
+  "pageId": 31123,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "poisoning",
+      "title": "Poisoning"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "remedy",
+      "title": "Remedy"
+    },
+    {
+      "id": "straw",
+      "title": "Straw"
+    }
+  ],
+  "objectives": [
+    "Complete the task \"Parasites\""
+  ],
+  "rewards": {
+    "exp": 5400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Healer",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

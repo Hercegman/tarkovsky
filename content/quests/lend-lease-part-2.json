@@ -1,0 +1,45 @@
+{
+  "id": "lend-lease-part-2",
+  "title": "Lend-Lease - Part 2",
+  "pageId": 12251,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "lend-lease-part-1",
+      "title": "Lend-Lease - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "peacekeeping-mission",
+      "title": "Peacekeeping Mission"
+    }
+  ],
+  "objectives": [
+    "Find 2 Virtex programmable processors in raid",
+    "Find 1 Military COFDM Wireless Signal Transmitter in raid",
+    "Hand over 2 Virtex programmable processors to Peacekeeper",
+    "Hand over 1 Military COFDM Wireless Signal Transmitter to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 21000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Lend-Lease_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

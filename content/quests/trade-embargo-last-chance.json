@@ -1,0 +1,42 @@
+{
+  "id": "trade-embargo-last-chance",
+  "title": "Trade Embargo - Last Chance",
+  "pageId": 33928,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "trade-embargo",
+      "title": "Trade Embargo"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "atonement",
+      "title": "Atonement"
+    }
+  ],
+  "objectives": [
+    "Sell 50 barter items to Fence"
+  ],
+  "rewards": {
+    "exp": 45000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Trade_Embargo_-_Last_Chance",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

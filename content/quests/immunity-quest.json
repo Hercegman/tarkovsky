@@ -1,0 +1,42 @@
+{
+  "id": "immunity-quest",
+  "title": "Immunity (quest)",
+  "pageId": 34286,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "friend-among-strangers",
+      "title": "Friend Among Strangers"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "small-business-part-1",
+      "title": "Small Business - Part 1"
+    }
+  ],
+  "objectives": [
+    "Extract from the location with the \"Unknown toxin\" status effect"
+  ],
+  "rewards": {
+    "exp": 28000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Immunity_(quest)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

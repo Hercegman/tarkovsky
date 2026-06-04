@@ -1,0 +1,54 @@
+{
+  "id": "hide-in-plain-sight",
+  "title": "Hide in Plain Sight",
+  "pageId": 36638,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "woods",
+    "shoreline",
+    "interchange",
+    "reserve",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "shooting-cans",
+      "title": "Shooting Cans"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "enough-drinks-for-that-one",
+      "title": "Enough Drinks for That One"
+    }
+  ],
+  "objectives": [
+    "Locate and visit the Christmas tree on Lighthouse",
+    "Locate and visit the Christmas tree on Customs",
+    "Locate and visit the Christmas tree on Reserve",
+    "Locate and visit the Christmas tree on Interchange",
+    "Locate and visit the Christmas tree on Shoreline",
+    "Locate and visit the Christmas tree on Woods"
+  ],
+  "rewards": {
+    "exp": 7000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hide_in_Plain_Sight",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

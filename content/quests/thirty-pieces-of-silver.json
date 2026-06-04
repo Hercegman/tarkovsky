@@ -1,0 +1,44 @@
+{
+  "id": "thirty-pieces-of-silver",
+  "title": "Thirty Pieces of Silver",
+  "pageId": 43284,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "accept-delivery",
+      "title": "Accept Delivery"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "restocking-supplies",
+      "title": "Restocking Supplies"
+    }
+  ],
+  "objectives": [
+    "Eliminate 25 smugglers",
+    "Obtain and hand over 3 contraband boxes",
+    "Obtain and hand over 3 locked smugglers' weapon cases"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Thirty_Pieces_of_Silver",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

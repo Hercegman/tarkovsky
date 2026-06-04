@@ -1,0 +1,39 @@
+{
+  "id": "superhuman",
+  "title": "Superhuman",
+  "pageId": 43657,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "all-for-the-show-major-sponsor",
+      "title": "All for the Show - Major Sponsor"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate an enemy with a melee weapon while wearing a Ghoul mask"
+  ],
+  "rewards": {
+    "exp": 222222,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Superhuman",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

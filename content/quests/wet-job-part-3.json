@@ -1,0 +1,45 @@
+{
+  "id": "wet-job-part-3",
+  "title": "Wet Job - Part 3",
+  "pageId": 7825,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "wet-job-part-2",
+      "title": "Wet Job - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "wet-job-part-4",
+      "title": "Wet Job - Part 4"
+    }
+  ],
+  "objectives": [
+    "Locate Artyom's car on Shoreline",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 8200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

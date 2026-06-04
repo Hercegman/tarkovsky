@@ -1,0 +1,44 @@
+{
+  "id": "the-punisher-part-3",
+  "title": "The Punisher - Part 3",
+  "pageId": 6404,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-2",
+      "title": "The Punisher - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-punisher-part-4",
+      "title": "The Punisher - Part 4"
+    }
+  ],
+  "objectives": [
+    "Eliminate 25 Scavs while using an AKS-74U series assault rifle on Customs"
+  ],
+  "rewards": {
+    "exp": 11700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Punisher_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

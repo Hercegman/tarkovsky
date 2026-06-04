@@ -1,0 +1,38 @@
+{
+  "id": "tourists",
+  "title": "Tourists",
+  "pageId": 29363,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory",
+    "day-factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and eliminate Knight in a single raid.",
+    "Locate and eliminate Big Pipe in a single raid.",
+    "Locate and eliminate Birdeye in a single raid.",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 90,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Tourists",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

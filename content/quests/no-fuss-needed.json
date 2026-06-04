@@ -1,0 +1,37 @@
+{
+  "id": "no-fuss-needed",
+  "title": "No Fuss Needed",
+  "pageId": 10270,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-key-to-success",
+      "title": "The Key to Success"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Reach Loyalty Level 3 with Therapist"
+  ],
+  "rewards": {
+    "exp": 15800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Fuss_Needed",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

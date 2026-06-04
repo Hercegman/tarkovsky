@@ -1,0 +1,47 @@
+{
+  "id": "pets-wont-need-it-part-2",
+  "title": "Pets Won't Need It - Part 2",
+  "pageId": 32150,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "pets-wont-need-it-part-1",
+      "title": "Pets Won't Need It - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "beneath-the-streets",
+      "title": "Beneath The Streets"
+    }
+  ],
+  "objectives": [
+    "Locate the first pharmacy on Primorsky Ave on Streets of Tarkov",
+    "Locate the second pharmacy on Primorsky Ave on Streets of Tarkov",
+    "Locate the third pharmacy at Cardinal apartment complex on Streets of Tarkov",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 9000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Pets_Won't_Need_It_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "hell-on-earth-part-1",
+  "title": "Hell on Earth - Part 1",
+  "pageId": 34259,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-good-times-part-1",
+      "title": "The Good Times - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "hell-on-earth-part-2",
+      "title": "Hell on Earth - Part 2"
+    }
+  ],
+  "objectives": [
+    "Modify an MP-43-1C shotgun to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 2300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hell_on_Earth_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

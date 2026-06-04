@@ -1,0 +1,38 @@
+{
+  "id": "before-the-rain",
+  "title": "Before the Rain",
+  "pageId": 35665,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "cream-of-the-crop",
+      "title": "Cream of the Crop"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over 25 found in raid Radar station spare parts",
+    "Hand over 15 found in raid GARY ZONT portable electronic warfare devices"
+  ],
+  "rewards": {
+    "exp": 108600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Before_the_Rain",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "western-quality-standards",
+  "title": "Western Quality Standards",
+  "pageId": 34514,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "risks-of-small-business",
+      "title": "Risks of Small Business"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate as many targets as possible while using Western weapons"
+  ],
+  "rewards": {
+    "exp": 102900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Western_Quality_Standards",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

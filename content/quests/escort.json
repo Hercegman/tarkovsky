@@ -1,0 +1,54 @@
+{
+  "id": "escort",
+  "title": "Escort",
+  "pageId": 21757,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory",
+    "customs",
+    "shoreline",
+    "reserve",
+    "woods",
+    "interchange",
+    "the-lab",
+    "ground-zero",
+    "daytime-factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-6",
+      "title": "The Punisher - Part 6"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 4 PMC operatives on daytime Factory",
+    "Eliminate 4 PMC operatives on Customs",
+    "Eliminate 4 PMC operatives on Shoreline",
+    "Eliminate 4 PMC operatives on Reserve",
+    "Eliminate 4 PMC operatives on Woods",
+    "Eliminate 4 PMC operatives on Interchange",
+    "Eliminate 4 PMC operatives in The Lab",
+    "Eliminate 4 PMC operatives on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 155000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Escort",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

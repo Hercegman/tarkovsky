@@ -1,0 +1,46 @@
+{
+  "id": "weak-compromise",
+  "title": "Weak Compromise",
+  "pageId": 39012,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "pecunia-non-olet",
+      "title": "Pecunia Non Olet"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "job-that-kills",
+      "title": "Job That Kills"
+    }
+  ],
+  "objectives": [
+    "Claim at least 4th place in LastHero mode twice",
+    "Win 3 matches claiming at least 4th place in TeamFight or BlastGang mode",
+    "Win 2 matches claiming at least 4th place in CheckPoint mode"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Weak_Compromise",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

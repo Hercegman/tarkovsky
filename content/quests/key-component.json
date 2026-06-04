@@ -1,0 +1,41 @@
+{
+  "id": "key-component",
+  "title": "Key Component",
+  "pageId": 31134,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse",
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "pursuit-of-power",
+      "title": "Pursuit of Power"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the decommissioned stimulants on Lighthouse or The Lab",
+    "Hand over the stimulants"
+  ],
+  "rewards": {
+    "exp": 17400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Key_Component",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

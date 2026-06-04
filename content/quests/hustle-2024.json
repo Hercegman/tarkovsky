@@ -1,0 +1,49 @@
+{
+  "id": "hustle-2024",
+  "title": "Hustle (2024)",
+  "pageId": 33963,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "acquaintance",
+      "title": "Acquaintance"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and eliminate Reshala on Reserve",
+    "Locate and eliminate Glukhar on Reserve",
+    "Locate and eliminate Killa on Reserve",
+    "Locate and eliminate Shturman on Reserve",
+    "Locate and eliminate Knight on Reserve",
+    "Locate and eliminate Big Pipe on Reserve",
+    "Locate and eliminate Birdeye on Reserve",
+    "Locate and eliminate Sanitar on Reserve",
+    "Locate and eliminate Tagilla on Reserve",
+    "Locate and eliminate Kaban on Reserve",
+    "Locate and eliminate Kollontay on Reserve"
+  ],
+  "rewards": {
+    "exp": 50000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hustle_(2024)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

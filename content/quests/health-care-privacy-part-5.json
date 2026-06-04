@@ -1,0 +1,50 @@
+{
+  "id": "health-care-privacy-part-5",
+  "title": "Health Care Privacy - Part 5",
+  "pageId": 8064,
+  "trader": "therapist",
+  "questNumber": 14,
+  "requiredLevel": null,
+  "maps": [
+    "factory",
+    "nighttime-factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "health-care-privacy-part-4",
+      "title": "Health Care Privacy - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "decontamination-service",
+      "title": "Decontamination Service"
+    },
+    {
+      "id": "health-care-privacy-part-6",
+      "title": "Health Care Privacy - Part 6"
+    }
+  ],
+  "objectives": [
+    "Locate the drop spot on night-time Factory",
+    "Obtain 3 packs of Gunpowder \"Kite\" and stash them in the designated spot"
+  ],
+  "rewards": {
+    "exp": 7300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "spa-tour-part-2",
+  "title": "Spa Tour - Part 2",
+  "pageId": 7486,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "spa-tour-part-1",
+      "title": "Spa Tour - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "spa-tour-part-3",
+      "title": "Spa Tour - Part 3"
+    }
+  ],
+  "objectives": [
+    "Mark the helicopter at the Health Resort with an MS2000 Marker on Shoreline",
+    "Mark the safe road to the helicopter with an MS2000 Marker on Shoreline"
+  ],
+  "rewards": {
+    "exp": 6300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

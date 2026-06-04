@@ -1,0 +1,44 @@
+{
+  "id": "advertising-business-part-1",
+  "title": "Advertising Business - Part 1",
+  "pageId": 43659,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "all-for-the-show-death-from-above",
+      "title": "All for the Show - Death from Above"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "all-for-the-show-pyrotechnics",
+      "title": "All for the Show - Pyrotechnics"
+    }
+  ],
+  "objectives": [
+    "Win 3 matches while wearing the Hexgrid armor in CheckPoint mode"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

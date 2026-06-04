@@ -1,0 +1,40 @@
+{
+  "id": "private-club",
+  "title": "Private Club",
+  "pageId": 36682,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chumming",
+      "title": "Chumming"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain Skier's wallet on Customs",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 11000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Private_Club",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

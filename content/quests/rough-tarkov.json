@@ -1,0 +1,46 @@
+{
+  "id": "rough-tarkov",
+  "title": "Rough Tarkov",
+  "pageId": 34619,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "ground-zero"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "acquaintance",
+      "title": "Acquaintance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "every-hunter-knows-this",
+      "title": "Every Hunter Knows This"
+    }
+  ],
+  "objectives": [
+    "Locate the heavily mined area on Woods",
+    "Locate the Claymore mine on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 4440,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Rough_Tarkov",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

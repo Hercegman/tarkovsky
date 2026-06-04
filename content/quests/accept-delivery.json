@@ -1,0 +1,43 @@
+{
+  "id": "accept-delivery",
+  "title": "Accept Delivery",
+  "pageId": 43283,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "bulldogs-under-the-rug",
+      "title": "Bulldogs Under The Rug"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "thirty-pieces-of-silver",
+      "title": "Thirty Pieces of Silver"
+    }
+  ],
+  "objectives": [
+    "Obtain and hand over the locked smugglers' case",
+    "Obtain and hand over the key to the locked case"
+  ],
+  "rewards": {
+    "exp": 11500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Accept_Delivery",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

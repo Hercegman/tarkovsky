@@ -1,0 +1,41 @@
+{
+  "id": "morituri-te-salutant",
+  "title": "Morituri te salutant",
+  "pageId": 43466,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "taking-whats-mine",
+      "title": "Taking What's Mine"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the case with new Arena reward templates on Interchange",
+    "Hand over the found item",
+    "Investigate the stash with new Arena rewards on Interchange",
+    "Hand over the found item",
+    "Eliminate 10 PMC operatives while wearing a painted CQCM mask (El Dia es Muertos, Scars, or Target)"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Morituri_te_salutant",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

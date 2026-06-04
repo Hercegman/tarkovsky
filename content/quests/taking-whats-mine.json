@@ -1,0 +1,50 @@
+{
+  "id": "taking-whats-mine",
+  "title": "Taking What's Mine",
+  "pageId": 43463,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "interchange",
+    "lighthouse",
+    "shoreline",
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "backup-plan",
+      "title": "Backup Plan"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "morituri-te-salutant",
+      "title": "Morituri te salutant"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 pillagers",
+    "(Optional) Do not assist Skier with preparing the ambush on Customs",
+    "Stash 4 painted CQCM masks in the specified spot on Shoreline"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Taking_What's_Mine",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

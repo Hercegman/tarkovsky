@@ -1,0 +1,44 @@
+{
+  "id": "hot-wheels-lets-try-again",
+  "title": "Hot Wheels - Let's Try Again",
+  "pageId": 37690,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "hot-wheels",
+      "title": "Hot Wheels"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "inevitable-response",
+      "title": "Inevitable Response"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the spare BTR wheels with an MS2000 Marker on Reserve"
+  ],
+  "rewards": {
+    "exp": 13500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hot_Wheels_-_Let's_Try_Again",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

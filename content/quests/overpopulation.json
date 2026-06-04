@@ -1,0 +1,48 @@
+{
+  "id": "overpopulation",
+  "title": "Overpopulation",
+  "pageId": 23938,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "spa-tour-part-1",
+      "title": "Spa Tour - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "one-less-loose-end",
+      "title": "One Less Loose End"
+    },
+    {
+      "id": "a-healthy-alternative",
+      "title": "A Healthy Alternative"
+    }
+  ],
+  "objectives": [
+    "Eliminate 12 Scavs around the chalet area on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 8500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Overpopulation",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

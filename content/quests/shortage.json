@@ -1,0 +1,47 @@
+{
+  "id": "shortage",
+  "title": "Shortage",
+  "pageId": 6187,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "first-in-line",
+      "title": "First in Line"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "sanitary-standards-part-1",
+      "title": "Sanitary Standards - Part 1"
+    },
+    {
+      "id": "operation-aquarius-part-1",
+      "title": "Operation Aquarius - Part 1"
+    }
+  ],
+  "objectives": [
+    "Find 3 Salewa first aid kit in raid",
+    "Hand over the 3 first aid kits"
+  ],
+  "rewards": {
+    "exp": 2000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shortage",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

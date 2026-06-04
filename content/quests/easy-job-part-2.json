@@ -1,0 +1,39 @@
+{
+  "id": "easy-job-part-2",
+  "title": "Easy Job - Part 2",
+  "pageId": 23937,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "easy-job-part-1",
+      "title": "Easy Job - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 10 targets around the helicopter area at the water treatment plant on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Easy_Job_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

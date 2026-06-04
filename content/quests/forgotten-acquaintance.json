@@ -1,0 +1,49 @@
+{
+  "id": "forgotten-acquaintance",
+  "title": "Forgotten Acquaintance",
+  "pageId": 33831,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "photo-hunt",
+      "title": "Photo Hunt"
+    },
+    {
+      "id": "no-peeking",
+      "title": "No Peeking!"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "seeking-information",
+      "title": "Seeking Information"
+    }
+  ],
+  "objectives": [
+    "Locate the hideout at the cottages on Lighthouse",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 24600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Forgotten_Acquaintance",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

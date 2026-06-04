@@ -1,0 +1,42 @@
+{
+  "id": "bad-habit",
+  "title": "Bad Habit",
+  "pageId": 9606,
+  "trader": "mechanic",
+  "questNumber": 20,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "farming-part-2",
+      "title": "Farming - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 5 Malboro cigarettes in raid",
+    "Find 5 Strike cigarettes in raid",
+    "Find 5 Wilston cigarettes in raid",
+    "Hand over 5 Malboro cigarettes to Mechanic",
+    "Hand over 5 Strike cigarettes to Mechanic",
+    "Hand over 5 Wilston cigarettes to Mechanic"
+  ],
+  "rewards": {
+    "exp": 6700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Bad_Habit",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

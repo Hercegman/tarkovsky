@@ -1,0 +1,37 @@
+{
+  "id": "make-amends-software",
+  "title": "Make Amends - Software",
+  "pageId": 34228,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "make-amends-quarantine",
+      "title": "Make Amends - Quarantine"
+    }
+  ],
+  "objectives": [
+    "Hand over 15 found in raid Secure Flash drives"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Make_Amends_-_Software",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "the-huntsman-path-administrator",
+  "title": "The Huntsman Path - Administrator",
+  "pageId": 28135,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-forest-cleaning",
+      "title": "The Huntsman Path - Forest Cleaning"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-huntsman-path-crooked-cop",
+      "title": "The Huntsman Path - Crooked Cop"
+    },
+    {
+      "id": "slaughterhouse",
+      "title": "Slaughterhouse"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 20 targets at the Pinewood hotel on Streets of Tarkov",
+    "Shoot a yellow signal flare in the hotel's courtyard"
+  ],
+  "rewards": {
+    "exp": 15600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Administrator",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "radio-club",
+  "title": "Radio Club",
+  "pageId": 33862,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "obstacle-course",
+      "title": "Obstacle Course"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "ceasefire-information",
+      "title": "Ceasefire - Information"
+    }
+  ],
+  "objectives": [
+    "Eliminate 8 Scavs on Woods",
+    "Install a Radio repeater at the mountain crate on Woods",
+    "Install a Radio repeater at the mountain ravine stash on Woods",
+    "Install a Radio repeater at the mountain bunker on Woods",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 73000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Radio_Club",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "night-of-the-cult",
+  "title": "Night of The Cult",
+  "pageId": 35943,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "the-graven-image",
+      "title": "The Graven Image"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 hooded night people"
+  ],
+  "rewards": {
+    "exp": 12500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Night_of_The_Cult",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

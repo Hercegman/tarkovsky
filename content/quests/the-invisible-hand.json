@@ -1,0 +1,42 @@
+{
+  "id": "the-invisible-hand",
+  "title": "The Invisible Hand",
+  "pageId": 34258,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "only-business",
+      "title": "Only Business"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "circulate",
+      "title": "Circulate"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 15 targets that are using a 20+ container size backpack"
+  ],
+  "rewards": {
+    "exp": 12800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Invisible_Hand",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

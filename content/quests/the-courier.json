@@ -1,0 +1,40 @@
+{
+  "id": "the-courier",
+  "title": "The Courier",
+  "pageId": 21768,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "calibration",
+      "title": "Calibration"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Stash a Trijicon REAP-IR scope under the base of the yellow crane at the construction site on Customs",
+    "Stash a Trijicon REAP-IR scope behind the trash containers at the \"new\" gas station on Customs"
+  ],
+  "rewards": {
+    "exp": 115000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Courier",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fairy-tale-showdown",
+  "title": "Fairy Tale Showdown",
+  "pageId": 24251,
+  "trader": "bear-prapor-usec-peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "to-the-tree",
+      "title": "To the Tree!"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Fairy_Tale_Showdown",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

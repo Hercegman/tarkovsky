@@ -1,0 +1,44 @@
+{
+  "id": "exit-here",
+  "title": "Exit Here",
+  "pageId": 35201,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "scout",
+      "title": "Scout"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-walls-have-eyes",
+      "title": "The Walls Have Eyes"
+    }
+  ],
+  "objectives": [
+    "Survive and extract from Factory through the main exit"
+  ],
+  "rewards": {
+    "exp": 5500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Exit_Here",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

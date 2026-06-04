@@ -1,0 +1,44 @@
+{
+  "id": "letters",
+  "title": "Letters",
+  "pageId": 26999,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate Sanitar while using assault rifles",
+    "Eliminate Sanitar while using assault carbines",
+    "Eliminate Sanitar while using machine guns",
+    "Eliminate Sanitar while using SMGs",
+    "Eliminate Sanitar while using shotguns",
+    "Eliminate Sanitar while using marksman rifles",
+    "Eliminate Sanitar while using bolt-action rifles",
+    "Eliminate Sanitar while using grenade launchers",
+    "Eliminate Sanitar while using pistols or revolvers",
+    "Eliminate Sanitar while using melee weapons",
+    "Eliminate Sanitar while using throwable weapons"
+  ],
+  "rewards": {
+    "exp": 2,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Letters",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

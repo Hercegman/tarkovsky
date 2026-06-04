@@ -1,0 +1,39 @@
+{
+  "id": "test-drive-part-6",
+  "title": "Test Drive - Part 6",
+  "pageId": 36687,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "test-drive-part-5",
+      "title": "Test Drive - Part 5"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 50 targets while using an Aklys Defense Velociraptor on Customs"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

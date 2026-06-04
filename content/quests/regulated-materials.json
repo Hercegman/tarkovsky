@@ -1,0 +1,42 @@
+{
+  "id": "regulated-materials",
+  "title": "Regulated Materials",
+  "pageId": 14957,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "polikhim-hobo",
+      "title": "Polikhim Hobo"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 1 6-STEN-140-M military battery in raid",
+    "Hand over 1 military battery to Prapor",
+    "Find 5 OFZ 30x165mm shells in raid",
+    "Hand over the 5 OFZ shells to Prapor"
+  ],
+  "rewards": {
+    "exp": 14800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Regulated_Materials",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

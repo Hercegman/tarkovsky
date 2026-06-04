@@ -1,0 +1,39 @@
+{
+  "id": "gunsmith-old-friends-request",
+  "title": "Gunsmith - Old Friend's Request",
+  "pageId": 36671,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-7",
+      "title": "Gunsmith - Part 7"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Modify a PP-19-01 to comply with the given specifications",
+    "Modify a T-5000M to comply with the given specifications",
+    "Modify a Glock 17 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 21930,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Old_Friend's_Request",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

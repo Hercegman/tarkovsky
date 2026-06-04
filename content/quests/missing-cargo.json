@@ -1,0 +1,46 @@
+{
+  "id": "missing-cargo",
+  "title": "Missing Cargo",
+  "pageId": 23914,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "long-road",
+      "title": "Long Road"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "top-secret",
+      "title": "Top Secret"
+    }
+  ],
+  "objectives": [
+    "Locate the crashed helicopter on Lighthouse",
+    "Find the informant's intelligence folder",
+    "Hand over the folder to Skier"
+  ],
+  "rewards": {
+    "exp": 14000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Missing_Cargo",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

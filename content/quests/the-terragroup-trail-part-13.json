@@ -1,0 +1,48 @@
+{
+  "id": "the-terragroup-trail-part-13",
+  "title": "The TerraGroup Trail - Part 13",
+  "pageId": 29711,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-12",
+      "title": "The TerraGroup Trail - Part 12"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-14",
+      "title": "The TerraGroup Trail - Part 14"
+    }
+  ],
+  "objectives": [
+    "Obtain the V4 Flash Drive on Customs",
+    "Reflash the Radio transmitter",
+    "Hand over the V4 Flash Drive to Mechanic",
+    "Visit the lighthouse building"
+  ],
+  "rewards": {
+    "exp": 28500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_13",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

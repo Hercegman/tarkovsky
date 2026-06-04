@@ -1,0 +1,44 @@
+{
+  "id": "cease-fire",
+  "title": "Cease Fire!",
+  "pageId": 27842,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-delicious-sausage",
+      "title": "The Delicious Sausage"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "ambulances-again",
+      "title": "Ambulances Again"
+    }
+  ],
+  "objectives": [
+    "Survive and extract from Streets of Tarkov through Klimov Street"
+  ],
+  "rewards": {
+    "exp": 5600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Cease_Fire!",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

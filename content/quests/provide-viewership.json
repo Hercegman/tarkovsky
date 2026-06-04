@@ -1,0 +1,43 @@
+{
+  "id": "provide-viewership",
+  "title": "Provide Viewership",
+  "pageId": 36647,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "easy-money-part-2",
+      "title": "Easy Money - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Install the first WI-FI Camera Inside the industrial plant on Customs",
+    "Install the second WI-FI Camera Inside the industrial plant on Customs",
+    "Install the third WI-FI Camera Inside the industrial plant on Customs",
+    "Install the fourth WI-FI Camera Inside the industrial plant on Customs",
+    "Eliminate any 15 targets inside the industrial plant on Customs"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Provide_Viewership",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

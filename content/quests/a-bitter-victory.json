@@ -1,0 +1,54 @@
+{
+  "id": "a-bitter-victory",
+  "title": "A Bitter Victory",
+  "pageId": 44498,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "saving-private-roman",
+      "title": "Saving Private Roman"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "hangover",
+      "title": "Hangover"
+    }
+  ],
+  "objectives": [
+    "Hand over 2 Bottle of Fierce Hatchling moonshine to the BTR Driver",
+    "(Optional) Obtain 2 Bottle of Fierce Hatchling moonshine",
+    "Hand over 4 Rye croutons to the BTR Driver",
+    "(Optional) Obtain 4 Rye croutons",
+    "Hand over 4 Bottle of Tarkovskaya vodka to the BTR Driver",
+    "(Optional) Obtain 4 Bottle of Tarkovskaya vodka",
+    "Hand over 2 Salty Dog beef sausage to the BTR Driver",
+    "(Optional) Obtain 2 Salty Dog beef sausage",
+    "Talk to the BTR Driver",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 30000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Bitter_Victory",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

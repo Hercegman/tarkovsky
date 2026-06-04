@@ -1,0 +1,52 @@
+{
+  "id": "stray-dogs",
+  "title": "Stray Dogs",
+  "pageId": 25800,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "woods",
+    "shoreline",
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-trophy",
+      "title": "The Huntsman Path - Trophy"
+    },
+    {
+      "id": "the-huntsman-path-sellout",
+      "title": "The Huntsman Path - Sellout"
+    },
+    {
+      "id": "the-huntsman-path-woods-keeper",
+      "title": "The Huntsman Path - Woods Keeper"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and eliminate Knight",
+    "Locate and eliminate Big Pipe",
+    "Locate and eliminate Birdeye"
+  ],
+  "rewards": {
+    "exp": 35000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stray_Dogs",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

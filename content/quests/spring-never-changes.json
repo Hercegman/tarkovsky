@@ -1,0 +1,46 @@
+{
+  "id": "spring-never-changes",
+  "title": "Spring Never Changes",
+  "pageId": 33639,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "customs",
+    "woods",
+    "shoreline",
+    "interchange",
+    "reserve",
+    "lighthouse",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "evil-spirits",
+      "title": "Evil Spirits"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Light up the bonfire on any location"
+  ],
+  "rewards": {
+    "exp": 500000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Spring_Never_Changes",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

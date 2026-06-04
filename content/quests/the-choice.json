@@ -1,0 +1,37 @@
+{
+  "id": "the-choice",
+  "title": "The Choice",
+  "pageId": 21753,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-6",
+      "title": "The Punisher - Part 6"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Handover Secure container Epsilon"
+  ],
+  "rewards": {
+    "exp": 433333,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Choice",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

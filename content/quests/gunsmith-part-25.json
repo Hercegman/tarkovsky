@@ -1,0 +1,37 @@
+{
+  "id": "gunsmith-part-25",
+  "title": "Gunsmith - Part 25",
+  "pageId": 30621,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-24",
+      "title": "Gunsmith - Part 24"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Modify a PKP machine gun to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 35000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_25",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

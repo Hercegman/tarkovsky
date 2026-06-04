@@ -1,0 +1,45 @@
+{
+  "id": "beyond-the-red-meat-part-1",
+  "title": "Beyond the Red Meat - Part 1",
+  "pageId": 30497,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "vitamins-part-2",
+      "title": "Vitamins - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "beyond-the-red-meat-part-2",
+      "title": "Beyond the Red Meat - Part 2"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain information on culinary secrets at the Beluga restaurant on Streets of Tarkov",
+    "Hand over the found data"
+  ],
+  "rewards": {
+    "exp": 18400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Beyond_the_Red_Meat_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

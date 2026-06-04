@@ -1,0 +1,53 @@
+{
+  "id": "out-of-curiosity",
+  "title": "Out of Curiosity",
+  "pageId": 6778,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chemical-part-3",
+      "title": "Chemical - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "loyalty-buyout",
+      "title": "Loyalty Buyout"
+    },
+    {
+      "id": "no-offence",
+      "title": "No Offence"
+    },
+    {
+      "id": "safe-corridor",
+      "title": "Safe Corridor"
+    }
+  ],
+  "objectives": [
+    "Locate the transport with the chemicals on Customs",
+    "Mark the vehicle with an MS2000 Marker"
+  ],
+  "rewards": {
+    "exp": 7700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Out_of_Curiosity",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

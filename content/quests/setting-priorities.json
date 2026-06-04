@@ -1,0 +1,42 @@
+{
+  "id": "setting-priorities",
+  "title": "Setting Priorities",
+  "pageId": 41497,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "a-shooter-born-in-heaven",
+      "title": "A Shooter Born in Heaven"
+    },
+    {
+      "id": "cargo-x-part-4",
+      "title": "Cargo X - Part 4"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 15 PMC operatives while using an active headset without wearing any armor",
+    "Eliminate 15 PMC operatives while wearing the TSh-4M-L soft tank crew helmet without wearing any active headset"
+  ],
+  "rewards": {
+    "exp": 11300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Setting_Priorities",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

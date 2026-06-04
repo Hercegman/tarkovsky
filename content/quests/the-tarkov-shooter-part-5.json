@@ -1,0 +1,44 @@
+{
+  "id": "the-tarkov-shooter-part-5",
+  "title": "The Tarkov Shooter - Part 5",
+  "pageId": 11801,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-tarkov-shooter-part-4",
+      "title": "The Tarkov Shooter - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-tarkov-shooter-part-6",
+      "title": "The Tarkov Shooter - Part 6"
+    }
+  ],
+  "objectives": [
+    "Eliminate 8 Scavs while using a bolt-action rifle in the time period of 21:00-5:00 on Customs"
+  ],
+  "rewards": {
+    "exp": 13000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "import-control",
+  "title": "Import Control",
+  "pageId": 34504,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "saving-the-mole",
+      "title": "Saving the Mole"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "whats-your-evidence",
+      "title": "What’s Your Evidence?"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 Scavs on Factory",
+    "Hand over 5 found in raid western Scav weapons with very low durability"
+  ],
+  "rewards": {
+    "exp": 64500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Import_Control",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

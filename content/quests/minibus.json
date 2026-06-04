@@ -1,0 +1,50 @@
+{
+  "id": "minibus",
+  "title": "Minibus",
+  "pageId": 10751,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "database-part-2",
+      "title": "Database - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "audiophile",
+      "title": "Audiophile"
+    },
+    {
+      "id": "drip-out-part-1",
+      "title": "Drip-Out - Part 1"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the first yellow minibus with an MS2000 Marker on Interchange",
+    "Locate and mark the second yellow minibus with an MS2000 Marker on Interchange",
+    "Locate and mark the third yellow minibus with an MS2000 Marker on Interchange"
+  ],
+  "rewards": {
+    "exp": 13800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Minibus",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

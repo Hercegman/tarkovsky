@@ -1,0 +1,57 @@
+{
+  "id": "kolotun",
+  "title": "Kolotun",
+  "pageId": 41566,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov",
+    "ground-zero",
+    "interchange",
+    "customs",
+    "woods",
+    "reserve",
+    "lighthouse",
+    "shoreline",
+    "factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "clearing-the-way",
+      "title": "Clearing the Way"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Obtain the Frostbite status effect",
+    "(Optional) Find a way to make yourself warm without heat or shelter",
+    "Survive and extract from Streets of Tarkov with a Frostbite status effect",
+    "Survive and extract from Ground Zero with a Frostbite status effect",
+    "Survive and extract from Interchange with a Frostbite status effect",
+    "Survive and extract from Customs with a Frostbite status effect",
+    "Survive and extract from Woods with a Frostbite status effect",
+    "Survive and extract from Reserve with a Frostbite status effect",
+    "Survive and extract from Lighthouse with a Frostbite status effect",
+    "Survive and extract from Shoreline with a Frostbite status effect",
+    "Survive and extract from Factory with a Frostbite status effect"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kolotun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

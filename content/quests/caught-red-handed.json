@@ -1,0 +1,50 @@
+{
+  "id": "caught-red-handed",
+  "title": "Caught Red-Handed",
+  "pageId": 34508,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "whats-your-evidence",
+      "title": "What’s Your Evidence?"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "risks-of-small-business",
+      "title": "Risks of Small Business"
+    },
+    {
+      "id": "protection-of-interests",
+      "title": "Protection of Interests"
+    }
+  ],
+  "objectives": [
+    "Install a WI-FI Camera to watch the first water treatment plant building entrance on Lighthouse",
+    "Install a WI-FI Camera to watch the second water treatment plant building entrance on Lighthouse",
+    "Install a WI-FI Camera to watch the third water treatment plant building entrance on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 52400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Caught_Red-Handed",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

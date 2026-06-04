@@ -1,0 +1,44 @@
+{
+  "id": "the-graven-image",
+  "title": "The Graven Image",
+  "pageId": 35946,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "night-of-the-cult",
+      "title": "Night of The Cult"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "until-dawn",
+      "title": "Until Dawn"
+    }
+  ],
+  "objectives": [
+    "Locate and neutralize the Oni",
+    "Locate and neutralize the Harbinger",
+    "Locate and neutralize the Ghost"
+  ],
+  "rewards": {
+    "exp": 40000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Graven_Image",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

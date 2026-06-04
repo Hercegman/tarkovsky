@@ -1,0 +1,47 @@
+{
+  "id": "christmas-dinner",
+  "title": "Christmas Dinner",
+  "pageId": 36639,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "shooting-cans",
+      "title": "Shooting Cans"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "holiday-beyond-the-means",
+      "title": "Holiday Beyond the Means"
+    }
+  ],
+  "objectives": [
+    "Hand over 5 Salty Dog beef sausage",
+    "Hand over 5 Can of green peas",
+    "Hand over 5 Jar of DevilDog mayo",
+    "Hand over 1 Bottle of Tarkovskaya vodka",
+    "Hand over 1 Bottle of Dan Jackiel whiskey",
+    "Hand over 3 Jar of pickles"
+  ],
+  "rewards": {
+    "exp": 18800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Christmas_Dinner",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "advertising-business-part-2",
+  "title": "Advertising Business - Part 2",
+  "pageId": 43660,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "all-for-the-show-pyrotechnics",
+      "title": "All for the Show - Pyrotechnics"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "jack-of-all-trades-pro",
+      "title": "Jack of All Trades - Pro"
+    }
+  ],
+  "objectives": [
+    "Eliminate 50 enemies with headshots while using an UZI PRO or MDR 7.62x51"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Advertising_Business_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

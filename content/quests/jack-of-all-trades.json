@@ -1,0 +1,47 @@
+{
+  "id": "jack-of-all-trades",
+  "title": "Jack of All Trades",
+  "pageId": 43675,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gladiator-doping-part-4",
+      "title": "Gladiator Doping - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "all-for-the-show-heroism",
+      "title": "All for the Show - Heroism"
+    }
+  ],
+  "objectives": [
+    "Eliminate 20 enemies as Assault",
+    "Eliminate 20 enemies as Enforcer",
+    "Eliminate 20 enemies as Scout",
+    "Eliminate 20 enemies as Marksman"
+  ],
+  "rewards": {
+    "exp": 12500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Jack_of_All_Trades",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

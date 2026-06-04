@@ -1,0 +1,42 @@
+{
+  "id": "gunsmith-part-9",
+  "title": "Gunsmith - Part 9",
+  "pageId": 27831,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-8",
+      "title": "Gunsmith - Part 8"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-10",
+      "title": "Gunsmith - Part 10"
+    }
+  ],
+  "objectives": [
+    "Modify a P226R to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 9800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_9",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

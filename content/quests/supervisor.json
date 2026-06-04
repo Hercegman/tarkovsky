@@ -1,0 +1,47 @@
+{
+  "id": "supervisor",
+  "title": "Supervisor",
+  "pageId": 10273,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "sales-night",
+      "title": "Sales Night"
+    },
+    {
+      "id": "the-key-to-success",
+      "title": "The Key to Success"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "long-line",
+      "title": "Long Line"
+    }
+  ],
+  "objectives": [
+    "Obtain the Goshan cash register key",
+    "Hand over the Goshan cash register key to Ragman"
+  ],
+  "rewards": {
+    "exp": 24100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Supervisor",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

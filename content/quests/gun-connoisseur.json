@@ -1,0 +1,47 @@
+{
+  "id": "gun-connoisseur",
+  "title": "Gun Connoisseur",
+  "pageId": 34547,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gunsmith-special-order",
+      "title": "Gunsmith - Special Order"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "customer-communication",
+      "title": "Customer Communication"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 10 targets while using 5.56x45 caliber weapons",
+    "Eliminate any 10 targets while using 5.45x39 caliber weapons",
+    "Eliminate any 10 targets while using 7.62x39 caliber weapons",
+    "Eliminate any 5 targets while using 7.62x54R caliber weapons",
+    "Eliminate any 5 targets while using 9x19 caliber weapons",
+    "Eliminate any 5 targets while using 9x39 caliber weapons"
+  ],
+  "rewards": {
+    "exp": 20000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gun_Connoisseur",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

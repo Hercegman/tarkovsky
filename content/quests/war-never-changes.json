@@ -1,0 +1,40 @@
+{
+  "id": "war-never-changes",
+  "title": "War Never Changes",
+  "pageId": 44620,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "icebreaker"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "biochemistry",
+      "title": "Biochemistry"
+    }
+  ],
+  "objectives": [
+    "Find 10 Nooby Shield potassium iodide tablets in raid",
+    "Hand over the items"
+  ],
+  "rewards": {
+    "exp": 27000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/War_Never_Changes",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

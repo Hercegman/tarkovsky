@@ -1,0 +1,37 @@
+{
+  "id": "external-interest",
+  "title": "External Interest",
+  "pageId": 39395,
+  "trader": "fence",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "progression-difficulties-part-2",
+      "title": "Progression Difficulties - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over the copy of the programmer's diary"
+  ],
+  "rewards": {
+    "exp": 3500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/External_Interest",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

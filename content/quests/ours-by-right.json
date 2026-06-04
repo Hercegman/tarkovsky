@@ -1,0 +1,46 @@
+{
+  "id": "ours-by-right",
+  "title": "Ours by Right",
+  "pageId": 35660,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "in-and-out",
+      "title": "In and Out"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "provide-cover",
+      "title": "Provide Cover"
+    }
+  ],
+  "objectives": [
+    "Hand over 2 found in raid GARY ZONT portable electronic warfare devices",
+    "Eliminate 10 Rogues",
+    "(Optional) Locate and neutralize Big Pipe",
+    "(Optional) Locate and neutralize Birdeye",
+    "(Optional) Locate and neutralize Knight"
+  ],
+  "rewards": {
+    "exp": 60400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Ours_by_Right",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "gendarmerie-tickets-please",
+  "title": "Gendarmerie - Tickets, Please",
+  "pageId": 30663,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gendarmerie-mall-cop",
+      "title": "Gendarmerie - Mall Cop"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gendarmerie-district-patrol",
+      "title": "Gendarmerie - District Patrol"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 25 targets at the Rodina cinema while using SMGs on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gendarmerie_-_Tickets%2C_Please",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "last-spurt-pioneer",
+  "title": "Last Spurt - Pioneer",
+  "pageId": 39384,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "game-review-part-2",
+      "title": "Game Review - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "game-review-part-3",
+      "title": "Game Review - Part 3"
+    }
+  ],
+  "objectives": [
+    "Hand over the beta version game disk",
+    "Locate and obtain the second game disk on Reserve",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 12300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Last_Spurt_-_Pioneer",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

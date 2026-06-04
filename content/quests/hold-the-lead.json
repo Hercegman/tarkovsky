@@ -1,0 +1,44 @@
+{
+  "id": "hold-the-lead",
+  "title": "Hold the Lead",
+  "pageId": 43244,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "to-great-heights-part-6",
+      "title": "To Great Heights! - Part 6"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "against-the-conscience-part-1",
+      "title": "Against the Conscience - Part 1"
+    }
+  ],
+  "objectives": [
+    "Eliminate 75 enemies in Arena"
+  ],
+  "rewards": {
+    "exp": 9100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hold_the_Lead",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

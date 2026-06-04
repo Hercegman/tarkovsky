@@ -1,0 +1,44 @@
+{
+  "id": "professional-part-3",
+  "title": "Professional - Part 3",
+  "pageId": 43687,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "professional-part-2",
+      "title": "Professional - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "no-limit-to-perfection-part-1",
+      "title": "No Limit to Perfection - Part 1"
+    }
+  ],
+  "objectives": [
+    "Earn a Round MVP in BlastGang or TeamFight mode"
+  ],
+  "rewards": {
+    "exp": 15000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Professional_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

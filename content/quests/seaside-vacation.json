@@ -1,0 +1,45 @@
+{
+  "id": "seaside-vacation",
+  "title": "Seaside Vacation",
+  "pageId": 23852,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "disease-history",
+      "title": "Disease History"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "abandoned-cargo",
+      "title": "Abandoned Cargo"
+    }
+  ],
+  "objectives": [
+    "Find the informant's briefcase on Lighthouse",
+    "Hand over the found package"
+  ],
+  "rewards": {
+    "exp": 8000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Seaside_Vacation",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

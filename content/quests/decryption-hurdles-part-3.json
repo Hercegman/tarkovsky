@@ -1,0 +1,39 @@
+{
+  "id": "decryption-hurdles-part-3",
+  "title": "Decryption Hurdles - Part 3",
+  "pageId": 33804,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "decryption-hurdles-part-2",
+      "title": "Decryption Hurdles - Part 2"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 10 Scavs on Customs"
+  ],
+  "rewards": {
+    "exp": 18200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Decryption_Hurdles_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

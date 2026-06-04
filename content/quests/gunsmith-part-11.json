@@ -1,0 +1,42 @@
+{
+  "id": "gunsmith-part-11",
+  "title": "Gunsmith - Part 11",
+  "pageId": 10257,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-10",
+      "title": "Gunsmith - Part 10"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-12",
+      "title": "Gunsmith - Part 12"
+    }
+  ],
+  "objectives": [
+    "Modify a KRISS Vector 9x19 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 11600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_11",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

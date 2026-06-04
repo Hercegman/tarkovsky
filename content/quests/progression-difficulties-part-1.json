@@ -1,0 +1,42 @@
+{
+  "id": "progression-difficulties-part-1",
+  "title": "Progression Difficulties - Part 1",
+  "pageId": 39337,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "game-review-part-1",
+      "title": "Game Review - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "progression-difficulties-part-2",
+      "title": "Progression Difficulties - Part 2"
+    }
+  ],
+  "objectives": [
+    "Hand over the drive with the game"
+  ],
+  "rewards": {
+    "exp": 2500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Progression_Difficulties_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

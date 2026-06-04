@@ -1,0 +1,49 @@
+{
+  "id": "the-bunker-part-2",
+  "title": "The Bunker - Part 2",
+  "pageId": 18571,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-bunker-part-1",
+      "title": "The Bunker - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "no-place-for-renegades",
+      "title": "No Place for Renegades"
+    }
+  ],
+  "objectives": [
+    "Locate the hermetic door leading to the hospital (White Bishop) on Reserve",
+    "Locate one of two hermetic doors leading to the academy building (Black Bishop) on Reserve",
+    "Locate one of two hermetic doors leading to barracks #1 (Black Pawn) on Reserve",
+    "Locate one of two hermetic doors leading to barracks #2 (White Pawn) on Reserve",
+    "Locate the hermetic door leading to the building of the air control center (King) on Reserve",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 9200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Bunker_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

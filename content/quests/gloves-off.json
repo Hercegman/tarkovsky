@@ -1,0 +1,42 @@
+{
+  "id": "gloves-off",
+  "title": "Gloves Off",
+  "pageId": 36159,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "find-the-source",
+      "title": "Find the Source"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "sample-iv-a-new-hope",
+      "title": "Sample IV - A New Hope"
+    }
+  ],
+  "objectives": [
+    "Eliminate 25 infected with a headshot while using a shotgun on any location"
+  ],
+  "rewards": {
+    "exp": 22000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gloves_Off",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

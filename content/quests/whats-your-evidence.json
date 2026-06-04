@@ -1,0 +1,42 @@
+{
+  "id": "whats-your-evidence",
+  "title": "What’s Your Evidence?",
+  "pageId": 34507,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "import-control",
+      "title": "Import Control"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "caught-red-handed",
+      "title": "Caught Red-Handed"
+    }
+  ],
+  "objectives": [
+    "Hand over the 10 western Scav weapons with very low durability"
+  ],
+  "rewards": {
+    "exp": 72600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/What%E2%80%99s_Your_Evidence%3F",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "the-huntsman-path-sadist",
+  "title": "The Huntsman Path - Sadist",
+  "pageId": 19176,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "colleagues-part-2",
+      "title": "Colleagues - Part 2"
+    },
+    {
+      "id": "rigged-game",
+      "title": "Rigged Game"
+    },
+    {
+      "id": "chemistry-closet",
+      "title": "Chemistry Closet"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "terragroup-employee",
+      "title": "TerraGroup Employee"
+    },
+    {
+      "id": "swift-one",
+      "title": "Swift One"
+    },
+    {
+      "id": "the-huntsman-path-relentless",
+      "title": "The Huntsman Path - Relentless"
+    }
+  ],
+  "objectives": [
+    "Eliminate Sanitar"
+  ],
+  "rewards": {
+    "exp": 16300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Sadist",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

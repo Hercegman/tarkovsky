@@ -1,0 +1,44 @@
+{
+  "id": "safety-guarantee",
+  "title": "Safety Guarantee",
+  "pageId": 38931,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "profitable-venture",
+      "title": "Profitable Venture"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "never-too-late-to-learn",
+      "title": "Never Too Late To Learn"
+    }
+  ],
+  "objectives": [
+    "Hand over 15 BNTI Zhuk body armors (EMR)",
+    "Hand over 12 Vulkan-5 LShZ-5 bulletproof helmets",
+    "Hand over 3 Maska-1SCh face shields (Killa Edition)"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Safety_Guarantee",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

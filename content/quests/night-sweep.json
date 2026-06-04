@@ -1,0 +1,38 @@
+{
+  "id": "night-sweep",
+  "title": "Night Sweep",
+  "pageId": 21761,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "rigged-game",
+      "title": "Rigged Game"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 12 unusual knives in raid",
+    "Hand over 12 knives to Skier"
+  ],
+  "rewards": {
+    "exp": 107000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Night_Sweep",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

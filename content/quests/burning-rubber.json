@@ -1,0 +1,43 @@
+{
+  "id": "burning-rubber",
+  "title": "Burning Rubber",
+  "pageId": 31681,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "supplier",
+      "title": "Supplier"
+    },
+    {
+      "id": "easy-money-part-1",
+      "title": "Easy Money - Part 1"
+    }
+  ],
+  "objectives": [
+    "Use the paid vehicle extraction on Ground Zero"
+  ],
+  "rewards": {
+    "exp": 1900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Burning_Rubber",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

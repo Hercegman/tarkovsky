@@ -1,0 +1,51 @@
+{
+  "id": "special-offer",
+  "title": "Special Offer",
+  "pageId": 34306,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "circulate",
+      "title": "Circulate"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "combat-proven",
+      "title": "Combat Proven"
+    }
+  ],
+  "objectives": [
+    "Find Sanitar's bag in raid",
+    "Hand over the equipment",
+    "Find Crye Precision AVS plate carrier (Tagilla Edition) in raid",
+    "Hand over the equipment",
+    "Find LBT-1961A Load Bearing Chest Rig (Goons Edition) in raid",
+    "Hand over the equipment",
+    "Find Mystery Ranch NICE COMM 3 BVS frame system (Coyote) in raid",
+    "Hand over the equipment",
+    "Find Crye Precision CPC plate carrier (Goons Edition)  in raid",
+    "Hand over the equipment"
+  ],
+  "rewards": {
+    "exp": 85500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Special_Offer",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

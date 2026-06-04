@@ -1,0 +1,45 @@
+{
+  "id": "network-provider-part-1",
+  "title": "Network Provider - Part 1",
+  "pageId": 28198,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "network-provider-part-1-requirements",
+      "title": "Network Provider - Part 1#Requirements"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "network-provider-part-2",
+      "title": "Network Provider - Part 2"
+    }
+  ],
+  "objectives": [
+    "Hand over the 4 found in raid Electronic components",
+    "Hand over the 4 found in raid Military COFDM Wireless Signal Transmitters",
+    "Hand over the 4 found in raid Gas analyzers",
+    "Hand over the 4 found in raid Broken GPhone smartphones"
+  ],
+  "rewards": {
+    "exp": 18600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Network_Provider_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

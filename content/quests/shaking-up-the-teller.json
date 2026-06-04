@@ -1,0 +1,54 @@
+{
+  "id": "shaking-up-the-teller",
+  "title": "Shaking Up the Teller",
+  "pageId": 6394,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "ice-cream-cones",
+      "title": "Ice Cream Cones"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-punisher-part-1",
+      "title": "The Punisher - Part 1"
+    },
+    {
+      "id": "perfect-mediator",
+      "title": "Perfect Mediator"
+    },
+    {
+      "id": "anesthesia",
+      "title": "Anesthesia"
+    }
+  ],
+  "objectives": [
+    "Obtain the valuable item in dorm room 203 on Customs",
+    "(Optional) Gain access to dorm room 214",
+    "Hand over the valuable item"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shaking_Up_the_Teller",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

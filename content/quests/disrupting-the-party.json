@@ -1,0 +1,50 @@
+{
+  "id": "disrupting-the-party",
+  "title": "Disrupting the Party",
+  "pageId": 24253,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "to-the-tree",
+      "title": "To the Tree!"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "bad-santa",
+      "title": "Bad Santa"
+    },
+    {
+      "id": "no-gifts-for-you",
+      "title": "No Gifts for You"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 enemies celebrating around the Christmas tree on Customs",
+    "Eliminate 5 enemies celebrating around the Christmas tree on Interchange",
+    "Eliminate 5 enemies celebrating around the Christmas tree on Shoreline"
+  ],
+  "rewards": {
+    "exp": 13800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Disrupting_the_Party",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

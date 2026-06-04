@@ -1,0 +1,44 @@
+{
+  "id": "a-life-lesson",
+  "title": "A Life Lesson",
+  "pageId": 38949,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "profit-retention",
+      "title": "Profit Retention"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "consolation-prize",
+      "title": "Consolation Prize"
+    }
+  ],
+  "objectives": [
+    "Hand over the item: 8 Bottle of Tarkovskaya vodka",
+    "Hand over the item: 15 Bottle of Dan Jackiel whiskey",
+    "Hand over the item: 15 Bottle of Fierce Hatchling moonshine"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Life_Lesson",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "capturing-outposts",
+  "title": "Capturing Outposts",
+  "pageId": 21755,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "woods",
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-6",
+      "title": "The Punisher - Part 6"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 8 PMC operatives at the Scav base on Customs",
+    "Eliminate 8 PMC operatives at the Scav base on Woods",
+    "Eliminate 8 PMC operatives at the Health Resort on Shoreline"
+  ],
+  "rewards": {
+    "exp": 69999,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Capturing_Outposts",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

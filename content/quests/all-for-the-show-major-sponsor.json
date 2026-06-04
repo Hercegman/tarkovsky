@@ -1,0 +1,45 @@
+{
+  "id": "all-for-the-show-major-sponsor",
+  "title": "All for the Show - Major Sponsor",
+  "pageId": 43658,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "all-for-the-show-supremacy",
+      "title": "All for the Show - Supremacy"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "superhuman",
+      "title": "Superhuman"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 enemies while using grenades",
+    "Eliminate 5 enemies who are blinded by flashbang grenades"
+  ],
+  "rewards": {
+    "exp": 20000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/All_for_the_Show_-_Major_Sponsor",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

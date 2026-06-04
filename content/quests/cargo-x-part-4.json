@@ -1,0 +1,52 @@
+{
+  "id": "cargo-x-part-4",
+  "title": "Cargo X - Part 4",
+  "pageId": 23923,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "cargo-x-part-3",
+      "title": "Cargo X - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "your-car-needs-a-service",
+      "title": "Your Car Needs a Service"
+    },
+    {
+      "id": "insomnia",
+      "title": "Insomnia"
+    },
+    {
+      "id": "setting-priorities",
+      "title": "Setting Priorities"
+    }
+  ],
+  "objectives": [
+    "Locate and mark the TerraGroup cargo with an MS2000 Marker on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 8600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

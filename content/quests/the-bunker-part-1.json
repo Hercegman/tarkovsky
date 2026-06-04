@@ -1,0 +1,46 @@
+{
+  "id": "the-bunker-part-1",
+  "title": "The Bunker - Part 1",
+  "pageId": 18570,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "bp-depot",
+      "title": "BP Depot"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-bunker-part-2",
+      "title": "The Bunker - Part 2"
+    }
+  ],
+  "objectives": [
+    "Locate the underground bunker on Reserve",
+    "Locate the control room in the underground bunker on Reserve",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 5700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Bunker_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

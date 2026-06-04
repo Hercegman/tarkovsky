@@ -1,0 +1,54 @@
+{
+  "id": "gunsmith-part-1",
+  "title": "Gunsmith - Part 1",
+  "pageId": 9592,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "saving-the-mole",
+      "title": "Saving the Mole"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-2",
+      "title": "Gunsmith - Part 2"
+    },
+    {
+      "id": "gunsmith-part-3",
+      "title": "Gunsmith - Part 3"
+    },
+    {
+      "id": "farming-part-1",
+      "title": "Farming - Part 1"
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction"
+    }
+  ],
+  "objectives": [
+    "Modify an MP-133 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

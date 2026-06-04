@@ -1,0 +1,42 @@
+{
+  "id": "the-tarkov-shooter-part-1",
+  "title": "The Tarkov Shooter - Part 1",
+  "pageId": 11793,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "acquaintance",
+      "title": "Acquaintance"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-tarkov-shooter-part-2",
+      "title": "The Tarkov Shooter - Part 2"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 Scavs from over 40 meters away while using a bolt-action rifle with iron sights"
+  ],
+  "rewards": {
+    "exp": 12300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

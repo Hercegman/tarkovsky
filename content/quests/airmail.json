@@ -1,0 +1,44 @@
+{
+  "id": "airmail",
+  "title": "Airmail",
+  "pageId": 34261,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "quality-standard",
+      "title": "Quality Standard"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-good-times-part-2",
+      "title": "The Good Times - Part 2"
+    }
+  ],
+  "objectives": [
+    "Launch a red signal flare at the old sawmill on Woods"
+  ],
+  "rewards": {
+    "exp": 14000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Airmail",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

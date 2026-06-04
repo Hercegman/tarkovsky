@@ -1,0 +1,45 @@
+{
+  "id": "trophies",
+  "title": "Trophies",
+  "pageId": 24660,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "any"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-forest-cleaning",
+      "title": "The Huntsman Path - Forest Cleaning"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "special-equipment",
+      "title": "Special Equipment"
+    }
+  ],
+  "objectives": [
+    "Find in raid and hand over 20 BEAR PMC dogtags of level 50+ to Peacekeeper",
+    "Find in raid and hand over 20 USEC PMC dogtags of level 50+ to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 137000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Trophies",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

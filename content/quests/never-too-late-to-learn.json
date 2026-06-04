@@ -1,0 +1,44 @@
+{
+  "id": "never-too-late-to-learn",
+  "title": "Never Too Late To Learn",
+  "pageId": 38939,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "safety-guarantee",
+      "title": "Safety Guarantee"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "get-a-foothold",
+      "title": "Get a Foothold"
+    }
+  ],
+  "objectives": [
+    "Hand over the item: 15 HK 416A5 5.56x45 assault rifle",
+    "Hand over the item: 4,500 5.56x45mm MK 318 Mod 0 (SOST)",
+    "Hand over the item: 8 UVSR Taiga-1 survival machete"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Never_Too_Late_To_Learn",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

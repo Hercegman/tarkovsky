@@ -1,0 +1,42 @@
+{
+  "id": "fair-price-part-1",
+  "title": "Fair Price - Part 1",
+  "pageId": 39230,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "hobby-club",
+      "title": "Hobby Club"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "fair-price-part-2",
+      "title": "Fair Price - Part 2"
+    }
+  ],
+  "objectives": [
+    "Hand over 50,000 EUR"
+  ],
+  "rewards": {
+    "exp": 1000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Fair_Price_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

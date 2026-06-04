@@ -1,0 +1,40 @@
+{
+  "id": "surplus-goods",
+  "title": "Surplus Goods",
+  "pageId": 21404,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "back-door",
+      "title": "Back Door"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Obtain the MBT Integrated Navigation System on Reserve",
+    "Hand over the navigation system to Mechanic"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Surplus_Goods",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

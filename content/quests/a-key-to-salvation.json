@@ -1,0 +1,38 @@
+{
+  "id": "a-key-to-salvation",
+  "title": "A Key to Salvation",
+  "pageId": 34221,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over a TerraGroup Labs access keycard",
+    "Hand over a TerraGroup Labs keycard (Violet)",
+    "Hand over a TerraGroup Labs keycard (Yellow)",
+    "Hand over a TerraGroup Labs keycard (Red)",
+    "Hand over a TerraGroup Labs keycard (Green)",
+    "Hand over a TerraGroup Labs keycard (Blue)",
+    "Hand over a TerraGroup Labs keycard (Black)"
+  ],
+  "rewards": {
+    "exp": 5,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/A_Key_to_Salvation",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

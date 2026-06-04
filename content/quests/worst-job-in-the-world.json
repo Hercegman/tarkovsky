@@ -1,0 +1,41 @@
+{
+  "id": "worst-job-in-the-world",
+  "title": "Worst Job in the World",
+  "pageId": 28125,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "revision-streets-of-tarkov",
+      "title": "Revision - Streets of Tarkov"
+    },
+    {
+      "id": "wet-job-part-5",
+      "title": "Wet Job - Part 5"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate any 30 enemies from over 100 meters away while using AR-15 platform weapons"
+  ],
+  "rewards": {
+    "exp": 15400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Worst_Job_in_the_World",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

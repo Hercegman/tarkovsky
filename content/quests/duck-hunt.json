@@ -1,0 +1,47 @@
+{
+  "id": "duck-hunt",
+  "title": "Duck Hunt",
+  "pageId": 42615,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "shoreline",
+    "factory",
+    "woods",
+    "ground-zero",
+    "interchange",
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and shoot down all the 10 toy ducks on Customs",
+    "Locate and shoot down all the 10 toy ducks on Shoreline",
+    "Locate and shoot down all the 9 toy ducks on Factory",
+    "Locate and shoot down all the 10 toy ducks on Woods",
+    "Locate and shoot down all the 10 toy ducks on Ground Zero",
+    "Locate and shoot down all the 10 toy ducks on Interchange",
+    "Locate and shoot down all the 10 toy ducks on Reserve",
+    "Hand over 15 Cans of duck pate"
+  ],
+  "rewards": {
+    "exp": 25000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Duck_Hunt",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

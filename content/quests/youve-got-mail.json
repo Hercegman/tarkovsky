@@ -1,0 +1,45 @@
+{
+  "id": "youve-got-mail",
+  "title": "You've Got Mail",
+  "pageId": 27931,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "postman-pat-part-1",
+      "title": "Postman Pat - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "glory-to-cpsu-part-1",
+      "title": "Glory to CPSU - Part 1"
+    }
+  ],
+  "objectives": [
+    "Obtain the registered mail on Streets of Tarkov",
+    "Hand over the letter"
+  ],
+  "rewards": {
+    "exp": 4800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/You've_Got_Mail",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

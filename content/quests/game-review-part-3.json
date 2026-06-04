@@ -1,0 +1,37 @@
+{
+  "id": "game-review-part-3",
+  "title": "Game Review - Part 3",
+  "pageId": 39385,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "last-spurt-pioneer",
+      "title": "Last Spurt - Pioneer"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Explore the game disk's contents"
+  ],
+  "rewards": {
+    "exp": 5000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Game_Review_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

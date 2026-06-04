@@ -1,0 +1,48 @@
+{
+  "id": "backup-plan",
+  "title": "Backup Plan",
+  "pageId": 43457,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "casus-belli",
+      "title": "Casus belli"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "taking-whats-mine",
+      "title": "Taking What's Mine"
+    }
+  ],
+  "objectives": [
+    "Stash the Grizzly medkit in the large barn at the old sawmill on Woods",
+    "Transit from Woods to Customs",
+    "Eliminate any 6 targets on Customs",
+    "Survive and extract from Customs"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Backup_Plan",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

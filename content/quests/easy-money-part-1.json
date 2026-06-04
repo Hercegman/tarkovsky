@@ -1,0 +1,44 @@
+{
+  "id": "easy-money-part-1",
+  "title": "Easy Money - Part 1",
+  "pageId": 33984,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "burning-rubber",
+      "title": "Burning Rubber"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "easy-money-part-2",
+      "title": "Easy Money - Part 2"
+    }
+  ],
+  "objectives": [
+    "Plant the Bison vs Undertaker poster in the living quarters at the Scav base on Customs"
+  ],
+  "rewards": {
+    "exp": 4500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Easy_Money_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

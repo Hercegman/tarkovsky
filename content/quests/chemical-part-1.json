@@ -1,0 +1,52 @@
+{
+  "id": "chemical-part-1",
+  "title": "Chemical - Part 1",
+  "pageId": 6748,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "golden-swag",
+      "title": "Golden Swag"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "chemical-part-2",
+      "title": "Chemical - Part 2"
+    },
+    {
+      "id": "polikhim-hobo",
+      "title": "Polikhim Hobo"
+    }
+  ],
+  "objectives": [
+    "Obtain information about the Deputy Chief's past life on Customs",
+    "(Optional) Locate the sleeping place of the former Deputy Chief of Security on Customs",
+    "Hand over the information to Skier",
+    "Obtain items that can help the investigation",
+    "Hand over the items to Skier"
+  ],
+  "rewards": {
+    "exp": 4800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

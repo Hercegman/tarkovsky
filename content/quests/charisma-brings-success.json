@@ -1,0 +1,41 @@
+{
+  "id": "charisma-brings-success",
+  "title": "Charisma Brings Success",
+  "pageId": 10269,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-blood-of-war-part-1",
+      "title": "The Blood of War - Part 1"
+    },
+    {
+      "id": "sew-it-good-part-4",
+      "title": "Sew it Good - Part 4"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Reach the required Charisma skill level of 10"
+  ],
+  "rewards": {
+    "exp": 15600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Charisma_Brings_Success",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

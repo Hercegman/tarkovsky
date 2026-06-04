@@ -1,0 +1,50 @@
+{
+  "id": "the-huntsman-path-factory-chief",
+  "title": "The Huntsman Path - Factory Chief",
+  "pageId": 21467,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "scout",
+      "title": "Scout"
+    },
+    {
+      "id": "the-huntsman-path-forest-cleaning",
+      "title": "The Huntsman Path - Forest Cleaning"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-huntsman-path-relentless",
+      "title": "The Huntsman Path - Relentless"
+    }
+  ],
+  "objectives": [
+    "Eliminate Tagilla",
+    "Find 1 BOSS cap in raid",
+    "Hand over 1 BOSS cap to Jaeger"
+  ],
+  "rewards": {
+    "exp": 16000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Factory_Chief",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

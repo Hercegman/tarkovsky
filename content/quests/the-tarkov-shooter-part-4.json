@@ -1,0 +1,42 @@
+{
+  "id": "the-tarkov-shooter-part-4",
+  "title": "The Tarkov Shooter - Part 4",
+  "pageId": 11800,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-tarkov-shooter-part-3",
+      "title": "The Tarkov Shooter - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-tarkov-shooter-part-5",
+      "title": "The Tarkov Shooter - Part 5"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 PMC operatives from over 80 meters away while using a bolt-action rifle"
+  ],
+  "rewards": {
+    "exp": 11800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Shooter_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

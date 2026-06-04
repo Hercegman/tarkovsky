@@ -1,0 +1,40 @@
+{
+  "id": "possessor",
+  "title": "Possessor",
+  "pageId": 34621,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "postman-pat-part-1",
+      "title": "Postman Pat - Part 1"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the helicopter logbook on Factory",
+    "Hand over the found information"
+  ],
+  "rewards": {
+    "exp": 7300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Possessor",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

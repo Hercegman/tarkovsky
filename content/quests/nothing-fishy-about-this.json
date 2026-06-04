@@ -1,0 +1,40 @@
+{
+  "id": "nothing-fishy-about-this",
+  "title": "Nothing Fishy About This",
+  "pageId": 32119,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "big-sale",
+      "title": "Big Sale"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate Ragman's SUV on Shoreline",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 7200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Nothing_Fishy_About_This",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

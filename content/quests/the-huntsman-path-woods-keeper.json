@@ -1,0 +1,66 @@
+{
+  "id": "the-huntsman-path-woods-keeper",
+  "title": "The Huntsman Path - Woods Keeper",
+  "pageId": 14944,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-secured-perimeter",
+      "title": "The Huntsman Path - Secured Perimeter"
+    },
+    {
+      "id": "supply-plans",
+      "title": "Supply Plans"
+    },
+    {
+      "id": "kind-of-sabotage",
+      "title": "Kind of Sabotage"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "hunting-trip",
+      "title": "Hunting Trip"
+    },
+    {
+      "id": "stray-dogs",
+      "title": "Stray Dogs"
+    },
+    {
+      "id": "hunter",
+      "title": "Hunter"
+    },
+    {
+      "id": "the-huntsman-path-relentless",
+      "title": "The Huntsman Path - Relentless"
+    }
+  ],
+  "objectives": [
+    "Eliminate Shturman",
+    "Find 1 Shturman's stash key in raid",
+    "Hand over 1 Shturman's stash key to Jaeger"
+  ],
+  "rewards": {
+    "exp": 18000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Woods_Keeper",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

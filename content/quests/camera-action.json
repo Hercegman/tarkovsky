@@ -1,0 +1,53 @@
+{
+  "id": "camera-action",
+  "title": "Camera, Action!",
+  "pageId": 34277,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "serious-allegations",
+      "title": "Serious Allegations"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "proper-comeback",
+      "title": "Proper Comeback"
+    }
+  ],
+  "objectives": [
+    "Hand over the found in raid item: SSD drive",
+    "Hand over the found in raid item: USB Adapter",
+    "Hand over the found in raid item: Portable Powerbank",
+    "Hand over the found in raid item: Rechargeable battery",
+    "Hand over the found in raid item: PC CPU",
+    "Hand over the found in raid item: Electronic components",
+    "Hand over the found in raid item: Bundle of wires",
+    "Hand over the found in raid item: Capacitors",
+    "Hand over the found in raid item: NIXXOR lens",
+    "Hand over the found in raid item: RAM stick",
+    "Hand over the found in raid item: Working LCD",
+    "Hand over the found in raid item: Light bulb"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Camera%2C_Action!",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

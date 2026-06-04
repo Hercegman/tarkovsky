@@ -1,0 +1,40 @@
+{
+  "id": "consolation-prize",
+  "title": "Consolation Prize",
+  "pageId": 38950,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "the-lab"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "a-life-lesson",
+      "title": "A Life Lesson"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Survive and extract from The Lab 15 times",
+    "Eliminate 100 Raiders in The Lab"
+  ],
+  "rewards": {
+    "exp": 1,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Consolation_Prize",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

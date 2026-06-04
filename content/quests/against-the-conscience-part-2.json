@@ -1,0 +1,52 @@
+{
+  "id": "against-the-conscience-part-2",
+  "title": "Against the Conscience - Part 2",
+  "pageId": 34097,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "against-the-conscience-part-1",
+      "title": "Against the Conscience - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "between-two-fires",
+      "title": "Between Two Fires"
+    },
+    {
+      "id": "decisions-decisions",
+      "title": "Decisions, Decisions"
+    },
+    {
+      "id": "surprise-gift",
+      "title": "Surprise Gift"
+    }
+  ],
+  "objectives": [
+    "Eliminate 100 enemies in any game mode in Arena"
+  ],
+  "rewards": {
+    "exp": 23000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Against_the_Conscience_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

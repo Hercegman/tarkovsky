@@ -1,0 +1,41 @@
+{
+  "id": "seizing-the-initiative",
+  "title": "Seizing the Initiative",
+  "pageId": 37691,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "humanitarian-supplies",
+      "title": "Humanitarian Supplies"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Use the transit from Customs to Shoreline",
+    "Survive and extract from Shoreline"
+  ],
+  "rewards": {
+    "exp": 6300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Seizing_the_Initiative",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "key-to-the-city",
+  "title": "Key to the City",
+  "pageId": 34285,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "proper-comeback",
+      "title": "Proper Comeback"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the souvenir key to the city on Streets of Tarkov",
+    "Hand over the found item"
+  ],
+  "rewards": {
+    "exp": 55000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Key_to_the_City",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,6317 @@
+{
+  "generatedAt": "2026-06-04T16:55:08.061Z",
+  "count": 808,
+  "quests": [
+    {
+      "id": "a-bitter-victory",
+      "title": "A Bitter Victory",
+      "trader": "btr-driver",
+      "maps": [
+        "woods",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "a-fuel-matter",
+      "title": "A Fuel Matter",
+      "trader": "ragman",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "a-healthy-alternative",
+      "title": "A Healthy Alternative",
+      "trader": "therapist",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "a-helping-hand",
+      "title": "A Helping Hand",
+      "trader": "mechanic",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "a-key-to-salvation",
+      "title": "A Key to Salvation",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "a-kind-snow-maiden",
+      "title": "A Kind Snow Maiden",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "a-life-lesson",
+      "title": "A Life Lesson",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "a-new-hope",
+      "title": "A New Hope",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "a-shooter-born-in-heaven",
+      "title": "A Shooter Born in Heaven",
+      "trader": "mechanic",
+      "maps": [
+        "woods",
+        "reserve",
+        "shoreline",
+        "customs",
+        "lighthouse",
+        "streets-of-tarkov",
+        "interchange",
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "a-small-celebration",
+      "title": "A Small Celebration",
+      "trader": "ragman",
+      "maps": [
+        "customs",
+        "interchange",
+        "lighthouse",
+        "reserve",
+        "shoreline",
+        "woods"
+      ]
+    },
+    {
+      "id": "a-wedge-between-us",
+      "title": "A Wedge Between Us",
+      "trader": "jaeger",
+      "maps": [
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "abandoned-cargo",
+      "title": "Abandoned Cargo",
+      "trader": "therapist",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "accept-delivery",
+      "title": "Accept Delivery",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "acquaintance",
+      "title": "Acquaintance",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "action-test",
+      "title": "Action test",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "advertising-business-part-1",
+      "title": "Advertising Business - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "advertising-business-part-2",
+      "title": "Advertising Business - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "advertising-business-part-3",
+      "title": "Advertising Business - Part 3",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "advertising-business-part-4",
+      "title": "Advertising Business - Part 4",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "advertising-business-part-5",
+      "title": "Advertising Business - Part 5",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "advertising-business-part-6",
+      "title": "Advertising Business - Part 6",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "afterparty",
+      "title": "Afterparty",
+      "trader": "prapor",
+      "maps": [
+        "customs",
+        "reserve",
+        "interchange",
+        "woods",
+        "shoreline",
+        "factory",
+        "streets-of-tarkov",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "against-the-conscience-part-1",
+      "title": "Against the Conscience - Part 1",
+      "trader": "fence",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "against-the-conscience-part-2",
+      "title": "Against the Conscience - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "airmail",
+      "title": "Airmail",
+      "trader": "mechanic",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "all-for-the-show-death-from-above",
+      "title": "All for the Show - Death from Above",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "all-for-the-show-heroism",
+      "title": "All for the Show - Heroism",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "all-for-the-show-major-sponsor",
+      "title": "All for the Show - Major Sponsor",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "all-for-the-show-pyrotechnics",
+      "title": "All for the Show - Pyrotechnics",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "all-for-the-show-soldier",
+      "title": "All for the Show - Soldier",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "all-for-the-show-supremacy",
+      "title": "All for the Show - Supremacy",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "all-is-revealed",
+      "title": "All Is Revealed",
+      "trader": "therapist",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "alloy",
+      "title": "Alloy",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "ambulance",
+      "title": "Ambulance",
+      "trader": "jaeger",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "ambulances-again",
+      "title": "Ambulances Again",
+      "trader": "therapist",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "an-alternative",
+      "title": "An Alternative",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "an-apple-a-day-keeps-the-doctor-away",
+      "title": "An Apple a Day Keeps the Doctor Away",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "anesthesia",
+      "title": "Anesthesia",
+      "trader": "prapor",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "another-shipping-delay",
+      "title": "Another Shipping Delay",
+      "trader": "ragman",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "arena-business",
+      "title": "Arena Business",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "arena-masquerade",
+      "title": "Arena Masquerade",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "arena-pantheon",
+      "title": "Arena Pantheon",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "ask-for-directions",
+      "title": "Ask for Directions",
+      "trader": "btr-driver",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "assessment-part-1",
+      "title": "Assessment - Part 1",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "assessment-part-2",
+      "title": "Assessment - Part 2",
+      "trader": "mechanic",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "assessment-part-3",
+      "title": "Assessment - Part 3",
+      "trader": "mechanic",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "athlete",
+      "title": "Athlete",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "atonement",
+      "title": "Atonement",
+      "trader": "skier-or-peacekeeper",
+      "maps": [
+        "customs",
+        "shoreline",
+        "customs-or-shoreline"
+      ]
+    },
+    {
+      "id": "audiophile",
+      "title": "Audiophile",
+      "trader": "ragman",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "audit",
+      "title": "Audit",
+      "trader": "ragman",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "back-door",
+      "title": "Back Door",
+      "trader": "mechanic",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "background-check",
+      "title": "Background Check",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "backup-plan",
+      "title": "Backup Plan",
+      "trader": "ref",
+      "maps": [
+        "woods",
+        "customs"
+      ]
+    },
+    {
+      "id": "bad-feeling",
+      "title": "Bad Feeling",
+      "trader": "jaeger",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "bad-habit",
+      "title": "Bad Habit",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "bad-rep-evidence",
+      "title": "Bad Rep Evidence",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "bad-santa",
+      "title": "Bad Santa",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "balancing-part-1",
+      "title": "Balancing - Part 1",
+      "trader": "ref",
+      "maps": []
+    },
+    {
+      "id": "balancing-part-2",
+      "title": "Balancing - Part 2",
+      "trader": "ref",
+      "maps": []
+    },
+    {
+      "id": "ballet-lover",
+      "title": "Ballet Lover",
+      "trader": "ragman",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "battery-change",
+      "title": "Battery Change",
+      "trader": "btr-driver",
+      "maps": [
+        "streets-of-tarkov",
+        "woods"
+      ]
+    },
+    {
+      "id": "before-the-rain",
+      "title": "Before the Rain",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "belka-and-strelka",
+      "title": "Belka and Strelka",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "beneath-the-streets",
+      "title": "Beneath The Streets",
+      "trader": "therapist",
+      "maps": [
+        "streets-of-tarkov",
+        "the-lab"
+      ]
+    },
+    {
+      "id": "berserker",
+      "title": "Berserker",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "best-job-in-the-world",
+      "title": "Best Job in the World",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "best-served-cold",
+      "title": "Best Served Cold",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "between-two-fires",
+      "title": "Between Two Fires",
+      "trader": "fence",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "beyond-the-red-meat-part-1",
+      "title": "Beyond the Red Meat - Part 1",
+      "trader": "skier",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "beyond-the-red-meat-part-2",
+      "title": "Beyond the Red Meat - Part 2",
+      "trader": "skier",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "big-customer",
+      "title": "Big Customer",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "big-sale",
+      "title": "Big Sale",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "biochemistry",
+      "title": "Biochemistry",
+      "trader": "therapist",
+      "maps": [
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "black-swan",
+      "title": "Black Swan",
+      "trader": "mechanic",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "blood-on-the-snow",
+      "title": "Blood on the Snow",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "bloodhounds-quest",
+      "title": "Bloodhounds (quest)",
+      "trader": "jaeger",
+      "maps": [
+        "customs",
+        "woods",
+        "shoreline"
+      ]
+    },
+    {
+      "id": "booze",
+      "title": "Booze",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "bp-depot",
+      "title": "BP Depot",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "break-the-deal",
+      "title": "Break the Deal",
+      "trader": "ragman",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "break-through",
+      "title": "Break Through",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "breathing-room",
+      "title": "Breathing Room",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "broadcast-part-1",
+      "title": "Broadcast - Part 1",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "broadcast-part-2",
+      "title": "Broadcast - Part 2",
+      "trader": "mechanic",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "broadcast-part-3",
+      "title": "Broadcast - Part 3",
+      "trader": "jaeger",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "broadcast-part-4",
+      "title": "Broadcast - Part 4",
+      "trader": "jaeger",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "broadcast-part-5",
+      "title": "Broadcast - Part 5",
+      "trader": "jaeger",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "bucket-of-nothing",
+      "title": "Bucket of Nothing",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "building-foundations",
+      "title": "Building Foundations",
+      "trader": "btr-driver",
+      "maps": []
+    },
+    {
+      "id": "bulldogs-under-the-rug",
+      "title": "Bulldogs Under The Rug",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "bullshit",
+      "title": "Bullshit",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "burn-it-down",
+      "title": "Burn It Down",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "burning-rubber",
+      "title": "Burning Rubber",
+      "trader": "skier",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "calibration",
+      "title": "Calibration",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "camera-action",
+      "title": "Camera, Action!",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "capacity-check",
+      "title": "Capacity Check",
+      "trader": "mechanic",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "capturing-outposts",
+      "title": "Capturing Outposts",
+      "trader": "prapor",
+      "maps": [
+        "customs",
+        "woods",
+        "shoreline"
+      ]
+    },
+    {
+      "id": "car-repair",
+      "title": "Car Repair",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "cargo-x-part-1",
+      "title": "Cargo X - Part 1",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "cargo-x-part-2",
+      "title": "Cargo X - Part 2",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "cargo-x-part-3",
+      "title": "Cargo X - Part 3",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "cargo-x-part-4",
+      "title": "Cargo X - Part 4",
+      "trader": "peacekeeper",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "casus-belli",
+      "title": "Casus belli",
+      "trader": "ref",
+      "maps": [
+        "customs",
+        "interchange",
+        "lighthouse",
+        "shoreline",
+        "woods"
+      ]
+    },
+    {
+      "id": "caught-red-handed",
+      "title": "Caught Red-Handed",
+      "trader": "peacekeeper",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "cease-fire",
+      "title": "Cease Fire!",
+      "trader": "jaeger",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "ceasefire-information",
+      "title": "Ceasefire - Information",
+      "trader": "fence",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "ceasefire-part-2",
+      "title": "Ceasefire - Part 2",
+      "trader": "fence",
+      "maps": [
+        "customs",
+        "shoreline",
+        "customs-or-shoreline"
+      ]
+    },
+    {
+      "id": "charisma-brings-success",
+      "title": "Charisma Brings Success",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "cheer-up",
+      "title": "Cheer Up",
+      "trader": "prapor",
+      "maps": [
+        "hideout"
+      ]
+    },
+    {
+      "id": "chemical-part-1",
+      "title": "Chemical - Part 1",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "chemical-part-2",
+      "title": "Chemical - Part 2",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "chemical-part-3",
+      "title": "Chemical - Part 3",
+      "trader": "skier",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "chemical-part-4",
+      "title": "Chemical - Part 4",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "chemistry-closet",
+      "title": "Chemistry Closet",
+      "trader": "mechanic",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "chilly",
+      "title": "Chilly",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "choose-your-friends-wisely",
+      "title": "Choose Your Friends Wisely",
+      "trader": "skier",
+      "maps": [
+        "customs",
+        "reserve",
+        "woods",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "chop-the-thieving-hand",
+      "title": "Chop the Thieving Hand",
+      "trader": "peacekeeper",
+      "maps": [
+        "interchange",
+        "shoreline",
+        "factory",
+        "woods",
+        "customs",
+        "reserve",
+        "lighthouse",
+        "streets-of-tarkov",
+        "ground-zero",
+        "ground-zero-level-21"
+      ]
+    },
+    {
+      "id": "christmas-dinner",
+      "title": "Christmas Dinner",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "christmas-time-finale",
+      "title": "Christmas Time - Finale",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "christmas-time-part-1",
+      "title": "Christmas Time - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "christmas-time-part-2",
+      "title": "Christmas Time - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "christmas-time-part-3",
+      "title": "Christmas Time - Part 3",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "christmas-time-part-4",
+      "title": "Christmas Time - Part 4",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "christmas-time-part-5",
+      "title": "Christmas Time - Part 5",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "christmas-time-part-6",
+      "title": "Christmas Time - Part 6",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "chumming",
+      "title": "Chumming",
+      "trader": "skier",
+      "maps": [
+        "customs",
+        "woods",
+        "interchange"
+      ]
+    },
+    {
+      "id": "circulate",
+      "title": "Circulate",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "classified-technologies",
+      "title": "Classified Technologies",
+      "trader": "peacekeeper",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "claustrophobia",
+      "title": "Claustrophobia",
+      "trader": "jaeger",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "clear-conscience",
+      "title": "Clear Conscience",
+      "trader": "jaeger",
+      "maps": [
+        "lighthouse",
+        "shoreline",
+        "woods",
+        "customs",
+        "factory",
+        "the-lab"
+      ]
+    },
+    {
+      "id": "clearing-the-way",
+      "title": "Clearing the Way",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "clip-their-wings",
+      "title": "Clip Their Wings",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "closer-to-the-people",
+      "title": "Closer to the People",
+      "trader": "therapist",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "cocktail-tasting",
+      "title": "Cocktail Tasting",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "cold-start",
+      "title": "Cold Start",
+      "trader": "btr-driver",
+      "maps": []
+    },
+    {
+      "id": "colleagues-part-1",
+      "title": "Colleagues - Part 1",
+      "trader": "therapist",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "colleagues-part-2",
+      "title": "Colleagues - Part 2",
+      "trader": "therapist",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "colleagues-part-3",
+      "title": "Colleagues - Part 3",
+      "trader": "therapist",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "collector",
+      "title": "Collector",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "combat-proven",
+      "title": "Combat Proven",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "come-by-the-fire",
+      "title": "Come by the Fire",
+      "trader": "skier",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "comfort-zone",
+      "title": "Comfort Zone",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "communication-difficulties",
+      "title": "Communication Difficulties",
+      "trader": "ragman",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "compensation-for-damage-barkeep",
+      "title": "Compensation for Damage - Barkeep",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "compensation-for-damage-collection",
+      "title": "Compensation for Damage - Collection",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "compensation-for-damage-trust",
+      "title": "Compensation for Damage - Trust",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "compensation-for-damage-wager",
+      "title": "Compensation for Damage - Wager",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "compensation-for-damage-wergild",
+      "title": "Compensation for Damage - Wergild",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "competition-protection",
+      "title": "Competition Protection",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "compromise",
+      "title": "Compromise",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "confidential-info",
+      "title": "Confidential Info",
+      "trader": "peacekeeper",
+      "maps": [
+        "the-labyrinth"
+      ]
+    },
+    {
+      "id": "connections-up-north",
+      "title": "Connections Up North",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "conservation-area",
+      "title": "Conservation Area",
+      "trader": "jaeger",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "consolation-prize",
+      "title": "Consolation Prize",
+      "trader": "skier",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "contagious-beast",
+      "title": "Contagious Beast",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "corporate-secrets",
+      "title": "Corporate Secrets",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "counteraction",
+      "title": "Counteraction",
+      "trader": "peacekeeper",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "courtesy-visit",
+      "title": "Courtesy Visit",
+      "trader": "jaeger",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "cream-of-the-crop",
+      "title": "Cream of the Crop",
+      "trader": "prapor",
+      "maps": [
+        "shoreline",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "create-a-distraction-part-1",
+      "title": "Create a Distraction - Part 1",
+      "trader": "ref",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "create-a-distraction-part-2",
+      "title": "Create a Distraction - Part 2",
+      "trader": "ref",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "creator-inspiration-part-1",
+      "title": "Creator Inspiration - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "creator-inspiration-part-2",
+      "title": "Creator Inspiration - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "crisis",
+      "title": "Crisis",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "customer-communication",
+      "title": "Customer Communication",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "dandies",
+      "title": "Dandies",
+      "trader": "ragman",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "dangerous-props",
+      "title": "Dangerous Props",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "dangerous-road",
+      "title": "Dangerous Road",
+      "trader": "therapist",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "dark-times",
+      "title": "Dark Times",
+      "trader": "fence",
+      "maps": [
+        "factory",
+        "nighttime-factory"
+      ]
+    },
+    {
+      "id": "darkest-hour-is-just-before-dawn",
+      "title": "Darkest Hour Is Just Before Dawn",
+      "trader": "jaeger",
+      "maps": [
+        "ground-zero",
+        "streets-of-tarkov",
+        "the-lab"
+      ]
+    },
+    {
+      "id": "database-part-1",
+      "title": "Database - Part 1",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "database-part-2",
+      "title": "Database - Part 2",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "debtor",
+      "title": "Debtor",
+      "trader": "skier",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "debts",
+      "title": "Debts",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "debut",
+      "title": "Debut",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "decisions-decisions",
+      "title": "Decisions, Decisions",
+      "trader": "ref",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "decontamination-service",
+      "title": "Decontamination Service",
+      "trader": "therapist",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "decryption-hurdles-part-1",
+      "title": "Decryption Hurdles - Part 1",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "decryption-hurdles-part-2",
+      "title": "Decryption Hurdles - Part 2",
+      "trader": "mechanic",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "decryption-hurdles-part-3",
+      "title": "Decryption Hurdles - Part 3",
+      "trader": "mechanic",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "delivery-from-the-past",
+      "title": "Delivery From the Past",
+      "trader": "prapor",
+      "maps": [
+        "customs",
+        "factory"
+      ]
+    },
+    {
+      "id": "developers-secrets-part-1",
+      "title": "Developer's Secrets - Part 1",
+      "trader": "mechanic",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "developers-secrets-part-2",
+      "title": "Developer's Secrets - Part 2",
+      "trader": "mechanic",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "ding-ding-ding",
+      "title": "Ding-Ding-Ding",
+      "trader": "lightkeeper",
+      "maps": [
+        "customs",
+        "shoreline",
+        "customs-or-shoreline"
+      ]
+    },
+    {
+      "id": "dirty-blood",
+      "title": "Dirty Blood",
+      "trader": "jaeger",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "discombobulate",
+      "title": "Discombobulate",
+      "trader": "btr-driver",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "disease-history",
+      "title": "Disease History",
+      "trader": "therapist",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "disrupting-the-party",
+      "title": "Disrupting the Party",
+      "trader": "skier",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "documents",
+      "title": "Documents",
+      "trader": "prapor",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "domain-expansion",
+      "title": "Domain Expansion",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "dont-believe-your-eyes",
+      "title": "Don’t Believe Your Eyes",
+      "trader": "jaeger",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "down-the-rabbit-hole-part-1",
+      "title": "Down the Rabbit Hole - Part 1",
+      "trader": "prapor",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "down-the-rabbit-hole-part-2",
+      "title": "Down the Rabbit Hole - Part 2",
+      "trader": "prapor",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "down-the-rabbit-hole-part-3",
+      "title": "Down the Rabbit Hole - Part 3",
+      "trader": "skier",
+      "maps": [
+        "streets-of-tarkov",
+        "customs"
+      ]
+    },
+    {
+      "id": "down-the-rabbit-hole-part-4",
+      "title": "Down the Rabbit Hole - Part 4",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "down-the-rabbit-hole-part-5",
+      "title": "Down the Rabbit Hole - Part 5",
+      "trader": "prapor",
+      "maps": [
+        "shoreline",
+        "customs",
+        "interchange",
+        "lighthouse",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "down-the-rabbit-hole-part-6",
+      "title": "Down the Rabbit Hole - Part 6",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "dragnet",
+      "title": "Dragnet",
+      "trader": "jaeger",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "dressed-to-kill",
+      "title": "Dressed to Kill",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "drip-out-part-1",
+      "title": "Drip-Out - Part 1",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "drip-out-part-2",
+      "title": "Drip-Out - Part 2",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "drug-trafficking",
+      "title": "Drug Trafficking",
+      "trader": "therapist",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "duck-hunt",
+      "title": "Duck Hunt",
+      "trader": "jaeger",
+      "maps": [
+        "customs",
+        "shoreline",
+        "factory",
+        "woods",
+        "ground-zero",
+        "interchange",
+        "reserve"
+      ]
+    },
+    {
+      "id": "eagle-eye",
+      "title": "Eagle Eye",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "easy-job-part-1",
+      "title": "Easy Job - Part 1",
+      "trader": "prapor",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "easy-job-part-2",
+      "title": "Easy Job - Part 2",
+      "trader": "prapor",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "easy-money-part-1",
+      "title": "Easy Money - Part 1",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "easy-money-part-2",
+      "title": "Easy Money - Part 2",
+      "trader": "ref",
+      "maps": []
+    },
+    {
+      "id": "energy-crisis",
+      "title": "Energy Crisis",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "enough-drinks-for-that-one",
+      "title": "Enough Drinks for That One",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "escort",
+      "title": "Escort",
+      "trader": "prapor",
+      "maps": [
+        "factory",
+        "customs",
+        "shoreline",
+        "reserve",
+        "woods",
+        "interchange",
+        "the-lab",
+        "ground-zero",
+        "daytime-factory"
+      ]
+    },
+    {
+      "id": "establish-contact",
+      "title": "Establish Contact",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "every-hunter-knows-this",
+      "title": "Every Hunter Knows This",
+      "trader": "jaeger",
+      "maps": [
+        "factory",
+        "customs"
+      ]
+    },
+    {
+      "id": "every-man-for-himself",
+      "title": "Every Man for Himself",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "evil-spirits",
+      "title": "Evil Spirits",
+      "trader": "prapor",
+      "maps": [
+        "ground-zero",
+        "customs",
+        "woods",
+        "shoreline",
+        "interchange",
+        "reserve",
+        "lighthouse",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "examinatio-part-1",
+      "title": "Examinatio - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "examinatio-part-2",
+      "title": "Examinatio - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "examinatio-part-3",
+      "title": "Examinatio - Part 3",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "examinatio-part-4",
+      "title": "Examinatio - Part 4",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "examinatio-part-5",
+      "title": "Examinatio - Part 5",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "examinatio-part-6",
+      "title": "Examinatio - Part 6",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "examinatio-part-7",
+      "title": "Examinatio - Part 7",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "examinatio-part-8",
+      "title": "Examinatio - Part 8",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "exit-here",
+      "title": "Exit Here",
+      "trader": "skier",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "external-interest",
+      "title": "External Interest",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "failed-setup",
+      "title": "Failed Setup",
+      "trader": "mechanic",
+      "maps": [
+        "factory",
+        "customs",
+        "woods",
+        "shoreline",
+        "night-factory"
+      ]
+    },
+    {
+      "id": "fair-price-part-1",
+      "title": "Fair Price - Part 1",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "fair-price-part-2",
+      "title": "Fair Price - Part 2",
+      "trader": "skier",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "fairy-tale-showdown",
+      "title": "Fairy Tale Showdown",
+      "trader": "bear-prapor-usec-peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "farming-part-1",
+      "title": "Farming - Part 1",
+      "trader": "mechanic",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "farming-part-2",
+      "title": "Farming - Part 2",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "farming-part-3",
+      "title": "Farming - Part 3",
+      "trader": "mechanic",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "farming-part-4",
+      "title": "Farming - Part 4",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "fearless-beast",
+      "title": "Fearless Beast",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "fertilizers",
+      "title": "Fertilizers",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "field-testing",
+      "title": "Field Testing",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "fight-back",
+      "title": "Fight Back",
+      "trader": "jaeger",
+      "maps": [
+        "shoreline",
+        "customs",
+        "woods"
+      ]
+    },
+    {
+      "id": "find-the-source",
+      "title": "Find the Source",
+      "trader": "therapist",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "first-blood",
+      "title": "First Blood",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "first-in-line",
+      "title": "First in Line",
+      "trader": "therapist",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "first-introduction",
+      "title": "First Introduction",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "fishing-gear",
+      "title": "Fishing Gear",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "fishing-place",
+      "title": "Fishing Place",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "fishing-with-shishiga",
+      "title": "Fishing With Shishiga",
+      "trader": "prapor",
+      "maps": [
+        "customs",
+        "woods",
+        "shoreline",
+        "interchange",
+        "reserve",
+        "lighthouse",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "flint",
+      "title": "Flint",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "following-the-bread-crumbs",
+      "title": "Following the Bread Crumbs",
+      "trader": "lightkeeper",
+      "maps": [
+        "the-lab",
+        "reserve"
+      ]
+    },
+    {
+      "id": "forced-alliance",
+      "title": "Forced Alliance",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "forced-measure",
+      "title": "Forced Measure",
+      "trader": "therapist",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "foreign-support",
+      "title": "Foreign Support",
+      "trader": "peacekeeper",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "foresters-duty",
+      "title": "Forester's Duty",
+      "trader": "jaeger",
+      "maps": [
+        "lighthouse",
+        "shoreline"
+      ]
+    },
+    {
+      "id": "forge-a-friendship",
+      "title": "Forge a Friendship",
+      "trader": "prapor",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "forgotten-acquaintance",
+      "title": "Forgotten Acquaintance",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "forgotten-oaths",
+      "title": "Forgotten Oaths",
+      "trader": "jaeger",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "forklift-certified",
+      "title": "Forklift Certified",
+      "trader": "mechanic",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "fresh-stock",
+      "title": "Fresh Stock",
+      "trader": "ragman",
+      "maps": [
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "friend-among-strangers",
+      "title": "Friend Among Strangers",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "friend-from-norvinsk-alternative-solution",
+      "title": "Friend from Norvinsk - Alternative Solution",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "friend-from-norvinsk-part-1",
+      "title": "Friend from Norvinsk - Part 1",
+      "trader": "mechanic",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "friend-from-norvinsk-part-2",
+      "title": "Friend from Norvinsk - Part 2",
+      "trader": "mechanic",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "friend-from-norvinsk-part-3",
+      "title": "Friend from Norvinsk - Part 3",
+      "trader": "mechanic",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "friend-from-norvinsk-part-4",
+      "title": "Friend from Norvinsk - Part 4",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "friend-from-norvinsk-part-5",
+      "title": "Friend from Norvinsk - Part 5",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "friend-from-the-west-part-1",
+      "title": "Friend From the West - Part 1",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "friend-from-the-west-part-2",
+      "title": "Friend From the West - Part 2",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "from-beginning-to-end",
+      "title": "From Beginning To End",
+      "trader": "fence",
+      "maps": [
+        "ground-zero",
+        "streets-of-tarkov",
+        "interchange",
+        "customs",
+        "factory",
+        "woods",
+        "reserve",
+        "lighthouse",
+        "shoreline"
+      ]
+    },
+    {
+      "id": "frost-and-sun",
+      "title": "Frost and Sun",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "game-review-part-1",
+      "title": "Game Review - Part 1",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "game-review-part-2",
+      "title": "Game Review - Part 2",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "game-review-part-3",
+      "title": "Game Review - Part 3",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gendarmerie-district-patrol",
+      "title": "Gendarmerie - District Patrol",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "gendarmerie-mall-cop",
+      "title": "Gendarmerie - Mall Cop",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "gendarmerie-school-guard",
+      "title": "Gendarmerie - School Guard",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "gendarmerie-tickets-please",
+      "title": "Gendarmerie - Tickets, Please",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "general-cleanup",
+      "title": "General Cleanup",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "general-wares",
+      "title": "General Wares",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "get-a-foothold",
+      "title": "Get a Foothold",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "getting-acquainted",
+      "title": "Getting Acquainted",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "getting-to-the-core",
+      "title": "Getting to the Core",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "gladiator-doping-part-1",
+      "title": "Gladiator Doping - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-doping-part-2",
+      "title": "Gladiator Doping - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-doping-part-3",
+      "title": "Gladiator Doping - Part 3",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-doping-part-4",
+      "title": "Gladiator Doping - Part 4",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-final-exam",
+      "title": "Gladiator Life - Final Exam",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-1",
+      "title": "Gladiator Life - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-10",
+      "title": "Gladiator Life - Part 10",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-2",
+      "title": "Gladiator Life - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-3",
+      "title": "Gladiator Life - Part 3",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-4",
+      "title": "Gladiator Life - Part 4",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-5",
+      "title": "Gladiator Life - Part 5",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-6",
+      "title": "Gladiator Life - Part 6",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-7",
+      "title": "Gladiator Life - Part 7",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-8",
+      "title": "Gladiator Life - Part 8",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "gladiator-life-part-9",
+      "title": "Gladiator Life - Part 9",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "global-threat",
+      "title": "Global Threat",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "glory-to-cpsu-part-1",
+      "title": "Glory to CPSU - Part 1",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "glory-to-cpsu-part-2",
+      "title": "Glory to CPSU - Part 2",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "gloves-off",
+      "title": "Gloves Off",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "goals-and-means",
+      "title": "Goals and Means",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "golden-swag",
+      "title": "Golden Swag",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "grannys-tales",
+      "title": "Granny's Tales",
+      "trader": "prapor",
+      "maps": [
+        "ground-zero",
+        "customs",
+        "woods",
+        "shoreline",
+        "interchange",
+        "reserve",
+        "lighthouse",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "gratitude",
+      "title": "Gratitude",
+      "trader": "ragman",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "green-corridor",
+      "title": "Green Corridor",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "grenadier",
+      "title": "Grenadier",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "gun-connoisseur",
+      "title": "Gun Connoisseur",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-old-friends-request",
+      "title": "Gunsmith - Old Friend's Request",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-1",
+      "title": "Gunsmith - Part 1",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-10",
+      "title": "Gunsmith - Part 10",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-11",
+      "title": "Gunsmith - Part 11",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-12",
+      "title": "Gunsmith - Part 12",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-13",
+      "title": "Gunsmith - Part 13",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-14",
+      "title": "Gunsmith - Part 14",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-15",
+      "title": "Gunsmith - Part 15",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-16",
+      "title": "Gunsmith - Part 16",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-17",
+      "title": "Gunsmith - Part 17",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-18",
+      "title": "Gunsmith - Part 18",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-19",
+      "title": "Gunsmith - Part 19",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-2",
+      "title": "Gunsmith - Part 2",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-20",
+      "title": "Gunsmith - Part 20",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-21",
+      "title": "Gunsmith - Part 21",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-22",
+      "title": "Gunsmith - Part 22",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-23",
+      "title": "Gunsmith - Part 23",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-24",
+      "title": "Gunsmith - Part 24",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-25",
+      "title": "Gunsmith - Part 25",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-3",
+      "title": "Gunsmith - Part 3",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-4",
+      "title": "Gunsmith - Part 4",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-5",
+      "title": "Gunsmith - Part 5",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-6",
+      "title": "Gunsmith - Part 6",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-7",
+      "title": "Gunsmith - Part 7",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-8",
+      "title": "Gunsmith - Part 8",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-part-9",
+      "title": "Gunsmith - Part 9",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "gunsmith-special-order",
+      "title": "Gunsmith - Special Order",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "habet-hoc-habet",
+      "title": "Habet, hoc habet!",
+      "trader": "skier",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "half-empty",
+      "title": "Half-Empty",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "hangover",
+      "title": "Hangover",
+      "trader": "btr-driver",
+      "maps": [
+        "woods",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "harley-forever",
+      "title": "Harley Forever",
+      "trader": "ragman",
+      "maps": [
+        "lighthouse",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "healer",
+      "title": "Healer",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "healing",
+      "title": "Healing",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "health-care-privacy-part-1",
+      "title": "Health Care Privacy - Part 1",
+      "trader": "therapist",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "health-care-privacy-part-2",
+      "title": "Health Care Privacy - Part 2",
+      "trader": "therapist",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "health-care-privacy-part-3",
+      "title": "Health Care Privacy - Part 3",
+      "trader": "therapist",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "health-care-privacy-part-4",
+      "title": "Health Care Privacy - Part 4",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "health-care-privacy-part-5",
+      "title": "Health Care Privacy - Part 5",
+      "trader": "therapist",
+      "maps": [
+        "factory",
+        "nighttime-factory"
+      ]
+    },
+    {
+      "id": "health-care-privacy-part-6",
+      "title": "Health Care Privacy - Part 6",
+      "trader": "therapist",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "hell-on-earth-part-1",
+      "title": "Hell on Earth - Part 1",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "hell-on-earth-part-2",
+      "title": "Hell on Earth - Part 2",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "hidden-layer",
+      "title": "Hidden Layer",
+      "trader": "mechanic",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "hide-in-plain-sight",
+      "title": "Hide in Plain Sight",
+      "trader": "ragman",
+      "maps": [
+        "customs",
+        "woods",
+        "shoreline",
+        "interchange",
+        "reserve",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "high-voltage",
+      "title": "High Voltage",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "hindsight-20-20",
+      "title": "Hindsight 20/20",
+      "trader": "skier",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "hint",
+      "title": "Hint",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "hippocratic-oath",
+      "title": "Hippocratic Oath",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "hobby-club",
+      "title": "Hobby Club",
+      "trader": "mechanic",
+      "maps": [
+        "reserve",
+        "customs"
+      ]
+    },
+    {
+      "id": "hold-the-lead",
+      "title": "Hold the Lead",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "holiday-beyond-the-means",
+      "title": "Holiday Beyond the Means",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "home-comfort",
+      "title": "Home Comfort",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "hot-delivery",
+      "title": "Hot Delivery",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "hot-wheels",
+      "title": "Hot Wheels",
+      "trader": "btr-driver",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "hot-wheels-lets-try-again",
+      "title": "Hot Wheels - Let's Try Again",
+      "trader": "btr-driver",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "hot-zone",
+      "title": "Hot Zone",
+      "trader": "ragman",
+      "maps": [
+        "customs",
+        "reserve"
+      ]
+    },
+    {
+      "id": "house-arrest-part-1",
+      "title": "House Arrest - Part 1",
+      "trader": "skier",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "house-arrest-part-2",
+      "title": "House Arrest - Part 2",
+      "trader": "skier",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "humanitarian-supplies",
+      "title": "Humanitarian Supplies",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "hunter",
+      "title": "Hunter",
+      "trader": "jaeger",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "hunting-trip",
+      "title": "Hunting Trip",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "hustle-2023",
+      "title": "Hustle (2023)",
+      "trader": "peacekeeper",
+      "maps": [
+        "customs",
+        "woods",
+        "shoreline",
+        "interchange",
+        "reserve"
+      ]
+    },
+    {
+      "id": "hustle-2024",
+      "title": "Hustle (2024)",
+      "trader": "jaeger",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "hypotheses-testing",
+      "title": "Hypotheses Testing",
+      "trader": "mechanic",
+      "maps": [
+        "the-labyrinth"
+      ]
+    },
+    {
+      "id": "i-am-speed-part-1",
+      "title": "I Am Speed - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "i-am-speed-part-2",
+      "title": "I Am Speed - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "i-am-speed-part-3",
+      "title": "I Am Speed - Part 3",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "ice-cream-cones",
+      "title": "Ice Cream Cones",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "illegal-logging",
+      "title": "Illegal Logging",
+      "trader": "jaeger",
+      "maps": [
+        "customs",
+        "woods",
+        "shoreline",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "illusion-of-mercy",
+      "title": "Illusion of Mercy",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "immunity-quest",
+      "title": "Immunity (quest)",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "import",
+      "title": "Import",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "import-control",
+      "title": "Import Control",
+      "trader": "mechanic",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "important-patient",
+      "title": "Important Patient",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "in-and-out",
+      "title": "In and Out",
+      "trader": "prapor",
+      "maps": [
+        "shoreline",
+        "woods",
+        "reserve",
+        "customs"
+      ]
+    },
+    {
+      "id": "indisputable-authority",
+      "title": "Indisputable Authority",
+      "trader": "skier",
+      "maps": [
+        "the-labyrinth"
+      ]
+    },
+    {
+      "id": "inevitable-response",
+      "title": "Inevitable Response",
+      "trader": "btr-driver",
+      "maps": [
+        "woods",
+        "reserve"
+      ]
+    },
+    {
+      "id": "information-source",
+      "title": "Information Source",
+      "trader": "lightkeeper",
+      "maps": [
+        "customs",
+        "woods",
+        "interchange",
+        "streets-of-tarkov",
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "informed-means-armed",
+      "title": "Informed Means Armed",
+      "trader": "skier",
+      "maps": [
+        "interchange",
+        "woods",
+        "customs"
+      ]
+    },
+    {
+      "id": "insider",
+      "title": "Insider",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "insomnia",
+      "title": "Insomnia",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "intimidator",
+      "title": "Intimidator",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "into-the-inferno",
+      "title": "Into the Inferno",
+      "trader": "prapor",
+      "maps": [
+        "shoreline",
+        "woods",
+        "reserve",
+        "customs"
+      ]
+    },
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "trader": "mechanic",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "inventory-check",
+      "title": "Inventory Check",
+      "trader": "ragman",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "irresistible",
+      "title": "Irresistible",
+      "trader": "skier",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "is-this-a-reference",
+      "title": "Is This a Reference?",
+      "trader": "fence",
+      "maps": [
+        "streets-of-tarkov",
+        "ground-zero",
+        "lighthouse",
+        "reserve",
+        "customs",
+        "factory",
+        "woods",
+        "shoreline"
+      ]
+    },
+    {
+      "id": "jack-of-all-trades",
+      "title": "Jack of All Trades",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "jack-of-all-trades-pro",
+      "title": "Jack of All Trades - Pro",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "job-that-kills",
+      "title": "Job That Kills",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "keepers-word",
+      "title": "Keeper's Word",
+      "trader": "lightkeeper",
+      "maps": [
+        "the-labyrinth"
+      ]
+    },
+    {
+      "id": "key-component",
+      "title": "Key Component",
+      "trader": "therapist",
+      "maps": [
+        "lighthouse",
+        "the-lab"
+      ]
+    },
+    {
+      "id": "key-partner",
+      "title": "Key Partner",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "key-to-the-city",
+      "title": "Key to the City",
+      "trader": "ragman",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "key-to-the-tower",
+      "title": "Key to the Tower",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "khorovod",
+      "title": "Khorovod",
+      "trader": "prapor",
+      "maps": [
+        "shoreline",
+        "lighthouse",
+        "reserve",
+        "woods",
+        "customs",
+        "interchange"
+      ]
+    },
+    {
+      "id": "killer-argument",
+      "title": "Killer Argument",
+      "trader": "skier",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "kind-of-sabotage",
+      "title": "Kind of Sabotage",
+      "trader": "skier",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "kings-of-the-rooftops",
+      "title": "Kings of the Rooftops",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "knock-knock",
+      "title": "Knock-Knock",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "know-your-place",
+      "title": "Know Your Place!",
+      "trader": "ragman",
+      "maps": [
+        "streets-of-tarkov",
+        "interchange"
+      ]
+    },
+    {
+      "id": "knuckle-sandwich",
+      "title": "Knuckle Sandwich",
+      "trader": "prapor",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "kolotun",
+      "title": "Kolotun",
+      "trader": "jaeger",
+      "maps": [
+        "streets-of-tarkov",
+        "ground-zero",
+        "interchange",
+        "customs",
+        "woods",
+        "reserve",
+        "lighthouse",
+        "shoreline",
+        "factory"
+      ]
+    },
+    {
+      "id": "last-spurt-pioneer",
+      "title": "Last Spurt - Pioneer",
+      "trader": "mechanic",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "lay-low",
+      "title": "Lay Low",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "lend-lease-part-1",
+      "title": "Lend-Lease - Part 1",
+      "trader": "skier",
+      "maps": [
+        "shoreline",
+        "woods"
+      ]
+    },
+    {
+      "id": "lend-lease-part-2",
+      "title": "Lend-Lease - Part 2",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "letters",
+      "title": "Letters",
+      "trader": "mechanic",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "liaison",
+      "title": "Liaison",
+      "trader": "peacekeeper",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "living-high-is-not-a-crime-part-1",
+      "title": "Living High is Not a Crime - Part 1",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "living-high-is-not-a-crime-part-2",
+      "title": "Living High is Not a Crime - Part 2",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "long-line",
+      "title": "Long Line",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "long-road",
+      "title": "Long Road",
+      "trader": "skier",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "lost-contact",
+      "title": "Lost Contact",
+      "trader": "therapist",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "loyalty-buyout",
+      "title": "Loyalty Buyout",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "luxurious-life",
+      "title": "Luxurious Life",
+      "trader": "prapor",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "make-amends",
+      "title": "Make Amends",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "make-amends-buyout",
+      "title": "Make Amends - Buyout",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "make-amends-equipment",
+      "title": "Make Amends - Equipment",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "make-amends-quarantine",
+      "title": "Make Amends - Quarantine",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "make-amends-security",
+      "title": "Make Amends - Security",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "make-amends-software",
+      "title": "Make Amends - Software",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "make-amends-sweep-up",
+      "title": "Make Amends - Sweep Up",
+      "trader": "mechanic",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "make-an-impression",
+      "title": "Make an Impression",
+      "trader": "lightkeeper",
+      "maps": []
+    },
+    {
+      "id": "make-ultra-great-again",
+      "title": "Make ULTRA Great Again",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "martial-arts-course",
+      "title": "Martial arts course",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "matter-of-technique",
+      "title": "Matter of Technique",
+      "trader": "mechanic",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "mayday",
+      "title": "Mayday",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "mentor",
+      "title": "Mentor",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "minibus",
+      "title": "Minibus",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "minute-of-fame",
+      "title": "Minute of Fame",
+      "trader": "skier",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "missing-cargo",
+      "title": "Missing Cargo",
+      "trader": "skier",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "missing-in-action",
+      "title": "Missing in Action",
+      "trader": "prapor",
+      "maps": [
+        "woods",
+        "reserve",
+        "interchange"
+      ]
+    },
+    {
+      "id": "missing-informant",
+      "title": "Missing Informant",
+      "trader": "lightkeeper",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "more-red",
+      "title": "More Red",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "morituri-te-salutant",
+      "title": "Morituri te salutant",
+      "trader": "ref",
+      "maps": []
+    },
+    {
+      "id": "natural-exchange",
+      "title": "Natural Exchange",
+      "trader": "btr-driver",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "needle-in-a-haystack",
+      "title": "Needle in a Haystack",
+      "trader": "mechanic",
+      "maps": [
+        "ground-zero",
+        "interchange",
+        "streets-of-tarkov",
+        "shoreline"
+      ]
+    },
+    {
+      "id": "network-provider-part-1",
+      "title": "Network Provider - Part 1",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "network-provider-part-2",
+      "title": "Network Provider - Part 2",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "never-too-late-to-learn",
+      "title": "Never Too Late To Learn",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "new-beginning-prestige-1",
+      "title": "New Beginning (Prestige 1)",
+      "trader": "ragman",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "new-beginning-prestige-2",
+      "title": "New Beginning (Prestige 2)",
+      "trader": "ragman",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "new-beginning-prestige-3",
+      "title": "New Beginning (Prestige 3)",
+      "trader": "ragman",
+      "maps": [
+        "the-lab",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "new-beginning-prestige-4",
+      "title": "New Beginning (Prestige 4)",
+      "trader": "ragman",
+      "maps": [
+        "the-lab",
+        "streets-of-tarkov",
+        "interchange"
+      ]
+    },
+    {
+      "id": "new-beginning-prestige-5",
+      "title": "New Beginning (Prestige 5)",
+      "trader": "ragman",
+      "maps": [
+        "the-lab",
+        "streets-of-tarkov",
+        "interchange",
+        "customs"
+      ]
+    },
+    {
+      "id": "new-beginning-prestige-6",
+      "title": "New Beginning (Prestige 6)",
+      "trader": "ragman",
+      "maps": [
+        "the-lab",
+        "streets-of-tarkov",
+        "interchange",
+        "customs",
+        "reserve"
+      ]
+    },
+    {
+      "id": "new-day-new-paths",
+      "title": "New Day, New Paths",
+      "trader": "peacekeeper",
+      "maps": [
+        "ground-zero",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "night-of-the-cult",
+      "title": "Night of The Cult",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "night-sweep",
+      "title": "Night Sweep",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "no-fuss-needed",
+      "title": "No Fuss Needed",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "no-gifts-for-you",
+      "title": "No Gifts for You",
+      "trader": "jaeger",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "no-limit-to-perfection-part-1",
+      "title": "No Limit to Perfection - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "no-limit-to-perfection-part-2",
+      "title": "No Limit to Perfection - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "no-limit-to-perfection-part-3",
+      "title": "No Limit to Perfection - Part 3",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "no-limit-to-perfection-part-4",
+      "title": "No Limit to Perfection - Part 4",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "no-limit-to-perfection-part-5",
+      "title": "No Limit to Perfection - Part 5",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "no-limit-to-perfection-part-6",
+      "title": "No Limit to Perfection - Part 6",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "no-limit-to-perfection-part-7",
+      "title": "No Limit to Perfection - Part 7",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "no-limit-to-perfection-part-8",
+      "title": "No Limit to Perfection - Part 8",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "no-limit-to-perfection-part-9",
+      "title": "No Limit to Perfection - Part 9",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "no-offence",
+      "title": "No Offence",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "no-peeking",
+      "title": "No Peeking!",
+      "trader": "peacekeeper",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "no-place-for-renegades",
+      "title": "No Place for Renegades",
+      "trader": "prapor",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "no-questions-asked",
+      "title": "No Questions Asked",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "no-smoke-without-fire",
+      "title": "No Smoke Without Fire",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline",
+        "lighthouse",
+        "reserve"
+      ]
+    },
+    {
+      "id": "no-swiping",
+      "title": "No Swiping",
+      "trader": "skier",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "nostalgia",
+      "title": "Nostalgia",
+      "trader": "jaeger",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "not-a-step-back",
+      "title": "Not a Step Back!",
+      "trader": "prapor",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "not-below-zero",
+      "title": "Not Below Zero",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "nothing-fishy-about-this",
+      "title": "Nothing Fishy About This",
+      "trader": "ragman",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "obstacle-course",
+      "title": "Obstacle Course",
+      "trader": "skier",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "obstruction-destruction",
+      "title": "Obstruction Destruction",
+      "trader": "peacekeeper",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "offensive-reconnaissance",
+      "title": "Offensive Reconnaissance",
+      "trader": "mechanic",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "oil-change",
+      "title": "Oil Change",
+      "trader": "prapor",
+      "maps": [
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "old-patterns",
+      "title": "Old Patterns",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "one-less-loose-end",
+      "title": "One Less Loose End",
+      "trader": "peacekeeper",
+      "maps": [
+        "factory",
+        "woods"
+      ]
+    },
+    {
+      "id": "only-business",
+      "title": "Only Business",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "only-victories",
+      "title": "Only Victories",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "operation-aquarius-part-1",
+      "title": "Operation Aquarius - Part 1",
+      "trader": "therapist",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "operation-aquarius-part-2",
+      "title": "Operation Aquarius - Part 2",
+      "trader": "therapist",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "order-from-outside",
+      "title": "Order From Outside",
+      "trader": "lightkeeper",
+      "maps": [
+        "reserve",
+        "woods"
+      ]
+    },
+    {
+      "id": "our-own-land",
+      "title": "Our Own Land",
+      "trader": "prapor",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "ours-by-right",
+      "title": "Ours by Right",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "out-of-curiosity",
+      "title": "Out of Curiosity",
+      "trader": "therapist",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "out-of-time",
+      "title": "Out of Time",
+      "trader": "ragman",
+      "maps": [
+        "streets-of-tarkov",
+        "customs",
+        "the-lab",
+        "reserve",
+        "shoreline",
+        "interchange",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "overpopulation",
+      "title": "Overpopulation",
+      "trader": "peacekeeper",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "overseas-trust-part-1",
+      "title": "Overseas Trust - Part 1",
+      "trader": "lightkeeper",
+      "maps": []
+    },
+    {
+      "id": "overseas-trust-part-2",
+      "title": "Overseas Trust - Part 2",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "painkiller",
+      "title": "Painkiller",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "parasites",
+      "title": "Parasites",
+      "trader": "fence",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "party-preparations",
+      "title": "Party Preparations",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "passion-for-ergonomics",
+      "title": "Passion for Ergonomics",
+      "trader": "mechanic",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "payback",
+      "title": "Payback",
+      "trader": "lightkeeper",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "peaceful-atom",
+      "title": "Peaceful Atom",
+      "trader": "peacekeeper",
+      "maps": [
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "peacekeeping-mission",
+      "title": "Peacekeeping Mission",
+      "trader": "peacekeeper",
+      "maps": [
+        "woods",
+        "interchange",
+        "shoreline",
+        "customs",
+        "streets-of-tarkov",
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "pecunia-non-olet",
+      "title": "Pecunia Non Olet",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "perfect-mediator",
+      "title": "Perfect Mediator",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "pest-control",
+      "title": "Pest Control",
+      "trader": "jaeger",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "pets-wont-need-it-part-1",
+      "title": "Pets Won't Need It - Part 1",
+      "trader": "therapist",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "pets-wont-need-it-part-2",
+      "title": "Pets Won't Need It - Part 2",
+      "trader": "therapist",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "pharmacist",
+      "title": "Pharmacist",
+      "trader": "therapist",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "photo-hunt",
+      "title": "Photo Hunt",
+      "trader": "skier",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "poisoning",
+      "title": "Poisoning",
+      "trader": "therapist",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "polikhim-hobo",
+      "title": "Polikhim Hobo",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "population-census",
+      "title": "Population Census",
+      "trader": "therapist",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "possessor",
+      "title": "Possessor",
+      "trader": "prapor",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "postman-pat-part-1",
+      "title": "Postman Pat - Part 1",
+      "trader": "prapor",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "postman-pat-part-2",
+      "title": "Postman Pat - Part 2",
+      "trader": "therapist",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "postponed-reward",
+      "title": "Postponed Reward",
+      "trader": "ref",
+      "maps": []
+    },
+    {
+      "id": "preemptive-strike",
+      "title": "Preemptive Strike",
+      "trader": "jaeger",
+      "maps": [
+        "shoreline",
+        "customs",
+        "woods"
+      ]
+    },
+    {
+      "id": "pressured-by-circumstances",
+      "title": "Pressured by Circumstances",
+      "trader": "mechanic",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "private-clinic",
+      "title": "Private Clinic",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "private-club",
+      "title": "Private Club",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "professional-part-1",
+      "title": "Professional - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "professional-part-2",
+      "title": "Professional - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "professional-part-3",
+      "title": "Professional - Part 3",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "professional-fitness-part-1",
+      "title": "Professional Fitness - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "professional-fitness-part-2",
+      "title": "Professional Fitness - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "profit-retention",
+      "title": "Profit Retention",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "profitable-venture",
+      "title": "Profitable Venture",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "progression-difficulties-part-1",
+      "title": "Progression Difficulties - Part 1",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "progression-difficulties-part-2",
+      "title": "Progression Difficulties - Part 2",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "proper-comeback",
+      "title": "Proper Comeback",
+      "trader": "skier",
+      "maps": [
+        "woods",
+        "shoreline",
+        "factory"
+      ]
+    },
+    {
+      "id": "properties-all-around",
+      "title": "Properties All Around",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "protect-the-sky",
+      "title": "Protect the Sky",
+      "trader": "btr-driver",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "protection-of-interests",
+      "title": "Protection of Interests",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "provide-cover",
+      "title": "Provide Cover",
+      "trader": "prapor",
+      "maps": [
+        "woods",
+        "shoreline"
+      ]
+    },
+    {
+      "id": "provide-viewership",
+      "title": "Provide Viewership",
+      "trader": "ref",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "provocation",
+      "title": "Provocation",
+      "trader": "lightkeeper",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "psycho-sniper",
+      "title": "Psycho Sniper",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "pursuit-of-power",
+      "title": "Pursuit of Power",
+      "trader": "therapist",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "pyramid-scheme",
+      "title": "Pyramid Scheme",
+      "trader": "skier",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "quality-standard",
+      "title": "Quality Standard",
+      "trader": "therapist",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "quests",
+      "title": "Quests",
+      "trader": "unknown",
+      "maps": []
+    },
+    {
+      "id": "radical-treatment",
+      "title": "Radical Treatment",
+      "trader": "therapist",
+      "maps": [
+        "lighthouse",
+        "shoreline",
+        "woods",
+        "customs",
+        "factory",
+        "the-lab"
+      ]
+    },
+    {
+      "id": "radio-club",
+      "title": "Radio Club",
+      "trader": "skier",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "rat-hunter",
+      "title": "Rat Hunter",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "reconnaissance",
+      "title": "Reconnaissance",
+      "trader": "prapor",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "redemption",
+      "title": "Redemption",
+      "trader": "fence",
+      "maps": [
+        "customs",
+        "shoreline",
+        "customs-or-shoreline"
+      ]
+    },
+    {
+      "id": "reduce-the-distance",
+      "title": "Reduce the Distance",
+      "trader": "jaeger",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "regulated-materials",
+      "title": "Regulated Materials",
+      "trader": "prapor",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "remedy",
+      "title": "Remedy",
+      "trader": "therapist",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "reserve-quest",
+      "title": "Reserve (quest)",
+      "trader": "jaeger",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "restocking-supplies",
+      "title": "Restocking Supplies",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "return-the-favor",
+      "title": "Return the Favor",
+      "trader": "lightkeeper",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "revision-lighthouse",
+      "title": "Revision - Lighthouse",
+      "trader": "peacekeeper",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "revision-reserve",
+      "title": "Revision - Reserve",
+      "trader": "peacekeeper",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "revision-streets-of-tarkov",
+      "title": "Revision - Streets of Tarkov",
+      "trader": "peacekeeper",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "rigged",
+      "title": "Rigged",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "rigged-game",
+      "title": "Rigged Game",
+      "trader": "skier",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "risks-of-small-business",
+      "title": "Risks of Small Business",
+      "trader": "peacekeeper",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "rite-of-passage",
+      "title": "Rite of Passage",
+      "trader": "jaeger",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "road-closed",
+      "title": "Road Closed",
+      "trader": "peacekeeper",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "root-of-all-evil",
+      "title": "Root of All Evil",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "rough-tarkov",
+      "title": "Rough Tarkov",
+      "trader": "jaeger",
+      "maps": [
+        "woods",
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "route-deviation",
+      "title": "Route Deviation",
+      "trader": "skier",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "run-aground",
+      "title": "Run Aground",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "safe-corridor",
+      "title": "Safe Corridor",
+      "trader": "skier",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "safety-guarantee",
+      "title": "Safety Guarantee",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "sales-night",
+      "title": "Sales Night",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "sample-iv-a-new-hope",
+      "title": "Sample IV - A New Hope",
+      "trader": "therapist",
+      "maps": [
+        "the-lab",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "samples",
+      "title": "Samples",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "sanitary-standards-part-1",
+      "title": "Sanitary Standards - Part 1",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "sanitary-standards-part-2",
+      "title": "Sanitary Standards - Part 2",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "saving-private-roman",
+      "title": "Saving Private Roman",
+      "trader": "btr-driver",
+      "maps": [
+        "woods",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "saving-the-mole",
+      "title": "Saving the Mole",
+      "trader": "mechanic",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "scavenger",
+      "title": "Scavenger",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "scout",
+      "title": "Scout",
+      "trader": "mechanic",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "scrap-metal",
+      "title": "Scrap Metal",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "search-mission",
+      "title": "Search Mission",
+      "trader": "prapor",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "seaside-vacation",
+      "title": "Seaside Vacation",
+      "trader": "therapist",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "secret-benefactor",
+      "title": "Secret Benefactor",
+      "trader": "therapist",
+      "maps": [
+        "customs",
+        "shoreline",
+        "woods"
+      ]
+    },
+    {
+      "id": "secrets-of-polikhim",
+      "title": "Secrets of Polikhim",
+      "trader": "mechanic",
+      "maps": [
+        "customs",
+        "factory"
+      ]
+    },
+    {
+      "id": "seeking-information",
+      "title": "Seeking Information",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "seizing-the-initiative",
+      "title": "Seizing the Initiative",
+      "trader": "peacekeeper",
+      "maps": [
+        "customs",
+        "shoreline"
+      ]
+    },
+    {
+      "id": "self-employed",
+      "title": "Self-Employed",
+      "trader": "btr-driver",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "sensory-analysis-part-1",
+      "title": "Sensory Analysis - Part 1",
+      "trader": "ragman",
+      "maps": [
+        "woods",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "sensory-analysis-part-2",
+      "title": "Sensory Analysis - Part 2",
+      "trader": "btr-driver",
+      "maps": [
+        "woods",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "serious-allegations",
+      "title": "Serious Allegations",
+      "trader": "skier",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "setting-priorities",
+      "title": "Setting Priorities",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "setup",
+      "title": "Setup",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "sew-it-good-part-1",
+      "title": "Sew it Good - Part 1",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "sew-it-good-part-2",
+      "title": "Sew it Good - Part 2",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "sew-it-good-part-3",
+      "title": "Sew it Good - Part 3",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "sew-it-good-part-4",
+      "title": "Sew it Good - Part 4",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "shady-business",
+      "title": "Shady Business",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "shady-contractor",
+      "title": "Shady Contractor",
+      "trader": "mechanic",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "shaking-up-the-teller",
+      "title": "Shaking Up the Teller",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "sharpest-shooter",
+      "title": "Sharpest Shooter",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "shell-game",
+      "title": "Shell Game",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "shipment-tracking",
+      "title": "Shipment Tracking",
+      "trader": "therapist",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "shipping-delay-part-1",
+      "title": "Shipping Delay - Part 1",
+      "trader": "prapor",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "shipping-delay-part-2",
+      "title": "Shipping Delay - Part 2",
+      "trader": "btr-driver",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "shoot-first",
+      "title": "Shoot First",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "shooting-cans",
+      "title": "Shooting Cans",
+      "trader": "prapor",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "shootout-picnic",
+      "title": "Shootout Picnic",
+      "trader": "prapor",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "short-on-hands",
+      "title": "Short on Hands",
+      "trader": "skier",
+      "maps": [
+        "customs",
+        "interchange",
+        "lighthouse",
+        "shoreline",
+        "woods"
+      ]
+    },
+    {
+      "id": "shortage",
+      "title": "Shortage",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "sightseeing",
+      "title": "Sightseeing",
+      "trader": "skier",
+      "maps": [
+        "ground-zero",
+        "streets-of-tarkov",
+        "the-lab",
+        "interchange",
+        "customs",
+        "factory",
+        "woods",
+        "reserve",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "signal-part-1",
+      "title": "Signal - Part 1",
+      "trader": "mechanic",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "signal-part-2",
+      "title": "Signal - Part 2",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "signal-part-3",
+      "title": "Signal - Part 3",
+      "trader": "mechanic",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "signal-part-4",
+      "title": "Signal - Part 4",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "silent-caliber",
+      "title": "Silent Caliber",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "simple-side-job",
+      "title": "Simple Side Job",
+      "trader": "lightkeeper",
+      "maps": [
+        "reserve",
+        "woods"
+      ]
+    },
+    {
+      "id": "skiing-with-skier",
+      "title": "Skiing with Skier",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "slaughterhouse",
+      "title": "Slaughterhouse",
+      "trader": "jaeger",
+      "maps": [
+        "factory",
+        "streets-of-tarkov",
+        "lighthouse",
+        "woods",
+        "shoreline",
+        "interchange",
+        "customs",
+        "reserve",
+        "ground-zero",
+        "daytime-factory"
+      ]
+    },
+    {
+      "id": "small-business-part-1",
+      "title": "Small Business - Part 1",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "small-business-part-2",
+      "title": "Small Business - Part 2",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "small-business-part-3",
+      "title": "Small Business - Part 3",
+      "trader": "fence",
+      "maps": [
+        "shoreline",
+        "woods"
+      ]
+    },
+    {
+      "id": "snatch",
+      "title": "Snatch",
+      "trader": "lightkeeper",
+      "maps": [
+        "lighthouse",
+        "reserve"
+      ]
+    },
+    {
+      "id": "spa-tour-part-1",
+      "title": "Spa Tour - Part 1",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "spa-tour-part-2",
+      "title": "Spa Tour - Part 2",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "spa-tour-part-3",
+      "title": "Spa Tour - Part 3",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "spa-tour-part-4",
+      "title": "Spa Tour - Part 4",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "spa-tour-part-5",
+      "title": "Spa Tour - Part 5",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "spa-tour-part-6",
+      "title": "Spa Tour - Part 6",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "spa-tour-part-7",
+      "title": "Spa Tour - Part 7",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "special-comms",
+      "title": "Special Comms",
+      "trader": "prapor",
+      "maps": [
+        "woods",
+        "reserve"
+      ]
+    },
+    {
+      "id": "special-equipment",
+      "title": "Special Equipment",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "special-offer",
+      "title": "Special Offer",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "spotter",
+      "title": "Spotter",
+      "trader": "lightkeeper",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "spread-the-damage",
+      "title": "Spread the Damage",
+      "trader": "prapor",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "spring-never-changes",
+      "title": "Spring Never Changes",
+      "trader": "prapor",
+      "maps": [
+        "ground-zero",
+        "customs",
+        "woods",
+        "shoreline",
+        "interchange",
+        "reserve",
+        "lighthouse",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "spring",
+      "title": "Spring!",
+      "trader": "prapor",
+      "maps": [
+        "ground-zero",
+        "customs",
+        "woods",
+        "shoreline",
+        "interchange",
+        "reserve",
+        "lighthouse",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "stabilize-business",
+      "title": "Stabilize Business",
+      "trader": "ragman",
+      "maps": [
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "staff-shortage",
+      "title": "Staff Shortage",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "stay-frosty",
+      "title": "Stay Frosty",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "stay-on-top",
+      "title": "Stay on Top",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "staying-light",
+      "title": "Staying Light",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "steady-signal",
+      "title": "Steady Signal",
+      "trader": "mechanic",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "stealing-the-stolen",
+      "title": "Stealing the Stolen",
+      "trader": "peacekeeper",
+      "maps": [
+        "woods",
+        "customs",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "stick-in-the-wheel",
+      "title": "Stick in the Wheel",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "stick-to-it",
+      "title": "Stick to It",
+      "trader": "btr-driver",
+      "maps": [
+        "lighthouse",
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "stirrup",
+      "title": "Stirrup",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "stop-the-fight",
+      "title": "Stop the Fight!",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "straw",
+      "title": "Straw",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "stray-dogs",
+      "title": "Stray Dogs",
+      "trader": "jaeger",
+      "maps": [
+        "customs",
+        "woods",
+        "shoreline",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "superhuman",
+      "title": "Superhuman",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "supervisor",
+      "title": "Supervisor",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "supplier",
+      "title": "Supplier",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "supply-and-demand",
+      "title": "Supply and Demand",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "supply-plans",
+      "title": "Supply Plans",
+      "trader": "therapist",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "surplus-goods",
+      "title": "Surplus Goods",
+      "trader": "mechanic",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "surprise",
+      "title": "Surprise",
+      "trader": "ref",
+      "maps": []
+    },
+    {
+      "id": "surprise-gift",
+      "title": "Surprise Gift",
+      "trader": "lightkeeper",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "surveillance",
+      "title": "Surveillance",
+      "trader": "mechanic",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "swift-one",
+      "title": "Swift One",
+      "trader": "jaeger",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "swift-retribution",
+      "title": "Swift Retribution",
+      "trader": "btr-driver",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "take-two",
+      "title": "Take Two",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "taking-whats-mine",
+      "title": "Taking What's Mine",
+      "trader": "ref",
+      "maps": [
+        "customs",
+        "interchange",
+        "lighthouse",
+        "shoreline",
+        "woods"
+      ]
+    },
+    {
+      "id": "teacher",
+      "title": "Teacher",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "terragroup-employee",
+      "title": "TerraGroup Employee",
+      "trader": "peacekeeper",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "test-drive-part-1",
+      "title": "Test Drive - Part 1",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "test-drive-part-2",
+      "title": "Test Drive - Part 2",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov",
+        "ground-zero",
+        "interchange"
+      ]
+    },
+    {
+      "id": "test-drive-part-3",
+      "title": "Test Drive - Part 3",
+      "trader": "prapor",
+      "maps": [
+        "lighthouse",
+        "customs",
+        "reserve"
+      ]
+    },
+    {
+      "id": "test-drive-part-4",
+      "title": "Test Drive - Part 4",
+      "trader": "prapor",
+      "maps": [
+        "shoreline",
+        "interchange",
+        "woods"
+      ]
+    },
+    {
+      "id": "test-drive-part-5",
+      "title": "Test Drive - Part 5",
+      "trader": "prapor",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "test-drive-part-6",
+      "title": "Test Drive - Part 6",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "textile-part-1",
+      "title": "Textile - Part 1",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "textile-part-2",
+      "title": "Textile - Part 2",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "thats-a-great-plan-walter",
+      "title": "That’s a Great Plan, Walter",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "the-art-of-explosion",
+      "title": "The Art of Explosion",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "the-blood-of-war-part-1",
+      "title": "The Blood of War - Part 1",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "the-blood-of-war-part-2",
+      "title": "The Blood of War - Part 2",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "the-blood-of-war-part-3",
+      "title": "The Blood of War - Part 3",
+      "trader": "ragman",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "the-bosses-gathering",
+      "title": "The Bosses gathering",
+      "trader": "prapor",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "the-bunker-part-1",
+      "title": "The Bunker - Part 1",
+      "trader": "prapor",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "the-bunker-part-2",
+      "title": "The Bunker - Part 2",
+      "trader": "prapor",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "the-choice",
+      "title": "The Choice",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "the-cleaner",
+      "title": "The Cleaner",
+      "trader": "peacekeeper",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "the-courier",
+      "title": "The Courier",
+      "trader": "mechanic",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "the-cult-part-1",
+      "title": "The Cult - Part 1",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "the-cult-part-2",
+      "title": "The Cult - Part 2",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline",
+        "customs",
+        "woods"
+      ]
+    },
+    {
+      "id": "the-delicious-sausage",
+      "title": "The Delicious Sausage",
+      "trader": "jaeger",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "the-door",
+      "title": "The Door",
+      "trader": "mechanic",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "the-extortionist",
+      "title": "The Extortionist",
+      "trader": "skier",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "the-good-times-part-1",
+      "title": "The Good Times - Part 1",
+      "trader": "prapor",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "the-good-times-part-2",
+      "title": "The Good Times - Part 2",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "the-graven-image",
+      "title": "The Graven Image",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-guide",
+      "title": "The Guide",
+      "trader": "peacekeeper",
+      "maps": [
+        "interchange",
+        "shoreline",
+        "factory",
+        "the-lab",
+        "woods",
+        "customs",
+        "reserve",
+        "lighthouse",
+        "streets-of-tarkov",
+        "ground-zero"
+      ]
+    },
+    {
+      "id": "the-hermit",
+      "title": "The Hermit",
+      "trader": "jaeger",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "the-higher-they-fly",
+      "title": "The Higher They Fly",
+      "trader": "skier",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-administrator",
+      "title": "The Huntsman Path - Administrator",
+      "trader": "jaeger",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-big-game",
+      "title": "The Huntsman Path - Big Game",
+      "trader": "jaeger",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-controller",
+      "title": "The Huntsman Path - Controller",
+      "trader": "jaeger",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-crooked-cop",
+      "title": "The Huntsman Path - Crooked Cop",
+      "trader": "jaeger",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-eraser-part-1",
+      "title": "The Huntsman Path - Eraser - Part 1",
+      "trader": "jaeger",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-eraser-part-2",
+      "title": "The Huntsman Path - Eraser - Part 2",
+      "trader": "jaeger",
+      "maps": [
+        "the-lab",
+        "reserve"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-evil-watchman",
+      "title": "The Huntsman Path - Evil Watchman",
+      "trader": "jaeger",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-factory-chief",
+      "title": "The Huntsman Path - Factory Chief",
+      "trader": "jaeger",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-forest-cleaning",
+      "title": "The Huntsman Path - Forest Cleaning",
+      "trader": "jaeger",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-justice",
+      "title": "The Huntsman Path - Justice",
+      "trader": "jaeger",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-outcasts",
+      "title": "The Huntsman Path - Outcasts",
+      "trader": "jaeger",
+      "maps": [
+        "lighthouse",
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-relentless",
+      "title": "The Huntsman Path - Relentless",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-huntsman-path-sadist",
+      "title": "The Huntsman Path - Sadist",
+      "trader": "jaeger",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-secured-perimeter",
+      "title": "The Huntsman Path - Secured Perimeter",
+      "trader": "jaeger",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-sellout",
+      "title": "The Huntsman Path - Sellout",
+      "trader": "jaeger",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-trophy",
+      "title": "The Huntsman Path - Trophy",
+      "trader": "jaeger",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "the-huntsman-path-woods-keeper",
+      "title": "The Huntsman Path - Woods Keeper",
+      "trader": "jaeger",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "the-invisible-hand",
+      "title": "The Invisible Hand",
+      "trader": "ragman",
+      "maps": []
+    },
+    {
+      "id": "the-key-to-success",
+      "title": "The Key to Success",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "the-price-of-celebration",
+      "title": "The Price of Celebration",
+      "trader": "skier",
+      "maps": [
+        "shoreline",
+        "lighthouse",
+        "reserve",
+        "woods",
+        "customs",
+        "interchange"
+      ]
+    },
+    {
+      "id": "the-price-of-independence",
+      "title": "The Price of Independence",
+      "trader": "btr-driver",
+      "maps": [
+        "customs",
+        "reserve",
+        "woods",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "the-punisher-harvest",
+      "title": "The Punisher - Harvest",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "the-punisher-part-1",
+      "title": "The Punisher - Part 1",
+      "trader": "prapor",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "the-punisher-part-2",
+      "title": "The Punisher - Part 2",
+      "trader": "prapor",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "the-punisher-part-3",
+      "title": "The Punisher - Part 3",
+      "trader": "prapor",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "the-punisher-part-4",
+      "title": "The Punisher - Part 4",
+      "trader": "prapor",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "the-punisher-part-5",
+      "title": "The Punisher - Part 5",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "the-punisher-part-6",
+      "title": "The Punisher - Part 6",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "the-root-cause",
+      "title": "The Root Cause",
+      "trader": "therapist",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "the-stylish-one",
+      "title": "The Stylish One",
+      "trader": "ragman",
+      "maps": [
+        "interchange"
+      ]
+    },
+    {
+      "id": "the-survivalist-path-cold-blooded",
+      "title": "The Survivalist Path - Cold Blooded",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-survivalist-path-combat-medic",
+      "title": "The Survivalist Path - Combat Medic",
+      "trader": "jaeger",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "the-survivalist-path-eagle-owl",
+      "title": "The Survivalist Path - Eagle-Owl",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-survivalist-path-junkie",
+      "title": "The Survivalist Path - Junkie",
+      "trader": "jaeger",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "the-survivalist-path-thrifty",
+      "title": "The Survivalist Path - Thrifty",
+      "trader": "jaeger",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "the-survivalist-path-tough-guy",
+      "title": "The Survivalist Path - Tough Guy",
+      "trader": "jaeger",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "the-survivalist-path-unprotected-but-dangerous",
+      "title": "The Survivalist Path - Unprotected but Dangerous",
+      "trader": "jaeger",
+      "maps": [
+        "woods"
+      ]
+    },
+    {
+      "id": "the-survivalist-path-wounded-beast",
+      "title": "The Survivalist Path - Wounded Beast",
+      "trader": "jaeger",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "the-survivalist-path-zatoichi",
+      "title": "The Survivalist Path - Zatoichi",
+      "trader": "jaeger",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "the-survivalist-path-zhivchik",
+      "title": "The Survivalist Path - Zhivchik",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-tarkov-butcher",
+      "title": "The Tarkov Butcher",
+      "trader": "therapist",
+      "maps": [
+        "ground-zero",
+        "shoreline"
+      ]
+    },
+    {
+      "id": "the-tarkov-mystery",
+      "title": "The Tarkov Mystery",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "the-tarkov-shooter-part-1",
+      "title": "The Tarkov Shooter - Part 1",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-tarkov-shooter-part-2",
+      "title": "The Tarkov Shooter - Part 2",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-tarkov-shooter-part-3",
+      "title": "The Tarkov Shooter - Part 3",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-tarkov-shooter-part-4",
+      "title": "The Tarkov Shooter - Part 4",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-tarkov-shooter-part-5",
+      "title": "The Tarkov Shooter - Part 5",
+      "trader": "jaeger",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "the-tarkov-shooter-part-6",
+      "title": "The Tarkov Shooter - Part 6",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-tarkov-shooter-part-7",
+      "title": "The Tarkov Shooter - Part 7",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-tarkov-shooter-part-8",
+      "title": "The Tarkov Shooter - Part 8",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "the-terragroup-trail-part-1",
+      "title": "The TerraGroup Trail - Part 1",
+      "trader": "fence",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-10",
+      "title": "The TerraGroup Trail - Part 10",
+      "trader": "peacekeeper",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-11",
+      "title": "The TerraGroup Trail - Part 11",
+      "trader": "mechanic",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-12",
+      "title": "The TerraGroup Trail - Part 12",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "the-terragroup-trail-part-13",
+      "title": "The TerraGroup Trail - Part 13",
+      "trader": "mechanic",
+      "maps": [
+        "customs",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-14",
+      "title": "The TerraGroup Trail - Part 14",
+      "trader": "lightkeeper",
+      "maps": [
+        "the-lab"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-15",
+      "title": "The TerraGroup Trail - Part 15",
+      "trader": "fence",
+      "maps": [
+        "woods",
+        "the-lab",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-16",
+      "title": "The TerraGroup Trail - Part 16",
+      "trader": "therapist",
+      "maps": [
+        "shoreline",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-17",
+      "title": "The TerraGroup Trail - Part 17",
+      "trader": "mechanic",
+      "maps": [
+        "reserve"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-18",
+      "title": "The TerraGroup Trail - Part 18",
+      "trader": "prapor",
+      "maps": [
+        "reserve",
+        "the-lab"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-19",
+      "title": "The TerraGroup Trail - Part 19",
+      "trader": "fence",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-2",
+      "title": "The TerraGroup Trail - Part 2",
+      "trader": "therapist",
+      "maps": [
+        "shoreline",
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-3",
+      "title": "The TerraGroup Trail - Part 3",
+      "trader": "prapor",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-4",
+      "title": "The TerraGroup Trail - Part 4",
+      "trader": "prapor",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-5",
+      "title": "The TerraGroup Trail - Part 5",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "the-terragroup-trail-part-6",
+      "title": "The TerraGroup Trail - Part 6",
+      "trader": "mechanic",
+      "maps": []
+    },
+    {
+      "id": "the-terragroup-trail-part-7",
+      "title": "The TerraGroup Trail - Part 7",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "the-terragroup-trail-part-8",
+      "title": "The TerraGroup Trail - Part 8",
+      "trader": "peacekeeper",
+      "maps": [
+        "interchange",
+        "shoreline",
+        "factory",
+        "woods",
+        "customs",
+        "reserve",
+        "lighthouse",
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "the-terragroup-trail-part-9",
+      "title": "The TerraGroup Trail - Part 9",
+      "trader": "peacekeeper",
+      "maps": [
+        "factory",
+        "customs",
+        "woods",
+        "interchange",
+        "reserve"
+      ]
+    },
+    {
+      "id": "the-walls-have-eyes",
+      "title": "The Walls Have Eyes",
+      "trader": "skier",
+      "maps": [
+        "factory"
+      ]
+    },
+    {
+      "id": "thirsty-breadwinner",
+      "title": "Thirsty - Breadwinner",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "thirsty-delivery",
+      "title": "Thirsty - Delivery",
+      "trader": "skier",
+      "maps": [
+        "woods",
+        "customs"
+      ]
+    },
+    {
+      "id": "thirsty-echo",
+      "title": "Thirsty - Echo",
+      "trader": "therapist",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "thirsty-hounds",
+      "title": "Thirsty - Hounds",
+      "trader": "jaeger",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "thirsty-secrets",
+      "title": "Thirsty - Secrets",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "thirty-pieces-of-silver",
+      "title": "Thirty Pieces of Silver",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "this-is-my-party",
+      "title": "This Is My Party",
+      "trader": "prapor",
+      "maps": [
+        "shoreline",
+        "lighthouse",
+        "reserve",
+        "woods",
+        "customs",
+        "interchange"
+      ]
+    },
+    {
+      "id": "this-tape-sucks",
+      "title": "This Tape Sucks",
+      "trader": "therapist",
+      "maps": [
+        "the-labyrinth"
+      ]
+    },
+    {
+      "id": "tigr-safari",
+      "title": "Tigr Safari",
+      "trader": "peacekeeper",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "time-tested",
+      "title": "Time-Tested",
+      "trader": "prapor",
+      "maps": []
+    },
+    {
+      "id": "to-great-heights-part-1",
+      "title": "To Great Heights! - Part 1",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "to-great-heights-part-2",
+      "title": "To Great Heights! - Part 2",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "to-great-heights-part-3",
+      "title": "To Great Heights! - Part 3",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "to-great-heights-part-4",
+      "title": "To Great Heights! - Part 4",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "to-great-heights-part-5",
+      "title": "To Great Heights! - Part 5",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "to-great-heights-part-6",
+      "title": "To Great Heights! - Part 6",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "to-the-tree",
+      "title": "To the Tree!",
+      "trader": "mechanic",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "top-secret",
+      "title": "Top Secret",
+      "trader": "skier",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "tourists",
+      "title": "Tourists",
+      "trader": "prapor",
+      "maps": [
+        "factory",
+        "day-factory"
+      ]
+    },
+    {
+      "id": "tournament",
+      "title": "Tournament",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "trade-embargo",
+      "title": "Trade Embargo",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "trade-embargo-last-chance",
+      "title": "Trade Embargo - Last Chance",
+      "trader": "fence",
+      "maps": []
+    },
+    {
+      "id": "trophies",
+      "title": "Trophies",
+      "trader": "peacekeeper",
+      "maps": [
+        "any"
+      ]
+    },
+    {
+      "id": "trouble-in-the-big-city",
+      "title": "Trouble in the Big City",
+      "trader": "lightkeeper",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "trust-regain",
+      "title": "Trust Regain",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "u-turn",
+      "title": "U Turn",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "until-dawn",
+      "title": "Until Dawn",
+      "trader": "jaeger",
+      "maps": []
+    },
+    {
+      "id": "urban-medicine",
+      "title": "Urban Medicine",
+      "trader": "therapist",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "vacate-the-premises",
+      "title": "Vacate the Premises",
+      "trader": "ragman",
+      "maps": [
+        "the-labyrinth"
+      ]
+    },
+    {
+      "id": "viewer",
+      "title": "Viewer",
+      "trader": "prapor",
+      "maps": [
+        "woods",
+        "shoreline",
+        "factory"
+      ]
+    },
+    {
+      "id": "virtue",
+      "title": "Virtue",
+      "trader": "therapist",
+      "maps": []
+    },
+    {
+      "id": "vitamins-part-1",
+      "title": "Vitamins - Part 1",
+      "trader": "skier",
+      "maps": [
+        "shoreline",
+        "interchange"
+      ]
+    },
+    {
+      "id": "vitamins-part-2",
+      "title": "Vitamins - Part 2",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "war-never-changes",
+      "title": "War Never Changes",
+      "trader": "therapist",
+      "maps": [
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "watch-the-watcher",
+      "title": "Watch the Watcher",
+      "trader": "fence",
+      "maps": [
+        "lighthouse"
+      ]
+    },
+    {
+      "id": "watching-you",
+      "title": "Watching You",
+      "trader": "mechanic",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "weak-compromise",
+      "title": "Weak Compromise",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "weather-the-blizzard",
+      "title": "Weather the Blizzard",
+      "trader": "ref",
+      "maps": [
+        "arena"
+      ]
+    },
+    {
+      "id": "western-quality-standards",
+      "title": "Western Quality Standards",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "wet-job-part-1",
+      "title": "Wet Job - Part 1",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "wet-job-part-2",
+      "title": "Wet Job - Part 2",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "wet-job-part-3",
+      "title": "Wet Job - Part 3",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "wet-job-part-4",
+      "title": "Wet Job - Part 4",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "wet-job-part-5",
+      "title": "Wet Job - Part 5",
+      "trader": "peacekeeper",
+      "maps": [
+        "shoreline"
+      ]
+    },
+    {
+      "id": "wet-job-part-6",
+      "title": "Wet Job - Part 6",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "whats-on-the-flash-drive",
+      "title": "What’s on the Flash Drive?",
+      "trader": "skier",
+      "maps": []
+    },
+    {
+      "id": "whats-your-evidence",
+      "title": "What’s Your Evidence?",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "wiring-the-vessel",
+      "title": "Wiring the Vessel",
+      "trader": "peacekeeper",
+      "maps": [
+        "icebreaker"
+      ]
+    },
+    {
+      "id": "work-smarter",
+      "title": "Work Smarter",
+      "trader": "jaeger",
+      "maps": [
+        "customs"
+      ]
+    },
+    {
+      "id": "worst-job-in-the-world",
+      "title": "Worst Job in the World",
+      "trader": "peacekeeper",
+      "maps": []
+    },
+    {
+      "id": "youve-got-mail",
+      "title": "You've Got Mail",
+      "trader": "prapor",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    },
+    {
+      "id": "your-car-needs-a-service",
+      "title": "Your Car Needs a Service",
+      "trader": "peacekeeper",
+      "maps": [
+        "streets-of-tarkov"
+      ]
+    }
+  ]
+}

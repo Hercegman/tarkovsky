@@ -1,0 +1,54 @@
+{
+  "id": "capacity-check",
+  "title": "Capacity Check",
+  "pageId": 35208,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "farming-part-1",
+      "title": "Farming - Part 1"
+    },
+    {
+      "id": "forklift-certified",
+      "title": "Forklift Certified"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "all-is-revealed",
+      "title": "All Is Revealed"
+    },
+    {
+      "id": "secrets-of-polikhim",
+      "title": "Secrets of Polikhim"
+    }
+  ],
+  "objectives": [
+    "Fix the first reactor mixer with a Toolset on Factory",
+    "Fix the second reactor mixer with a Toolset on Factory",
+    "Fix the third reactor mixer with a Toolset on Factory"
+  ],
+  "rewards": {
+    "exp": 16500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Capacity_Check",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

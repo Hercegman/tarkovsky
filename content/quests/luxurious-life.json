@@ -1,0 +1,46 @@
+{
+  "id": "luxurious-life",
+  "title": "Luxurious Life",
+  "pageId": 31737,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "debut",
+      "title": "Debut"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "background-check",
+      "title": "Background Check"
+    }
+  ],
+  "objectives": [
+    "Locate the liquor store on Ground Zero",
+    "Locate and obtain the wine bottle in the store",
+    "Hand over the wine bottle"
+  ],
+  "rewards": {
+    "exp": 1750,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Luxurious_Life",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

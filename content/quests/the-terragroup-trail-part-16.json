@@ -1,0 +1,45 @@
+{
+  "id": "the-terragroup-trail-part-16",
+  "title": "The TerraGroup Trail - Part 16",
+  "pageId": 29765,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-15",
+      "title": "The TerraGroup Trail - Part 15"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-19",
+      "title": "The TerraGroup Trail - Part 19"
+    }
+  ],
+  "objectives": [
+    "Hand over 10 found in raid \"Obdolbos of Truth\" injectors"
+  ],
+  "rewards": {
+    "exp": 32300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_16",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

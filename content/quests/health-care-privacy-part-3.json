@@ -1,0 +1,47 @@
+{
+  "id": "health-care-privacy-part-3",
+  "title": "Health Care Privacy - Part 3",
+  "pageId": 8067,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "health-care-privacy-part-2",
+      "title": "Health Care Privacy - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "health-care-privacy-part-4",
+      "title": "Health Care Privacy - Part 4"
+    }
+  ],
+  "objectives": [
+    "Locate the van of the Health Resort medical services director on Woods",
+    "Take a sample of the blood",
+    "Hand over the blood sample",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_3",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

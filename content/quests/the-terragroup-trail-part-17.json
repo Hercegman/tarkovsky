@@ -1,0 +1,44 @@
+{
+  "id": "the-terragroup-trail-part-17",
+  "title": "The TerraGroup Trail - Part 17",
+  "pageId": 29766,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-terragroup-trail-part-15",
+      "title": "The TerraGroup Trail - Part 15"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "the-terragroup-trail-part-19",
+      "title": "The TerraGroup Trail - Part 19"
+    }
+  ],
+  "objectives": [
+    "Place a WI-FI Camera to watch the sliding gate in the supply warehouse on Reserve"
+  ],
+  "rewards": {
+    "exp": 31400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_17",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

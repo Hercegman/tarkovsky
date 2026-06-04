@@ -1,0 +1,39 @@
+{
+  "id": "shootout-picnic",
+  "title": "Shootout Picnic",
+  "pageId": 6181,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "background-check",
+      "title": "Background Check"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Eliminate 15 Scavs on Woods"
+  ],
+  "rewards": {
+    "exp": 2000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shootout_Picnic",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "i-am-speed-part-1",
+  "title": "I Am Speed - Part 1",
+  "pageId": 43673,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "advertising-business-part-6",
+      "title": "Advertising Business - Part 6"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "i-am-speed-part-2",
+      "title": "I Am Speed - Part 2"
+    }
+  ],
+  "objectives": [
+    "Eliminate 2 enemies within 10 seconds 10 times"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/I_Am_Speed_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

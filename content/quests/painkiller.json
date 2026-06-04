@@ -1,0 +1,43 @@
+{
+  "id": "painkiller",
+  "title": "Painkiller",
+  "pageId": 6414,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "sanitary-standards-part-2",
+      "title": "Sanitary Standards - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "pharmacist",
+      "title": "Pharmacist"
+    }
+  ],
+  "objectives": [
+    "Find 4 Morphine injectors in raid",
+    "Hand over the 4 injectors to Therapist"
+  ],
+  "rewards": {
+    "exp": 4500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Painkiller",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

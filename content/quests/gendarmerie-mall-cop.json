@@ -1,0 +1,44 @@
+{
+  "id": "gendarmerie-mall-cop",
+  "title": "Gendarmerie - Mall Cop",
+  "pageId": 30512,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-punisher-part-6",
+      "title": "The Punisher - Part 6"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gendarmerie-tickets-please",
+      "title": "Gendarmerie - Tickets, Please"
+    }
+  ],
+  "objectives": [
+    "Eliminate any 15 targets at the Stylobate building while using Pistols on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 7100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gendarmerie_-_Mall_Cop",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

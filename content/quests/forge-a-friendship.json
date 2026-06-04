@@ -1,0 +1,49 @@
+{
+  "id": "forge-a-friendship",
+  "title": "Forge a Friendship",
+  "pageId": 37737,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "hot-wheels",
+      "title": "Hot Wheels"
+    },
+    {
+      "id": "natural-exchange",
+      "title": "Natural Exchange"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "half-empty",
+      "title": "Half-Empty"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain Prapor's cargo on Shoreline",
+    "Hand over the found cargo"
+  ],
+  "rewards": {
+    "exp": 18800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Forge_a_Friendship",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

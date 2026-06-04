@@ -1,0 +1,42 @@
+{
+  "id": "break-the-deal",
+  "title": "Break the Deal",
+  "pageId": 36678,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "make-ultra-great-again",
+      "title": "Make ULTRA Great Again"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Stash a DVL-10 sniper rifle at the specified spot on Customs",
+    "Stash a DVL-10 magazine at the specified spot on Customs",
+    "Stash an ELCAN SpecterDR scope at the specified spot on Customs",
+    "Stash a pack of any 7.62x51 ammo at the specified spot on Customs"
+  ],
+  "rewards": {
+    "exp": 11400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Break_the_Deal",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

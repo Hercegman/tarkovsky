@@ -1,0 +1,59 @@
+{
+  "id": "down-the-rabbit-hole-part-5",
+  "title": "Down the Rabbit Hole - Part 5",
+  "pageId": 31083,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline",
+    "customs",
+    "interchange",
+    "lighthouse",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "down-the-rabbit-hole-part-4",
+      "title": "Down the Rabbit Hole - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "down-the-rabbit-hole-part-6",
+      "title": "Down the Rabbit Hole - Part 6"
+    }
+  ],
+  "objectives": [
+    "Obtain the first flash drive on Shoreline",
+    "Obtain the second flash drive on Shoreline",
+    "Obtain the third flash drive on Shoreline",
+    "Obtain the fourth flash drive on Shoreline",
+    "Stash the first flash drive by the car extraction on Streets of Tarkov",
+    "Stash the second flash drive by the car extraction on Lighthouse",
+    "Stash the third flash drive by the car extraction on Interchange",
+    "Stash the fourth flash drive by the car extraction on Customs",
+    "Eliminate 7 PMC operatives on Streets of Tarkov",
+    "Eliminate 7 PMC operatives on Lighthouse",
+    "Eliminate 7 PMC operatives on Interchange",
+    "Eliminate 7 PMC operatives on Customs"
+  ],
+  "rewards": {
+    "exp": 28500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

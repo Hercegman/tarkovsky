@@ -1,0 +1,40 @@
+{
+  "id": "health-care-privacy-part-6",
+  "title": "Health Care Privacy - Part 6",
+  "pageId": 34626,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "factory"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "health-care-privacy-part-5",
+      "title": "Health Care Privacy - Part 5"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate the dead worker and take their blood sample on Factory",
+    "Hand over the blood sample"
+  ],
+  "rewards": {
+    "exp": 9300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_6",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "sensory-analysis-part-1",
+  "title": "Sensory Analysis - Part 1",
+  "pageId": 37955,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "hidden-layer",
+      "title": "Hidden Layer"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "sensory-analysis-part-2",
+      "title": "Sensory Analysis - Part 2"
+    }
+  ],
+  "objectives": [
+    "Obtain the item: Bottle of Fierce Hatchling moonshine",
+    "Go to Woods or Streets of Tarkov",
+    "Hand over the Bottle of Fierce Hatchling moonshine to BTR Driver"
+  ],
+  "rewards": {
+    "exp": 20300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sensory_Analysis_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

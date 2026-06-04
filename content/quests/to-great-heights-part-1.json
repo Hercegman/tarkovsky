@@ -1,0 +1,44 @@
+{
+  "id": "to-great-heights-part-1",
+  "title": "To Great Heights! - Part 1",
+  "pageId": 34040,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "professional-fitness-part-2",
+      "title": "Professional Fitness - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "to-great-heights-part-2",
+      "title": "To Great Heights! - Part 2"
+    }
+  ],
+  "objectives": [
+    "Win a match in CheckPoint or LastHero mode in Arena"
+  ],
+  "rewards": {
+    "exp": 2800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/To_Great_Heights!_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

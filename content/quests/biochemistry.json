@@ -1,0 +1,40 @@
+{
+  "id": "biochemistry",
+  "title": "Biochemistry",
+  "pageId": 44619,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "icebreaker"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "war-never-changes",
+      "title": "War Never Changes"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 3 Aceso Xpress semi-automatic biochemical analyzers in raid",
+    "Hand over the items"
+  ],
+  "rewards": {
+    "exp": 32000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Biochemistry",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

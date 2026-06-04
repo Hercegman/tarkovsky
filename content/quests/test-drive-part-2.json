@@ -1,0 +1,46 @@
+{
+  "id": "test-drive-part-2",
+  "title": "Test Drive - Part 2",
+  "pageId": 28067,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov",
+    "ground-zero",
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "test-drive-part-1",
+      "title": "Test Drive - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "test-drive-part-3",
+      "title": "Test Drive - Part 3"
+    }
+  ],
+  "objectives": [
+    "Eliminate 20 PMCs using an MP5SD on Streets of Tarkov, Ground Zero or Interchange"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Test_Drive_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

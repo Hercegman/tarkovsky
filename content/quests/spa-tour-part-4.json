@@ -1,0 +1,46 @@
+{
+  "id": "spa-tour-part-4",
+  "title": "Spa Tour - Part 4",
+  "pageId": 7497,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "spa-tour-part-3",
+      "title": "Spa Tour - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "spa-tour-part-5",
+      "title": "Spa Tour - Part 5"
+    }
+  ],
+  "objectives": [
+    "Locate the generators in the east wing of the Health Resort on Shoreline",
+    "Locate the generators in the west wing of the Health Resort on Shoreline",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 7700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

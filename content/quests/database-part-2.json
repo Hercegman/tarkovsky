@@ -1,0 +1,53 @@
+{
+  "id": "database-part-2",
+  "title": "Database - Part 2",
+  "pageId": 10263,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "database-part-1",
+      "title": "Database - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "sew-it-good-part-1",
+      "title": "Sew it Good - Part 1"
+    },
+    {
+      "id": "minibus",
+      "title": "Minibus"
+    },
+    {
+      "id": "gratitude",
+      "title": "Gratitude"
+    }
+  ],
+  "objectives": [
+    "Obtain the OLI cargo route documents on Interchange",
+    "Hand over the documents to Ragman"
+  ],
+  "rewards": {
+    "exp": 8500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Database_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

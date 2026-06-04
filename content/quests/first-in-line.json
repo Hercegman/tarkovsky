@@ -1,0 +1,40 @@
+{
+  "id": "first-in-line",
+  "title": "First in Line",
+  "pageId": 31680,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "shortage",
+      "title": "Shortage"
+    }
+  ],
+  "objectives": [
+    "Locate the Emercom station on Ground Zero",
+    "Hand over any 3 found in raid medicine items"
+  ],
+  "rewards": {
+    "exp": 1200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/First_in_Line",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

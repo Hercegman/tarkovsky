@@ -1,0 +1,46 @@
+{
+  "id": "bulldogs-under-the-rug",
+  "title": "Bulldogs Under The Rug",
+  "pageId": 43278,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "fishing-gear",
+      "title": "Fishing Gear"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "accept-delivery",
+      "title": "Accept Delivery"
+    }
+  ],
+  "objectives": [
+    "Eliminate a smuggler on any location",
+    "Locate the smuggler's camp on Shoreline",
+    "Obtain the evidence of the smugglers' ties to Edward"
+  ],
+  "rewards": {
+    "exp": 10000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Bulldogs_Under_The_Rug",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

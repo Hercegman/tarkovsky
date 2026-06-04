@@ -1,0 +1,36 @@
+{
+  "id": "the-tarkov-butcher",
+  "title": "The Tarkov Butcher",
+  "pageId": 38054,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain the chemical container on Ground Zero",
+    "Stash the container inside the ambulance car by the cottages on Shoreline"
+  ],
+  "rewards": {
+    "exp": 14700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Tarkov_Butcher",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

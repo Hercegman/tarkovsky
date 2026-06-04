@@ -1,0 +1,50 @@
+{
+  "id": "health-care-privacy-part-2",
+  "title": "Health Care Privacy - Part 2",
+  "pageId": 8079,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "health-care-privacy-part-1",
+      "title": "Health Care Privacy - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "health-care-privacy-part-3",
+      "title": "Health Care Privacy - Part 3"
+    },
+    {
+      "id": "lost-contact",
+      "title": "Lost Contact"
+    }
+  ],
+  "objectives": [
+    "Search the room in the Health Resort for any documents about TerraGroup's research on Shoreline",
+    "Hand over the retrieved information",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 5900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

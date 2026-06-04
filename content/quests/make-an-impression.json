@@ -1,0 +1,43 @@
+{
+  "id": "make-an-impression",
+  "title": "Make an Impression",
+  "pageId": 28591,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "spotter",
+      "title": "Spotter"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "trouble-in-the-big-city",
+      "title": "Trouble in the Big City"
+    }
+  ],
+  "objectives": [
+    "Reach the required Bolt-action Rifles skill level of 10",
+    "Eliminate 10 Sniper Scavs from over 350 meters away"
+  ],
+  "rewards": {
+    "exp": 2,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Make_an_Impression",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

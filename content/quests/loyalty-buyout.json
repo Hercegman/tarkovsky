@@ -1,0 +1,41 @@
+{
+  "id": "loyalty-buyout",
+  "title": "Loyalty Buyout",
+  "pageId": 7080,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "out-of-curiosity",
+      "title": "Out of Curiosity"
+    },
+    {
+      "id": "big-customer",
+      "title": "Big Customer"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Hand over 1,000,000 RUB to Skier"
+  ],
+  "rewards": {
+    "exp": null,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Loyalty_Buyout",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

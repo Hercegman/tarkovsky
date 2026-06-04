@@ -1,0 +1,44 @@
+{
+  "id": "obstacle-course",
+  "title": "Obstacle Course",
+  "pageId": 33851,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "seeking-information",
+      "title": "Seeking Information"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "radio-club",
+      "title": "Radio Club"
+    }
+  ],
+  "objectives": [
+    "Eliminate Peacekeeper's people on Shoreline"
+  ],
+  "rewards": {
+    "exp": 126000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Obstacle_Course",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "general-wares",
+  "title": "General Wares",
+  "pageId": 6420,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "pharmacist",
+      "title": "Pharmacist"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "colleagues-part-1",
+      "title": "Colleagues - Part 1"
+    }
+  ],
+  "objectives": [
+    "Find 15 Cans of beef stew (Small) in raid",
+    "Hand over 15 cans to Therapist"
+  ],
+  "rewards": {
+    "exp": 4800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/General_Wares",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

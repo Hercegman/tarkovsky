@@ -1,0 +1,53 @@
+{
+  "id": "chemical-part-4",
+  "title": "Chemical - Part 4",
+  "pageId": 6780,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "chemical-part-3",
+      "title": "Chemical - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "no-offence",
+      "title": "No Offence"
+    },
+    {
+      "id": "trust-regain",
+      "title": "Trust Regain"
+    },
+    {
+      "id": "safe-corridor",
+      "title": "Safe Corridor"
+    }
+  ],
+  "objectives": [
+    "Locate the transport with the chemicals on Customs",
+    "Mark the vehicle with an MS2000 Marker"
+  ],
+  "rewards": {
+    "exp": 6500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_4",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

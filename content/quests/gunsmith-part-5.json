@@ -1,0 +1,42 @@
+{
+  "id": "gunsmith-part-5",
+  "title": "Gunsmith - Part 5",
+  "pageId": 9596,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-4",
+      "title": "Gunsmith - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-6",
+      "title": "Gunsmith - Part 6"
+    }
+  ],
+  "objectives": [
+    "Modify a Remington Model 870 to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 4100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "gunsmith-part-23",
+  "title": "Gunsmith - Part 23",
+  "pageId": 30490,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "gunsmith-part-22",
+      "title": "Gunsmith - Part 22"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "gunsmith-part-24",
+      "title": "Gunsmith - Part 24"
+    }
+  ],
+  "objectives": [
+    "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+  ],
+  "rewards": {
+    "exp": 29500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Gunsmith_-_Part_23",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

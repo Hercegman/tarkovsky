@@ -1,0 +1,53 @@
+{
+  "id": "wet-job-part-5",
+  "title": "Wet Job - Part 5",
+  "pageId": 7827,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "shoreline"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "wet-job-part-4",
+      "title": "Wet Job - Part 4"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "wet-job-part-6",
+      "title": "Wet Job - Part 6"
+    },
+    {
+      "id": "worst-job-in-the-world",
+      "title": "Worst Job in the World"
+    },
+    {
+      "id": "mentor",
+      "title": "Mentor"
+    }
+  ],
+  "objectives": [
+    "Obtain information on Artyom's work on Shoreline",
+    "Hand over the information to Peacekeeper"
+  ],
+  "rewards": {
+    "exp": 8400,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_5",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

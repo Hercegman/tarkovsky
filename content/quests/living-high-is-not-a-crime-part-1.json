@@ -1,0 +1,55 @@
+{
+  "id": "living-high-is-not-a-crime-part-1",
+  "title": "Living High is Not a Crime - Part 1",
+  "pageId": 10749,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-blood-of-war-part-1",
+      "title": "The Blood of War - Part 1"
+    },
+    {
+      "id": "sew-it-good-part-3",
+      "title": "Sew it Good - Part 3"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "living-high-is-not-a-crime-part-2",
+      "title": "Living High is Not a Crime - Part 2"
+    }
+  ],
+  "objectives": [
+    "Find 2 Bronze lion figurines in raid",
+    "Find 2 Horse figurines in raid",
+    "Find 1 Cat figurine in raid",
+    "Find 1 Roler Submariner gold wrist watch in raid",
+    "Find 1 Golden egg in raid",
+    "Hand over 2 Bronze lion figurines to Ragman",
+    "Hand over 2 Horse figurines to Ragman",
+    "Hand over 1 Cat figurine to Ragman",
+    "Hand over 1 Roler Submariner gold wrist watch to Ragman",
+    "Hand over 1 Golden egg to Ragman"
+  ],
+  "rewards": {
+    "exp": 19900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Living_High_is_Not_a_Crime_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

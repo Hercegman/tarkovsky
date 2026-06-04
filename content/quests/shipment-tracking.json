@@ -1,0 +1,45 @@
+{
+  "id": "shipment-tracking",
+  "title": "Shipment Tracking",
+  "pageId": 36715,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "abandoned-cargo",
+      "title": "Abandoned Cargo"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "closer-to-the-people",
+      "title": "Closer to the People"
+    }
+  ],
+  "objectives": [
+    "Locate and obtain the TerraGroup shipment lists on Customs",
+    "Hand over the found information"
+  ],
+  "rewards": {
+    "exp": 9600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Shipment_Tracking",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

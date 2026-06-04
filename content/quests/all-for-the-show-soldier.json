@@ -1,0 +1,44 @@
+{
+  "id": "all-for-the-show-soldier",
+  "title": "All for the Show - Soldier",
+  "pageId": 43671,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "jack-of-all-trades-pro",
+      "title": "Jack of All Trades - Pro"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "advertising-business-part-3",
+      "title": "Advertising Business - Part 3"
+    }
+  ],
+  "objectives": [
+    "Eliminate 50 enemies while wearing any beret in CheckPoint mode"
+  ],
+  "rewards": {
+    "exp": 7500,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/All_for_the_Show_-_Soldier",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

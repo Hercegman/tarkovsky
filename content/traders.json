@@ -1,0 +1,13 @@
+[
+  { "id": "prapor", "name": "Prapor", "blurb": "Weapons and ammunition dealer. The first trader most players work with." },
+  { "id": "therapist", "name": "Therapist", "blurb": "Medical supplies, food and provisions. Essential early healing items." },
+  { "id": "skier", "name": "Skier", "blurb": "Black-market goods and barter trades. Strong roubles and gear deals." },
+  { "id": "peacekeeper", "name": "Peacekeeper", "blurb": "Western weapons, attachments and gear, traded in US dollars." },
+  { "id": "mechanic", "name": "Mechanic", "blurb": "Weapon parts, modding and ammunition crafting specialist." },
+  { "id": "ragman", "name": "Ragman", "blurb": "Clothing, armor, rigs and backpacks." },
+  { "id": "jaeger", "name": "Jaeger", "blurb": "Hunting and survival gear. Must be unlocked before trading." },
+  { "id": "fence", "name": "Fence", "blurb": "Resells items bought from other players. Reputation-gated deals." },
+  { "id": "ref", "name": "Ref", "blurb": "Arena-linked trader dealing in GP coins and special gear." },
+  { "id": "lightkeeper", "name": "Lightkeeper", "blurb": "Endgame trader on Lighthouse, tied to high-level quest chains." },
+  { "id": "btr-driver", "name": "BTR Driver", "blurb": "Provides BTR transport services and a small set of tasks." }
+]

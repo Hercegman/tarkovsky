@@ -1,0 +1,46 @@
+{
+  "id": "sensory-analysis-part-2",
+  "title": "Sensory Analysis - Part 2",
+  "pageId": 38046,
+  "trader": "btr-driver",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "sensory-analysis-part-1",
+      "title": "Sensory Analysis - Part 1"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "keepers-word",
+      "title": "Keeper's Word"
+    }
+  ],
+  "objectives": [
+    "Find a Bottle of Fierce Hatchling moonshine",
+    "Hand over a Bottle of Fierce Hatchling moonshine"
+  ],
+  "rewards": {
+    "exp": 6800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sensory_Analysis_-_Part_2",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

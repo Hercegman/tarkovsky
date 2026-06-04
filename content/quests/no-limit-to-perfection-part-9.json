@@ -1,0 +1,44 @@
+{
+  "id": "no-limit-to-perfection-part-9",
+  "title": "No Limit to Perfection - Part 9",
+  "pageId": 43677,
+  "trader": "ref",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "arena"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "no-limit-to-perfection-part-8",
+      "title": "No Limit to Perfection - Part 8"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "all-for-the-show-supremacy",
+      "title": "All for the Show - Supremacy"
+    }
+  ],
+  "objectives": [
+    "Eliminate 10 enemies with headshots while using bolt-action rifles"
+  ],
+  "rewards": {
+    "exp": 35000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/No_Limit_to_Perfection_-_Part_9",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

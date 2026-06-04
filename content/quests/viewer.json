@@ -1,0 +1,48 @@
+{
+  "id": "viewer",
+  "title": "Viewer",
+  "pageId": 34271,
+  "trader": "prapor",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods",
+    "shoreline",
+    "factory"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "minute-of-fame",
+      "title": "Minute of Fame"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "serious-allegations",
+      "title": "Serious Allegations"
+    }
+  ],
+  "objectives": [
+    "Install a WI-FI Camera on the mountain ledge on Woods",
+    "Install a WI-FI Camera at the pier tower on Shoreline",
+    "Install a WI-FI Camera at the office corridor on Factory"
+  ],
+  "rewards": {
+    "exp": 74000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Viewer",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

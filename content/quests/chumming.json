@@ -1,0 +1,65 @@
+{
+  "id": "chumming",
+  "title": "Chumming",
+  "pageId": 10755,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "woods",
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "informed-means-armed",
+      "title": "Informed Means Armed"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "bullshit",
+      "title": "Bullshit"
+    },
+    {
+      "id": "debtor",
+      "title": "Debtor"
+    },
+    {
+      "id": "flint",
+      "title": "Flint"
+    },
+    {
+      "id": "no-swiping",
+      "title": "No Swiping"
+    },
+    {
+      "id": "private-club",
+      "title": "Private Club"
+    }
+  ],
+  "objectives": [
+    "Stash 3 Golden neck chains under the mattress next to BTR-82A in Generic Store on Interchange",
+    "Stash 3 Golden neck chains in the microwave on the 3rd floor of the dorm on Customs",
+    "Stash 3 Golden neck chains in the middle wooden cabin at the sawmill on Woods",
+    "Eliminate 5 PMC operatives in the time period of 22:00-10:00 on Interchange"
+  ],
+  "rewards": {
+    "exp": 19100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chumming",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

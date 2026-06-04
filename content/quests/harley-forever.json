@@ -1,0 +1,39 @@
+{
+  "id": "harley-forever",
+  "title": "Harley Forever",
+  "pageId": 28074,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse",
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and mark the first motorcycle with an MS2000 Marker on Lighthouse",
+    "Locate and mark the second motorcycle with an MS2000 Marker on Lighthouse",
+    "Survive and extract from Lighthouse",
+    "Locate and mark the motorcycle with an MS2000 Marker on Streets of Tarkov",
+    "Survive and extract from Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 22900,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Harley_Forever",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

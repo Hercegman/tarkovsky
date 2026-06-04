@@ -1,0 +1,41 @@
+{
+  "id": "the-huntsman-path-crooked-cop",
+  "title": "The Huntsman Path - Crooked Cop",
+  "pageId": 32542,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-administrator",
+      "title": "The Huntsman Path - Administrator"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and neutralize Kollontay",
+    "Eliminate 4 of Kollontay's guards",
+    "Hand over the found in raid Kollontay's police baton"
+  ],
+  "rewards": {
+    "exp": 36000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Crooked_Cop",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "disease-history",
+  "title": "Disease History",
+  "pageId": 21246,
+  "trader": "therapist",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "pharmacist",
+      "title": "Pharmacist"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "seaside-vacation",
+      "title": "Seaside Vacation"
+    }
+  ],
+  "objectives": [
+    "Obtain Medical record #1 on Reserve",
+    "Obtain Medical record #2 on Reserve",
+    "Hand over the first journal to Therapist",
+    "Hand over the second journal to Therapist"
+  ],
+  "rewards": {
+    "exp": 7200,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Disease_History",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

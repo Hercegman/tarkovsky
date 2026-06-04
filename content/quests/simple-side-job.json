@@ -1,0 +1,41 @@
+{
+  "id": "simple-side-job",
+  "title": "Simple Side Job",
+  "pageId": 37763,
+  "trader": "lightkeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "reserve",
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "swift-retribution",
+      "title": "Swift Retribution"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and obtain Lightkeeper's cargo crate on the roof of the military hospital on Reserve",
+    "Stash the cargo at the Scav house on Woods"
+  ],
+  "rewards": {
+    "exp": 56700,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Simple_Side_Job",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "special-equipment",
+  "title": "Special Equipment",
+  "pageId": 21803,
+  "trader": "peacekeeper",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "trophies",
+      "title": "Trophies"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Find 5 VPX Flash Storage Modules in raid",
+    "Find 5 UHF RFID Readers in raid",
+    "Find 5 Virtex programmable processors in raid",
+    "Find 5 Military COFDM Wireless Signal Transmitters in raid",
+    "Find 4 Military flash drives in raid",
+    "Handover 5 VPX Flash Storage Modules to Peacekeeper",
+    "Handover 5 UHF RFID Readers to Peacekeeper",
+    "Handover 5 Virtex programmable processors to Peacekeeper",
+    "Handover 5 Military COFDM Wireless Signal Transmitters to Peacekeeper",
+    "Handover 4 Military flash drives"
+  ],
+  "rewards": {
+    "exp": 177000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Special_Equipment",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "the-huntsman-path-big-game",
+  "title": "The Huntsman Path - Big Game",
+  "pageId": 30510,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "streets-of-tarkov"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-forest-cleaning",
+      "title": "The Huntsman Path - Forest Cleaning"
+    },
+    {
+      "id": "urban-medicine",
+      "title": "Urban Medicine"
+    }
+  ],
+  "leadsTo": [],
+  "objectives": [
+    "Locate and eliminate Kaban",
+    "Locate and eliminate Basmach",
+    "Locate and eliminate Gus",
+    "Eliminate 5 of Kaban's guards at the car dealership on Streets of Tarkov"
+  ],
+  "rewards": {
+    "exp": 33000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Big_Game",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

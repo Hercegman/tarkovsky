@@ -1,0 +1,51 @@
+{
+  "id": "sightseeing",
+  "title": "Sightseeing",
+  "pageId": 34616,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "ground-zero",
+    "streets-of-tarkov",
+    "the-lab",
+    "interchange",
+    "customs",
+    "factory",
+    "woods",
+    "reserve",
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [],
+  "objectives": [
+    "Mark the passage to Streets of Tarkov with an MS2000 Marker on Ground Zero",
+    "Mark the passage to Interchange with an MS2000 Marker on Streets of Tarkov",
+    "Mark the passage to The Lab with an MS2000 Marker on Streets of Tarkov",
+    "Mark the passage to Streets of Tarkov with an MS2000 Marker in The Lab",
+    "Mark the passage to Customs with an MS2000 Marker on Interchange",
+    "Mark the passage to Factory with an MS2000 Marker on Customs",
+    "Mark the passage to Woods with an MS2000 Marker on Factory",
+    "Mark the passage to Reserve with an MS2000 Marker on Woods",
+    "Mark the passage to Lighthouse with an MS2000 Marker on Reserve",
+    "Mark the passage to Shoreline with an MS2000 Marker on Lighthouse"
+  ],
+  "rewards": {
+    "exp": 14100,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sightseeing",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

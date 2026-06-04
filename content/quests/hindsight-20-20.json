@@ -1,0 +1,47 @@
+{
+  "id": "hindsight-20-20",
+  "title": "Hindsight 20/20",
+  "pageId": 37725,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "route-deviation",
+      "title": "Route Deviation"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "key-partner",
+      "title": "Key Partner"
+    }
+  ],
+  "objectives": [
+    "Locate the bunker under the mountain on Woods",
+    "Stash the first Russian armor-piercing ammo pack inside the bunker",
+    "Stash the second Russian armor-piercing ammo pack inside the bunker",
+    "Stash the third Russian armor-piercing ammo pack inside the bunker"
+  ],
+  "rewards": {
+    "exp": 21800,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Hindsight_20%2F20",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

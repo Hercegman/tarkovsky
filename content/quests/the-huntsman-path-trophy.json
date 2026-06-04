@@ -1,0 +1,50 @@
+{
+  "id": "the-huntsman-path-trophy",
+  "title": "The Huntsman Path - Trophy",
+  "pageId": 14940,
+  "trader": "jaeger",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "the-huntsman-path-secured-perimeter",
+      "title": "The Huntsman Path - Secured Perimeter"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "stray-dogs",
+      "title": "Stray Dogs"
+    },
+    {
+      "id": "the-huntsman-path-relentless",
+      "title": "The Huntsman Path - Relentless"
+    }
+  ],
+  "objectives": [
+    "Eliminate Reshala",
+    "Find 1 Reshala's Golden TT in raid",
+    "Hand over 1 Reshala's Golden TT to Jaeger"
+  ],
+  "rewards": {
+    "exp": 15300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_-_Trophy",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

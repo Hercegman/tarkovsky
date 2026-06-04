@@ -1,0 +1,49 @@
+{
+  "id": "sew-it-good-part-1",
+  "title": "Sew it Good - Part 1",
+  "pageId": 10264,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "database-part-2",
+      "title": "Database - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "sew-it-good-part-2",
+      "title": "Sew it Good - Part 2"
+    },
+    {
+      "id": "the-blood-of-war-part-2",
+      "title": "The Blood of War - Part 2"
+    }
+  ],
+  "objectives": [
+    "Find 1 Ski hat with holes for eyes in raid",
+    "Hand over 1 Ski hat with holes for eyes to Ragman",
+    "Find 1 Pilgrim tourist backpack in raid",
+    "Hand over 1 Pilgrim tourist backpack to Ragman"
+  ],
+  "rewards": {
+    "exp": 12300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sew_it_Good_-_Part_1",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

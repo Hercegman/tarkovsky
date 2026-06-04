@@ -1,0 +1,51 @@
+{
+  "id": "the-key-to-success",
+  "title": "The Key to Success",
+  "pageId": 10268,
+  "trader": "ragman",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "interchange"
+  ],
+  "kappaRequired": true,
+  "prerequisites": [
+    {
+      "id": "sew-it-good-part-2",
+      "title": "Sew it Good - Part 2"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "no-fuss-needed",
+      "title": "No Fuss Needed"
+    },
+    {
+      "id": "supervisor",
+      "title": "Supervisor"
+    }
+  ],
+  "objectives": [
+    "Obtain the Clothes design handbook - Part 1 on Interchange",
+    "Hand over the Clothes design handbook - Part 1 to Ragman",
+    "Obtain the Clothes design handbook - Part 2 on Interchange",
+    "Hand over the Clothes design handbook - Part 2 to Ragman"
+  ],
+  "rewards": {
+    "exp": 15600,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/The_Key_to_Success",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

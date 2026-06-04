@@ -1,0 +1,45 @@
+{
+  "id": "knock-knock",
+  "title": "Knock-Knock",
+  "pageId": 28273,
+  "trader": "mechanic",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "lighthouse"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [
+    {
+      "id": "key-to-the-tower",
+      "title": "Key to the Tower"
+    }
+  ],
+  "leadsTo": [
+    {
+      "id": "getting-acquainted",
+      "title": "Getting Acquainted"
+    }
+  ],
+  "objectives": [
+    "Check if the radio transmitter works near the Lighthouse peninsula",
+    "Survive and extract from the location"
+  ],
+  "rewards": {
+    "exp": 31300,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Knock-Knock",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}

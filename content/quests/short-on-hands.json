@@ -1,0 +1,43 @@
+{
+  "id": "short-on-hands",
+  "title": "Short on Hands",
+  "pageId": 43449,
+  "trader": "skier",
+  "questNumber": null,
+  "requiredLevel": null,
+  "maps": [
+    "customs",
+    "interchange",
+    "lighthouse",
+    "shoreline",
+    "woods"
+  ],
+  "kappaRequired": false,
+  "prerequisites": [],
+  "leadsTo": [
+    {
+      "id": "run-aground",
+      "title": "Run Aground"
+    }
+  ],
+  "objectives": [
+    "Eliminate 5 PMC operatives on Woods, Customs, Interchange, Lighthouse, or Shoreline"
+  ],
+  "rewards": {
+    "exp": 12000,
+    "roubles": null,
+    "reputation": [],
+    "items": [],
+    "unlocks": []
+  },
+  "questItems": [],
+  "guideHtml": null,
+  "guideText": null,
+  "markers": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Short_on_Hands",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki",
+    "fetchedAt": "2026-06-04T16:55:08.061Z"
+  }
+}
