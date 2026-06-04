@@ -90,3 +90,11 @@ export async function getTraderQuestCounts(): Promise<Record<string, number>> {
   for (const q of quests) counts[q.trader] = (counts[q.trader] ?? 0) + 1;
   return counts;
 }
+
+/** Counts of quests per map id. */
+export async function getMapQuestCounts(): Promise<Record<string, number>> {
+  const quests = await getQuests();
+  const counts: Record<string, number> = {};
+  for (const q of quests) for (const m of q.maps) counts[m] = (counts[m] ?? 0) + 1;
+  return counts;
+}
