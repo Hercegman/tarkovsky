@@ -35,5 +35,21 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-25.webp",
-  "order": 26
+  "order": 26,
+  "items": [
+    "pkp",
+    "physical-bitcoin",
+    "weapon-case",
+    "terragroup-labs-keycard-black",
+    "kalashnikov-pkm-7-62x54r-machine-gun",
+    "kalashnikov-pkp-7-62x54r-infantry-machine-gun",
+    "ncstar-tactical-blue-laser",
+    "pk-zenit-b-50-handguard",
+    "pk-zenit-pt-2-klassika-stock",
+    "pk-zenit-dtk-1p-7-62x54r-muzzle-brake",
+    "npz-usp-1-tyulpan-4x-scope",
+    "pk-7-62x54r-100-round-box",
+    "kaban",
+    "pkm-7-62x54r-658mm-barrel"
+  ]
 }

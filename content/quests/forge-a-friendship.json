@@ -60,5 +60,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/forge-a-friendship.webp",
-  "order": 63
+  "order": 63,
+  "items": [
+    "cargo-for-prapor",
+    "kalashnikov-ak-12-5-45x39-assault-rifle",
+    "ak-74-5-45x39-6l26-45-round-magazine",
+    "5-45x39mm-bp-gs-ammo-pack-120-pcs"
+  ]
 }

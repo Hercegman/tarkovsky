@@ -54,5 +54,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/terragroup-employee.webp",
-  "order": 26
+  "order": 26,
+  "items": [
+    "flash-drive-marked-with-blue-tape",
+    "desert-tech-mdr-7-62x51-assault-rifle",
+    "ar-10-7-62x51-magpul-pmag-20-sr-lr-gen-m3-20-round-magazine",
+    "7-62x51mm-m80-ammo-pack-20-pcs",
+    "mesa-tactical-crosshair-hydraulic-buffer-tube",
+    "keycard-with-a-blue-marking",
+    "terragroup-labs-keycard-green"
+  ]
 }

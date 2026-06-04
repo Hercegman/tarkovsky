@@ -74,5 +74,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/chemistry-closet.webp",
-  "order": 50
+  "order": 50,
+  "items": [
+    "health-resort-office-key-with-a-blue-tape",
+    "silencerco-hybrid-46-multi-caliber-sound-suppressor",
+    "graphics-card",
+    "t-h-i-c-c-weapon-case",
+    "sanitar"
+  ]
 }

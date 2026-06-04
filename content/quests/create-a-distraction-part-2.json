@@ -38,5 +38,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/create-a-distraction-part-2.webp",
-  "order": 6
+  "order": 6,
+  "items": [
+    "kaban",
+    "kollontay",
+    "degtyarev-rpdn-7-62x39-machine-gun",
+    "rpd-7-62x39-buben-100-round-box",
+    "7-62x39mm-fmj-ammo-pack-20-pcs",
+    "lega-medal",
+    "claymores"
+  ]
 }

@@ -42,5 +42,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/professional-fitness-part-2.webp",
-  "order": 8
+  "order": 8,
+  "items": [
+    "lega-medal"
+  ]
 }

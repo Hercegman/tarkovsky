@@ -36,5 +36,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/tourists.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "knight",
+    "big-pipe",
+    "birdeye",
+    "9x21mm-bt-gzh",
+    "5-45x39mm-7n40",
+    "7-62x54mm-r-bs-gs",
+    "9x39mm-bp-gs"
+  ]
 }

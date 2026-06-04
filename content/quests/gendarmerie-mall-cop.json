@@ -42,5 +42,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gendarmerie-mall-cop.webp",
-  "order": 52
+  "order": 52,
+  "items": [
+    "sr-2m-veresk-9x21-submachine-gun",
+    "sr-2m-9x21-30-round-magazine",
+    "9x21mm-ps-gzh-ammo-pack-30-pcs",
+    "serdyukov-sr-1mp-gyurza-9x21-pistol"
+  ]
 }

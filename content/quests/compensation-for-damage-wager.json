@@ -30,5 +30,24 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/compensation-for-damage-wager.webp",
-  "order": 12
+  "order": 12,
+  "items": [
+    "ak-101",
+    "ak-102",
+    "ak-103",
+    "ak-104",
+    "ak-105",
+    "ak-74",
+    "ak-74m",
+    "ak-74n",
+    "akm",
+    "akmn",
+    "akms",
+    "akmsn",
+    "aks-74",
+    "aks-74n",
+    "aks-74u",
+    "aks-74ub",
+    "aks-74un"
+  ]
 }

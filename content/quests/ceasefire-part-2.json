@@ -42,5 +42,16 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/ceasefire-part-2.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "m4a1",
+    "untar-helmet",
+    "mf-untar-body-armor",
+    "ak-74n",
+    "npp-klass-kora-kulon-body-armor-emr",
+    "6b47-ratnik-bsh-helmet-olive-drab",
+    "ammunition-case",
+    "colt-m4a1-5-56x45-assault-rifle",
+    "kalashnikov-ak-74n-5-45x39-assault-rifle"
+  ]
 }

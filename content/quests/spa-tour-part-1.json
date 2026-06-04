@@ -46,5 +46,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/spa-tour-part-1.webp",
-  "order": 7
+  "order": 7,
+  "items": [
+    "sig-mpx-9x19-submachine-gun",
+    "mpx-9x19-30-round-magazine",
+    "9x19mm-rip-ammo-pack-20-pcs",
+    "health-resort-west-wing-room-306-key"
+  ]
 }

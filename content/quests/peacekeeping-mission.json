@@ -47,5 +47,18 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/peacekeeping-mission.webp",
-  "order": 28
+  "order": 28,
+  "items": [
+    "untar-helmet",
+    "mf-untar-body-armor",
+    "remington-model-700-7-62x51-bolt-action-sniper-rifle",
+    "7-62x51mm-m61-ammo-pack-20-pcs",
+    "l3harris-gpnvg-18-night-vision-goggles",
+    "cult-locust-ballistic-plate",
+    "colt-m4a1-5-56x45-assault-rifle",
+    "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine",
+    "m4a1",
+    "m16a1",
+    "m16a2"
+  ]
 }

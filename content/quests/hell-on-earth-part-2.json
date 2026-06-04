@@ -35,5 +35,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hell-on-earth-part-2.webp",
-  "order": 59
+  "order": 59,
+  "items": [
+    "cultists",
+    "mp-43-1c-12ga-double-barrel-shotgun",
+    "vog-25-khattabka-improvised-hand-grenade",
+    "rgn-hand-grenade",
+    "rgo-hand-grenade",
+    "mp-43-12ga-sawed-off-double-barrel-shotgun"
+  ]
 }

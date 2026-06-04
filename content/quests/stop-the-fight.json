@@ -35,5 +35,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/stop-the-fight.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "santa-hat",
+    "ded-moroz-hat",
+    "etg-change-regenerative-stimulant-injector"
+  ]
 }

@@ -63,5 +63,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/one-less-loose-end.webp",
-  "order": 43
+  "order": 43,
+  "items": [
+    "lab-journal",
+    "magnum-research-desert-eagle-mk-xix-50-ae-pistol",
+    "desert-eagle-50-ae-7-round-magazine",
+    "50-ae-copper-solid"
+  ]
 }

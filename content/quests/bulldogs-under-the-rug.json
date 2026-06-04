@@ -51,5 +51,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/bulldogs-under-the-rug.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "counterparty-letter",
+    "fn-scar-h-7-62x51-assault-rifle-fde",
+    "fn-scar-h-7-62x51-20-round-magazine-fde",
+    "7-62x51mm-m80a1-ammo-pack-20-pcs"
+  ]
 }

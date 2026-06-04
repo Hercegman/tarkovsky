@@ -44,5 +44,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/progression-difficulties-part-2.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "decrypted-intelligence-folder",
+    "kalashnikov-ak-101-5-56x45-assault-rifle",
+    "ak-101-5-56x45-6l29-30-round-magazine",
+    "5-56x45mm-m855a1-ammo-pack-100-pcs",
+    "military-thumb-drive"
+  ]
 }

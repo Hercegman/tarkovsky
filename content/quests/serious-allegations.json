@@ -62,5 +62,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/serious-allegations.webp",
-  "order": 45
+  "order": 45,
+  "items": [
+    "hard-drive",
+    "l3harris-an-pvs-14-night-vision-monocular",
+    "an-pvs-14-norotos-dual-dovetail-mount",
+    "norotos-titanium-advanced-tactical-mount"
+  ]
 }

@@ -60,5 +60,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/another-shipping-delay.webp",
-  "order": 45
+  "order": 45,
+  "items": [
+    "peltor-comtac-v-headset-od-green"
+  ]
 }

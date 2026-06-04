@@ -60,5 +60,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/eagle-eye.webp",
-  "order": 3
+  "order": 3,
+  "items": [
+    "uav-sas-disk-1",
+    "uav-sas-disk-2",
+    "elcan-specterdr-1x-4x-scope-fde",
+    "leupold-mark-4-hamr-4x24-deltapoint-hybrid-assault-scope",
+    "sig-mpx-9x19-submachine-gun"
+  ]
 }

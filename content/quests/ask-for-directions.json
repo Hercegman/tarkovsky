@@ -70,5 +70,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/ask-for-directions.webp",
-  "order": 7
+  "order": 7,
+  "items": [
+    "ms2000-marker",
+    "greenbat-lithium-battery"
+  ]
 }

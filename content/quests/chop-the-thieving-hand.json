@@ -51,5 +51,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/chop-the-thieving-hand.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "ar-15-5-56x45-troy-battlemag-stanag-30-round-magazine",
+    "5-56x45mm-m995-ammo-pack-100-pcs",
+    "5-56x45mm-ssa-ap-ammo-pack-100-pcs",
+    "fn-scar-l-5-56x45-assault-rifle"
+  ]
 }

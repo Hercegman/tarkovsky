@@ -42,5 +42,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-17.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "wi-fi-camera",
+    "steyr-aug-a3-5-56x45-assault-rifle",
+    "steyr-aug-5-56x45-30-round-magazine",
+    "5-56x45mm-m995"
+  ]
 }

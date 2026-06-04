@@ -52,5 +52,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/shaking-up-the-teller.webp",
-  "order": 16
+  "order": 16,
+  "items": [
+    "pavel-yegorovich-romanenko",
+    "bank-case",
+    "dorm-room-203-key",
+    "geiger-muller-counter",
+    "aks-74u-pbs-4-5-45x39-sound-suppressor",
+    "hexagon-12k-12ga-sound-suppressor"
+  ]
 }

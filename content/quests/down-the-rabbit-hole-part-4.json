@@ -40,5 +40,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/down-the-rabbit-hole-part-4.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "bear-buddy-plush-toy",
+    "search",
+    "attention",
+    "grenade-case",
+    "f-1-hand-grenade",
+    "rgd-5-hand-grenade",
+    "rgn-hand-grenade",
+    "rgo-hand-grenade"
+  ]
 }

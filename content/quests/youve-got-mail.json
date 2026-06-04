@@ -56,5 +56,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/youve-got-mail.webp",
-  "order": 46
+  "order": 46,
+  "items": [
+    "registered-letter",
+    "6b47-ratnik-bsh-helmet-olive-drab",
+    "5-45x39mm-bp-gs-ammo-pack-30-pcs",
+    "9x18mm-pm-sp7-gzh"
+  ]
 }

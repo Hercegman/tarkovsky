@@ -37,5 +37,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/shootout-picnic.webp",
-  "order": 6
+  "order": 6,
+  "items": [
+    "kalashnikov-aks-74un-5-45x39-assault-rifle",
+    "ak-74-5-45x39-6l20-30-round-magazine",
+    "5-45x39mm-pp-gs-ammo-pack-30-pcs",
+    "morphine-injector",
+    "lebedev-pl-15-9x19-pistol",
+    "6b5-16-zh-86-uley-armored-rig-khaki"
+  ]
 }

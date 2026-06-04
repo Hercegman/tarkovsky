@@ -44,5 +44,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-6.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "physical-bitcoin",
+    "kalashnikov-ak-74m-5-45x39-assault-rifle"
+  ]
 }

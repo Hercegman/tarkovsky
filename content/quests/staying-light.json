@@ -30,5 +30,36 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/staying-light.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "sword-international-mk-18-338-lm-marksman-rifle",
+    "mk-18-338-lm-10-round-magazine",
+    "altyn-bulletproof-helmet-olive-drab",
+    "bnti-zhuk-body-armor-emr",
+    "sako-trg-m10-338-lm-bolt-action-sniper-rifle",
+    "aklys-defense-velociraptor-300-blackout-assault-rifle",
+    "u-s-ordnance-m60e6-7-62x51-light-machine-gun",
+    "tdi-kriss-vector-gen-2-45-acp-submachine-gun",
+    "saiga-12k-ver-10-12ga-semi-automatic-shotgun",
+    "stich-profi-plate-carrier-v2-black",
+    "5-11-tactical-tactec-plate-carrier-ranger-green",
+    "diamond-age-bastion-helmet-black",
+    "diamond-age-bastion-helmet-armor-plate",
+    "lbt-1961a-load-bearing-chest-rig-mas-grey",
+    "338-lapua-magnum-ap-ammo-pack-20-pcs",
+    "sako-trg-m10-338-lm-8-round-magazine",
+    "m60-7-62x51-capco-100-round-assault-box",
+    "7-62x51mm-m62-tracer-ammo-pack-20-pcs",
+    "sok-12-12ga-md-arms-20-round-drum-magazine",
+    "12-70-flechette-ammo-pack-25-pcs",
+    "ak-5-56x45-molot-arms-45-round-magazine",
+    "300-blackout-ap-ammo-pack-50-pcs",
+    "glock-45-acp-kriss-g30-magex-30-round-magazine",
+    "9x19mm-rip-ammo-pack-20-pcs",
+    "wilcox-boss-xe-reflex-sight",
+    "sig-sauer-tango6t-1-6x24-30mm-riflescope",
+    "sig-sauer-alpha4-30mm-ring-scope-mount",
+    "armasight-zeus-pro-640-2-8x50-30hz-thermal-scope",
+    "armasight-zeus-universal-base"
+  ]
 }

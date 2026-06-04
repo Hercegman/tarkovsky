@@ -33,5 +33,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/bucket-of-nothing.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "reshala",
+    "20x1mm-toy-gun",
+    "kalashnikov-ak-308-7-62x51-assault-rifle",
+    "saiga-308-ak-308-7-62x51-promag-24-round-magazine",
+    "7-62x51mm-m61-ammo-pack-20-pcs"
+  ]
 }

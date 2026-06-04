@@ -52,5 +52,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-sellout.webp",
-  "order": 22
+  "order": 22,
+  "items": [
+    "killa",
+    "maska-1sch-bulletproof-helmet-killa-edition",
+    "intelligence-folder",
+    "idea-cash-register-key",
+    "oli-cash-register-key",
+    "goshan-cash-register-key",
+    "rpk-16-5-45x39-light-machine-gun",
+    "maska-1sch-bulletproof-helmet-christmas-edition"
+  ]
 }

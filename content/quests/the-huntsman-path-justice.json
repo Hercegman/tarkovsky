@@ -37,5 +37,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-justice.webp",
-  "order": 21
+  "order": 21,
+  "items": [
+    "reshala",
+    "expeditionary-fuel-tank",
+    "propane-tank-5l",
+    "wd-40-400ml"
+  ]
 }

@@ -54,5 +54,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/spring.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "can-of-squash-spread",
+    "followers-of-morana",
+    "bottle-of-fierce-hatchling-moonshine",
+    "6-8x51mm-sig-fmj",
+    "ar-10-7-62x51-lancer-l7awm-20-round-magazine",
+    "sig-mcx-spear-6-8x51-assault-rifle",
+    "can-of-squash-spread",
+    "bottle-of-fierce-hatchling-moonshine"
+  ]
 }

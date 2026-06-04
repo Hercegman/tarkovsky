@@ -35,5 +35,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/tournament.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "weapon-paint-set-tiger-stripe-twitch"
+  ]
 }

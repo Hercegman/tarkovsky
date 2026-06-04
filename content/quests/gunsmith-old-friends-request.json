@@ -37,5 +37,34 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-old-friends-request.webp",
-  "order": 27
+  "order": 27,
+  "items": [
+    "pp-19-01",
+    "t-5000m",
+    "glock-17",
+    "ballistic-plate-case",
+    "aimpoint-micro-t-1-reflex-sight",
+    "aimpoint-micro-spacer-high",
+    "zenit-rk-6-tactical-foregrip",
+    "ak-zenit-rk-3-pistol-grip",
+    "ak-zenit-pt-3-klassika-stock",
+    "l3harris-an-peq-15-tactical-device",
+    "zenit-klesch-2p-flashlight-with-laser",
+    "pp-19-01-vityaz-9x19-sound-suppressor",
+    "nightforce-atacr-7-35x56-34mm-riflescope",
+    "harris-s-brm-6-9-bipod",
+    "glock-9x19-double-diamond-114mm-threaded-barrel",
+    "glock-9x19-double-diamond-thread-protector",
+    "glock-pachmayr-tactical-grip-glove",
+    "glock-9x19-magpul-pmag-gl9-21-round-magazine",
+    "pp-19-01-vityaz-sn-dust-cover",
+    "aimpoint-micro-standard-mount",
+    "ak-74m-ak-100-zenit-pt-lock",
+    "pp-19-01-vityaz-sag-mk1-m-lok-handguard-with-gas-tube",
+    "magpul-m-lok-4-1-inch-rail",
+    "magpul-m-lok-2-5-inch-rail",
+    "iea-mil-optics-kh-f-34mm-one-piece-magmount",
+    "silencerco-hybrid-46-direct-thread-mount-adapter",
+    "silencerco-hybrid-46-multi-caliber-sound-suppressor"
+  ]
 }

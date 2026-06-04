@@ -56,5 +56,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/saving-the-mole.webp",
-  "order": 0
+  "order": 0,
+  "items": [
+    "terragroup-science-office-key",
+    "terragroup-scientists-hard-drive",
+    "tube-of-poxeram-cold-welding",
+    "metal-spare-parts",
+    "lab-technician-body"
+  ]
 }

@@ -44,5 +44,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/not-below-zero.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "battlepass",
+    "hare-mask",
+    "fox-mask",
+    "aybolit-mask",
+    "grinch-mask"
+  ]
 }

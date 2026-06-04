@@ -44,5 +44,23 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-4.webp",
-  "order": 5
+  "order": 5,
+  "items": [
+    "op-sks",
+    "gunpowder-kite",
+    "car-battery",
+    "electric-motor",
+    "pp-19-01-vityaz-9x19-submachine-gun",
+    "sks-7-62x39-tapco-6610-20-round-magazine",
+    "op-sks-dovetail-mount",
+    "npz-usp-1-tyulpan-4x-scope",
+    "npz-usp-1-scope-eyecup",
+    "sks-tapco-intrafuse-chassis",
+    "sks-tapco-intrafuse-buffer-tube",
+    "ar-15-kriss-defiance-ds150-stock",
+    "sks-tapco-intrafuse-saw-style-pistol-grip",
+    "sks-tapco-intrafuse-chassis-lower-rail",
+    "zenit-rk-6-tactical-foregrip",
+    "sks-hexagon-7-62x39-sound-suppressor"
+  ]
 }

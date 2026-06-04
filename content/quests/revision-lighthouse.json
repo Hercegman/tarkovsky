@@ -53,5 +53,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/revision-lighthouse.webp",
-  "order": 37
+  "order": 37,
+  "items": [
+    "ms2000-marker",
+    "fn-five-seven-mk2-5-7x28-pistol-fde",
+    "7-62x51mm-m80"
+  ]
 }

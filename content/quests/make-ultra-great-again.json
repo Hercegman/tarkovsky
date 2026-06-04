@@ -50,5 +50,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/make-ultra-great-again.webp",
-  "order": 1
+  "order": 1,
+  "items": [
+    "wartech-tv-109-tv-106-chest-rig-a-tacs-fg"
+  ]
 }

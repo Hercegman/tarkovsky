@@ -48,5 +48,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/balancing-part-1.webp",
-  "order": 2
+  "order": 2,
+  "items": [
+    "steyr-aug-a1-5-56x45-assault-rifle",
+    "steyr-aug-5-56x45-30-round-magazine",
+    "5-56x45mm-m856-ammo-pack-50-pcs",
+    "death-shadow-lightweight-armored-mask",
+    "aug-a1",
+    "aug-a3"
+  ]
 }

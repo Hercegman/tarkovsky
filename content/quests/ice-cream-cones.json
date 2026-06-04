@@ -47,5 +47,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/ice-cream-cones.webp",
-  "order": 12
+  "order": 12,
+  "items": [
+    "pavel-yegorovich-romanenko",
+    "ak-74-5-45x39-6l31-60-round-magazine",
+    "zb-014-key",
+    "dorm-room-220-key",
+    "rpk-16-5-45x39-light-machine-gun",
+    "5-45x39mm-pp-gs-ammo-pack-120-pcs",
+    "sanitar"
+  ]
 }

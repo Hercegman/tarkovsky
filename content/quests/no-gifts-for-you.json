@@ -37,5 +37,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-gifts-for-you.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "santas-bag",
+    "remington-model-700-7-62x51-bolt-action-sniper-rifle",
+    "santa-claus",
+    "bosses"
+  ]
 }

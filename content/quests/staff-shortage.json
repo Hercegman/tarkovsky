@@ -36,5 +36,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/staff-shortage.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "partisan",
+    "milkor-m32a1-msgl-40mm-grenade-launcher",
+    "40x46mm-m386-he-grenade",
+    "40x46mm-m406-he-grenade",
+    "40x46mm-m433-hedp-grenade",
+    "40x46mm-m576-mp-apers-grenade"
+  ]
 }

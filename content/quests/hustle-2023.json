@@ -49,5 +49,16 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hustle-2023.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "reshala",
+    "glukhar",
+    "killa",
+    "shturman",
+    "sanitar",
+    "tagilla",
+    "t-7-thermal-goggles-with-a-night-vision-mount",
+    "sig-mcx-300-blackout-assault-rifle",
+    "sig-mpx-9x19-submachine-gun"
+  ]
 }

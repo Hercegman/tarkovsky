@@ -57,5 +57,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/pets-wont-need-it-part-1.webp",
-  "order": 35
+  "order": 35,
+  "items": [
+    "x-ray-room-key",
+    "adrenaline-injector",
+    "medical-bloodset",
+    "bottle-of-saline-solution"
+  ]
 }

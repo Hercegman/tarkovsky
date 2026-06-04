@@ -97,5 +97,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/inventory-check.webp",
-  "order": 4
+  "order": 4,
+  "items": [
+    "zsh-1-2m-helmet-olive-drab",
+    "camelbak-tri-zip-assault-backpack-foliage",
+    "camelbak-tri-zip-assault-backpack-multicam",
+    "rb-orb1-key",
+    "rb-orb2-key",
+    "rb-orb3-key",
+    "rb-ob-key"
+  ]
 }

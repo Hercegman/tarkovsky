@@ -39,5 +39,17 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/morituri-te-salutant.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "case-with-templates",
+    "ms2000-marker-quest-item",
+    "atomic-defense-cqcm-ballistic-mask-el-d-a-de-muertos",
+    "atomic-defense-cqcm-ballistic-mask-scars",
+    "atomic-defense-cqcm-ballistic-mask-target",
+    "refs-cache-i",
+    "valuables-crate-rare",
+    "equipment-crate-rare",
+    "weapon-crate-rare",
+    "object-21ws-keycard"
+  ]
 }

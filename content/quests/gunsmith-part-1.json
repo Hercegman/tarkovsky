@@ -52,5 +52,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-1.webp",
-  "order": 2
+  "order": 2,
+  "items": [
+    "mp-133",
+    "screw-nuts",
+    "bolts",
+    "12-70-makeshift-50-bmg-slug-ammo-pack-25-pcs",
+    "ar-15-windham-weaponry-rail-gas-block",
+    "ncstar-tactical-blue-laser",
+    "mp-133-custom-plastic-forestock-with-rails",
+    "mp-133-153-plastic-pistol-grip"
+  ]
 }

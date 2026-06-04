@@ -42,5 +42,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-limit-to-perfection-part-9.webp",
-  "order": 47
+  "order": 47,
+  "items": [
+    "escape-from-tarkov-arena",
+    "bolt-action-rifles",
+    "valuables-crate-rare"
+  ]
 }

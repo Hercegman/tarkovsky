@@ -41,5 +41,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/general-wares.webp",
-  "order": 21
+  "order": 21,
+  "items": [
+    "can-of-beef-stew-small",
+    "can-of-pacific-saury",
+    "iskra-ration-pack",
+    "can-of-majaica-coffee-beans",
+    "ration-supply-crate"
+  ]
 }

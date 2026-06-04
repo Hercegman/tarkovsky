@@ -72,5 +72,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/offensive-reconnaissance.webp",
-  "order": 78
+  "order": 78,
+  "items": [
+    "labrys-access-keycard",
+    "knossos-llc-facility-key",
+    "the-labyrinth"
+  ]
 }

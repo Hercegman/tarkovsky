@@ -41,5 +41,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/make-an-impression.webp",
-  "order": 8
+  "order": 8,
+  "items": [
+    "bolt-action-rifles",
+    "phased-array-element",
+    "vortex-ranger-1500-rangefinder",
+    "wilcox-raptar-es-tactical-rangefinder"
+  ]
 }

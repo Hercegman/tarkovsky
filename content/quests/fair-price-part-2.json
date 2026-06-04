@@ -46,5 +46,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/fair-price-part-2.webp",
-  "order": 56
+  "order": 56,
+  "items": [
+    "ak-50-handguard-with-gas-block"
+  ]
 }

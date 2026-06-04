@@ -50,5 +50,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/knock-knock.webp",
-  "order": 65
+  "order": 65,
+  "items": [
+    "digital-secure-dsp-radio-transmitter",
+    "claymores"
+  ]
 }

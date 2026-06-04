@@ -42,5 +42,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/make-amends-sweep-up.webp",
-  "order": 85
+  "order": 85,
+  "items": [
+    "scav-raiders"
+  ]
 }

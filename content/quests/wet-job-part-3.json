@@ -43,5 +43,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/wet-job-part-3.webp",
-  "order": 19
+  "order": 19,
+  "items": [
+    "ncstar-ado-p4-sniper-3-9x42-riflescope",
+    "hk-416a5-5-56x45-assault-rifle"
+  ]
 }

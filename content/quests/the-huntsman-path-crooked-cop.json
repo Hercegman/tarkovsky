@@ -39,5 +39,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-crooked-cop.webp",
-  "order": 14
+  "order": 14,
+  "items": [
+    "kollontay",
+    "pr-taran-police-baton",
+    "intelligence-folder",
+    "accuracy-international-axmc-338-lm-bolt-action-sniper-rifle"
+  ]
 }

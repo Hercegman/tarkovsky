@@ -65,5 +65,18 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/provocation.webp",
-  "order": 5
+  "order": 5,
+  "items": [
+    "ash-12-12-7x55-assault-rifle",
+    "salty-dog-beef-sausage",
+    "bottle-of-fierce-hatchling-moonshine",
+    "toilet-paper",
+    "virtex-programmable-processor",
+    "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
+    "kiba-arms-outer-door-key",
+    "kiba-arms-inner-grate-door-key",
+    "object-11sr-keycard",
+    "object-21ws-keycard",
+    "ash-12"
+  ]
 }

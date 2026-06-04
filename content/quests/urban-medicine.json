@@ -61,5 +61,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/urban-medicine.webp",
-  "order": 33
+  "order": 33,
+  "items": [
+    "chemical-container-with-samples",
+    "adrenaline-injector",
+    "zagustin-hemostatic-drug-injector",
+    "claymores"
+  ]
 }

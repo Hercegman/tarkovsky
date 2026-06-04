@@ -40,5 +40,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/foresters-duty.webp",
-  "order": 58
+  "order": 58,
+  "items": [
+    "magnum-research-desert-eagle-l6-50-ae-pistol",
+    "desert-eagle-50-ae-7-round-magazine",
+    "50-ae-hawk-jsp"
+  ]
 }

@@ -42,5 +42,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/safety-guarantee.webp",
-  "order": 58
+  "order": 58,
+  "items": [
+    "bnti-zhuk-body-armor-emr",
+    "vulkan-5-lshz-5-bulletproof-helmet-black",
+    "maska-1sch-face-shield-killa-edition",
+    "light-vests",
+    "heavy-vests",
+    "weapon-maintenance",
+    "troubleshooting"
+  ]
 }

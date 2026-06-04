@@ -68,5 +68,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/sightseeing.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "ms2000-marker",
+    "bronze-lion-figurine",
+    "golden-rooster-figurine",
+    "wooden-clock",
+    "terragroup-labs-access-keycard"
+  ]
 }

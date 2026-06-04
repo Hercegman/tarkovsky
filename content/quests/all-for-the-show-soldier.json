@@ -42,5 +42,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/all-for-the-show-soldier.webp",
-  "order": 55
+  "order": 55,
+  "items": [
+    "escape-from-tarkov-arena",
+    "mps-auto-assault-12-gen-2-12ga-automatic-shotgun",
+    "beret-black",
+    "beret-olive-drab",
+    "beret-blue"
+  ]
 }

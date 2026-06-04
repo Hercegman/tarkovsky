@@ -52,5 +52,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/health-care-privacy-part-3.webp",
-  "order": 13
+  "order": 13,
+  "items": [
+    "blood-sample",
+    "morphine-injector",
+    "adrenaline-injector"
+  ]
 }

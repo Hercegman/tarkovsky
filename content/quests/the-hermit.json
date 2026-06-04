@@ -39,5 +39,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-hermit.webp",
-  "order": 42
+  "order": 42,
+  "items": [
+    "sealed-letter-the-hermit"
+  ]
 }

@@ -36,5 +36,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/before-the-rain.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "radar-station-spare-parts",
+    "gary-zont-portable-electronic-warfare-device",
+    "rsp-30-reactive-signal-cartridge-blue",
+    "6b43-zabralo-sh-body-armor-emr",
+    "vulkan-5-lshz-5-bulletproof-helmet-black",
+    "vulkan-5-helmet-face-shield",
+    "kalashnikov-pkp-7-62x54r-infantry-machine-gun",
+    "the-goons"
+  ]
 }

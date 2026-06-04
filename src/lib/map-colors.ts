@@ -37,3 +37,58 @@ export function categoryColor(id: string): string {
   // Deterministic distinct hue for the long tail of container_* etc.
   return `hsl(${hashHue(id)} 58% 62%)`;
 }
+
+// Distinct shape per category family so layers are tellable apart at a glance.
+const SHAPES: Record<string, string> = {
+  quest: "diamond",
+  exfil_pmc: "triangle",
+  exfil_scav: "triangle",
+  exfil_transit: "triangle",
+  exfil_shared: "triangle",
+  spawn_pmc: "square",
+  spawn_scav: "square",
+  spawn_sniper: "square",
+  spawn_boss: "star",
+  spawn_cultist: "star",
+  locked: "cross",
+  loot_key: "key",
+  lever: "cross",
+  stationarygun: "square",
+};
+
+export function categoryShape(id: string): string {
+  return SHAPES[id] ?? "circle";
+}
+
+/** Inline SVG (16×16) for a category marker. */
+export function shapeSvg(shape: string, color: string): string {
+  const f = `fill='${color}' stroke='#14150f' stroke-width='1.4' stroke-linejoin='round'`;
+  const wrap = (inner: string) =>
+    `<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'>${inner}</svg>`;
+  switch (shape) {
+    case "square":
+      return wrap(`<rect x='3' y='3' width='10' height='10' ${f}/>`);
+    case "triangle":
+      return wrap(`<polygon points='8,2.5 13.5,13 2.5,13' ${f}/>`);
+    case "diamond":
+      return wrap(`<polygon points='8,1.5 14.5,8 8,14.5 1.5,8' ${f}/>`);
+    case "star":
+      return wrap(
+        `<polygon points='8,1.5 9.7,6 14.5,6 10.6,9 12.2,14 8,10.8 3.8,14 5.4,9 1.5,6 6.3,6' ${f}/>`,
+      );
+    case "cross":
+      return wrap(
+        `<path d='M6,2 h4 v4 h4 v4 h-4 v4 h-4 v-4 h-4 v-4 h4 z' ${f}/>`,
+      );
+    case "key":
+      return wrap(
+        `<circle cx='5.5' cy='6' r='3.2' fill='none' stroke='${color}' stroke-width='2'/><path d='M8,8 L13.5,13.5 M11.5,11.5 l1.6,-0.4 M12.5,12.5 l1,-1.4' stroke='${color}' stroke-width='2' fill='none' stroke-linecap='round'/>`,
+      );
+    default:
+      return wrap(`<circle cx='8' cy='8' r='5' ${f}/>`);
+  }
+}
+
+export function shapeDataUri(id: string): string {
+  return `data:image/svg+xml,${encodeURIComponent(shapeSvg(categoryShape(id), categoryColor(id)))}`;
+}

@@ -45,5 +45,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/debut.webp",
-  "order": 1
+  "order": 1,
+  "items": [
+    "mp-133-12ga-pump-action-shotgun",
+    "pp-91-kedr-9x18pm-submachine-gun",
+    "9x18mm-pm-bzht-gzh-ammo-pack-50-pcs",
+    "kalashnikov-aks-74ub-5-45x39-assault-rifle"
+  ]
 }

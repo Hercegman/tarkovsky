@@ -41,5 +41,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/decontamination-service.webp",
-  "order": 20
+  "order": 20,
+  "items": [
+    "morphine-injector",
+    "ifak-individual-first-aid-kit",
+    "gp-7-gas-mask",
+    "respirator",
+    "gp-5-gas-mask"
+  ]
 }

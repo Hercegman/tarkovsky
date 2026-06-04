@@ -64,5 +64,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-huntsman-path-woods-keeper.webp",
-  "order": 23
+  "order": 23,
+  "items": [
+    "shturman",
+    "shturmans-stash-key",
+    "gunpowder-hawk",
+    "vpx-flash-storage-module",
+    "terragroup-labs-access-keycard",
+    "remington-model-700-7-62x51-bolt-action-sniper-rifle"
+  ]
 }

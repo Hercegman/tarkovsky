@@ -42,5 +42,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/bad-santa.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "lone-star-tx-15-dml-5-56x45-carbine",
+    "lobaev-arms-dvl-10-7-62x51-bolt-action-sniper-rifle",
+    "ded-moroz-hat",
+    "santa-hat",
+    "fake-white-beard",
+    "santas-bag"
+  ]
 }

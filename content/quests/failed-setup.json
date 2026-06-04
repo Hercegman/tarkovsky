@@ -36,5 +36,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/failed-setup.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "cultists",
+    "gp-25-kostyor-40mm-underbarrel-grenade-launcher",
+    "40mm-vog-25-grenade",
+    "m203-40mm-underbarrel-grenade-launcher",
+    "40x46mm-m386-he-grenade"
+  ]
 }

@@ -43,5 +43,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/dressed-to-kill.webp",
-  "order": 6
+  "order": 6,
+  "items": [
+    "kinda-cowboy-hat",
+    "ushanka-ear-flap-hat",
+    "bnti-gzhel-k-body-armor",
+    "military-power-filter"
+  ]
 }

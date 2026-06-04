@@ -74,5 +74,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/chemical-part-3.webp",
-  "order": 8
+  "order": 8,
+  "items": [
+    "syringe-with-a-chemical",
+    "belomo-pso-1m2-1-4x24-scope",
+    "zarya-stun-grenade"
+  ]
 }

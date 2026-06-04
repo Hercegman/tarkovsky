@@ -57,5 +57,15 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/farming-part-2.webp",
-  "order": 40
+  "order": 40,
+  "items": [
+    "power-cord",
+    "t-shaped-plug",
+    "printed-circuit-board",
+    "ash-12-12-7x55-assault-rifle",
+    "nixxor-lens",
+    "drawer",
+    "sport-bag",
+    "pc-block"
+  ]
 }

@@ -61,5 +61,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/health-care-privacy-part-5.webp",
-  "order": 16
+  "order": 16,
+  "items": [
+    "gunpowder-kite",
+    "medicine-case"
+  ]
 }

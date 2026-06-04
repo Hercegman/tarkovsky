@@ -48,5 +48,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/caught-red-handed.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "wi-fi-camera",
+    "iotv-gen4-body-armor-full-protection-kit-multicam",
+    "sig-mcx-spear-6-8x51-assault-rifle",
+    "ar-10-7-62x51-lancer-l7awm-20-round-magazine",
+    "6-8x51mm-sig-hybrid"
+  ]
 }

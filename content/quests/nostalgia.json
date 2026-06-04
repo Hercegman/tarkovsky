@@ -67,5 +67,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/nostalgia.webp",
-  "order": 7
+  "order": 7,
+  "items": [
+    "photo-album",
+    "documents-case",
+    "hep-station-storage-room-key",
+    "photo-album"
+  ]
 }

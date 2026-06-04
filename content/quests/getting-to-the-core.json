@@ -40,5 +40,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/getting-to-the-core.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "documents-with-decrypted-data",
+    "gac-4sss2-ballistic-plate",
+    "encrypted-flash-drive",
+    "documents-with-decrypted-data",
+    "encrypted-flash-drive"
+  ]
 }

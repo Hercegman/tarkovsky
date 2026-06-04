@@ -47,5 +47,13 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/sew-it-good-part-2.webp",
-  "order": 17
+  "order": 17,
+  "items": [
+    "bnti-gzhel-k-body-armor",
+    "zsh-1-2m-face-shield",
+    "maska-1sch-face-shield-olive-drab",
+    "altyn-helmet-face-shield",
+    "20x1mm-toy-gun",
+    "border-snipers"
+  ]
 }

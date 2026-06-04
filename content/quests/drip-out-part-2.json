@@ -36,5 +36,19 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/drip-out-part-2.webp",
-  "order": 43
+  "order": 43,
+  "items": [
+    "bear-ops-mgs-black",
+    "bear-uron-coyote",
+    "usec-boss-delta-mc",
+    "usec-defender-wg",
+    "lbt-6094a-slick-plate-carrier-black",
+    "lbt-6094a-slick-plate-carrier-olive-drab",
+    "lbt-6094a-slick-plate-carrier-coyote-tan",
+    "lbt-1961a-load-bearing-chest-rig-mas-grey",
+    "lbt-1961a-load-bearing-chest-rig-goons-edition",
+    "lbt-1476a-3day-pack-woodland",
+    "lbt-2670-slim-field-med-pack-black",
+    "lbt-8005a-day-pack-backpack-multicam-black"
+  ]
 }

@@ -42,5 +42,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-limit-to-perfection-part-3.webp",
-  "order": 41
+  "order": 41,
+  "items": [
+    "escape-from-tarkov-arena",
+    "assault-rifles",
+    "valuables-crate-rare"
+  ]
 }

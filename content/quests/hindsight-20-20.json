@@ -100,5 +100,33 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hindsight-20-20.webp",
-  "order": 50
+  "order": 50,
+  "items": [
+    "peltor-comtac-vi-headset-coyote-brown",
+    "5-45x39mm-7n40-ammo-pack-120-pcs",
+    "5-45x39mm-7n40-ammo-pack-30-pcs",
+    "5-45x39mm-bp-gs-ammo-pack-120-pcs",
+    "5-45x39mm-bp-gs-ammo-pack-30-pcs",
+    "5-45x39mm-bs-gs-ammo-pack-120-pcs",
+    "5-45x39mm-bs-gs-ammo-pack-30-pcs",
+    "5-45x39mm-bt-gs-ammo-pack-120-pcs",
+    "5-45x39mm-bt-gs-ammo-pack-30-pcs",
+    "5-45x39mm-pp-gs-ammo-pack-120-pcs",
+    "5-45x39mm-pp-gs-ammo-pack-30-pcs",
+    "5-45x39mm-ppbs-gs-igolnik-ammo-pack-120-pcs",
+    "5-45x39mm-ppbs-gs-igolnik-ammo-pack-30-pcs",
+    "7-62x39mm-bp-gzh-ammo-pack-20-pcs",
+    "7-62x39mm-pp-gzh-ammo-pack-20-pcs",
+    "7-62x54mm-r-bs-ammo-pack-20-pcs",
+    "7-62x54mm-r-bt-gzh-ammo-pack-20-pcs",
+    "9x19mm-pbp-ammo-pack-50-pcs",
+    "9x21mm-7n42-ammo-pack-30-pcs",
+    "9x21mm-7u4-ammo-pack-30-pcs",
+    "9x21mm-bt-ammo-pack-30-pcs",
+    "9x39mm-bp-ammo-pack-20-pcs",
+    "9x39mm-bp-gs-ammo-pack-8-pcs",
+    "9x39mm-pab-9-gs-ammo-pack-20-pcs",
+    "9x39mm-sp-6-gs-ammo-pack-20-pcs",
+    "12-7x55mm-ps12b-10-pcs"
+  ]
 }

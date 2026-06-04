@@ -57,5 +57,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/provide-cover.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "radar-station-spare-parts",
+    "gary-zont-portable-electronic-warfare-device",
+    "sr-3m-9x39-compact-assault-rifle",
+    "vss-val-9x39-30-round-magazine",
+    "9x39mm-sp-6-gs-ammo-pack-20-pcs"
+  ]
 }

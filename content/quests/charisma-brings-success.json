@@ -39,5 +39,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/charisma-brings-success.webp",
-  "order": 25
+  "order": 25,
+  "items": [
+    "charisma",
+    "ars-arma-a18-skanda-plate-carrier-multicam",
+    "fort-redut-m-body-armor"
+  ]
 }

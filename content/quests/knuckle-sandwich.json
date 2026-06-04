@@ -91,5 +91,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/knuckle-sandwich.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "tp-200-tnt-brick",
+    "ushanka-ear-flap-hat",
+    "electric-drill",
+    "spark-plug"
+  ]
 }

@@ -45,5 +45,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/surplus-goods.webp",
-  "order": 35
+  "order": 35,
+  "items": [
+    "mbt-integrated-navigation-system",
+    "ultraviolet-lamp",
+    "energy-saving-lamp",
+    "rb-st-key"
+  ]
 }

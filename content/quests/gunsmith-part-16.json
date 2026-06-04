@@ -40,5 +40,17 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gunsmith-part-16.webp",
-  "order": 17
+  "order": 17,
+  "items": [
+    "dvl-10",
+    "pack-of-screws",
+    "electric-drill",
+    "metal-fuel-tank",
+    "lone-star-tx-15-dml-5-56x45-carbine",
+    "ncstar-tactical-blue-laser",
+    "schmidt-bender-pm-ii-5-25x56-34mm-riflescope",
+    "iea-mil-optics-kh-f-34mm-one-piece-magmount",
+    "nightforce-atacr-7-35x56-34mm-riflescope",
+    "nightforce-magmount-34mm-ring-scope-mount"
+  ]
 }

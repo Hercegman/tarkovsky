@@ -42,5 +42,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-smoke-without-fire.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "fn-p90-5-7x28-submachine-gun",
+    "fn-p90-5-7x28-50-round-magazine",
+    "5-7x28mm-ss197sr-ammo-pack-50-pcs"
+  ]
 }

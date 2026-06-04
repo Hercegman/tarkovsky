@@ -70,5 +70,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/simple-side-job.webp",
-  "order": 10
+  "order": 10,
+  "items": [
+    "lightkeepers-case",
+    "military-cofdm-wireless-signal-transmitter",
+    "uhf-rfid-reader",
+    "virtex-programmable-processor"
+  ]
 }

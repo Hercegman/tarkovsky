@@ -35,5 +35,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/postponed-reward.webp",
-  "order": 19
+  "order": 19,
+  "items": [
+    "lega-medal",
+    "secure-container-theta"
+  ]
 }

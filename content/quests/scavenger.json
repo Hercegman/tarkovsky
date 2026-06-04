@@ -35,5 +35,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/scavenger.webp",
-  "order": 9
+  "order": 9,
+  "items": [
+    "search",
+    "crash-axe"
+  ]
 }

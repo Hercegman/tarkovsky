@@ -34,5 +34,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/bloodhounds-quest.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "bloodhounds",
+    "mp-43-1c-12ga-double-barrel-shotgun",
+    "12-70-flechette",
+    "7-62x39mm-bp-gzh"
+  ]
 }

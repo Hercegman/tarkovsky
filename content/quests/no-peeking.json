@@ -42,5 +42,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/no-peeking.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "sig-sauer-srd762ti-7-62x51-sound-suppressor",
+    "silencerco-saker-asr-556-5-56x45-sound-suppressor"
+  ]
 }

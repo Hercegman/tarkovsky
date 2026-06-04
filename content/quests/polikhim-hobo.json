@@ -42,5 +42,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/polikhim-hobo.webp",
-  "order": 35
+  "order": 35,
+  "items": [
+    "pavel-yegorovich-romanenko",
+    "f-1-hand-grenade",
+    "rgd-5-hand-grenade",
+    "zarya-stun-grenade"
+  ]
 }

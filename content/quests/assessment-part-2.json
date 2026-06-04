@@ -52,5 +52,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/assessment-part-2.webp",
-  "order": 62
+  "order": 62,
+  "items": [
+    "ms2000",
+    "ms2000-marker"
+  ]
 }

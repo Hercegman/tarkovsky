@@ -39,5 +39,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gendarmerie-school-guard.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "rsh-12-12-7x55-revolver",
+    "12-7x55mm-ps12b",
+    "toz-ks-23m-23x75mm-pump-action-shotgun"
+  ]
 }

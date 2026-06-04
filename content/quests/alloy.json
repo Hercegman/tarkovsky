@@ -45,5 +45,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/alloy.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "wi-fi-camera",
+    "hk-mp7a2-4-6x30-submachine-gun",
+    "hk-mp7-4-6x30-30-round-magazine",
+    "4-6x30mm-fmj-sx-ammo-pack-40-pcs",
+    "ops-core-fast-mt-super-high-cut-helmet-black"
+  ]
 }

@@ -54,5 +54,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/fishing-with-shishiga.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "followers-of-morana",
+    "bottle-of-fierce-hatchling-moonshine",
+    "can-of-squash-spread",
+    "pack-of-sugar"
+  ]
 }

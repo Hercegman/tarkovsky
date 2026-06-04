@@ -45,5 +45,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-2.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "obdolbos-n-cocktail-injector",
+    "grizzly-medical-kit",
+    "propital-regenerative-stimulant-injector"
+  ]
 }

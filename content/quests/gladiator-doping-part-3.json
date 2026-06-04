@@ -42,5 +42,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/gladiator-doping-part-3.webp",
-  "order": 34
+  "order": 34,
+  "items": [
+    "escape-from-tarkov-arena",
+    "perfotoran-blue-blood-stimulant-injector"
+  ]
 }

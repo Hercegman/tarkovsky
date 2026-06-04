@@ -38,5 +38,20 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/enough-drinks-for-that-one.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "killa",
+    "death-shadow-lightweight-armored-mask",
+    "atomic-defense-cqcm-ballistic-mask-black",
+    "astronomer-mask",
+    "aybolit-mask",
+    "cipollino-mask",
+    "fox-mask",
+    "grinch-mask",
+    "hare-mask",
+    "hockey-player-mask-brawler",
+    "hockey-player-mask-captain",
+    "hockey-player-mask-quiet",
+    "rooster-mask"
+  ]
 }

@@ -51,5 +51,20 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/camera-action.webp",
-  "order": 72
+  "order": 72,
+  "items": [
+    "ssd-drive",
+    "usb-adapter",
+    "portable-powerbank",
+    "rechargeable-battery",
+    "pc-cpu",
+    "electronic-components",
+    "bundle-of-wires",
+    "capacitors",
+    "nixxor-lens",
+    "ram-stick",
+    "working-lcd",
+    "light-bulb",
+    "terragroup-labs-access-keycard"
+  ]
 }

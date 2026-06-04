@@ -6,7 +6,7 @@ import Link from "next/link";
 import type { MapData } from "@/lib/types";
 import type { HighlightMarker } from "./leaflet-map";
 import { useProgress } from "@/hooks/use-progress";
-import { categoryColor } from "@/lib/map-colors";
+import { shapeDataUri } from "@/lib/map-colors";
 
 const LeafletMap = dynamic(() => import("./leaflet-map"), {
   ssr: false,
@@ -205,7 +205,6 @@ export function MapExplorer({
         <div className="max-h-[620px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2">
           {cats.map((c) => {
             const on = active.includes(c.id);
-            const color = categoryColor(c.id);
             return (
               <button
                 key={c.id}
@@ -215,9 +214,11 @@ export function MapExplorer({
                   on ? "bg-[var(--surface-2)]" : "opacity-55 hover:opacity-100"
                 }`}
               >
-                <span
-                  className="h-3 w-3 shrink-0 rounded-full border border-black/40"
-                  style={{ background: on ? color : "transparent", borderColor: color }}
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={shapeDataUri(c.id)}
+                  alt=""
+                  className={`h-4 w-4 shrink-0 ${on ? "" : "opacity-40 grayscale"}`}
                 />
                 <span className="flex-1 truncate">{c.name}</span>
                 <span className="text-xs text-[var(--muted)]">{counts[c.id]}</span>

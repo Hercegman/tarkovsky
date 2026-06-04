@@ -68,5 +68,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/glory-to-cpsu-part-1.webp",
-  "order": 47
+  "order": 47,
+  "items": [
+    "bottle-of-tarkovskaya-vodka"
+  ]
 }

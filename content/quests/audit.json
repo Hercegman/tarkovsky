@@ -50,5 +50,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/audit.webp",
-  "order": 31
+  "order": 31,
+  "items": [
+    "accountants-notes",
+    "6b13-assault-armor-flora",
+    "accountants-notes"
+  ]
 }

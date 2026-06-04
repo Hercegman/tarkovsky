@@ -42,5 +42,9 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/hot-wheels-lets-try-again.webp",
-  "order": 2
+  "order": 2,
+  "items": [
+    "ms2000-marker",
+    "nixxor-lens"
+  ]
 }

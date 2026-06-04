@@ -44,5 +44,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/a-small-celebration.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "rsp-30-reactive-signal-cartridge-firework",
+    "olivier-salad-box",
+    "bottle-of-tarkovskaya-vodka",
+    "crye-precision-avs-plate-carrier-ranger-green",
+    "ballistic-plate-case"
+  ]
 }

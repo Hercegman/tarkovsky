@@ -38,5 +38,24 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/consolation-prize.webp",
-  "order": 63
+  "order": 63,
+  "items": [
+    "aim-drills",
+    "assault-rifles",
+    "sniping",
+    "weapon-maintenance",
+    "troubleshooting",
+    "dmrs",
+    "heavy-machine-guns",
+    "light-machine-guns",
+    "melee",
+    "pistols",
+    "revolvers",
+    "grenade-launchers",
+    "shotguns",
+    "submachine-guns",
+    "throwables",
+    "underbarrel-launchers",
+    "character-skills"
+  ]
 }

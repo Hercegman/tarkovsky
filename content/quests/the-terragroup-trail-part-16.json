@@ -43,5 +43,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-terragroup-trail-part-16.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "obdolbos-n-cocktail-injector",
+    "etg-change-regenerative-stimulant-injector",
+    "pnb-product-16-stimulant-injector",
+    "trimadol-stimulant-injector"
+  ]
 }

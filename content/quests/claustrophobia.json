@@ -37,5 +37,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/claustrophobia.webp",
-  "order": 56
+  "order": 56,
+  "items": [
+    "burris-fullfield-tac30-1-4x24-30mm-riflescope"
+  ]
 }

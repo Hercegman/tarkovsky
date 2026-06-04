@@ -33,5 +33,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/fairy-tale-showdown.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "ded-moroz-hat",
+    "santa-hat",
+    "fn-scar-l-5-56x45-assault-rifle"
+  ]
 }

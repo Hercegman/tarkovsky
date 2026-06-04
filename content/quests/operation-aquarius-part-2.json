@@ -37,5 +37,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/operation-aquarius-part-2.webp",
-  "order": 3
+  "order": 3,
+  "items": [
+    "esmarch-tourniquet",
+    "aluminum-splint",
+    "army-bandage"
+  ]
 }

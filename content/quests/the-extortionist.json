@@ -45,5 +45,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-extortionist.webp",
-  "order": 2
+  "order": 2,
+  "items": [
+    "secure-folder-0048",
+    "molot-arms-vpo-209-366-tkm-carbine",
+    "ak-7-62x39-30-round-magazine-issued-55-or-later",
+    "366-tkm-eko-ammo-pack-20-pcs",
+    "bnti-zhuk-body-armor-press",
+    "remington-model-870-12ga-pump-action-shotgun",
+    "unknown-key"
+  ]
 }

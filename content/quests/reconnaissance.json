@@ -59,5 +59,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/reconnaissance.webp",
-  "order": 45
+  "order": 45,
+  "items": [
+    "npp-klass-korund-vm-body-armor-black",
+    "npp-klass-condor-glasses",
+    "korund-vm-ballistic-plates-front"
+  ]
 }

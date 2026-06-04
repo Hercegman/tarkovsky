@@ -86,5 +86,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-blood-of-war-part-3.webp",
-  "order": 16
+  "order": 16,
+  "items": [
+    "ms2000-marker",
+    "mystery-ranch-blackjack-50-backpack-multicam",
+    "highcom-trooper-tfo-body-armor-multicam"
+  ]
 }

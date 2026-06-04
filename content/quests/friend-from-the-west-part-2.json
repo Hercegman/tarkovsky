@@ -52,5 +52,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/friend-from-the-west-part-2.webp",
-  "order": 14
+  "order": 14,
+  "items": [
+    "tdi-kriss-vector-gen-2-45-acp-submachine-gun"
+  ]
 }

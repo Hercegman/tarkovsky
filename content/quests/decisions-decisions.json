@@ -46,5 +46,10 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/decisions-decisions.webp",
-  "order": 18
+  "order": 18,
+  "items": [
+    "dorm-overseer-key",
+    "ref-dirt",
+    "secure-container-theta"
+  ]
 }

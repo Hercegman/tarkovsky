@@ -37,5 +37,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/redemption.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "the-unheards-phone",
+    "the-unheards-laptop",
+    "mr-kermans-cat-hologram",
+    "sacred-amulet",
+    "sj6-tglabs-combat-stimulant-injector"
+  ]
 }

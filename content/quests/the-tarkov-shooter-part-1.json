@@ -40,5 +40,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/the-tarkov-shooter-part-1.webp",
-  "order": 28
+  "order": 28,
+  "items": [
+    "pu-3-5x-riflescope",
+    "pu-3-5x-ring-scope-mount",
+    "mosin-rifle-kochetov-mount",
+    "mp-18-7-62x54r-single-shot-rifle"
+  ]
 }

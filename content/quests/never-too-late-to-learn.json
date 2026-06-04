@@ -42,5 +42,14 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/never-too-late-to-learn.webp",
-  "order": 59
+  "order": 59,
+  "items": [
+    "hk-416a5-5-56x45-assault-rifle",
+    "5-56x45mm-mk-318-mod-0-sost",
+    "uvsr-taiga-1-survival-machete",
+    "troubleshooting",
+    "mag-drills",
+    "crafting",
+    "hideout-management"
+  ]
 }

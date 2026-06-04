@@ -51,5 +51,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/forgotten-oaths.webp",
-  "order": null
+  "order": null,
+  "items": [
+    "sanitar",
+    "true-vaccine-recipe",
+    "health-resort-office-key-with-a-blue-tape",
+    "s-i-c-c-organizational-pouch"
+  ]
 }

@@ -42,5 +42,8 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/thirsty-hounds.webp",
-  "order": 57
+  "order": 57,
+  "items": [
+    "12-70-rip-ammo-pack-5-pcs"
+  ]
 }

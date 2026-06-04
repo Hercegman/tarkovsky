@@ -71,5 +71,11 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/missing-informant.webp",
-  "order": 1
+  "order": 1,
+  "items": [
+    "backup-hideout-key",
+    "informants-journal",
+    "microcontroller-board",
+    "sports-bag"
+  ]
 }

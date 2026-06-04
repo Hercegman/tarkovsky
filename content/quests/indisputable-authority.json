@@ -43,5 +43,12 @@
     "fetchedAt": "2026-06-04T16:55:08.061Z"
   },
   "image": "/quests/indisputable-authority.webp",
-  "order": 54
+  "order": 54,
+  "items": [
+    "the-labyrinth",
+    "shadow-of-tagilla",
+    "7-62x39mm-mai-ap-ammo-pack-20-pcs",
+    "7-62x39mm-bp-gzh-ammo-pack-20-pcs",
+    "tark-souls-poster"
+  ]
 }
