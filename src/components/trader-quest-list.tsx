@@ -11,6 +11,7 @@ export interface QuestRow {
   title: string;
   requiredLevel: number | null;
   kappaRequired: boolean;
+  image: string | null;
 }
 
 export function TraderQuestList({ quests }: { quests: QuestRow[] }) {
@@ -70,27 +71,41 @@ function QuestLink({
   return (
     <Link
       href={`/quest/${quest.id}`}
-      className={`flex items-center gap-3 rounded-lg border px-4 py-3 transition-colors ${
+      className={`group relative block overflow-hidden rounded-lg border transition-all duration-300 ease-out hover:-translate-y-0.5 hover:shadow-lg ${
         done
           ? "border-[var(--success)]/50 bg-[var(--success)]/10"
           : "border-[var(--border)] bg-[var(--surface)] hover:border-[var(--gold-dim)]"
       }`}
     >
-      <span className="w-6 text-right font-mono text-xs text-[var(--muted)]">
-        {index}
-      </span>
-      <span className={`flex-1 font-medium ${done ? "text-[var(--success)]" : ""}`}>
-        {quest.title}
-      </span>
-      {quest.requiredLevel && (
-        <span className="text-xs text-[var(--muted)]">Lvl {quest.requiredLevel}</span>
+      {quest.image && (
+        <div
+          className="absolute inset-0 bg-cover bg-center opacity-0 transition-opacity duration-500 ease-out group-hover:opacity-100"
+          style={{ backgroundImage: `url(${quest.image})` }}
+        />
       )}
-      {quest.kappaRequired && (
-        <span className="rounded bg-[var(--brown)]/40 px-1.5 py-0.5 text-[10px] uppercase tracking-wide text-[var(--gold-hi)]">
-          Kappa
+      <div className="absolute inset-0 bg-gradient-to-r from-[var(--surface)] via-[var(--surface)]/85 to-[var(--surface)]/55 transition-colors duration-500 group-hover:from-[var(--surface)]/95 group-hover:via-[var(--surface)]/75" />
+
+      <div className="relative flex items-center gap-3 px-4 py-3 transition-all duration-300 ease-out group-hover:py-5">
+        <span className="w-6 text-right font-mono text-xs text-[var(--muted)]">
+          {index}
         </span>
-      )}
-      {done && <span className="text-sm text-[var(--success)]">✓</span>}
+        <span
+          className={`flex-1 font-medium tracking-normal transition-all duration-300 group-hover:tracking-wide ${
+            done ? "text-[var(--success)]" : "group-hover:text-[var(--gold-hi)]"
+          }`}
+        >
+          {quest.title}
+        </span>
+        {quest.requiredLevel && (
+          <span className="text-xs text-[var(--muted)]">Lvl {quest.requiredLevel}</span>
+        )}
+        {quest.kappaRequired && (
+          <span className="rounded bg-[var(--brown)]/40 px-1.5 py-0.5 text-[10px] uppercase tracking-wide text-[var(--gold-hi)]">
+            Kappa
+          </span>
+        )}
+        {done && <span className="text-sm text-[var(--success)]">✓</span>}
+      </div>
     </Link>
   );
 }

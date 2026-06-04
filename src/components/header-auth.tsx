@@ -2,8 +2,8 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { signOut } from "next-auth/react";
 import { Avatar } from "./avatar";
+import { LogoutButton } from "./logout-button";
 
 interface Me {
   username: string;
@@ -41,13 +41,7 @@ export function HeaderAuth() {
           <Avatar avatar={me.avatar} name={me.username} size={26} />
           <span className="text-[var(--gold)]">{me.username}</span>
         </Link>
-        <button
-          type="button"
-          onClick={() => signOut({ callbackUrl: "/" })}
-          className="rounded px-3 py-1.5 text-[var(--muted)] transition-colors hover:text-[var(--gold)]"
-        >
-          Log out
-        </button>
+        <LogoutButton className="rounded px-3 py-1.5 text-[var(--muted)] transition-colors hover:text-[var(--gold)]" />
       </>
     );
   }
