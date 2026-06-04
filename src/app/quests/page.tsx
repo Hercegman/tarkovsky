@@ -21,6 +21,7 @@ export default async function QuestsPage() {
     maps: q.maps,
     requiredLevel: q.requiredLevel,
     kappaRequired: q.kappaRequired,
+    image: q.image,
   }));
 
   return (
