@@ -8,6 +8,13 @@
       "when": 1780592457929,
       "tag": "0000_fast_masque",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1780612667311,
+      "tag": "0001_charming_jubilee",
+      "breakpoints": true
     }
   ]
 }
