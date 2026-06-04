@@ -5,6 +5,7 @@ import Image from "next/image";
 import { getQuests, getQuest, getTrader, getMaps, getMapData } from "@/lib/data";
 import { QuestProgressButton } from "@/components/quest-progress-button";
 import { QuestMiniMap } from "@/components/quest-mini-map";
+import { ObjectiveChecklist } from "@/components/objective-checklist";
 
 export async function generateStaticParams() {
   const quests = await getQuests();
@@ -92,16 +93,7 @@ export default async function QuestPage(props: PageProps<"/quest/[id]">) {
 
         {quest.objectives.length > 0 && (
           <Section title="Objectives">
-            <ul className="space-y-2">
-              {quest.objectives.map((o, i) => (
-                <li key={i} className="flex items-start gap-3 text-sm">
-                  <span className="mt-0.5 flex h-4 w-4 shrink-0 items-center justify-center rounded-sm border border-[var(--gold-dim)] text-[10px] text-[var(--gold)]">
-                    ◆
-                  </span>
-                  <span>{o}</span>
-                </li>
-              ))}
-            </ul>
+            <ObjectiveChecklist questId={quest.id} objectives={quest.objectives} />
           </Section>
         )}
 
