@@ -58,3 +58,95 @@ a {
   background: var(--gold);
   color: #14160f;
 }
+
+/* ---------- Custom scrollbar (fancy, gold on dark) ---------- */
+* {
+  scrollbar-color: var(--gold-dim) transparent;
+  scrollbar-width: thin;
+}
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--surface);
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(var(--gold-dim), var(--brown));
+  border-radius: 8px;
+  border: 2px solid var(--surface);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--gold);
+}
+
+/* ---------- Keyframes ---------- */
+@keyframes glow-pulse {
+  0%, 100% { box-shadow: 0 0 18px rgba(200, 160, 77, 0.25), 0 0 40px rgba(200, 160, 77, 0.08); }
+  50% { box-shadow: 0 0 26px rgba(200, 160, 77, 0.45), 0 0 60px rgba(200, 160, 77, 0.18); }
+}
+@keyframes gradient-shift {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+@keyframes scan {
+  0% { transform: translateY(-100%); opacity: 0; }
+  50% { opacity: 0.5; }
+  100% { transform: translateY(100%); opacity: 0; }
+}
+
+/* ---------- Utility classes (Tarkov-toned) ---------- */
+.text-gradient {
+  background: linear-gradient(120deg, var(--gold-hi) 0%, var(--gold) 40%, var(--brown) 100%);
+  background-size: 200% 200%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: gradient-shift 8s ease infinite;
+}
+
+.glass {
+  background: rgba(31, 28, 22, 0.6);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--border);
+}
+
+.glow-border {
+  transition: border-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+.glow-border:hover {
+  border-color: var(--gold-dim);
+  box-shadow: 0 0 28px rgba(200, 160, 77, 0.16);
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(200, 160, 77, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(200, 160, 77, 0.04) 1px, transparent 1px);
+  background-size: 56px 56px;
+}
+
+.radial-glow {
+  background:
+    radial-gradient(ellipse 80% 55% at 50% -5%, rgba(200, 160, 77, 0.12), transparent 60%),
+    radial-gradient(ellipse 60% 50% at 85% 110%, rgba(107, 79, 51, 0.14), transparent 60%);
+}
+
+.marquee-track {
+  animation: marquee 38s linear infinite;
+}
+
+/* Reduced-motion: kill animations/transitions */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

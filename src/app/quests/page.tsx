@@ -24,10 +24,14 @@ export default async function QuestsPage() {
   }));
 
   return (
-    <div className="mx-auto max-w-4xl px-4 py-10">
-      <h1 className="mb-1 text-2xl font-bold text-[var(--foreground)]">Quests</h1>
+    <div className="radial-glow min-h-full">
+      <div className="mx-auto max-w-5xl px-4 py-10">
+      <h1 className="mb-1 text-3xl font-bold tracking-tight">
+        <span className="text-gradient">Quests</span>
+      </h1>
       <p className="mb-8 text-sm text-[var(--muted)]">
-        Search and filter every task. Pick a trader to follow a quest line in order.
+        Search and filter every task. Click one for a quick view, or pick a trader to
+        follow a quest line in order. Sign in to track what you&apos;ve completed.
       </p>
 
       {summaries.length === 0 ? (
@@ -39,6 +43,7 @@ export default async function QuestsPage() {
       ) : (
         <QuestBrowser quests={summaries} traders={traders} maps={maps} />
       )}
+      </div>
     </div>
   );
 }

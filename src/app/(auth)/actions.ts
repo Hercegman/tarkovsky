@@ -1,6 +1,7 @@
 "use server";
 
 import { headers } from "next/headers";
+import { redirect } from "next/navigation";
 import bcrypt from "bcryptjs";
 import { AuthError } from "next-auth";
 import { db } from "@/lib/db";
@@ -65,7 +66,7 @@ export async function registerAction(
     return { error: "Something went wrong. Please try again." };
   }
 
-  // signIn throws a redirect on success — let it propagate.
+  // On success this signs in and redirects to /quests.
   return signInOrError(username, password);
 }
 
@@ -96,17 +97,16 @@ async function signInOrError(
   username: string,
   password: string,
 ): Promise<FormState> {
+  // redirect:false so signIn sets the session cookie and returns instead of
+  // throwing its own redirect (which has cookie-loss gotchas in the beta).
+  // We then redirect ourselves, carrying the freshly-set cookie.
   try {
-    await signIn("credentials", {
-      username,
-      password,
-      redirectTo: "/quests",
-    });
+    await signIn("credentials", { username, password, redirect: false });
   } catch (err) {
     if (err instanceof AuthError) {
       return { error: "Invalid username or password." };
     }
-    throw err; // NEXT_REDIRECT on success
+    throw err;
   }
-  return { error: null };
+  redirect("/quests");
 }

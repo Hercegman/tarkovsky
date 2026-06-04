@@ -216,6 +216,7 @@ interface QuestOut {
   guideHtml: string | null;
   guideText: string | null;
   markers: { map: string; x: number; y: number; label: string }[];
+  image: string | null;
   source: { url: string; license: string; wiki: string; fetchedAt: string };
 }
 
@@ -284,6 +285,7 @@ async function fetchQuest(
     guideHtml: null,
     guideText: null,
     markers: [],
+    image: null,
     source: {
       url: `https://escapefromtarkov.fandom.com/wiki/${encodeURIComponent(title.replace(/ /g, "_"))}`,
       license: LICENSE,

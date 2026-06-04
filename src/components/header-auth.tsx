@@ -29,7 +29,15 @@ export function HeaderAuth() {
   if (user) {
     return (
       <>
-        <span className="text-[var(--gold)]">{user.name}</span>
+        <Link
+          href="/profile"
+          className="flex items-center gap-2 rounded px-2 py-1 transition-colors hover:text-[var(--gold)]"
+        >
+          <span className="flex h-6 w-6 items-center justify-center rounded-full border border-[var(--gold-dim)] bg-[var(--surface-2)] text-xs font-bold text-[var(--gold)]">
+            {user.name?.[0]?.toUpperCase() ?? "?"}
+          </span>
+          <span className="text-[var(--gold)]">{user.name}</span>
+        </Link>
         <button
           type="button"
           onClick={() => signOut({ callbackUrl: "/" })}

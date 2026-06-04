@@ -8,7 +8,7 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Map:Ground_Zero",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki",
-    "fetchedAt": "2026-06-04T17:23:45.986Z"
+    "fetchedAt": "2026-06-04T18:49:47.589Z"
   },
   "categories": [
     {
@@ -161,433 +161,433 @@
     {
       "c": "exfil_pmc",
       "x": 3218,
-      "y": 889,
+      "y": 6031,
       "t": "Scav Checkpoint (Co-op) "
     },
     {
       "c": "exfil_pmc",
       "x": 3671,
-      "y": 5410,
+      "y": 1510,
       "t": "Nakatani Basement Stairs"
     },
     {
       "c": "exfil_pmc",
       "x": 3733,
-      "y": 3030,
+      "y": 3890,
       "t": "Police Cordon V-Ex"
     },
     {
       "c": "exfil_pmc",
       "x": 1170,
-      "y": 1566,
+      "y": 5354,
       "t": "Mira Ave (Flare)"
     },
     {
       "c": "exfil_pmc",
       "x": 1869,
-      "y": 721,
+      "y": 6199,
       "t": "Emercom Checkpoint"
     },
     {
       "c": "spawn_pmc",
       "x": 3496,
-      "y": 1139,
+      "y": 5781,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 2068,
-      "y": 4714,
+      "y": 2206,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 2303,
-      "y": 3700,
+      "y": 3220,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 2277,
-      "y": 4730,
+      "y": 2190,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 2133,
-      "y": 3860,
+      "y": 3060,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 3107,
-      "y": 3419,
+      "y": 3501,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1995,
-      "y": 5714,
+      "y": 1206,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 3016,
-      "y": 675,
+      "y": 6245,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1969,
-      "y": 1064,
+      "y": 5856,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 689,
-      "y": 3426,
+      "y": 3494,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1934,
-      "y": 4514,
+      "y": 2406,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 2188,
-      "y": 1777,
+      "y": 5143,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1552,
-      "y": 1712,
+      "y": 5208,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 3594,
-      "y": 1762,
+      "y": 5158,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 1553,
-      "y": 3076,
+      "y": 3844,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 6229,
-      "y": 3545,
+      "y": 3376,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 6259,
-      "y": 2933,
+      "y": 3987,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 6152,
-      "y": 1247,
+      "y": 5674,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 5478,
-      "y": 2504,
+      "y": 4416,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 6153,
-      "y": 1866,
+      "y": 5054,
       "t": "PMC Spawn"
     },
     {
       "c": "stationarygun",
       "x": 2695,
-      "y": 5577,
+      "y": 1343,
       "t": "AGS-30 automatic grenade launcher"
     },
     {
       "c": "stationarygun",
       "x": 3665,
-      "y": 3679,
+      "y": 3241,
       "t": "NSV \"Utyos\" heavy machine gun"
     },
     {
       "c": "locked",
       "x": 5796,
-      "y": 2347,
+      "y": 4573,
       "t": "Underground Parking Utility Room"
     },
     {
       "c": "locked",
       "x": 2893,
-      "y": 3688,
+      "y": 3232,
       "t": "Tarbank Cash Register Booth"
     },
     {
       "c": "locked",
       "x": 4438,
-      "y": 2433,
+      "y": 4487,
       "t": "TerraGroup Science Office"
     },
     {
       "c": "spawn_scav",
       "x": 6067,
-      "y": 1501,
+      "y": 5419,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 5798,
-      "y": 2505,
+      "y": 4415,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 6067,
-      "y": 3277,
+      "y": 3643,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 3500,
-      "y": 1340,
+      "y": 5581,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2133,
-      "y": 946,
+      "y": 5974,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2622,
-      "y": 4306,
+      "y": 2614,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 3106,
-      "y": 5004,
+      "y": 1916,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 3466,
-      "y": 2144,
+      "y": 4776,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2622,
-      "y": 2880,
+      "y": 4040,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 1286,
-      "y": 2508,
+      "y": 4412,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 2622,
-      "y": 1988,
+      "y": 4932,
       "t": "Scav Spawn"
     },
     {
       "c": "loot_key",
       "x": 4146,
-      "y": 2097,
+      "y": 4823,
       "t": "TerraGroup Science Office Key"
     },
     {
       "c": "container_dead",
       "x": 4148,
-      "y": 2098,
+      "y": 4822,
       "t": "Lab Technician Body"
     },
     {
       "c": "quest",
       "x": 1833,
-      "y": 873,
+      "y": 6047,
       "t": "Locate the Emercom Station"
     },
     {
       "c": "quest",
       "x": 3670,
-      "y": 3705,
+      "y": 3215,
       "t": "Locate the Utyos Machine Gun"
     },
     {
       "c": "quest",
       "x": 2670,
-      "y": 5578,
+      "y": 1342,
       "t": "Locate the AGS Grenade Launcher"
     },
     {
       "c": "quest",
       "x": 2259,
-      "y": 2107,
+      "y": 4813,
       "t": "Obtain the Wine Bottle"
     },
     {
       "c": "quest",
       "x": 4388,
-      "y": 2327,
+      "y": 4593,
       "t": "Obtain the Scientist's Hard Drive"
     },
     {
       "c": "spawn_cultist",
       "x": 3396,
-      "y": 1340,
+      "y": 5581,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 3977,
-      "y": 2145,
+      "y": 4775,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 2622,
-      "y": 4195,
+      "y": 2725,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 2622,
-      "y": 3203,
+      "y": 3717,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 6067,
-      "y": 2170,
+      "y": 4750,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 6067,
-      "y": 2970,
+      "y": 3950,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 2622,
-      "y": 2373,
+      "y": 4547,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 2622,
-      "y": 1386,
+      "y": 5534,
       "t": "Cultist Spawn"
     },
     {
       "c": "exfil_scav",
       "x": 1890,
-      "y": 721,
+      "y": 6199,
       "t": "Emercom Checkpoint"
     },
     {
       "c": "exfil_scav",
       "x": 3238,
-      "y": 889,
+      "y": 6031,
       "t": "Scav Checkpoint (Co-op)"
     },
     {
       "c": "exfil_scav",
       "x": 3671,
-      "y": 5435,
+      "y": 1485,
       "t": "Nakatani Basement Stairs"
     },
     {
       "c": "exfil_transit",
       "x": 1018,
-      "y": 2508,
+      "y": 4412,
       "t": "Transit to Streets of Tarkov"
     },
     {
       "c": "quest",
       "x": 2868,
-      "y": 3688,
+      "y": 3232,
       "t": "Locate the Claymore Mine"
     },
     {
       "c": "quest",
       "x": 1502,
-      "y": 2509,
+      "y": 4411,
       "t": "Scout the Intersection"
     },
     {
       "c": "quest",
       "x": 3841,
-      "y": 3826,
+      "y": 3094,
       "t": "The little chair surrounded by big black chairs "
     },
     {
       "c": "quest",
       "x": 2230,
-      "y": 3861,
+      "y": 3059,
       "t": "The computer with a joke for programmers "
     },
     {
       "c": "quest",
       "x": 3463,
-      "y": 5425,
+      "y": 1495,
       "t": "The high rise where one die-hard guy kicked ass"
     },
     {
       "c": "exfil_pmc",
       "x": 1452,
-      "y": 3225,
+      "y": 3696,
       "t": "Tartowers Sales Office "
     },
     {
       "c": "exfil_scav",
       "x": 1452,
-      "y": 3256,
+      "y": 3665,
       "t": "Tartowers Sales Office "
     },
     {
       "c": "spawn_sniper",
       "x": 2389,
-      "y": 2781,
+      "y": 4139,
       "t": "Sniper Scav Spawn"
     },
     {
       "c": "spawn_sniper",
       "x": 2868,
-      "y": 3319,
+      "y": 3601,
       "t": "Sniper Scav Spawn"
     },
     {
       "c": "quest",
       "x": 2552,
-      "y": 4238,
+      "y": 2683,
       "t": "Obtain the Manager's Diary"
     },
     {
       "c": "quest",
       "x": 3315,
-      "y": 2147,
+      "y": 4773,
       "t": "Investigate the Courtyard Park by TerraGroup HQ "
     },
     {
       "c": "quest",
       "x": 771,
-      "y": 3404,
+      "y": 3516,
       "t": "Stash TP-200 TNT Bricks in the Designated Spot"
     }
   ]

@@ -8,7 +8,7 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Map:Factory",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki",
-    "fetchedAt": "2026-06-04T17:22:53.571Z"
+    "fetchedAt": "2026-06-04T18:49:37.326Z"
   },
   "categories": [
     {
@@ -126,595 +126,595 @@
     {
       "c": "exfil_pmc",
       "x": 6716,
-      "y": 1246,
+      "y": 5410,
       "t": "Gate 3"
     },
     {
       "c": "exfil_pmc",
       "x": 6861,
-      "y": 4237,
+      "y": 2419,
       "t": "Gate 0"
     },
     {
       "c": "exfil_pmc",
       "x": 12222,
-      "y": 959,
+      "y": 5698,
       "t": "Cellars"
     },
     {
       "c": "exfil_pmc",
       "x": 9672,
-      "y": 3115,
+      "y": 3541,
       "t": "Med Tent Gate "
     },
     {
       "c": "exfil_scav",
       "x": 10495,
-      "y": 3091,
+      "y": 3565,
       "t": "Camera Bunker Door"
     },
     {
       "c": "exfil_scav",
       "x": 721,
-      "y": 2254,
+      "y": 4402,
       "t": "Office Window "
     },
     {
       "c": "locked",
       "x": 9443,
-      "y": 3160,
+      "y": 3497,
       "t": "Medical Tent Emergency Exit"
     },
     {
       "c": "locked",
       "x": 12222,
-      "y": 1051,
+      "y": 5606,
       "t": "Cellars Entrance"
     },
     {
       "c": "locked",
       "x": 830,
-      "y": 1961,
+      "y": 4695,
       "t": "Locked Room"
     },
     {
       "c": "loot_key",
       "x": 3934,
-      "y": 1869,
+      "y": 4787,
       "t": "Health Resort West Wing Room 306 Key"
     },
     {
       "c": "loot_key",
       "x": 9183,
-      "y": 866,
+      "y": 5791,
       "t": "Power Substation Utility Cabin Key"
     },
     {
       "c": "loot_key",
       "x": 817,
-      "y": 1918,
+      "y": 4738,
       "t": "Portable Bunkhouse Key"
     },
     {
       "c": "spawn_pmc",
       "x": 6856,
-      "y": 2360,
+      "y": 4296,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 8058,
-      "y": 3817,
+      "y": 2840,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 11880,
-      "y": 2185,
+      "y": 4471,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 9276,
-      "y": 2424,
+      "y": 4232,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 10310,
-      "y": 2655,
+      "y": 4002,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 7759,
-      "y": 1946,
+      "y": 4710,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 9221,
-      "y": 3115,
+      "y": 3541,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 11866,
-      "y": 2756,
+      "y": 3900,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 7145,
-      "y": 3754,
+      "y": 2902,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 4075,
-      "y": 2317,
+      "y": 4339,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 11107,
-      "y": 2798,
+      "y": 3858,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 4309,
-      "y": 3234,
+      "y": 3422,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_boss",
       "x": 8088,
-      "y": 2040,
+      "y": 4616,
       "t": "Tagilla Boss Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 8580,
-      "y": 2476,
+      "y": 4180,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_boss",
       "x": 8764,
-      "y": 2624,
+      "y": 4032,
       "t": "Tagilla Boss Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 7152,
-      "y": 3164,
+      "y": 3492,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_boss",
       "x": 7752,
-      "y": 1544,
+      "y": 5112,
       "t": "Tagilla Boss Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 7999,
-      "y": 2592,
+      "y": 4064,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 7188,
-      "y": 3396,
+      "y": 3260,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 8737,
-      "y": 2214,
+      "y": 4442,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 8036,
-      "y": 2980,
+      "y": 3676,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_cultist",
       "x": 8000,
-      "y": 1692,
+      "y": 4964,
       "t": "Cultist Spawn"
     },
     {
       "c": "spawn_scav",
       "x": 8204,
-      "y": 1644,
+      "y": 5012,
       "t": "Scav Spawn"
     },
     {
       "c": "spawn_boss",
       "x": 7080,
-      "y": 2968,
+      "y": 3688,
       "t": "Tagilla Boss Spawn"
     },
     {
       "c": "quest",
       "x": 9440,
-      "y": 1214,
+      "y": 5442,
       "t": "Fix the Second Control Board with a Toolset"
     },
     {
       "c": "quest",
       "x": 8434,
-      "y": 1019,
+      "y": 5637,
       "t": "Fix the First Control Board with a Toolset"
     },
     {
       "c": "quest",
       "x": 3982,
-      "y": 1665,
+      "y": 4992,
       "t": "Stash the Secure Folder 0022 in Factory Break Room"
     },
     {
       "c": "quest",
       "x": 7702,
-      "y": 3187,
+      "y": 3469,
       "t": "Obtain the Sealed Letter on the Messenger's Body"
     },
     {
       "c": "quest",
       "x": 767,
-      "y": 2064,
+      "y": 4592,
       "t": "Obtain the Syringe with a Chemical"
     },
     {
       "c": "quest",
       "x": 767,
-      "y": 2105,
+      "y": 4551,
       "t": "Stash Gunpowder \"Kite\" in the Designated Spot"
     },
     {
       "c": "quest",
       "x": 860,
-      "y": 1802,
+      "y": 4854,
       "t": "Stash the Golden Rooster Figurine"
     },
     {
       "c": "quest",
       "x": 860,
-      "y": 1779,
+      "y": 4878,
       "t": "Install a WI-FI Camera"
     },
     {
       "c": "locked",
       "x": 10431,
-      "y": 3188,
+      "y": 3468,
       "t": "TerraGroup Storage Room"
     },
     {
       "c": "exfil_pmc",
       "x": 6581,
-      "y": 2083,
+      "y": 4573,
       "t": "Courtyard Gate "
     },
     {
       "c": "exfil_scav",
       "x": 6767,
-      "y": 1246,
+      "y": 5410,
       "t": "Gate 3"
     },
     {
       "c": "exfil_transit",
       "x": 6616,
-      "y": 2083,
+      "y": 4573,
       "t": "Transit to Woods"
     },
     {
       "c": "spawn_pmc",
       "x": 11361,
-      "y": 1269,
+      "y": 5388,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 6972,
-      "y": 1220,
+      "y": 5436,
       "t": "PMC Spawn"
     },
     {
       "c": "spawn_pmc",
       "x": 9063,
-      "y": 1877,
+      "y": 4779,
       "t": "PMC Spawn"
     },
     {
       "c": "quest",
       "x": 12222,
-      "y": 1071,
+      "y": 5585,
       "t": "Locate the first Extraction"
     },
     {
       "c": "quest",
       "x": 6827,
-      "y": 3994,
+      "y": 2662,
       "t": "Locate the second Extraction"
     },
     {
       "c": "quest",
       "x": 6867,
-      "y": 1222,
+      "y": 5434,
       "t": "Locate the third Extraction"
     },
     {
       "c": "quest",
       "x": 9431,
-      "y": 3120,
+      "y": 3536,
       "t": "Locate the fourth Extraction"
     },
     {
       "c": "quest",
       "x": 739,
-      "y": 2085,
+      "y": 4571,
       "t": "Locate a good Tripwire Installation Spot"
     },
     {
       "c": "quest",
       "x": 5646,
-      "y": 2032,
+      "y": 4624,
       "t": "Obtain the Lab Journal "
     },
     {
       "c": "quest",
       "x": 9520,
-      "y": 3192,
+      "y": 3465,
       "t": "Locate the Dead Worker and take their Blood Sample"
     },
     {
       "c": "quest",
       "x": 8093,
-      "y": 2255,
+      "y": 4402,
       "t": "Fix the First Reactor Mixer with a Toolset"
     },
     {
       "c": "quest",
       "x": 8093,
-      "y": 2527,
+      "y": 4130,
       "t": "Fix the Second Reactor Mixer with a Toolset"
     },
     {
       "c": "quest",
       "x": 8092,
-      "y": 2802,
+      "y": 3854,
       "t": "Fix the Third Reactor Mixer with a Toolset"
     },
     {
       "c": "quest",
       "x": 10357,
-      "y": 3224,
+      "y": 3433,
       "t": "Obtain the Chemical Container at the Storage Room"
     },
     {
       "c": "quest",
       "x": 11062,
-      "y": 2813,
+      "y": 3843,
       "t": "Take a Sample of the Chemicals"
     },
     {
       "c": "quest",
       "x": 874,
-      "y": 1097,
+      "y": 5559,
       "t": "Stash a WI-FI Camera in the first Crane's Cockpit"
     },
     {
       "c": "quest",
       "x": 2568,
-      "y": 2826,
+      "y": 3831,
       "t": "Stash a WI-FI Camera in the second Crane's Cockpit"
     },
     {
       "c": "quest",
       "x": 199,
-      "y": 3294,
+      "y": 3363,
       "t": "Stash a WI-FI Camera in the third Crane's Cockpit"
     },
     {
       "c": "quest",
       "x": 10661,
-      "y": 3118,
+      "y": 3538,
       "t": "Mark first Heat Exchanger with MS2000 Marker"
     },
     {
       "c": "quest",
       "x": 11640,
-      "y": 1853,
+      "y": 4803,
       "t": "Mark second Heat Exchanger with MS2000 Marker"
     },
     {
       "c": "quest",
       "x": 12409,
-      "y": 1574,
+      "y": 5083,
       "t": "Mark third Heat Exchanger with MS2000 Marker"
     },
     {
       "c": "quest",
       "x": 1826,
-      "y": 2045,
+      "y": 4612,
       "t": "Obtain the Helicopter Logbook"
     },
     {
       "c": "quest",
       "x": 7675,
-      "y": 1147,
+      "y": 5509,
       "t": "Locate the First Forklift"
     },
     {
       "c": "quest",
       "x": 9246,
-      "y": 940,
+      "y": 5716,
       "t": "Locate the Second Forklift"
     },
     {
       "c": "quest",
       "x": 9413,
-      "y": 1091,
+      "y": 5565,
       "t": "Locate the Third Forklift"
     },
     {
       "c": "quest",
       "x": 6826,
-      "y": 3483,
+      "y": 3173,
       "t": "Locate the Fourth Forklift"
     },
     {
       "c": "quest",
       "x": 8818,
-      "y": 2138,
+      "y": 4518,
       "t": "Locate the Fifth Forklift"
     },
     {
       "c": "quest",
       "x": 9010,
-      "y": 2155,
+      "y": 4501,
       "t": "Locate the Sixth Forklift"
     },
     {
       "c": "quest",
       "x": 7490,
-      "y": 2382,
+      "y": 4274,
       "t": "Locate the Seventh Forklift"
     },
     {
       "c": "quest",
       "x": 7447,
-      "y": 3078,
+      "y": 3578,
       "t": "Locate the Eighth Forklift"
     },
     {
       "c": "quest",
       "x": 8968,
-      "y": 2354,
+      "y": 4302,
       "t": "Locate the Ninth Forklift"
     },
     {
       "c": "quest",
       "x": 8803,
-      "y": 1384,
+      "y": 5272,
       "t": "Locate the Tenth Forklift"
     },
     {
       "c": "quest",
       "x": 8593,
-      "y": 2250,
+      "y": 4406,
       "t": "Locate the Eleventh Forklift"
     },
     {
       "c": "quest",
       "x": 6787,
-      "y": 1246,
+      "y": 5410,
       "t": "Locate the Twelfth Forklift"
     },
     {
       "c": "quest",
       "x": 9121,
-      "y": 1996,
+      "y": 4660,
       "t": "Stash the Precision Tools Package"
     },
     {
       "c": "exfil_transit",
       "x": 12576,
-      "y": 3348,
+      "y": 3308,
       "t": "Transit to The Lab"
     },
     {
       "c": "exfil_transit",
       "x": 9524,
-      "y": 2287,
+      "y": 4369,
       "t": "Transit to Customs"
     },
     {
       "c": "quest",
       "x": 6761,
-      "y": 3908,
+      "y": 2748,
       "t": "The dangerous Russian chocolate beauty "
     },
     {
       "c": "quest",
       "x": 8666,
-      "y": 1400,
+      "y": 5256,
       "t": "Where someone thought to get to the magic school "
     },
     {
       "c": "quest",
       "x": 7179,
-      "y": 2268,
+      "y": 4388,
       "t": "The room where the firefighter burned the books"
     },
     {
       "c": "quest",
       "x": 11225,
-      "y": 2175,
+      "y": 4481,
       "t": "Where technicians couldn't finish their project "
     },
     {
       "c": "quest",
       "x": 766,
-      "y": 2005,
+      "y": 4651,
       "t": "The conspiracy theorist's room "
     },
     {
       "c": "quest",
       "x": 5744,
-      "y": 1939,
+      "y": 4717,
       "t": "The mother of all strategy games "
     },
     {
       "c": "quest",
       "x": 7011,
-      "y": 1221,
+      "y": 5436,
       "t": "The stairway to the skies"
     },
     {
       "c": "exfil_pmc",
       "x": 12250,
-      "y": 1486,
+      "y": 5170,
       "t": "Smugglers' Passage"
     },
     {
       "c": "exfil_scav",
       "x": 12250,
-      "y": 1496,
+      "y": 5160,
       "t": "Smugglers' Passage"
     },
     {
       "c": "spawn_pmc",
       "x": 10047,
-      "y": 952,
+      "y": 5704,
       "t": "PMC Spawn"
     },
     {
       "c": "quest",
       "x": 10356,
-      "y": 3181,
+      "y": 3475,
       "t": "Obtain the Factory plant topographic intel maps"
     },
     {
       "c": "quest",
       "x": 8640,
-      "y": 2807,
+      "y": 3849,
       "t": "Obtain the Transport log with notes"
     },
     {
       "c": "quest",
       "x": 10334,
-      "y": 3274,
+      "y": 3383,
       "t": "Obtain the Fuel catalyst test report"
     },
     {
       "c": "quest",
       "x": 10385,
-      "y": 3273,
+      "y": 3384,
       "t": "Obtain the Burnt document"
     }
   ]

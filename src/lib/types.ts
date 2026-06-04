@@ -61,6 +61,7 @@ export interface Quest {
   guideHtml: string | null;
   guideText: string | null;
   markers: MapMarker[];
+  image: string | null; // self-hosted banner image, e.g. /quests/debut.webp
   source: QuestSource;
 }
 

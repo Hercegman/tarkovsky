@@ -4,6 +4,7 @@ import "server-only";
 import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
 import type { Quest, Trader, GameMap, MapData } from "./types";
+import { orderQuests } from "./quest-utils";
 
 const CONTENT = path.resolve(process.cwd(), "content");
 
@@ -68,9 +69,8 @@ export async function getQuest(id: string): Promise<Quest | null> {
 
 export async function getQuestsByTrader(traderId: string): Promise<Quest[]> {
   const quests = await getQuests();
-  return quests
-    .filter((q) => q.trader === traderId)
-    .sort((a, b) => (a.questNumber ?? 999) - (b.questNumber ?? 999));
+  // In-game unlock order via the prerequisite graph.
+  return orderQuests(quests.filter((q) => q.trader === traderId));
 }
 
 export async function getQuestsByMap(mapId: string): Promise<Quest[]> {
