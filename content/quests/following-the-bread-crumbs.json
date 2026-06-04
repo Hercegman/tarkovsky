@@ -39,7 +39,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "the-lab",
+      "x": 3131,
+      "y": 1253,
+      "label": "Obtain the Flash drive with blue tape"
+    },
+    {
+      "map": "the-lab",
+      "x": 2019,
+      "y": 752,
+      "label": "Search the weapon testing area"
+    },
+    {
+      "map": "the-lab",
+      "x": 1719,
+      "y": 422,
+      "label": "Search the human experiment room"
+    },
+    {
+      "map": "the-lab",
+      "x": 3080,
+      "y": 1462,
+      "label": "Obtain the secured tape"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Following_the_Bread_Crumbs",
     "license": "CC BY-NC-SA",

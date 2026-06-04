@@ -47,7 +47,38 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "interchange",
+      "x": 7669,
+      "y": 2902,
+      "label": "Locate the KOSTIN store"
+    },
+    {
+      "map": "interchange",
+      "x": 7057,
+      "y": 2303,
+      "label": "Locate the TOP BRAND store"
+    },
+    {
+      "map": "interchange",
+      "x": 7723,
+      "y": 2237,
+      "label": "Locate the AVOKADO store"
+    },
+    {
+      "map": "interchange",
+      "x": 7059,
+      "y": 2967,
+      "label": "Locate the DINO CLOTHES store"
+    },
+    {
+      "map": "interchange",
+      "x": 7220,
+      "y": 3162,
+      "label": "Locate the tRend store"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Big_Sale",
     "license": "CC BY-NC-SA",

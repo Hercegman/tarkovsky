@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "the-lab",
+      "x": 1595,
+      "y": 666,
+      "label": "Obtain the special version LEDX"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Quality_Standard",
     "license": "CC BY-NC-SA",

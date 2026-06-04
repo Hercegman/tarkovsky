@@ -36,7 +36,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 3944,
+      "y": 2723,
+      "label": "Locate the Smuggler Base"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Bulldogs_Under_The_Rug",
     "license": "CC BY-NC-SA",

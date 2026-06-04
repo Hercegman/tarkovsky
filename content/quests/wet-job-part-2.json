@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 970,
+      "y": 633,
+      "label": "Locate the Fishermen's Dwelling"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_2",
     "license": "CC BY-NC-SA",

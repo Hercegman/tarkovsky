@@ -40,7 +40,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 2292,
+      "y": 1059,
+      "label": "Obtain the Bronze Pocket Watch on a Chain"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Background_Check",
     "license": "CC BY-NC-SA",

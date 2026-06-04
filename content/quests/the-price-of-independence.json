@@ -41,7 +41,62 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 2066,
+      "y": 505,
+      "label": "Shoot a Yellow Signal Flare at Radar Station"
+    },
+    {
+      "map": "reserve",
+      "x": 1235,
+      "y": 2184,
+      "label": "Stash a Military cable and Bulbex cable cutter"
+    },
+    {
+      "map": "reserve",
+      "x": 3890,
+      "y": 568,
+      "label": "Stash the Letter"
+    },
+    {
+      "map": "woods",
+      "x": 3746,
+      "y": 496,
+      "label": "Stash a Military cable and Bulbex cable cutter"
+    },
+    {
+      "map": "woods",
+      "x": 5182,
+      "y": 5492,
+      "label": "Stash the third Russian AP ammo pack"
+    },
+    {
+      "map": "woods",
+      "x": 3684,
+      "y": 4123,
+      "label": "Stash VOG-25 Grenade at third RPG ammo crate"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1605,
+      "y": 2105,
+      "label": "Obtain the Sealed Letter"
+    },
+    {
+      "map": "lighthouse",
+      "x": 769,
+      "y": 1770,
+      "label": "Launch a Yellow Flare at the Pier"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1107,
+      "y": 3234,
+      "label": "Launch a Yellow Flare at the Train Station"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Price_of_Independence",
     "license": "CC BY-NC-SA",

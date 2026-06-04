@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 2323,
+      "y": 3047,
+      "label": "Obtain the Key to Closed Premises of Health Resort"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Spa_Tour_-_Part_5",
     "license": "CC BY-NC-SA",

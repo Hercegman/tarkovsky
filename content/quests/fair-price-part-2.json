@@ -31,7 +31,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 5880,
+      "y": 3286,
+      "label": "Obtain the AK-50 Handguard"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Fair_Price_-_Part_2",
     "license": "CC BY-NC-SA",

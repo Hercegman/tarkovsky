@@ -36,7 +36,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 4310,
+      "y": 2259,
+      "label": "Locate the Control Room in Underground Bunker"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Bunker_-_Part_1",
     "license": "CC BY-NC-SA",

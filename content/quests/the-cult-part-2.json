@@ -34,7 +34,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 3960,
+      "y": 341,
+      "label": "Locate a good Tripwire Installation Spot"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_2",
     "license": "CC BY-NC-SA",

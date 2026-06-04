@@ -31,7 +31,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 1096,
+      "y": 455,
+      "label": "Obtain the Electronic Jammer"
+    },
+    {
+      "map": "woods",
+      "x": 3512,
+      "y": 4718,
+      "label": "Stash the Device"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Order_From_Outside",
     "license": "CC BY-NC-SA",

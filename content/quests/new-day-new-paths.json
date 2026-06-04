@@ -34,7 +34,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "ground-zero",
+      "x": 1502,
+      "y": 4411,
+      "label": "Scout the Intersection"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/New_Day%2C_New_Paths",
     "license": "CC BY-NC-SA",

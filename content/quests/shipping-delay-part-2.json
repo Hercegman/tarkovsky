@@ -32,7 +32,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 6550,
+      "y": 1812,
+      "label": "Scout the Garages"
+    },
+    {
+      "map": "woods",
+      "x": 6190,
+      "y": 1667,
+      "label": "Scout the Office"
+    },
+    {
+      "map": "woods",
+      "x": 6208,
+      "y": 1572,
+      "label": "Scout the Warehouses"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Shipping_Delay_-_Part_2",
     "license": "CC BY-NC-SA",

@@ -47,7 +47,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 767,
+      "y": 4592,
+      "label": "Obtain the Syringe with a Chemical"
+    },
+    {
+      "map": "factory",
+      "x": 10357,
+      "y": 3433,
+      "label": "Obtain the Chemical Container at the Storage Room"
+    },
+    {
+      "map": "factory",
+      "x": 10356,
+      "y": 3475,
+      "label": "Obtain the Factory plant topographic intel maps"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_3",
     "license": "CC BY-NC-SA",

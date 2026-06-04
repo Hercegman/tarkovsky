@@ -34,7 +34,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 3746,
+      "y": 496,
+      "label": "Stash a Military cable and Bulbex cable cutter"
+    },
+    {
+      "map": "reserve",
+      "x": 1235,
+      "y": 2184,
+      "label": "Stash a Military cable and Bulbex cable cutter"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Special_Comms",
     "license": "CC BY-NC-SA",

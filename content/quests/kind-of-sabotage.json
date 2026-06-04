@@ -38,7 +38,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 3282,
+      "y": 2697,
+      "label": "Obtain the Secure Folder 0052"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Kind_of_Sabotage",
     "license": "CC BY-NC-SA",

@@ -37,7 +37,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 833,
+      "y": 2214,
+      "label": "Locate the Priest's House"
+    },
+    {
+      "map": "shoreline",
+      "x": 431,
+      "y": 2199,
+      "label": "Locate the Chairman's House"
+    },
+    {
+      "map": "shoreline",
+      "x": 511,
+      "y": 2471,
+      "label": "Locate the Fisherman's House"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Courtesy_Visit",
     "license": "CC BY-NC-SA",

@@ -37,7 +37,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "lighthouse",
+      "x": 1382,
+      "y": 1454,
+      "label": "Mark the First Cliff Path Section"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1438,
+      "y": 1552,
+      "label": "Mark the Second Cliff Path Section"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1462,
+      "y": 1676,
+      "label": "Mark the Third Cliff Path Section"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1465,
+      "y": 1806,
+      "label": "Mark the Fourth Cliff Path Section"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Ask_for_Directions",
     "license": "CC BY-NC-SA",

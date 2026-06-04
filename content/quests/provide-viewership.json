@@ -33,7 +33,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 2595,
+      "y": 639,
+      "label": "Install a WI-FI Camera"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Provide_Viewership",
     "license": "CC BY-NC-SA",

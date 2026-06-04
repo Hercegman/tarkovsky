@@ -37,7 +37,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 3406,
+      "y": 160,
+      "label": "Find Sealed Letter With a TG Logo"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_2",
     "license": "CC BY-NC-SA",

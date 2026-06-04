@@ -38,7 +38,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 1337,
+      "y": 1894,
+      "label": "Obtain the AK-50 Barrel"
+    },
+    {
+      "map": "customs",
+      "x": 2347,
+      "y": 1940,
+      "label": "Stash Posters in the Designated Spot"
+    },
+    {
+      "map": "customs",
+      "x": 2407,
+      "y": 1843,
+      "label": "Stash Posters in the Designated Spot"
+    },
+    {
+      "map": "customs",
+      "x": 403,
+      "y": 1012,
+      "label": "Obtain the AK-50 Dust Cover"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Hobby_Club",
     "license": "CC BY-NC-SA",

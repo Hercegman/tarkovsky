@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 3420,
+      "y": 1836,
+      "label": "Find the Food Storage Location"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Reserve_(quest)",
     "license": "CC BY-NC-SA",

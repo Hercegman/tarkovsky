@@ -34,7 +34,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 1747,
+      "y": 4537,
+      "label": "Locate the Heavily Mined Area"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_2",
     "license": "CC BY-NC-SA",

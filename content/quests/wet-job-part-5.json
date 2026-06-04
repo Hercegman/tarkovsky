@@ -43,7 +43,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 6137,
+      "y": 1793,
+      "label": "Obtain information about Thirsty"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Wet_Job_-_Part_5",
     "license": "CC BY-NC-SA",

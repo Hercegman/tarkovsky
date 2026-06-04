@@ -41,7 +41,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "ground-zero",
+      "x": 4388,
+      "y": 4593,
+      "label": "Obtain the Scientist's Hard Drive"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Saving_the_Mole",
     "license": "CC BY-NC-SA",

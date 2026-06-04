@@ -37,7 +37,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 4634,
+      "y": 4300,
+      "label": "Locate the Bunker under the Mountain "
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Assessment_-_Part_2",
     "license": "CC BY-NC-SA",

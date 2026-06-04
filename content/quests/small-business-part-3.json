@@ -33,7 +33,56 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 2668,
+      "y": 2252,
+      "label": "Locate Group Sent to Health Resort"
+    },
+    {
+      "map": "shoreline",
+      "x": 6162,
+      "y": 515,
+      "label": "Locate the Generators in East Wing"
+    },
+    {
+      "map": "shoreline",
+      "x": 2323,
+      "y": 3047,
+      "label": "Obtain the Key to Closed Premises of Health Resort"
+    },
+    {
+      "map": "shoreline",
+      "x": 957,
+      "y": 2401,
+      "label": "Stash the Cultist knife"
+    },
+    {
+      "map": "shoreline",
+      "x": 6259,
+      "y": 1084,
+      "label": "Stash the Cultist knife"
+    },
+    {
+      "map": "woods",
+      "x": 3669,
+      "y": 5749,
+      "label": "Stash the Cultist knife"
+    },
+    {
+      "map": "woods",
+      "x": 2348,
+      "y": 2340,
+      "label": "Stash the Cultist knife"
+    },
+    {
+      "map": "woods",
+      "x": 5716,
+      "y": 3173,
+      "label": "Stash the Journal at the Old Sawmill"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Small_Business_-_Part_3",
     "license": "CC BY-NC-SA",

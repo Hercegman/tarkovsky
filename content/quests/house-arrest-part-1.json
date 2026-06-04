@@ -35,7 +35,38 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 397,
+      "y": 850,
+      "label": "Locate the Missing Group"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3598,
+      "y": 3922,
+      "label": "Locate the First group of ATMs on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4416,
+      "y": 4229,
+      "label": "Locate the Fourth group of ATMs on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 4529,
+      "y": 4219,
+      "label": "Locate the Fifth group of ATMs on Klimov Street"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 5181,
+      "y": 4084,
+      "label": "Locate the Group of ATMs on Klimov Street"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/House_Arrest_-_Part_1",
     "license": "CC BY-NC-SA",

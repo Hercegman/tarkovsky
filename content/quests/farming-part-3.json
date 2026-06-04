@@ -44,7 +44,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 3689,
+      "y": 716,
+      "label": "Obtain the Package of Graphics Cards"
+    },
+    {
+      "map": "customs",
+      "x": 2621,
+      "y": 1927,
+      "label": "Obtain the Precision Tools Package"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Farming_-_Part_3",
     "license": "CC BY-NC-SA",

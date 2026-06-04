@@ -31,7 +31,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 739,
+      "y": 4571,
+      "label": "Locate a good Tripwire Installation Spot"
+    },
+    {
+      "map": "customs",
+      "x": 3960,
+      "y": 341,
+      "label": "Locate a good Tripwire Installation Spot"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Every_Hunter_Knows_This",
     "license": "CC BY-NC-SA",

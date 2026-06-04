@@ -30,7 +30,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 1320,
+      "y": 931,
+      "label": "Obtain MBT Integrated Navigation System"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Surplus_Goods",
     "license": "CC BY-NC-SA",

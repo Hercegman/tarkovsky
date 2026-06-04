@@ -35,7 +35,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 2022,
+      "y": 3122,
+      "label": "Scout the X-ray Technician's Room"
+    },
+    {
+      "map": "the-lab",
+      "x": 2030,
+      "y": 397,
+      "label": "Scout the Server Room "
+    },
+    {
+      "map": "the-lab",
+      "x": 1610,
+      "y": 662,
+      "label": "Scout the Hazard Dome"
+    },
+    {
+      "map": "the-lab",
+      "x": 3479,
+      "y": 1487,
+      "label": "Scout the Control Room"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Beneath_The_Streets",
     "license": "CC BY-NC-SA",

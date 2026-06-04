@@ -36,7 +36,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 2833,
+      "y": 2723,
+      "label": "Scout the Vet Clinic"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2022,
+      "y": 3122,
+      "label": "Scout the X-ray Technician's Room"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Pets_Won't_Need_It_-_Part_1",
     "license": "CC BY-NC-SA",

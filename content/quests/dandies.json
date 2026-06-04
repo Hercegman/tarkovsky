@@ -36,7 +36,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 2900,
+      "y": 1272,
+      "label": "Stash Bomber beanie and Hipster sunglasses"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Dandies",
     "license": "CC BY-NC-SA",

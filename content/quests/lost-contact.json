@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "lighthouse",
+      "x": 1238,
+      "y": 1164,
+      "label": "Find the Lost Group"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Lost_Contact",
     "license": "CC BY-NC-SA",

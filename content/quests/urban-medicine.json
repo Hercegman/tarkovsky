@@ -40,7 +40,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 3614,
+      "y": 1815,
+      "label": "Locate the Chemical Container with Samples"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6289,
+      "y": 3062,
+      "label": "Obtain the Flash Drive with Recordings"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Urban_Medicine",
     "license": "CC BY-NC-SA",

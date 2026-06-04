@@ -43,7 +43,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 5468,
+      "y": 2304,
+      "label": "Locate the Bloody Broadcast"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3243,
+      "y": 1849,
+      "label": "Locate Bloody Broadcast at the Grocery Store"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Broadcast_-_Part_2",
     "license": "CC BY-NC-SA",

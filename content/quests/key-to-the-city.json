@@ -30,7 +30,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 2682,
+      "y": 3463,
+      "label": "Obtain the Tarkov City Souvenir Key"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Key_to_the_City",
     "license": "CC BY-NC-SA",

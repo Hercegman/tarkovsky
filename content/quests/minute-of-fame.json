@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "interchange",
+      "x": 9082,
+      "y": 2414,
+      "label": "Obtain the special edition gaming magazine"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Minute_of_Fame",
     "license": "CC BY-NC-SA",

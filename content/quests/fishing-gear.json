@@ -40,7 +40,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 2427,
+      "y": 537,
+      "label": "Stash a Multitool in the Boat"
+    },
+    {
+      "map": "shoreline",
+      "x": 2427,
+      "y": 543,
+      "label": "Stash a SV-98 Sniper Rifle in the Boat"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Fishing_Gear",
     "license": "CC BY-NC-SA",

@@ -40,7 +40,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 2668,
+      "y": 2252,
+      "label": "Locate Group Sent to Health Resort"
+    },
+    {
+      "map": "shoreline",
+      "x": 2323,
+      "y": 3047,
+      "label": "Obtain the Key to Closed Premises of Health Resort"
+    },
+    {
+      "map": "shoreline",
+      "x": 6204,
+      "y": 3107,
+      "label": "Obtain Jaeger's Photo album"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Nostalgia",
     "license": "CC BY-NC-SA",

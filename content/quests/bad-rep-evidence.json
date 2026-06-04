@@ -38,7 +38,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 1237,
+      "y": 1244,
+      "label": "Secure Folder 0048"
+    },
+    {
+      "map": "customs",
+      "x": 3688,
+      "y": 737,
+      "label": "Obtain Secure Folder 0022"
+    },
+    {
+      "map": "customs",
+      "x": 1883,
+      "y": 995,
+      "label": "Obtain Secure Folder 0031"
+    },
+    {
+      "map": "customs",
+      "x": 727,
+      "y": 1597,
+      "label": "Obtain Secure Folder 0013"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Bad_Rep_Evidence",
     "license": "CC BY-NC-SA",

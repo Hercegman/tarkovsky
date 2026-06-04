@@ -38,7 +38,38 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 1386,
+      "y": 264,
+      "label": "Hide AI .338 LM Tactical Sound Moderator"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 1253,
+      "y": 1357,
+      "label": "Hide REAP-IR Thermal Scope"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6405,
+      "y": 2627,
+      "label": "Locate the Second ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6360,
+      "y": 2474,
+      "label": "Locate the Third ATM on Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3863,
+      "y": 2349,
+      "label": "Locate the First ATM on Primorsky Ave"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Spotter",
     "license": "CC BY-NC-SA",

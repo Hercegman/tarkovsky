@@ -30,7 +30,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 9520,
+      "y": 3465,
+      "label": "Locate the Dead Worker and take their Blood Sample"
+    },
+    {
+      "map": "factory",
+      "x": 11062,
+      "y": 3843,
+      "label": "Take a Sample of the Chemicals"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Health_Care_Privacy_-_Part_6",
     "license": "CC BY-NC-SA",

@@ -36,7 +36,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 3515,
+      "y": 284,
+      "label": "Obtain the Compromising Information on the Host"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Surprise_Gift",
     "license": "CC BY-NC-SA",

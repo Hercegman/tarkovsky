@@ -29,7 +29,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 7702,
+      "y": 3469,
+      "label": "Obtain the Sealed Letter on the Messenger's Body"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Postman_Pat_-_Part_2",
     "license": "CC BY-NC-SA",

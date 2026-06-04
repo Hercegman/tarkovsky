@@ -31,7 +31,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 860,
+      "y": 4878,
+      "label": "Install a WI-FI Camera"
+    },
+    {
+      "map": "factory",
+      "x": 874,
+      "y": 5559,
+      "label": "Stash a WI-FI Camera in the first Crane's Cockpit"
+    },
+    {
+      "map": "factory",
+      "x": 2568,
+      "y": 3831,
+      "label": "Stash a WI-FI Camera in the second Crane's Cockpit"
+    },
+    {
+      "map": "factory",
+      "x": 199,
+      "y": 3363,
+      "label": "Stash a WI-FI Camera in the third Crane's Cockpit"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Walls_Have_Eyes",
     "license": "CC BY-NC-SA",

@@ -46,7 +46,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 3614,
+      "y": 1815,
+      "label": "Locate the Chemical Container with Samples"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/New_Beginning_(Prestige_6)",
     "license": "CC BY-NC-SA",

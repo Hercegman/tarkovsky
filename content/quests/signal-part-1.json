@@ -40,7 +40,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 2606,
+      "y": 2337,
+      "label": "Locate the Signal Source"
+    },
+    {
+      "map": "shoreline",
+      "x": 3421,
+      "y": 1241,
+      "label": "Locate the Signal Source"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Signal_-_Part_1",
     "license": "CC BY-NC-SA",

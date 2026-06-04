@@ -30,7 +30,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 1826,
+      "y": 4612,
+      "label": "Obtain the Helicopter Logbook"
+    },
+    {
+      "map": "factory",
+      "x": 10356,
+      "y": 3475,
+      "label": "Obtain the Factory plant topographic intel maps"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Possessor",
     "license": "CC BY-NC-SA",

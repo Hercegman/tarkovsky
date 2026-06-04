@@ -36,7 +36,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 5716,
+      "y": 3173,
+      "label": "Stash the Journal at the Old Sawmill"
+    },
+    {
+      "map": "woods",
+      "x": 3512,
+      "y": 4718,
+      "label": "Stash the Device"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Provide_Cover",
     "license": "CC BY-NC-SA",

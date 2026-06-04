@@ -35,7 +35,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 2668,
+      "y": 2252,
+      "label": "Locate Group Sent to Health Resort"
+    },
+    {
+      "map": "shoreline",
+      "x": 6162,
+      "y": 515,
+      "label": "Locate the Generators in East Wing"
+    },
+    {
+      "map": "shoreline",
+      "x": 2323,
+      "y": 3047,
+      "label": "Obtain the Key to Closed Premises of Health Resort"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Cargo_X_-_Part_1",
     "license": "CC BY-NC-SA",

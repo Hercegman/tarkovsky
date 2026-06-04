@@ -39,7 +39,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 4299,
+      "y": 2257,
+      "label": "Obtain Military Documents #1"
+    },
+    {
+      "map": "reserve",
+      "x": 4354,
+      "y": 2215,
+      "label": "Obtain Military Documents #2"
+    },
+    {
+      "map": "reserve",
+      "x": 4311,
+      "y": 2198,
+      "label": "Obtain Military Documents #3"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Documents",
     "license": "CC BY-NC-SA",

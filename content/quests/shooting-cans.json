@@ -43,7 +43,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "ground-zero",
+      "x": 3670,
+      "y": 3215,
+      "label": "Locate the Utyos Machine Gun"
+    },
+    {
+      "map": "ground-zero",
+      "x": 2670,
+      "y": 1342,
+      "label": "Locate the AGS Grenade Launcher"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Shooting_Cans",
     "license": "CC BY-NC-SA",

@@ -37,7 +37,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "lighthouse",
+      "x": 1290,
+      "y": 2570,
+      "label": "Set up the Radio Repeater"
+    },
+    {
+      "map": "lighthouse",
+      "x": 833,
+      "y": 833,
+      "label": "Set up the Radio Repeater"
+    },
+    {
+      "map": "lighthouse",
+      "x": 937,
+      "y": 641,
+      "label": "Set up the Radio Repeater"
+    },
+    {
+      "map": "lighthouse",
+      "x": 1346,
+      "y": 1220,
+      "label": "Set up the Radio Repeater"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_11",
     "license": "CC BY-NC-SA",

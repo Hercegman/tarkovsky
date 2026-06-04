@@ -32,7 +32,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "lighthouse",
+      "x": 172,
+      "y": 3097,
+      "label": "Recon the Roof"
+    },
+    {
+      "map": "lighthouse",
+      "x": 387,
+      "y": 3065,
+      "label": "Recon the Roof"
+    },
+    {
+      "map": "lighthouse",
+      "x": 649,
+      "y": 3123,
+      "label": "Recon the Roof"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Reconnaissance",
     "license": "CC BY-NC-SA",

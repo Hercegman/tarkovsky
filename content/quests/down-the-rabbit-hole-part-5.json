@@ -49,7 +49,74 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 3859,
+      "y": 2642,
+      "label": "Stash the first Metal Fuel Tank"
+    },
+    {
+      "map": "shoreline",
+      "x": 3915,
+      "y": 2821,
+      "label": "Stash the second Metal Fuel Tank"
+    },
+    {
+      "map": "customs",
+      "x": 3406,
+      "y": 186,
+      "label": "Find Sliderkey Secure Flash Drive"
+    },
+    {
+      "map": "customs",
+      "x": 3028,
+      "y": 1030,
+      "label": "Obtain the Flash Drive With Fake Info"
+    },
+    {
+      "map": "interchange",
+      "x": 7705,
+      "y": 3058,
+      "label": "Obtain the second Clothes design handbook"
+    },
+    {
+      "map": "interchange",
+      "x": 9058,
+      "y": 2398,
+      "label": "Obtain the first Clothes design handbook"
+    },
+    {
+      "map": "interchange",
+      "x": 7423,
+      "y": 2779,
+      "label": "Obtain the third Chemical container"
+    },
+    {
+      "map": "interchange",
+      "x": 7445,
+      "y": 2908,
+      "label": "Obtain the second Chemical container"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3656,
+      "y": 450,
+      "label": "Obtain the Secure Flash Drive"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 1761,
+      "y": 511,
+      "label": "Obtain the Working Hard Drive"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6289,
+      "y": 3062,
+      "label": "Obtain the Flash Drive with Recordings"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Down_the_Rabbit_Hole_-_Part_5",
     "license": "CC BY-NC-SA",

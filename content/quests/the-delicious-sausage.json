@@ -46,7 +46,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 4648,
+      "y": 2807,
+      "label": "Scout the Sparja Store in Pinewood Hotel"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3328,
+      "y": 1915,
+      "label": "Scout the Sparja Store at Primorsky Ave"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2534,
+      "y": 1440,
+      "label": "Scout the Goshan Store in Concordia"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 5449,
+      "y": 2649,
+      "label": "Scout the Shestyorochka Store at Nikitskaya Street"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Delicious_Sausage",
     "license": "CC BY-NC-SA",

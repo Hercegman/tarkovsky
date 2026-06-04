@@ -41,7 +41,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 1494,
+      "y": 1713,
+      "label": "Obtain the Marked Ophthalmoscope"
+    },
+    {
+      "map": "shoreline",
+      "x": 2878,
+      "y": 472,
+      "label": "Obtain the Surgery Kit Marked with a Blue Symbol"
+    },
+    {
+      "map": "shoreline",
+      "x": 5860,
+      "y": 132,
+      "label": "Locate Sanitar's Office"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Colleagues_-_Part_2",
     "license": "CC BY-NC-SA",

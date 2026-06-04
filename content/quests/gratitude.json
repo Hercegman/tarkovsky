@@ -45,7 +45,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 5716,
+      "y": 3173,
+      "label": "Stash the Journal at the Old Sawmill"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Gratitude",
     "license": "CC BY-NC-SA",

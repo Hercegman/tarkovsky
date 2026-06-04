@@ -31,7 +31,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 4109,
+      "y": 2394,
+      "label": "Locate the Cargo Convoy"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 3827,
+      "y": 2140,
+      "label": "Determine the Ambush Spot"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Green_Corridor",
     "license": "CC BY-NC-SA",

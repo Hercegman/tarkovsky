@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 6341,
+      "y": 3168,
+      "label": "Find the Debtor"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Debtor",
     "license": "CC BY-NC-SA",

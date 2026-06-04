@@ -38,7 +38,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 3406,
+      "y": 186,
+      "label": "Find Sliderkey Secure Flash Drive"
+    },
+    {
+      "map": "customs",
+      "x": 3028,
+      "y": 1030,
+      "label": "Obtain the Flash Drive With Fake Info"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_13",
     "license": "CC BY-NC-SA",

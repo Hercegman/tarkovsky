@@ -45,7 +45,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "lighthouse",
+      "x": 1332,
+      "y": 1254,
+      "label": "Find the Stolen Military Documents"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Key_to_the_Tower",
     "license": "CC BY-NC-SA",

@@ -43,7 +43,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "interchange",
+      "x": 7936,
+      "y": 3169,
+      "label": "Obtain the Goshan cargo manifests"
+    },
+    {
+      "map": "interchange",
+      "x": 7349,
+      "y": 1609,
+      "label": "Obtain the OLI cargo manifests"
+    },
+    {
+      "map": "interchange",
+      "x": 7554,
+      "y": 3862,
+      "label": "Obtain the IDEA cargo manifests"
+    },
+    {
+      "map": "interchange",
+      "x": 7101,
+      "y": 1744,
+      "label": "Obtain the OLI cargo route documents"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Database_-_Part_1",
     "license": "CC BY-NC-SA",

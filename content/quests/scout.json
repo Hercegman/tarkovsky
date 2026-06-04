@@ -50,7 +50,56 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 12222,
+      "y": 5585,
+      "label": "Locate the first Extraction"
+    },
+    {
+      "map": "factory",
+      "x": 6827,
+      "y": 2662,
+      "label": "Locate the second Extraction"
+    },
+    {
+      "map": "factory",
+      "x": 6867,
+      "y": 5434,
+      "label": "Locate the third Extraction"
+    },
+    {
+      "map": "factory",
+      "x": 9431,
+      "y": 3536,
+      "label": "Locate the fourth Extraction"
+    },
+    {
+      "map": "factory",
+      "x": 7675,
+      "y": 5509,
+      "label": "Locate the First Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 9246,
+      "y": 5716,
+      "label": "Locate the Second Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 9413,
+      "y": 5565,
+      "label": "Locate the Third Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 6826,
+      "y": 3173,
+      "label": "Locate the Fourth Forklift"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Scout",
     "license": "CC BY-NC-SA",

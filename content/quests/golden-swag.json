@@ -35,7 +35,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "customs",
+      "x": 3198,
+      "y": 431,
+      "label": "Find the Golden Zibbo Lighter"
+    },
+    {
+      "map": "customs",
+      "x": 3439,
+      "y": 1865,
+      "label": "Stash the Golden Zibbo Lighter"
+    },
+    {
+      "map": "customs",
+      "x": 3338,
+      "y": 213,
+      "label": "Stash Golden Neck Chain"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Golden_Swag",
     "license": "CC BY-NC-SA",

@@ -38,7 +38,26 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "interchange",
+      "x": 2310,
+      "y": 884,
+      "label": "Stash a Toilet paper inside the secret container"
+    },
+    {
+      "map": "interchange",
+      "x": 6218,
+      "y": 2138,
+      "label": "Stash a Bottle of Fierce Hatchling moonshine"
+    },
+    {
+      "map": "interchange",
+      "x": 7645,
+      "y": 2477,
+      "label": "Stash a Salty Dog beef sausage"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Provocation",
     "license": "CC BY-NC-SA",

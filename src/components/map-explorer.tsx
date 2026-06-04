@@ -4,7 +4,9 @@ import { useRef, useState } from "react";
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import type { MapData } from "@/lib/types";
+import type { HighlightMarker } from "./leaflet-map";
 import { useProgress } from "@/hooks/use-progress";
+import { categoryColor } from "@/lib/map-colors";
 
 const LeafletMap = dynamic(() => import("./leaflet-map"), {
   ssr: false,
@@ -31,6 +33,7 @@ const PRIORITY = [
 export interface MapQuest {
   id: string;
   title: string;
+  markers: HighlightMarker[];
 }
 
 export function MapExplorer({
@@ -58,6 +61,10 @@ export function MapExplorer({
   const toggle = (id: string) =>
     setActive((a) => (a.includes(id) ? a.filter((x) => x !== id) : [...a, id]));
 
+  const [selected, setSelected] = useState<string | null>(null);
+  const selectedQuest = quests.find((q) => q.id === selected) ?? null;
+  const highlight = selectedQuest?.markers ?? [];
+
   const { completed } = useProgress();
   const mapRef = useRef<HTMLDivElement>(null);
 
@@ -69,28 +76,61 @@ export function MapExplorer({
   }
 
   return (
-    <div className="grid gap-4 lg:grid-cols-[260px_1fr_230px]">
+    <div className="grid gap-4 lg:grid-cols-[270px_1fr_230px]">
       {/* Left — quests on this map */}
       <aside className="order-2 lg:order-1">
         <h2 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
           Quests here ({quests.length})
         </h2>
-        <ul className="max-h-[300px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:max-h-[640px]">
+        <p className="mb-2 text-[11px] text-[var(--muted)]">
+          Click a quest to show its location.
+        </p>
+        <ul className="max-h-[320px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:max-h-[620px]">
           {quests.map((q) => {
             const done = completed?.has(q.id) ?? false;
+            const isSel = q.id === selected;
+            const hasLoc = q.markers.length > 0;
             return (
               <li key={q.id}>
-                <Link
-                  href={`/quest/${q.id}`}
-                  className={`flex items-center gap-2 rounded px-3 py-2 text-sm transition-colors ${
-                    done
-                      ? "bg-[var(--success)]/10 text-[var(--success)]"
-                      : "hover:bg-[var(--surface-2)] hover:text-[var(--gold)]"
+                <div
+                  className={`flex items-center gap-1 rounded px-2 py-1.5 transition-colors ${
+                    isSel
+                      ? "bg-[var(--gold)]/15 ring-1 ring-[var(--gold-dim)]"
+                      : "hover:bg-[var(--surface-2)]"
                   }`}
                 >
-                  <span className="flex-1">{q.title}</span>
-                  {done && <span>✓</span>}
-                </Link>
+                  <button
+                    type="button"
+                    onClick={() => setSelected(isSel ? null : q.id)}
+                    title={hasLoc ? "Show location" : "No mapped location"}
+                    className={`flex h-5 w-5 shrink-0 items-center justify-center rounded border text-[10px] ${
+                      isSel
+                        ? "border-[var(--gold)] bg-[var(--gold)] text-[var(--background)]"
+                        : hasLoc
+                          ? "border-[var(--gold-dim)] text-[var(--gold)]"
+                          : "border-[var(--border)] text-[var(--muted)]"
+                    }`}
+                  >
+                    {isSel ? "✓" : hasLoc ? "📍" : "·"}
+                  </button>
+                  <button
+                    type="button"
+                    onClick={() => setSelected(isSel ? null : q.id)}
+                    className={`flex-1 truncate text-left text-sm ${
+                      done ? "text-[var(--success)]" : ""
+                    }`}
+                  >
+                    {q.title}
+                  </button>
+                  {done && <span className="text-xs text-[var(--success)]">✓</span>}
+                  <Link
+                    href={`/quest/${q.id}`}
+                    className="px-1 text-xs text-[var(--muted)] hover:text-[var(--gold)]"
+                    title="Open quest"
+                  >
+                    ↗
+                  </Link>
+                </div>
               </li>
             );
           })}
@@ -106,9 +146,9 @@ export function MapExplorer({
       <div className="order-1 lg:order-2">
         <div
           ref={mapRef}
-          className="relative h-[640px] overflow-hidden rounded-xl border border-[var(--border)] bg-black"
+          className="relative h-[620px] overflow-hidden rounded-xl border border-[var(--border)] bg-black"
         >
-          <LeafletMap map={map} active={active} />
+          <LeafletMap map={map} active={active} highlight={highlight} />
           <button
             type="button"
             onClick={fullscreen}
@@ -116,6 +156,14 @@ export function MapExplorer({
           >
             ⤢ Fullscreen
           </button>
+          {selectedQuest && (
+            <div className="absolute left-3 top-3 z-[500] max-w-[60%] rounded-lg border border-[var(--gold-dim)] bg-[var(--surface)]/90 px-3 py-1.5 text-xs backdrop-blur">
+              <span className="text-[var(--gold)]">{selectedQuest.title}</span>
+              {highlight.length === 0 && (
+                <span className="text-[var(--muted)]"> · no mapped location</span>
+              )}
+            </div>
+          )}
         </div>
         {map.source && (
           <p className="mt-2 text-xs text-[var(--muted)]">
@@ -138,21 +186,22 @@ export function MapExplorer({
         <h2 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
           Layers
         </h2>
-        <div className="max-h-[640px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2">
+        <div className="max-h-[620px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2">
           {cats.map((c) => {
             const on = active.includes(c.id);
+            const color = categoryColor(c.id);
             return (
               <button
                 key={c.id}
                 type="button"
                 onClick={() => toggle(c.id)}
                 className={`flex w-full items-center gap-2 rounded px-2.5 py-1.5 text-left text-sm transition-colors ${
-                  on ? "bg-[var(--surface-2)]" : "opacity-60 hover:opacity-100"
+                  on ? "bg-[var(--surface-2)]" : "opacity-55 hover:opacity-100"
                 }`}
               >
                 <span
                   className="h-3 w-3 shrink-0 rounded-full border border-black/40"
-                  style={{ background: on ? c.color : "transparent", borderColor: c.color }}
+                  style={{ background: on ? color : "transparent", borderColor: color }}
                 />
                 <span className="flex-1 truncate">{c.name}</span>
                 <span className="text-xs text-[var(--muted)]">{counts[c.id]}</span>

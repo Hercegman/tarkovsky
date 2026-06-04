@@ -45,7 +45,104 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 12222,
+      "y": 5585,
+      "label": "Locate the first Extraction"
+    },
+    {
+      "map": "factory",
+      "x": 6827,
+      "y": 2662,
+      "label": "Locate the second Extraction"
+    },
+    {
+      "map": "factory",
+      "x": 6867,
+      "y": 5434,
+      "label": "Locate the third Extraction"
+    },
+    {
+      "map": "factory",
+      "x": 9431,
+      "y": 3536,
+      "label": "Locate the fourth Extraction"
+    },
+    {
+      "map": "factory",
+      "x": 7675,
+      "y": 5509,
+      "label": "Locate the First Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 9246,
+      "y": 5716,
+      "label": "Locate the Second Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 9413,
+      "y": 5565,
+      "label": "Locate the Third Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 6826,
+      "y": 3173,
+      "label": "Locate the Fourth Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 8818,
+      "y": 4518,
+      "label": "Locate the Fifth Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 9010,
+      "y": 4501,
+      "label": "Locate the Sixth Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 7490,
+      "y": 4274,
+      "label": "Locate the Seventh Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 7447,
+      "y": 3578,
+      "label": "Locate the Eighth Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 8968,
+      "y": 4302,
+      "label": "Locate the Ninth Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 8803,
+      "y": 5272,
+      "label": "Locate the Tenth Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 8593,
+      "y": 4406,
+      "label": "Locate the Eleventh Forklift"
+    },
+    {
+      "map": "factory",
+      "x": 6787,
+      "y": 5410,
+      "label": "Locate the Twelfth Forklift"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Forklift_Certified",
     "license": "CC BY-NC-SA",

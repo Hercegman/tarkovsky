@@ -36,7 +36,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "ground-zero",
+      "x": 2259,
+      "y": 4813,
+      "label": "Obtain the Wine Bottle"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Luxurious_Life",
     "license": "CC BY-NC-SA",

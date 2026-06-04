@@ -39,7 +39,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "the-lab",
+      "x": 2019,
+      "y": 752,
+      "label": "Search the weapon testing area"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_14",
     "license": "CC BY-NC-SA",

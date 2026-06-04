@@ -34,7 +34,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "woods",
+      "x": 5793,
+      "y": 3215,
+      "label": "Shoot a Red Flare at the old Sawmill"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Airmail",
     "license": "CC BY-NC-SA",

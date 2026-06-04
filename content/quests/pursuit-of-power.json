@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 5860,
+      "y": 132,
+      "label": "Locate Sanitar's Office"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Pursuit_of_Power",
     "license": "CC BY-NC-SA",

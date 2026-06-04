@@ -35,7 +35,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 3656,
+      "y": 450,
+      "label": "Obtain the Secure Flash Drive"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 6289,
+      "y": 3062,
+      "label": "Obtain the Flash Drive with Recordings"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Matter_of_Technique",
     "license": "CC BY-NC-SA",

@@ -53,7 +53,20 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "reserve",
+      "x": 2175,
+      "y": 1833,
+      "label": "Locate and Inspect the Second LAV III"
+    },
+    {
+      "map": "reserve",
+      "x": 2366,
+      "y": 2145,
+      "label": "Locate and Inspect the T-90 Tank"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Revision_-_Reserve",
     "license": "CC BY-NC-SA",

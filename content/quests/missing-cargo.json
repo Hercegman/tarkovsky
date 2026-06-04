@@ -36,7 +36,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "lighthouse",
+      "x": 1351,
+      "y": 823,
+      "label": "Locate the Crashed Helicopter"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Missing_Cargo",
     "license": "CC BY-NC-SA",

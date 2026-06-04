@@ -35,7 +35,32 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "streets-of-tarkov",
+      "x": 365,
+      "y": 1144,
+      "label": "Locate Prapor's Friend Apartment"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 514,
+      "y": 1144,
+      "label": "Locate the Warden's Apartment"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 1194,
+      "y": 1383,
+      "label": "Locate the Balletmeister's Apartment"
+    },
+    {
+      "map": "streets-of-tarkov",
+      "x": 2420,
+      "y": 3404,
+      "label": "Obtain the Journal of Prapor's Friend"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/Glory_to_CPSU_-_Part_1",
     "license": "CC BY-NC-SA",

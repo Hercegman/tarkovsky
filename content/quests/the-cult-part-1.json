@@ -35,7 +35,14 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "shoreline",
+      "x": 836,
+      "y": 2189,
+      "label": "Locate the Missing Informant"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_Cult_-_Part_1",
     "license": "CC BY-NC-SA",

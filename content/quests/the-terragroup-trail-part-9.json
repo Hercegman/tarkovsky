@@ -42,7 +42,44 @@
   "questItems": [],
   "guideHtml": null,
   "guideText": null,
-  "markers": [],
+  "markers": [
+    {
+      "map": "factory",
+      "x": 3982,
+      "y": 4992,
+      "label": "Stash the Secure Folder 0022 in Factory Break Room"
+    },
+    {
+      "map": "factory",
+      "x": 199,
+      "y": 3363,
+      "label": "Stash a WI-FI Camera in the third Crane's Cockpit"
+    },
+    {
+      "map": "woods",
+      "x": 5716,
+      "y": 3173,
+      "label": "Stash the Journal at the Old Sawmill"
+    },
+    {
+      "map": "woods",
+      "x": 5182,
+      "y": 5492,
+      "label": "Stash the third Russian AP ammo pack"
+    },
+    {
+      "map": "woods",
+      "x": 3684,
+      "y": 4123,
+      "label": "Stash VOG-25 Grenade at third RPG ammo crate"
+    },
+    {
+      "map": "interchange",
+      "x": 2310,
+      "y": 884,
+      "label": "Stash a Toilet paper inside the secret container"
+    }
+  ],
   "source": {
     "url": "https://escapefromtarkov.fandom.com/wiki/The_TerraGroup_Trail_-_Part_9",
     "license": "CC BY-NC-SA",

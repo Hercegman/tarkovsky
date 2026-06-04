@@ -1,15 +1,11 @@
 import Link from "next/link";
-import { getTraders, getMaps, getQuests } from "@/lib/data";
+import { getMaps } from "@/lib/data";
 import { RadarBackground } from "@/components/radar-background";
 import { Reveal, RevealGroup, RevealItem } from "@/components/ui/reveal";
 import { AnimatedCard } from "@/components/ui/animated-card";
 
 export default async function Home() {
-  const [traders, maps, quests] = await Promise.all([
-    getTraders(),
-    getMaps(),
-    getQuests(),
-  ]);
+  const maps = await getMaps();
 
   return (
     <div className="radial-glow">
@@ -52,10 +48,10 @@ export default async function Home() {
             </div>
           </Reveal>
           <Reveal delay={0.32}>
-            <p className="mt-7 text-sm text-[var(--muted)]">
-              {quests.length > 0
-                ? `${quests.length} quests · ${traders.length} traders · ${maps.length} maps`
-                : "Run the wiki ingest to load quests"}
+            <p className="mt-7 text-sm uppercase tracking-[0.15em] text-[var(--muted)]">
+              Provided to you by{" "}
+              <span className="text-[var(--gold)]">Hercegman</span> and{" "}
+              <span className="text-[var(--gold)]">Priestt_</span>
             </p>
           </Reveal>
         </div>
