@@ -6,19 +6,20 @@
   Exact hex values may be refined from the research findings.
 */
 :root {
-  --background: #14110d;        /* near-black warm brown-grey */
-  --surface: #1f1c16;           /* cards / panels */
-  --surface-2: #2a2620;         /* raised surfaces, table rows */
-  --border: #3a352b;            /* hairlines, dividers */
-  --foreground: #d6cfc0;        /* warm off-white text */
-  --muted: #8c8676;             /* secondary / disabled text */
-  --gold: #c8a04d;              /* primary gold accent */
-  --gold-hi: #e3c170;           /* gold hover / emphasis */
-  --gold-dim: #8a7440;          /* dimmed gold (borders) */
-  --gunmetal: #4a5249;          /* mašinasta, green-grey panels */
-  --brown: #6b4f33;             /* worn-leather brown accent */
-  --danger: #9e4a3c;            /* negative rep / locked */
-  --success: #7a8c4a;           /* positive rep / completed */
+  /* Grey-olive military palette — desaturated, low-yellow. */
+  --background: #131510;        /* dark olive-grey */
+  --surface: #1a1c15;           /* cards / panels */
+  --surface-2: #23261d;         /* raised surfaces, table rows */
+  --border: #353a2b;            /* hairlines, dividers */
+  --foreground: #cdcec2;        /* cool off-white text */
+  --muted: #888b78;             /* secondary / disabled text */
+  --gold: #9da079;              /* grey-olive accent (was gold) */
+  --gold-hi: #c1c39e;           /* lighter olive emphasis */
+  --gold-dim: #6b6e4f;          /* dim olive (borders) */
+  --gunmetal: #515848;          /* gunmetal green-grey panels */
+  --brown: #5c5640;             /* desaturated olive-brown */
+  --danger: #9e5340;            /* negative rep / locked */
+  --success: #7c8b4e;           /* positive rep / completed */
 }
 
 @theme inline {
@@ -35,8 +36,8 @@
   --color-brown: var(--brown);
   --color-danger: var(--danger);
   --color-success: var(--success);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-body);
+  --font-display: var(--font-display);
 }
 
 * {
@@ -46,7 +47,13 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-sans), system-ui, sans-serif;
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+/* Tactical condensed display font for headings + brand. */
+h1, h2, h3, .font-display {
+  font-family: var(--font-display), var(--font-body), sans-serif;
+  letter-spacing: 0.01em;
 }
 
 a {
@@ -56,7 +63,19 @@ a {
 
 ::selection {
   background: var(--gold);
-  color: #14160f;
+  color: #131510;
+}
+
+/* Subtle rough stone/grain texture over the whole page. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 0.05;
+  mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
 }
 
 /* ---------- Custom scrollbar (fancy, gold on dark) ---------- */
@@ -82,8 +101,8 @@ a {
 
 /* ---------- Keyframes ---------- */
 @keyframes glow-pulse {
-  0%, 100% { box-shadow: 0 0 18px rgba(200, 160, 77, 0.25), 0 0 40px rgba(200, 160, 77, 0.08); }
-  50% { box-shadow: 0 0 26px rgba(200, 160, 77, 0.45), 0 0 60px rgba(200, 160, 77, 0.18); }
+  0%, 100% { box-shadow: 0 0 18px rgba(157, 160, 121, 0.25), 0 0 40px rgba(157, 160, 121, 0.08); }
+  50% { box-shadow: 0 0 26px rgba(157, 160, 121, 0.45), 0 0 60px rgba(157, 160, 121, 0.18); }
 }
 @keyframes gradient-shift {
   0%, 100% { background-position: 0% 50%; }
@@ -97,6 +116,14 @@ a {
   0% { transform: translateY(-100%); opacity: 0; }
   50% { opacity: 0.5; }
   100% { transform: translateY(100%); opacity: 0; }
+}
+@keyframes radar-sweep {
+  to { transform: rotate(360deg); }
+}
+@keyframes blip {
+  0% { transform: scale(0.6); opacity: 0.9; }
+  70% { opacity: 0; }
+  100% { transform: scale(2.4); opacity: 0; }
 }
 
 /* ---------- Utility classes (Tarkov-toned) ---------- */
@@ -121,20 +148,20 @@ a {
 }
 .glow-border:hover {
   border-color: var(--gold-dim);
-  box-shadow: 0 0 28px rgba(200, 160, 77, 0.16);
+  box-shadow: 0 0 28px rgba(157, 160, 121, 0.16);
 }
 
 .grid-bg {
   background-image:
-    linear-gradient(rgba(200, 160, 77, 0.04) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(200, 160, 77, 0.04) 1px, transparent 1px);
+    linear-gradient(rgba(157, 160, 121, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(157, 160, 121, 0.04) 1px, transparent 1px);
   background-size: 56px 56px;
 }
 
 .radial-glow {
   background:
-    radial-gradient(ellipse 80% 55% at 50% -5%, rgba(200, 160, 77, 0.12), transparent 60%),
-    radial-gradient(ellipse 60% 50% at 85% 110%, rgba(107, 79, 51, 0.14), transparent 60%);
+    radial-gradient(ellipse 80% 55% at 50% -5%, rgba(157, 160, 121, 0.12), transparent 60%),
+    radial-gradient(ellipse 60% 50% at 85% 110%, rgba(92, 86, 64, 0.14), transparent 60%);
 }
 
 .marquee-track {
