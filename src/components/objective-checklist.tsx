@@ -42,7 +42,6 @@ export function ObjectiveChecklist({
     }
     // eslint-disable-next-line react-hooks/set-state-in-effect
     setChecked(initial);
-    // eslint-disable-next-line react-hooks/set-state-in-effect
     setReady(true);
   }, [storageKey]);
 

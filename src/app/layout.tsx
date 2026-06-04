@@ -3,6 +3,7 @@ import { Inter, Oswald } from "next/font/google";
 import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
+import { SoundController } from "@/components/sound-controller";
 
 // Clean technical body + condensed tactical display font.
 const body = Inter({
@@ -36,6 +37,7 @@ export default function RootLayout({
       className={`${body.variable} ${display.variable} h-full antialiased`}
     >
       <body className="min-h-full flex flex-col">
+        <SoundController />
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />
