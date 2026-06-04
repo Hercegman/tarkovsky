@@ -10,6 +10,7 @@ import { RadarBackground } from "@/components/radar-background";
 import { Reveal, RevealGroup, RevealItem } from "@/components/ui/reveal";
 import { AnimatedCard } from "@/components/ui/animated-card";
 import { MapRevealCard } from "@/components/map-reveal-card";
+import { CyclingBackdrop } from "@/components/cycling-backdrop";
 
 export default async function Home() {
   const [maps, traders, traderCounts, mapCounts] = await Promise.all([
@@ -18,6 +19,11 @@ export default async function Home() {
     getTraderQuestCounts(),
     getMapQuestCounts(),
   ]);
+
+  const backdropImages = [
+    ...maps.map((m) => `/maps/banner/${m.id}.webp`),
+    ...traders.map((t) => t.image).filter((s): s is string => !!s),
+  ];
 
   return (
     <div className="radial-glow">
@@ -68,6 +74,11 @@ export default async function Home() {
           </Reveal>
         </div>
       </section>
+
+      {/* Cycling faint backdrop behind the lower sections (traders & maps) */}
+      <div className="relative">
+        <CyclingBackdrop absolute images={backdropImages} opacity={0.08} />
+        <div className="relative z-10">
 
       {/* Feature cards */}
       <section className="mx-auto max-w-6xl px-4 py-20">
@@ -151,6 +162,8 @@ export default async function Home() {
           ))}
         </RevealGroup>
       </section>
+        </div>
+      </div>
     </div>
   );
 }
