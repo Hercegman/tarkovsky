@@ -7,7 +7,11 @@ Newest first.
 
 ---
 
-## `_pending_` — quest marker hover image + description · 2026-06-05
+## `_pending_` — dynamic backdrop on the full quest page · 2026-06-05
+- **Added:** the quest detail page now has a faint cycling backdrop (its map
+  banners + trader portrait) like the other pages.
+
+## `8ce223a` — quest marker hover image + description · 2026-06-05
 - **Added:** quest location markers now show a hover tooltip with a template
   image (`public/location-template.webp`, red "TEMPLATE" overlay) plus the
   objective text. The wiki has no per-marker location images, so a template is

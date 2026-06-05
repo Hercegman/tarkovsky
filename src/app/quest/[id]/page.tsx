@@ -6,6 +6,7 @@ import { getQuests, getQuest, getTrader, getMaps, getMapData } from "@/lib/data"
 import { QuestProgressButton } from "@/components/quest-progress-button";
 import { QuestMiniMap } from "@/components/quest-mini-map";
 import { ObjectiveChecklist } from "@/components/objective-checklist";
+import { CyclingBackdrop } from "@/components/cycling-backdrop";
 
 export async function generateStaticParams() {
   const quests = await getQuests();
@@ -40,8 +41,16 @@ export default async function QuestPage(props: PageProps<"/quest/[id]">) {
     .filter((m) => m.map === primaryMapId)
     .map((m) => ({ x: m.x, y: m.y, label: m.label }));
 
+  // Dynamic backdrop: the quest's locations + its trader.
+  const bgImages = [
+    ...quest.maps.map((m) => `/maps/banner/${m}.webp`),
+    trader?.image,
+  ].filter((s): s is string => !!s);
+
   return (
-    <div className="radial-glow min-h-full">
+    <div className="relative min-h-full">
+      <CyclingBackdrop images={bgImages} opacity={0.1} />
+      <div className="radial-glow relative z-10">
       <article className="mx-auto max-w-3xl px-4 py-10">
         <Link
           href={trader ? `/quests/${trader.id}` : "/quests"}
@@ -153,6 +162,7 @@ export default async function QuestPage(props: PageProps<"/quest/[id]">) {
           · {quest.source.license}
         </p>
       </article>
+      </div>
     </div>
   );
 }
