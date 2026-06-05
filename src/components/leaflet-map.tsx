@@ -133,7 +133,12 @@ export default function LeafletMap({
       {highlight.map((p, i) => (
         <Marker key={`h-${i}`} position={[p.y, p.x]} icon={hIcon} zIndexOffset={1000}>
           <Tooltip direction="top" offset={[0, -8]} opacity={1} className="tark-tip">
-            <span className="tip-title">{p.label}</span>
+            <span className="tip-img">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src="/location-template.webp" alt="" />
+              <span className="tip-template">TEMPLATE</span>
+            </span>
+            {p.label && <span className="tip-title">{p.label}</span>}
           </Tooltip>
         </Marker>
       ))}

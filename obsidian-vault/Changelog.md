@@ -7,7 +7,13 @@ Newest first.
 
 ---
 
-## `_pending_` — clearer extraction layer labels · 2026-06-05
+## `_pending_` — quest marker hover image + description · 2026-06-05
+- **Added:** quest location markers now show a hover tooltip with a template
+  image (`public/location-template.webp`, red "TEMPLATE" overlay) plus the
+  objective text. The wiki has no per-marker location images, so a template is
+  used everywhere (swap the file when real images exist).
+
+## `58d7804` — clearer extraction layer labels · 2026-06-05
 - **Changed:** the map layer panel now labels the extraction categories "PMC
   Extraction", "Scav Extraction", "Transit Extraction" (were just "PMC", "Scav",
   "Transit") via a `categoryLabel` override.
