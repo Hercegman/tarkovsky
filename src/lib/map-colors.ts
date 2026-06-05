@@ -60,6 +60,18 @@ export function categoryShape(id: string): string {
   return SHAPES[id] ?? "circle";
 }
 
+// Friendlier layer labels (the wiki names some categories ambiguously).
+const LABELS: Record<string, string> = {
+  exfil_pmc: "PMC Extraction",
+  exfil_scav: "Scav Extraction",
+  exfil_transit: "Transit Extraction",
+  exfil_shared: "Shared Extraction",
+};
+
+export function categoryLabel(id: string, fallback: string): string {
+  return LABELS[id] ?? fallback;
+}
+
 /** Inline SVG (16×16) for a category marker. */
 export function shapeSvg(shape: string, color: string): string {
   const f = `fill='${color}' stroke='#14150f' stroke-width='1.4' stroke-linejoin='round'`;
