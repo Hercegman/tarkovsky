@@ -7,7 +7,11 @@ Newest first.
 
 ---
 
-## `_pending_` — gun builder: save & load builds · 2026-06-05
+## `_pending_` — gun builder: fix blank attachment/weapon images · 2026-06-05
+- **Fixed:** images in the builder rendered blank — switched from `next/image`
+  `fill` (in flex containers) to plain `<img>`, so weapon and attachment icons show.
+
+## `1682b60` — gun builder: save & load builds · 2026-06-05
 - **Added:** logged-in users can name and save gun builds, then load or delete
   them. DB `gun_builds` table (migration `0002`); `/api/builds` GET/POST/DELETE
   (session-scoped, validated, rate-limited); save/load UI in the builder.

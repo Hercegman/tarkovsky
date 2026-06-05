@@ -1,7 +1,6 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
-import Image from "next/image";
 import Link from "next/link";
 import { AnimatePresence, motion } from "motion/react";
 import type { Weapon, Attachment } from "@/lib/types";
@@ -164,9 +163,10 @@ export function GunBuilder({
               onClick={() => pick(w.id)}
               className="group flex items-center gap-3 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-3 text-left transition-all hover:-translate-y-0.5 hover:border-[var(--gold-dim)]"
             >
-              <span className="relative h-14 w-24 shrink-0">
+              <span className="flex h-14 w-24 shrink-0 items-center justify-center">
                 {w.image && (
-                  <Image src={w.image} alt={w.name} fill sizes="96px" className="object-contain" unoptimized />
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img src={w.image} alt={w.name} className="max-h-full max-w-full object-contain" />
                 )}
               </span>
               <span>
@@ -202,9 +202,10 @@ export function GunBuilder({
         </div>
       )}
       <div className="mb-5 flex flex-wrap items-center gap-4 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4">
-        <span className="relative h-16 w-32 shrink-0">
+        <span className="flex h-16 w-32 shrink-0 items-center justify-center">
           {weapon.image && (
-            <Image src={weapon.image} alt={weapon.name} fill sizes="128px" className="object-contain" unoptimized />
+            // eslint-disable-next-line @next/next/no-img-element
+            <img src={weapon.image} alt={weapon.name} className="max-h-full max-w-full object-contain" />
           )}
         </span>
         <div className="flex-1">
@@ -301,9 +302,10 @@ function SlotPicker({
         <span className="w-24 shrink-0 text-xs uppercase tracking-wide text-[var(--muted)]">
           {name}
         </span>
-        <span className="relative h-9 w-9 shrink-0 overflow-hidden rounded border border-[var(--border)] bg-[var(--surface-2)]">
+        <span className="flex h-9 w-9 shrink-0 items-center justify-center overflow-hidden rounded border border-[var(--border)] bg-[var(--surface-2)]">
           {current?.image && (
-            <Image src={current.image} alt="" fill sizes="36px" className="object-contain p-0.5" unoptimized />
+            // eslint-disable-next-line @next/next/no-img-element
+            <img src={current.image} alt="" className="max-h-full max-w-full object-contain p-0.5" />
           )}
         </span>
         <span className="flex-1 text-sm">
@@ -347,9 +349,10 @@ function SlotPicker({
                       a.id === value ? "bg-[var(--gold)]/15" : ""
                     }`}
                   >
-                    <span className="relative h-8 w-8 shrink-0 overflow-hidden rounded bg-[var(--surface-2)]">
+                    <span className="flex h-8 w-8 shrink-0 items-center justify-center overflow-hidden rounded bg-[var(--surface-2)]">
                       {a.image && (
-                        <Image src={a.image} alt="" fill sizes="32px" className="object-contain p-0.5" unoptimized />
+                        // eslint-disable-next-line @next/next/no-img-element
+                        <img src={a.image} alt="" className="max-h-full max-w-full object-contain p-0.5" />
                       )}
                     </span>
                     <span className="flex-1 truncate">{a.name}</span>
