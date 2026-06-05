@@ -7,7 +7,15 @@ Newest first.
 
 ---
 
-## `_pending_` — gun builder: all firearms + nested slots · 2026-06-05
+## `_pending_` — gun builder: fix stat parsing + show base/delta · 2026-06-05
+- **Fixed:** empty wiki infobox fields bled into the next field, so `accuracy`
+  picked up recoil values (negative MOA) — numbers now stop at a pipe
+  (`scripts/fix-weapon-stats.mts` re-parsed all weapons/attachments). Accuracy and
+  weight are now sane.
+- **Changed:** the stats panel shows the change vs the bare-weapon base (coloured
+  +/- delta) and clarifies that base = bare weapon, mods add modifiers.
+
+## `1c35e7c` — gun builder: all firearms + nested slots · 2026-06-05
 - **Added:** the builder now covers **all 145 firearms** (auto-ingested from the
   wiki) with **1,790 attachments**, and **nested sub-slots** (e.g. a receiver's
   barrel/handguard) rendered recursively. Filters drop wiki "Compatibility" tabs

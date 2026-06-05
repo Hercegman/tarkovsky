@@ -50,7 +50,9 @@ function ibField(wt: string, key: string): string | null {
 const stripTags = (s: string) => s.replace(/<[^>]+>/g, "").trim();
 function num(s: string | null): number | null {
   if (!s) return null;
-  const m = stripTags(s).replace(/,/g, "").match(/-?\d+(\.\d+)?/);
+  // Stop at a pipe: empty infobox fields bleed into the next field ("|recoil=-1"),
+  // which would otherwise be mis-read. Numeric values never contain a pipe.
+  const m = stripTags(s).split("|")[0].replace(/,/g, "").match(/-?\d+(\.\d+)?/);
   return m ? Number(m[0]) : null;
 }
 function fileField(wt: string, key: string): string | null {

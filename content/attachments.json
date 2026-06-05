@@ -5,7 +5,7 @@
     "image": "/weapons/a-ar-15-colt-carbine-buffer-tube.webp",
     "ergo": -2,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.162,
     "type": "Stock",
     "slots": []
@@ -27,7 +27,7 @@
     "image": "/weapons/a-ar-15-damage-industries-ecs-pistol-grip-fde.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Pistol grip",
     "slots": []
@@ -38,7 +38,7 @@
     "image": "/weapons/a-m4a1-5-56x45-upper-receiver.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.27,
     "type": "Receiver",
     "slots": [
@@ -133,7 +133,7 @@
     "image": "/weapons/a-ar-15-vltor-mur-1s-5-56x45-upper-receiver.webp",
     "ergo": 7,
     "recoil": -4,
-    "accuracy": -4,
+    "accuracy": 0,
     "weight": 0.246,
     "type": "Receiver",
     "slots": [
@@ -220,7 +220,7 @@
     "image": "/weapons/a-ar-15-naroh-arms-gral-s-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.092,
     "type": "Pistol grip",
     "slots": []
@@ -231,7 +231,7 @@
     "image": "/weapons/a-ar-15-colt-a2-buffer-tube.webp",
     "ergo": -2,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.09,
     "type": "Stock",
     "slots": []
@@ -242,7 +242,7 @@
     "image": "/weapons/a-ar-15-hera-arms-cqr-pistol-grip-buttstock.webp",
     "ergo": 15,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.499,
     "type": "Stock",
     "slots": []
@@ -253,7 +253,7 @@
     "image": "/weapons/a-ar-15-magpul-miad-pistol-grip-fde.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.05,
     "type": "Pistol grip",
     "slots": []
@@ -264,7 +264,7 @@
     "image": "/weapons/a-ar-15-tactical-dynamics-skeletonized-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.038,
     "type": "Pistol grip",
     "slots": []
@@ -275,7 +275,7 @@
     "image": "/weapons/a-ar-15-ergo-f93-pro-stock.webp",
     "ergo": 12,
     "recoil": -21.5,
-    "accuracy": -21.5,
+    "accuracy": 0,
     "weight": 0.59,
     "type": "Stock",
     "slots": []
@@ -286,7 +286,7 @@
     "image": "/weapons/a-ar-15-hk-battle-grip-pistol-grip.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Pistol grip",
     "slots": []
@@ -297,7 +297,7 @@
     "image": "/weapons/a-ar-15-hk-battle-grip-beavertail-pistol-grip.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Pistol grip",
     "slots": []
@@ -517,7 +517,7 @@
     "image": "/weapons/a-ar-15-adar-2-15-buffer-tube.webp",
     "ergo": -2,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.19,
     "type": "Stock",
     "slots": []
@@ -528,7 +528,7 @@
     "image": "/weapons/a-ar-15-hera-arms-hg-15-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Pistol grip",
     "slots": []
@@ -539,7 +539,7 @@
     "image": "/weapons/a-ar-15-hk-ergo-psg-1-style-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.11,
     "type": "Pistol grip",
     "slots": []
@@ -550,7 +550,7 @@
     "image": "/weapons/a-ar-15-doublestar-ace-socom-gen-4-stock.webp",
     "ergo": 13,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 0.47,
     "type": "Stock",
     "slots": []
@@ -561,7 +561,7 @@
     "image": "/weapons/a-tx-15-5-56x45-lightweight-upper-receiver.webp",
     "ergo": 7,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.19,
     "type": "Receiver",
     "slots": [
@@ -639,7 +639,7 @@
     "image": "/weapons/a-ar-15-soyuz-tm-buffer-tube.webp",
     "ergo": -1.5,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.162,
     "type": "Stock",
     "slots": []
@@ -793,7 +793,7 @@
     "image": "/weapons/a-ar-15-tactical-dynamics-hexgrip-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.064,
     "type": "Pistol grip",
     "slots": []
@@ -911,7 +911,7 @@
     "image": "/weapons/a-ai-axmc-338-lm-bolt-assembly.webp",
     "ergo": -3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Charging handle",
     "slots": []
@@ -922,7 +922,7 @@
     "image": "/weapons/a-ar-15-aeroknox-ax-15-5-56x45-upper-receiver.webp",
     "ergo": 11,
     "recoil": -3.5,
-    "accuracy": -3.5,
+    "accuracy": 0,
     "weight": 0.285,
     "type": "Receiver",
     "slots": [
@@ -1010,7 +1010,7 @@
     "image": "/weapons/a-ar-15-aeroknox-orion-pistol-grip.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Pistol grip",
     "slots": []
@@ -1021,7 +1021,7 @@
     "image": "/weapons/a-ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Pistol grip",
     "slots": []
@@ -1032,7 +1032,7 @@
     "image": "/weapons/a-ar-15-radian-weapons-model-1-5-56x45-upper-receiver.webp",
     "ergo": 2.5,
     "recoil": -4.5,
-    "accuracy": -4.5,
+    "accuracy": 0,
     "weight": 0.27,
     "type": "Receiver",
     "slots": [
@@ -1177,7 +1177,7 @@
     "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine",
     "image": "/weapons/a-ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.138,
     "type": "Magazine",
@@ -1277,7 +1277,7 @@
     "image": "/weapons/a-ak-magpul-moe-pistol-grip-black.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Pistol grip",
     "slots": []
@@ -1299,7 +1299,7 @@
     "image": "/weapons/a-ak-12-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.05,
     "type": "Pistol grip",
     "slots": []
@@ -1342,7 +1342,7 @@
     "name": "AR-15 5.56x45 HK 30 STANAG polymer 30-round magazine",
     "image": "/weapons/a-ar-15-5-56x45-hk-30-stanag-polymer-30-round-magazine.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.17,
     "type": "Magazine",
@@ -1376,7 +1376,7 @@
     "image": "/weapons/a-ak-kgb-mg-47-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.153,
     "type": "Pistol grip",
     "slots": []
@@ -1398,7 +1398,7 @@
     "image": "/weapons/a-ak-aeroknox-scorpius-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.14,
     "type": "Pistol grip",
     "slots": []
@@ -1431,7 +1431,7 @@
     "image": "/weapons/a-ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.15,
     "type": "Pistol grip",
     "slots": []
@@ -1552,7 +1552,7 @@
     "image": "/weapons/a-akm-ak-74-hera-arms-cqr47-pistol-grip-buttstock.webp",
     "ergo": 13,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.525,
     "type": "Stock",
     "slots": []
@@ -1563,7 +1563,7 @@
     "image": "/weapons/a-ak-fab-defense-agr-47-pistol-grip-fde.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Pistol grip",
     "slots": []
@@ -1574,7 +1574,7 @@
     "image": "/weapons/a-ar-15-strike-industries-viper-pdw-stock.webp",
     "ergo": 22,
     "recoil": -18,
-    "accuracy": -18,
+    "accuracy": 0,
     "weight": 0.573,
     "type": "Stock",
     "slots": []
@@ -1585,7 +1585,7 @@
     "image": "/weapons/a-ar-15-rtm-atp-buffer-tube.webp",
     "ergo": -1.5,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.115,
     "type": "Stock",
     "slots": []
@@ -1690,7 +1690,7 @@
     "image": "/weapons/a-ar-15-doublestar-ace-arfx-skeleton-stock.webp",
     "ergo": 15,
     "recoil": -20.5,
-    "accuracy": -20.5,
+    "accuracy": 0,
     "weight": 0.317,
     "type": "Stock",
     "slots": []
@@ -1712,7 +1712,7 @@
     "image": "/weapons/a-akm-ak-74-me4-buffer-tube-adapter.webp",
     "ergo": -1,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.265,
     "type": "Stock",
     "slots": [
@@ -1746,7 +1746,7 @@
     "image": "/weapons/a-ak-zenit-rk-3-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.225,
     "type": "Pistol grip",
     "slots": []
@@ -1768,7 +1768,7 @@
     "image": "/weapons/a-belomo-pso-1m2-1-4x24-scope.webp",
     "ergo": -7,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.6,
     "type": "Scope",
     "slots": [
@@ -1797,7 +1797,7 @@
     "image": "/weapons/a-ak-74-wooden-stock.webp",
     "ergo": 3,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Stock",
     "slots": [
@@ -1815,7 +1815,7 @@
     "image": "/weapons/a-ak-74-polymer-stock.webp",
     "ergo": 5,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.35,
     "type": "Stock",
     "slots": []
@@ -1880,7 +1880,7 @@
     "image": "/weapons/a-akm-wooden-stock.webp",
     "ergo": 3,
     "recoil": -22,
-    "accuracy": -22,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Stock",
     "slots": []
@@ -1902,7 +1902,7 @@
     "image": "/weapons/a-vpo-136-vepr-km-wooden-stock.webp",
     "ergo": 3,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Stock",
     "slots": []
@@ -1913,7 +1913,7 @@
     "image": "/weapons/a-vpo-209-wooden-stock.webp",
     "ergo": 3,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Stock",
     "slots": []
@@ -1946,7 +1946,7 @@
     "image": "/weapons/a-axion-kobra-ekp-8-02-reflex-sight-dovetail.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 4,
+    "accuracy": 0,
     "weight": 0.273,
     "type": "Reflex sight",
     "slots": [
@@ -1964,7 +1964,7 @@
     "image": "/weapons/a-nspu-m-3-5x-dovetail-night-vision-scope.webp",
     "ergo": -20,
     "recoil": -5,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 1.9,
     "type": "Night vision scope",
     "slots": [
@@ -2022,7 +2022,7 @@
     "image": "/weapons/a-okp-7-reflex-sight-dovetail.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.295,
     "type": "Reflex sight",
     "slots": []
@@ -2066,7 +2066,7 @@
     "image": "/weapons/a-akm-ak-74-fab-defense-uas-stock.webp",
     "ergo": 18,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Stock",
     "slots": []
@@ -2077,7 +2077,7 @@
     "image": "/weapons/a-akm-ak-74-magpul-zhukov-s-stock.webp",
     "ergo": 15,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.425,
     "type": "Stock",
     "slots": []
@@ -2087,7 +2087,7 @@
     "name": "SLR-106/AK 5.56x45 Circle 10 30-round magazine",
     "image": "/weapons/a-slr-106-ak-5-56x45-circle-10-30-round-magazine.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.45,
     "type": "Magazine",
@@ -2110,7 +2110,7 @@
     "image": "/weapons/a-belomo-pso-1-4x24-scope.webp",
     "ergo": -7,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.6,
     "type": "Scope",
     "slots": [
@@ -2139,7 +2139,7 @@
     "image": "/weapons/a-belomo-pso-1m2-4x24-scope.webp",
     "ergo": -7,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.6,
     "type": "Scope",
     "slots": [
@@ -2226,7 +2226,7 @@
     "image": "/weapons/a-npz-usp-1-tyulpan-4x-scope.webp",
     "ergo": -6,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.795,
     "type": "Scope",
     "slots": [
@@ -2275,7 +2275,7 @@
     "image": "/weapons/a-akm-ak-74-caa-akts-buffer-tube.webp",
     "ergo": -2,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.24,
     "type": "Stock",
     "slots": []
@@ -2286,7 +2286,7 @@
     "image": "/weapons/a-akm-ak-74-hexagon-kocherga-stock-anodized-red.webp",
     "ergo": 24,
     "recoil": -18,
-    "accuracy": -18,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Stock",
     "slots": []
@@ -2297,7 +2297,7 @@
     "image": "/weapons/a-akm-ak-74-promag-archangel-opfor-aa47-buttstock.webp",
     "ergo": 13,
     "recoil": -22.5,
-    "accuracy": -22.5,
+    "accuracy": 0,
     "weight": 0.39,
     "type": "Stock",
     "slots": []
@@ -2341,7 +2341,7 @@
     "image": "/weapons/a-npz-pk1-obzor-dovetail-reflex-sight.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.52,
     "type": "Reflex sight",
     "slots": [
@@ -2386,7 +2386,7 @@
     "image": "/weapons/a-belomo-pk-aa-dovetail-reflex-sight.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Reflex sight",
     "slots": [
@@ -2459,7 +2459,7 @@
     "image": "/weapons/a-ak-tangodown-battle-grip-pistol-grip.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.11,
     "type": "Pistol grip",
     "slots": []
@@ -2469,7 +2469,7 @@
     "name": "RD-704 dust cover",
     "image": "/weapons/a-rd-704-dust-cover.webp",
     "ergo": 3,
-    "recoil": -3,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.088,
     "type": "Dust cover",
@@ -2503,7 +2503,7 @@
     "image": "/weapons/a-ak-mission-first-tactical-engage-ak47-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Pistol grip",
     "slots": []
@@ -2514,7 +2514,7 @@
     "image": "/weapons/a-ak-pufgun-sg-m2-pistol-grip.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.132,
     "type": "Pistol grip",
     "slots": []
@@ -2580,7 +2580,7 @@
     "image": "/weapons/a-as-val-skeleton-stock.webp",
     "ergo": 10,
     "recoil": -18,
-    "accuracy": -18,
+    "accuracy": 0,
     "weight": 0.29,
     "type": "Stock",
     "slots": []
@@ -2602,7 +2602,7 @@
     "image": "/weapons/a-belomo-pk-06-reflex-sight.webp",
     "ergo": 0,
     "recoil": 0,
-    "accuracy": 3,
+    "accuracy": 0,
     "weight": 0.09,
     "type": "Compact reflex sight",
     "slots": []
@@ -2613,7 +2613,7 @@
     "image": "/weapons/a-as-val-9x39-integral-barrel-suppressor.webp",
     "ergo": -5,
     "recoil": -14,
-    "accuracy": -14,
+    "accuracy": 0,
     "weight": 0.496,
     "type": "Suppressor",
     "slots": [
@@ -2632,7 +2632,7 @@
     "image": "/weapons/a-walther-mrs-reflex-sight.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 4,
+    "accuracy": 0,
     "weight": 0.113,
     "type": "Reflex sight",
     "slots": []
@@ -2643,7 +2643,7 @@
     "image": "/weapons/a-eotech-exps3-0-holographic-sight-tan.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.317,
     "type": "Reflex sight",
     "slots": []
@@ -2654,7 +2654,7 @@
     "image": "/weapons/a-vomz-pilad-p1x42-weaver-reflex-sight.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 3,
+    "accuracy": 0,
     "weight": 0.16,
     "type": "Reflex sight",
     "slots": []
@@ -2709,7 +2709,7 @@
     "image": "/weapons/a-eotech-xps3-0-holographic-sight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.255,
     "type": "Reflex sight",
     "slots": []
@@ -2720,7 +2720,7 @@
     "image": "/weapons/a-eotech-xps3-2-holographic-sight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.255,
     "type": "Reflex sight",
     "slots": []
@@ -2731,7 +2731,7 @@
     "image": "/weapons/a-vss-9x39-integral-barrel-suppressor.webp",
     "ergo": -5,
     "recoil": -14,
-    "accuracy": -14,
+    "accuracy": 0,
     "weight": 0.496,
     "type": "Suppressor",
     "slots": [
@@ -2864,7 +2864,7 @@
     "image": "/weapons/a-holosun-hs401g5-reflex-sight.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.36,
     "type": "Reflex sight",
     "slots": []
@@ -2944,7 +2944,7 @@
     "image": "/weapons/a-trijicon-srs-02-reflex-sight.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.39,
     "type": "Reflex sight",
     "slots": []
@@ -3103,7 +3103,7 @@
     "image": "/weapons/a-leapers-utg-reflex-sight.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.227,
     "type": "Reflex sight",
     "slots": []
@@ -3187,7 +3187,7 @@
     "image": "/weapons/a-elcan-specter-hco-holographic-sight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.433,
     "type": "Reflex sight",
     "slots": []
@@ -3198,7 +3198,7 @@
     "image": "/weapons/a-sig-sauer-romeo7-1x30-reflex-sight-prototype.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.354,
     "type": "Reflex sight",
     "slots": []
@@ -3209,7 +3209,7 @@
     "image": "/weapons/a-axion-kobra-ekp-1s-03-reflex-sight-dovetail.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 4,
+    "accuracy": 0,
     "weight": 0.273,
     "type": "Reflex sight",
     "slots": []
@@ -3343,7 +3343,7 @@
     "image": "/weapons/a-as-val-mod-4-9x39-integral-barrel-suppressor.webp",
     "ergo": -4,
     "recoil": -11,
-    "accuracy": -11,
+    "accuracy": 0,
     "weight": 0.279,
     "type": "Suppressor",
     "slots": []
@@ -3354,7 +3354,7 @@
     "image": "/weapons/a-as-val-nb-stock-adapter-tube.webp",
     "ergo": -2,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.161,
     "type": "Stock",
     "slots": [
@@ -3399,7 +3399,7 @@
     "image": "/weapons/a-as-val-zenit-rk-3-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.212,
     "type": "Pistol grip",
     "slots": []
@@ -3466,7 +3466,7 @@
     "image": "/weapons/a-viking-tactics-uvg-tactical-foregrip.webp",
     "ergo": 4,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.107,
     "type": "Foregrip",
     "slots": []
@@ -3510,7 +3510,7 @@
     "image": "/weapons/a-hera-arms-cqr-tactical-foregrip.webp",
     "ergo": 3,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.167,
     "type": "Foregrip",
     "slots": []
@@ -3564,7 +3564,7 @@
     "image": "/weapons/a-stark-se-5-express-forward-foregrip.webp",
     "ergo": 6,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.09,
     "type": "Foregrip",
     "slots": []
@@ -3652,7 +3652,7 @@
     "image": "/weapons/a-zenit-rk-1-tactical-foregrip.webp",
     "ergo": -1,
     "recoil": -2.5,
-    "accuracy": -2.5,
+    "accuracy": 0,
     "weight": 0.17,
     "type": "Foregrip",
     "slots": []
@@ -3870,7 +3870,7 @@
     "image": "/weapons/a-ash-12-12-7x55-sound-suppressor.webp",
     "ergo": -17,
     "recoil": -10,
-    "accuracy": -10,
+    "accuracy": 0,
     "weight": 0.7,
     "type": "Suppressor",
     "slots": []
@@ -3881,7 +3881,7 @@
     "image": "/weapons/a-ash-12-vertical-foregrip.webp",
     "ergo": 0,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Foregrip",
     "slots": []
@@ -3903,7 +3903,7 @@
     "image": "/weapons/a-rtm-pillau-tactical-foregrip.webp",
     "ergo": 4,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.065,
     "type": "Foregrip",
     "slots": []
@@ -3914,7 +3914,7 @@
     "image": "/weapons/a-tactical-dynamics-skeletonized-foregrip.webp",
     "ergo": 6,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.133,
     "type": "Foregrip",
     "slots": []
@@ -4166,7 +4166,7 @@
     "image": "/weapons/a-elcan-specterdr-1x-4x-scope.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 3,
+    "accuracy": 0,
     "weight": 0.64,
     "type": "Assault scope",
     "slots": [
@@ -4184,7 +4184,7 @@
     "image": "/weapons/a-sig-sauer-bravo4-4x30-scope.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.419,
     "type": "Assault scope",
     "slots": [
@@ -4206,7 +4206,7 @@
     "image": "/weapons/a-okp-7-reflex-sight.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.255,
     "type": "Reflex sight",
     "slots": []
@@ -4217,7 +4217,7 @@
     "image": "/weapons/a-zenit-klesch-2p-flashlight-with-laser.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 3,
+    "accuracy": 0,
     "weight": 0.17,
     "type": "Tactical combo device",
     "slots": []
@@ -4228,7 +4228,7 @@
     "image": "/weapons/a-holosun-ls321-tactical-device.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 4,
+    "accuracy": 0,
     "weight": 0.19,
     "type": "Tactical combo device",
     "slots": []
@@ -4239,7 +4239,7 @@
     "image": "/weapons/a-surefire-x400-ultra-tactical-flashlight-with-laser.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 3,
+    "accuracy": 0,
     "weight": 0.138,
     "type": "Tactical combo device",
     "slots": []
@@ -4250,7 +4250,7 @@
     "image": "/weapons/a-eotech-553-holographic-sight.webp",
     "ergo": -2.5,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.349,
     "type": "Reflex sight",
     "slots": []
@@ -4261,7 +4261,7 @@
     "image": "/weapons/a-leupold-mark-4-hamr-4x24-deltapoint-hybrid-assault-scope.webp",
     "ergo": -3.5,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.411,
     "type": "Assault scope",
     "slots": [
@@ -4279,7 +4279,7 @@
     "image": "/weapons/a-l3harris-an-peq-15-tactical-device.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 4,
+    "accuracy": 0,
     "weight": 0.21,
     "type": "Tactical combo device",
     "slots": []
@@ -4290,7 +4290,7 @@
     "image": "/weapons/a-axion-kobra-ekp-8-18-reflex-sight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 4,
+    "accuracy": 0,
     "weight": 0.273,
     "type": "Reflex sight",
     "slots": [
@@ -4319,7 +4319,7 @@
     "image": "/weapons/a-zenit-klesch-2iks-ir-illuminator-with-laser.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 3,
+    "accuracy": 0,
     "weight": 0.17,
     "type": "Tactical combo device",
     "slots": []
@@ -4330,7 +4330,7 @@
     "image": "/weapons/a-glock-gtl-21-tactical-flashlight-with-laser.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 3,
+    "accuracy": 0,
     "weight": 0.086,
     "type": "Tactical combo device",
     "slots": []
@@ -4341,7 +4341,7 @@
     "image": "/weapons/a-surefire-xc1-tactical-flashlight.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.05,
     "type": "Tactical combo device",
     "slots": []
@@ -4352,7 +4352,7 @@
     "image": "/weapons/a-vortex-razor-amg-uh-1-holographic-sight.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.334,
     "type": "Reflex sight",
     "slots": []
@@ -4381,7 +4381,7 @@
     "image": "/weapons/a-steiner-las-tac-2-tactical-flashlight.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.086,
     "type": "Tactical combo device",
     "slots": []
@@ -4392,7 +4392,7 @@
     "image": "/weapons/a-zenit-klesch-2u-tactical-flashlight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.259,
     "type": "Tactical combo device",
     "slots": []
@@ -4414,7 +4414,7 @@
     "image": "/weapons/a-eotech-hhs-1-hybrid-sight.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.635,
     "type": "Reflex sight",
     "slots": []
@@ -4436,7 +4436,7 @@
     "image": "/weapons/a-valday-pk-120-1p87-reflex-sight.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.297,
     "type": "Reflex sight",
     "slots": []
@@ -4447,7 +4447,7 @@
     "image": "/weapons/a-l3harris-la-5b-peq-tactical-device.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 4,
+    "accuracy": 0,
     "weight": 0.21,
     "type": "Tactical combo device",
     "slots": []
@@ -4458,7 +4458,7 @@
     "image": "/weapons/a-valday-ps-320-1-6x-scope.webp",
     "ergo": -5,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.57,
     "type": "Assault scope",
     "slots": []
@@ -4469,7 +4469,7 @@
     "image": "/weapons/a-zenit-perst-3-tactical-device.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 4,
+    "accuracy": 0,
     "weight": 0.3,
     "type": "Tactical combo device",
     "slots": []
@@ -4480,7 +4480,7 @@
     "image": "/weapons/a-ash-12-rear-sight-carry-handle.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.15,
     "type": "Iron sight",
     "slots": [
@@ -4546,7 +4546,7 @@
     "image": "/weapons/a-flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope.webp",
     "ergo": -11,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Thermal vision sight",
     "slots": []
@@ -4557,7 +4557,7 @@
     "image": "/weapons/a-monstrum-tactical-compact-prism-scope-2x32.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.425,
     "type": "Assault scope",
     "slots": []
@@ -4579,7 +4579,7 @@
     "image": "/weapons/a-mp9-n-vertical-foregrip.webp",
     "ergo": 4,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Foregrip",
     "slots": []
@@ -4634,7 +4634,7 @@
     "image": "/weapons/a-mp9-stock.webp",
     "ergo": 3,
     "recoil": -13,
-    "accuracy": -13,
+    "accuracy": 0,
     "weight": 0.15,
     "type": "Stock",
     "slots": []
@@ -4830,7 +4830,7 @@
     "image": "/weapons/a-benelli-m3-super-90-12ga-500mm-barrel.webp",
     "ergo": -8,
     "recoil": -7,
-    "accuracy": 18.22,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": [
@@ -4861,7 +4861,7 @@
     "image": "/weapons/a-benelli-m3-telescopic-stock.webp",
     "ergo": 10,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.772,
     "type": "Stock",
     "slots": []
@@ -4872,7 +4872,7 @@
     "image": "/weapons/a-benelli-m3-mesa-tactical-urbino-stock.webp",
     "ergo": 6,
     "recoil": -25,
-    "accuracy": -25,
+    "accuracy": 0,
     "weight": 1.043,
     "type": "Stock",
     "slots": []
@@ -5074,7 +5074,7 @@
     "image": "/weapons/a-m9a3-9x19-127mm-threaded-barrel.webp",
     "ergo": -4,
     "recoil": -3,
-    "accuracy": 9.97,
+    "accuracy": 0,
     "weight": 0.2,
     "type": "Barrel",
     "slots": []
@@ -5084,7 +5084,7 @@
     "name": "M9A3 9x19 17-round magazine",
     "image": "/weapons/a-m9a3-9x19-17-round-magazine.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.082,
     "type": "Magazine",
@@ -5136,7 +5136,7 @@
     "image": "/weapons/a-ncstar-tactical-blue-laser.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.05,
     "type": "Tactical combo device",
     "slots": []
@@ -5147,7 +5147,7 @@
     "image": "/weapons/a-steiner-dbal-pl-tactical-device.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 6,
+    "accuracy": 0,
     "weight": 0.153,
     "type": "Tactical combo device",
     "slots": []
@@ -5158,7 +5158,7 @@
     "image": "/weapons/a-ar-15-cmmg-buffer-tube.webp",
     "ergo": -1,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.132,
     "type": "Stock",
     "slots": []
@@ -5180,7 +5180,7 @@
     "image": "/weapons/a-mk47-resolute-7-62x39-upper-receiver.webp",
     "ergo": 4,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.25,
     "type": "Receiver",
     "slots": [
@@ -5401,7 +5401,7 @@
     "name": "AK 7.62x39 FAB Defense Ultimag 30R 30-round magazine",
     "image": "/weapons/a-ak-7-62x39-fab-defense-ultimag-30r-30-round-magazine.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.156,
     "type": "Magazine",
@@ -5423,7 +5423,7 @@
     "name": "M9A3 9x19 CX4 30-round magazine",
     "image": "/weapons/a-m9a3-9x19-cx4-30-round-magazine.webp",
     "ergo": -3,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.091,
     "type": "Magazine",
@@ -5435,7 +5435,7 @@
     "image": "/weapons/a-m16a2-5-56x45-upper-receiver.webp",
     "ergo": 4,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.39,
     "type": "Receiver",
     "slots": [
@@ -5484,7 +5484,7 @@
     "image": "/weapons/a-m16a1e1-5-56x45-upper-receiver.webp",
     "ergo": 4,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.37,
     "type": "Receiver",
     "slots": [
@@ -5555,7 +5555,7 @@
     "image": "/weapons/a-ar-15-sierra-precision-spr-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.09,
     "type": "Pistol grip",
     "slots": []
@@ -5676,7 +5676,7 @@
     "image": "/weapons/a-m1911a1-45-acp-127mm-barrel.webp",
     "ergo": -1,
     "recoil": -1.5,
-    "accuracy": 12.03,
+    "accuracy": 0,
     "weight": 0.095,
     "type": "Barrel",
     "slots": []
@@ -5744,7 +5744,7 @@
     "name": "M1911A1 .45 ACP 7-round magazine",
     "image": "/weapons/a-m1911a1-45-acp-7-round-magazine.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.16,
     "type": "Magazine",
@@ -5782,7 +5782,7 @@
     "name": "M1911A1 STI HEX hammer",
     "image": "/weapons/a-m1911a1-sti-hex-hammer.webp",
     "ergo": 3,
-    "recoil": -7,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.018,
     "type": "Auxiliary part",
@@ -5793,7 +5793,7 @@
     "name": "M1911A1 Wilson Extended slide stop",
     "image": "/weapons/a-m1911a1-wilson-extended-slide-stop.webp",
     "ergo": 3,
-    "recoil": -1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.01,
     "type": "Auxiliary part",
@@ -5804,7 +5804,7 @@
     "name": "M1911A1 Caspian Arms Trik Trigger",
     "image": "/weapons/a-m1911a1-caspian-arms-trik-trigger.webp",
     "ergo": 3,
-    "recoil": -3,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.015,
     "type": "Auxiliary part",
@@ -5826,7 +5826,7 @@
     "name": "M1911A1 Wilson Retro Commander hammer",
     "image": "/weapons/a-m1911a1-wilson-retro-commander-hammer.webp",
     "ergo": 2,
-    "recoil": -3,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.016,
     "type": "Auxiliary part",
@@ -5837,7 +5837,7 @@
     "name": "M1911A1 Wilson Ultralight skeletonized hammer",
     "image": "/weapons/a-m1911a1-wilson-ultralight-skeletonized-hammer.webp",
     "ergo": 4,
-    "recoil": -5,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.01,
     "type": "Auxiliary part",
@@ -5848,7 +5848,7 @@
     "name": "M1911A1 .45 ACP Mec-Gar 11-round magazine",
     "image": "/weapons/a-m1911a1-45-acp-mec-gar-11-round-magazine.webp",
     "ergo": -2,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.24,
     "type": "Magazine",
@@ -5871,7 +5871,7 @@
     "image": "/weapons/a-m1911a1-45-acp-national-match-127mm-barrel.webp",
     "ergo": -1,
     "recoil": -1.5,
-    "accuracy": 10.31,
+    "accuracy": 0,
     "weight": 0.11,
     "type": "Barrel",
     "slots": []
@@ -5917,7 +5917,7 @@
     "name": "M1911A1 .45 ACP Wilson Combat 7-round magazine",
     "image": "/weapons/a-m1911a1-45-acp-wilson-combat-7-round-magazine.webp",
     "ergo": 0,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.14,
     "type": "Magazine",
@@ -5962,7 +5962,7 @@
     "image": "/weapons/a-m1911a1-45-acp-141mm-threaded-barrel.webp",
     "ergo": -2,
     "recoil": -1.6,
-    "accuracy": 9.97,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Barrel",
     "slots": []
@@ -5984,7 +5984,7 @@
     "image": "/weapons/a-m1911-kiba-arms-geneburn-custom-side-grips.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Pistol grip",
     "slots": []
@@ -6017,7 +6017,7 @@
     "image": "/weapons/a-rpd-7-62x39-520mm-barrel.webp",
     "ergo": -32,
     "recoil": -9.4,
-    "accuracy": 1.31,
+    "accuracy": 0,
     "weight": 1.8,
     "type": "Barrel",
     "slots": [
@@ -6035,7 +6035,7 @@
     "image": "/weapons/a-rpd-7-62x39-sawed-off-350mm-barrel.webp",
     "ergo": -14,
     "recoil": -6.3,
-    "accuracy": 2.13,
+    "accuracy": 0,
     "weight": 1.1,
     "type": "Barrel",
     "slots": []
@@ -6079,7 +6079,7 @@
     "image": "/weapons/a-nl545-gp-5-45x39-upper-receiver-fde.webp",
     "ergo": 5,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.27,
     "type": "Receiver",
     "slots": [
@@ -6129,7 +6129,7 @@
     "image": "/weapons/a-nl545-di-5-45x39-upper-receiver.webp",
     "ergo": 5,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.27,
     "type": "Receiver",
     "slots": [
@@ -6205,7 +6205,7 @@
     "image": "/weapons/a-ar-15-custom-guns-buffer-tube.webp",
     "ergo": -1,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.132,
     "type": "Stock",
     "slots": []
@@ -6348,7 +6348,7 @@
     "image": "/weapons/a-rpd-7-62x39-ds-arms-370mm-barrel.webp",
     "ergo": -16,
     "recoil": -6.7,
-    "accuracy": 1.89,
+    "accuracy": 0,
     "weight": 1.1,
     "type": "Barrel",
     "slots": []
@@ -6391,7 +6391,7 @@
     "image": "/weapons/a-mdr-5-56x45-16-inch-barrel.webp",
     "ergo": -12,
     "recoil": -8.1,
-    "accuracy": 1.44,
+    "accuracy": 0,
     "weight": 0.509,
     "type": "Barrel",
     "slots": []
@@ -6402,7 +6402,7 @@
     "image": "/weapons/a-mdr-7-62x51-16-inch-barrel.webp",
     "ergo": -20,
     "recoil": -10.2,
-    "accuracy": 1.38,
+    "accuracy": 0,
     "weight": 0.62,
     "type": "Barrel",
     "slots": []
@@ -6435,7 +6435,7 @@
     "image": "/weapons/a-ncstar-ado-p4-sniper-3-9x42-riflescope.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.595,
     "type": "Scope",
     "slots": []
@@ -6479,7 +6479,7 @@
     "image": "/weapons/a-sig-sauer-romeo8t-reflex-sight.webp",
     "ergo": -3.5,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.388,
     "type": "Reflex sight",
     "slots": []
@@ -6490,7 +6490,7 @@
     "image": "/weapons/a-valday-krechet-reflex-sight.webp",
     "ergo": -4.5,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.35,
     "type": "Reflex sight",
     "slots": []
@@ -6501,7 +6501,7 @@
     "image": "/weapons/a-torrey-pines-logic-t12w-30hz-thermal-reflex-sight.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.063,
     "type": "Thermal vision sight",
     "slots": []
@@ -6603,7 +6603,7 @@
     "image": "/weapons/a-swampfox-trihawk-prism-scope-3x30.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.436,
     "type": "Assault scope",
     "slots": []
@@ -6647,7 +6647,7 @@
     "image": "/weapons/a-sig-sauer-echo1-1-2x30mm-30hz-thermal-reflex-scope.webp",
     "ergo": -10,
     "recoil": 0,
-    "accuracy": 4,
+    "accuracy": 0,
     "weight": 0.417,
     "type": "Thermal vision sight",
     "slots": []
@@ -6658,7 +6658,7 @@
     "image": "/weapons/a-wilcox-boss-xe-reflex-sight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 5,
+    "accuracy": 0,
     "weight": 0.25,
     "type": "Reflex sight",
     "slots": []
@@ -6735,7 +6735,7 @@
     "image": "/weapons/a-falke-le-reflex-sight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.349,
     "type": "Reflex sight",
     "slots": []
@@ -6910,7 +6910,7 @@
     "image": "/weapons/a-mdr-5-56x45-11-5-inch-barrel.webp",
     "ergo": -3,
     "recoil": -5.8,
-    "accuracy": 1.89,
+    "accuracy": 0,
     "weight": 0.386,
     "type": "Barrel",
     "slots": [
@@ -6978,7 +6978,7 @@
     "image": "/weapons/a-mdr-5-56x45-20-inch-barrel.webp",
     "ergo": -23,
     "recoil": -10.2,
-    "accuracy": 1.17,
+    "accuracy": 0,
     "weight": 0.675,
     "type": "Barrel",
     "slots": []
@@ -7009,7 +7009,7 @@
     "image": "/weapons/a-mdr-7-62x51-20-inch-barrel.webp",
     "ergo": -34,
     "recoil": -12.7,
-    "accuracy": 1.13,
+    "accuracy": 0,
     "weight": 0.763,
     "type": "Barrel",
     "slots": []
@@ -7165,7 +7165,7 @@
     "image": "/weapons/a-sa58-saw-style-pistol-grip-black.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.13,
     "type": "Pistol grip",
     "slots": []
@@ -7198,7 +7198,7 @@
     "image": "/weapons/a-sa58-fal-magpul-prs-2-polymer-stock.webp",
     "ergo": 5,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.86,
     "type": "Stock",
     "slots": []
@@ -7253,7 +7253,7 @@
     "image": "/weapons/a-sa58-fab-defense-ag-fal-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.088,
     "type": "Pistol grip",
     "slots": []
@@ -7572,7 +7572,7 @@
     "image": "/weapons/a-sa58-brs-stock.webp",
     "ergo": 9,
     "recoil": -23.5,
-    "accuracy": -23.5,
+    "accuracy": 0,
     "weight": 0.81,
     "type": "Stock",
     "slots": []
@@ -7583,7 +7583,7 @@
     "image": "/weapons/a-sa58-folding-stock.webp",
     "ergo": 10,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Stock",
     "slots": []
@@ -7594,7 +7594,7 @@
     "image": "/weapons/a-sa58-spr-stock.webp",
     "ergo": 7,
     "recoil": -25,
-    "accuracy": -25,
+    "accuracy": 0,
     "weight": 0.95,
     "type": "Stock",
     "slots": []
@@ -7605,7 +7605,7 @@
     "image": "/weapons/a-sa58-humpback-polymer-stock.webp",
     "ergo": -4,
     "recoil": -22,
-    "accuracy": -22,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Stock",
     "slots": []
@@ -7637,7 +7637,7 @@
     "name": "FN P90 5.7x28 50-round magazine",
     "image": "/weapons/a-fn-p90-5-7x28-50-round-magazine.webp",
     "ergo": -1.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.45,
     "type": "Magazine",
@@ -7649,7 +7649,7 @@
     "image": "/weapons/a-fn-p90-stock.webp",
     "ergo": 26,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.4,
     "type": "Stock",
     "slots": []
@@ -7689,7 +7689,7 @@
     "image": "/weapons/a-fn-p90-5-7x28-10-5-inch-barrel.webp",
     "ergo": -2,
     "recoil": -5.3,
-    "accuracy": 4.13,
+    "accuracy": 0,
     "weight": 0.5,
     "type": "Barrel",
     "slots": []
@@ -7700,7 +7700,7 @@
     "image": "/weapons/a-fn-p90-5-7x28-16-inch-barrel.webp",
     "ergo": -14,
     "recoil": -8.1,
-    "accuracy": 1.31,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": []
@@ -7711,7 +7711,7 @@
     "image": "/weapons/a-fn-ps90-stock.webp",
     "ergo": 26,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.4,
     "type": "Stock",
     "slots": []
@@ -7751,7 +7751,7 @@
     "image": "/weapons/a-fn-five-seven-5-7x28-120mm-threaded-barrel.webp",
     "ergo": 0,
     "recoil": -2.4,
-    "accuracy": 8.25,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -7762,7 +7762,7 @@
     "image": "/weapons/a-fn-five-seven-5-7x28-120mm-barrel.webp",
     "ergo": 0,
     "recoil": -2.4,
-    "accuracy": 8.25,
+    "accuracy": 0,
     "weight": 0.17,
     "type": "Barrel",
     "slots": []
@@ -7772,7 +7772,7 @@
     "name": "FN Five-seveN 5.7x28 20-round magazine",
     "image": "/weapons/a-fn-five-seven-5-7x28-20-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.088,
     "type": "Magazine",
@@ -7912,7 +7912,7 @@
     "name": "Glock 9x19 17-round magazine",
     "image": "/weapons/a-glock-9x19-17-round-magazine.webp",
     "ergo": 0,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.096,
     "type": "Magazine",
@@ -7934,7 +7934,7 @@
     "name": "Glock 9x19 \"Big Stick\" 33-round magazine",
     "image": "/weapons/a-glock-9x19-big-stick-33-round-magazine.webp",
     "ergo": -3.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.15,
     "type": "Magazine",
@@ -7945,7 +7945,7 @@
     "name": "Glock 9x19 Magpul PMAG GL9 21-round magazine",
     "image": "/weapons/a-glock-9x19-magpul-pmag-gl9-21-round-magazine.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.1,
     "type": "Magazine",
@@ -8228,7 +8228,7 @@
     "image": "/weapons/a-glock-9x19-fischer-development-fd917-sound-suppressor.webp",
     "ergo": -2,
     "recoil": -15,
-    "accuracy": -15,
+    "accuracy": 0,
     "weight": 0.35,
     "type": "Suppressor",
     "slots": [
@@ -8262,7 +8262,7 @@
     "image": "/weapons/a-glock-9x19-lone-wolf-alphawolf-114mm-threaded-barrel.webp",
     "ergo": -1,
     "recoil": -2.9,
-    "accuracy": 10.31,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -8273,7 +8273,7 @@
     "image": "/weapons/a-glock-9x19-double-diamond-114mm-threaded-barrel.webp",
     "ergo": -1,
     "recoil": -2.9,
-    "accuracy": 11.34,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -8284,7 +8284,7 @@
     "image": "/weapons/a-glock-17-9x19-114mm-compensated-barrel.webp",
     "ergo": -5,
     "recoil": -5,
-    "accuracy": 12.03,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -8295,7 +8295,7 @@
     "image": "/weapons/a-glock-17-9x19-114mm-barrel.webp",
     "ergo": -2,
     "recoil": -2.9,
-    "accuracy": 11.69,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -8306,7 +8306,7 @@
     "image": "/weapons/a-glock-9x19-sai-threaded-barrel.webp",
     "ergo": 0,
     "recoil": -2.9,
-    "accuracy": 9.28,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -8345,7 +8345,7 @@
     "image": "/weapons/a-glock-18c-9x19-114mm-compensated-barrel.webp",
     "ergo": -2,
     "recoil": -2.9,
-    "accuracy": 12.03,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -8431,7 +8431,7 @@
     "image": "/weapons/a-hk-416-enhanced-buffer-tube.webp",
     "ergo": -1.5,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.162,
     "type": "Stock",
     "slots": []
@@ -8442,7 +8442,7 @@
     "image": "/weapons/a-glock-fab-defense-glr-17-stock.webp",
     "ergo": 4,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.39,
     "type": "Stock",
     "slots": []
@@ -8548,7 +8548,7 @@
     "name": "HK417/G28 7.62x51 20-round magazine",
     "image": "/weapons/a-hk417-g28-7-62x51-20-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.16,
     "type": "Magazine",
@@ -8559,7 +8559,7 @@
     "name": "HK417/G28 7.62x51 10-round magazine",
     "image": "/weapons/a-hk417-g28-7-62x51-10-round-magazine.webp",
     "ergo": 5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.1,
     "type": "Magazine",
@@ -8764,7 +8764,7 @@
     "image": "/weapons/a-olight-baldr-pro-tactical-flashlight-with-laser.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 3,
+    "accuracy": 0,
     "weight": 0.129,
     "type": "Tactical combo device",
     "slots": []
@@ -8786,7 +8786,7 @@
     "image": "/weapons/a-glock-19x-9x19-102mm-barrel.webp",
     "ergo": 0,
     "recoil": -2.6,
-    "accuracy": 10.31,
+    "accuracy": 0,
     "weight": 0.11,
     "type": "Barrel",
     "slots": []
@@ -8818,7 +8818,7 @@
     "name": "Glock 9x19 \"Big Stick\" 24-round magazine (Coyote)",
     "image": "/weapons/a-glock-9x19-big-stick-24-round-magazine-coyote.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.112,
     "type": "Magazine",
@@ -8829,7 +8829,7 @@
     "name": "Glock 9x19 \"Big Stick\" 31-round magazine (Coyote)",
     "image": "/weapons/a-glock-9x19-big-stick-31-round-magazine-coyote.webp",
     "ergo": -3,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.14,
     "type": "Magazine",
@@ -8840,7 +8840,7 @@
     "name": "Glock 9x19 19-round magazine (Coyote)",
     "image": "/weapons/a-glock-9x19-19-round-magazine-coyote.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.106,
     "type": "Magazine",
@@ -8874,7 +8874,7 @@
     "image": "/weapons/a-fn-scar-vltor-re-scar-stock-adapter.webp",
     "ergo": -2,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.29,
     "type": "Stock",
     "slots": []
@@ -9182,7 +9182,7 @@
     "image": "/weapons/a-wilcox-raptar-es-tactical-rangefinder.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 5,
+    "accuracy": 0,
     "weight": 0.308,
     "type": "Tactical combo device",
     "slots": []
@@ -9265,7 +9265,7 @@
     "image": "/weapons/a-hk-g36-5-56x45-228mm-barrel.webp",
     "ergo": -1,
     "recoil": -4.6,
-    "accuracy": 2.75,
+    "accuracy": 0,
     "weight": 0.39,
     "type": "Barrel",
     "slots": [
@@ -9317,7 +9317,7 @@
     "image": "/weapons/a-hk-g36-5-56x45-318mm-barrel.webp",
     "ergo": -12,
     "recoil": -6.4,
-    "accuracy": 2.06,
+    "accuracy": 0,
     "weight": 0.47,
     "type": "Barrel",
     "slots": [
@@ -9369,7 +9369,7 @@
     "image": "/weapons/a-hk-g36-5-56x45-480mm-barrel.webp",
     "ergo": -26,
     "recoil": -9.6,
-    "accuracy": 1.79,
+    "accuracy": 0,
     "weight": 0.69,
     "type": "Barrel",
     "slots": [
@@ -9421,7 +9421,7 @@
     "image": "/weapons/a-hk-g36-polymer-stock.webp",
     "ergo": 7,
     "recoil": -19,
-    "accuracy": -19,
+    "accuracy": 0,
     "weight": 0.454,
     "type": "Stock",
     "slots": []
@@ -9432,7 +9432,7 @@
     "image": "/weapons/a-hk-g36-kv-adjustable-stock.webp",
     "ergo": 10,
     "recoil": -22,
-    "accuracy": -22,
+    "accuracy": 0,
     "weight": 0.907,
     "type": "Stock",
     "slots": []
@@ -9700,7 +9700,7 @@
     "image": "/weapons/a-insight-wmx200-tactical-flashlight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.21,
     "type": "Tactical combo device",
     "slots": []
@@ -9722,7 +9722,7 @@
     "image": "/weapons/a-b-e-meyers-mawl-c1-tactical-device.webp",
     "ergo": -1.5,
     "recoil": 0,
-    "accuracy": 6,
+    "accuracy": 0,
     "weight": 0.286,
     "type": "Tactical combo device",
     "slots": []
@@ -9832,7 +9832,7 @@
     "image": "/weapons/a-hk-g36-idz-adjustable-stock.webp",
     "ergo": 9,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.41,
     "type": "Stock",
     "slots": []
@@ -9843,7 +9843,7 @@
     "image": "/weapons/a-hk-g36-tommy-built-ar-stock-adapter.webp",
     "ergo": -2,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.14,
     "type": "Stock",
     "slots": []
@@ -9898,7 +9898,7 @@
     "image": "/weapons/a-steiner-r1x-reflex-sight.webp",
     "ergo": -2.5,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.272,
     "type": "Reflex sight",
     "slots": []
@@ -9969,7 +9969,7 @@
     "image": "/weapons/a-hk-ump-45-acp-8-inch-barrel.webp",
     "ergo": -4,
     "recoil": -2.3,
-    "accuracy": 5.5,
+    "accuracy": 0,
     "weight": 0.409,
     "type": "Barrel",
     "slots": []
@@ -9979,7 +9979,7 @@
     "name": "HK UMP .45 ACP 25-round magazine",
     "image": "/weapons/a-hk-ump-45-acp-25-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.17,
     "type": "Magazine",
@@ -10013,7 +10013,7 @@
     "image": "/weapons/a-hk-usp-45-acp-112mm-barrel.webp",
     "ergo": 0,
     "recoil": -1.3,
-    "accuracy": 9.63,
+    "accuracy": 0,
     "weight": 0.113,
     "type": "Barrel",
     "slots": []
@@ -10041,7 +10041,7 @@
     "name": "HK USP .45 ACP 12-round magazine",
     "image": "/weapons/a-hk-usp-45-acp-12-round-magazine.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.099,
     "type": "Magazine",
@@ -10097,7 +10097,7 @@
     "image": "/weapons/a-hk-usp-tactical-45-acp-129mm-threaded-barrel.webp",
     "ergo": -1,
     "recoil": -1.5,
-    "accuracy": 9.28,
+    "accuracy": 0,
     "weight": 0.122,
     "type": "Barrel",
     "slots": []
@@ -10108,7 +10108,7 @@
     "image": "/weapons/a-hk-usp-45-acp-match-compensator.webp",
     "ergo": -12,
     "recoil": -15,
-    "accuracy": -15,
+    "accuracy": 0,
     "weight": 0.34,
     "type": "Mount",
     "slots": []
@@ -10171,7 +10171,7 @@
     "image": "/weapons/a-hk-usp-45-acp-elite-compensator.webp",
     "ergo": -8,
     "recoil": -10,
-    "accuracy": -10,
+    "accuracy": 0,
     "weight": 0.31,
     "type": "Mount",
     "slots": []
@@ -10200,7 +10200,7 @@
     "name": "HK USP Tactical .45 ACP 12-round magazine",
     "image": "/weapons/a-hk-usp-tactical-45-acp-12-round-magazine.webp",
     "ergo": 1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.099,
     "type": "Magazine",
@@ -10212,7 +10212,7 @@
     "image": "/weapons/a-hk-usp-expert-45-acp-132mm-barrel.webp",
     "ergo": -1,
     "recoil": -1.5,
-    "accuracy": 8.94,
+    "accuracy": 0,
     "weight": 0.141,
     "type": "Barrel",
     "slots": []
@@ -10261,7 +10261,7 @@
     "image": "/weapons/a-hk-ump-45-acp-8-inch-threaded-barrel.webp",
     "ergo": -5,
     "recoil": -2.3,
-    "accuracy": 5.43,
+    "accuracy": 0,
     "weight": 0.415,
     "type": "Barrel",
     "slots": []
@@ -10272,7 +10272,7 @@
     "image": "/weapons/a-rtm-pillau-p-2-tactical-foregrip-red.webp",
     "ergo": 4,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.067,
     "type": "Foregrip",
     "slots": []
@@ -10426,7 +10426,7 @@
     "image": "/weapons/a-uzi-238mm-threaded-3-lug-barrel.webp",
     "ergo": -4,
     "recoil": -6,
-    "accuracy": 4.74,
+    "accuracy": 0,
     "weight": 0.128,
     "type": "Barrel",
     "slots": []
@@ -10437,7 +10437,7 @@
     "image": "/weapons/a-uzi-9x19-259mm-barrel.webp",
     "ergo": -4,
     "recoil": -6.5,
-    "accuracy": 4.4,
+    "accuracy": 0,
     "weight": 0.288,
     "type": "Barrel",
     "slots": []
@@ -10448,7 +10448,7 @@
     "image": "/weapons/a-uzi-9x19-409mm-barrel.webp",
     "ergo": -10,
     "recoil": -10.2,
-    "accuracy": 1.72,
+    "accuracy": 0,
     "weight": 0.288,
     "type": "Barrel",
     "slots": []
@@ -10459,7 +10459,7 @@
     "image": "/weapons/a-uzi-type-3-buttstock.webp",
     "ergo": 1,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Stock",
     "slots": []
@@ -10513,7 +10513,7 @@
     "name": "UZI 9x19 Beta C-Mag 100-round drum magazine",
     "image": "/weapons/a-uzi-9x19-beta-c-mag-100-round-drum-magazine.webp",
     "ergo": -10,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.997,
     "type": "Magazine",
@@ -10672,7 +10672,7 @@
     "image": "/weapons/a-ak-ultimak-m1-b-handguard-with-gas-tube.webp",
     "ergo": 13,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Gas block",
     "slots": [
@@ -10749,7 +10749,7 @@
     "image": "/weapons/a-rotor-43-5-56x45-sound-suppressor.webp",
     "ergo": -14,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.57,
     "type": "Suppressor",
     "slots": []
@@ -10760,7 +10760,7 @@
     "image": "/weapons/a-ak-troy-full-length-rail-handguard-with-gas-tube.webp",
     "ergo": 17,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.55,
     "type": "Gas block",
     "slots": [
@@ -10800,7 +10800,7 @@
     "image": "/weapons/a-ak-vezhlivyy-strelok-vs-24-vs-33c-handguard-with-gas-tube.webp",
     "ergo": 17,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.385,
     "type": "Gas block",
     "slots": [
@@ -10890,7 +10890,7 @@
     "image": "/weapons/a-ak-akademia-bastion-dust-cover.webp",
     "ergo": 1,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.237,
     "type": "Dust cover",
     "slots": [
@@ -10985,7 +10985,7 @@
     "image": "/weapons/a-ak-tws-dog-leg-rail-dust-cover.webp",
     "ergo": 0.8,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.195,
     "type": "Dust cover",
     "slots": [
@@ -11077,7 +11077,7 @@
     "image": "/weapons/a-uzi-pro-9x19-pike-arms-114mm-threaded-barrel.webp",
     "ergo": -1,
     "recoil": -2.9,
-    "accuracy": 7.56,
+    "accuracy": 0,
     "weight": 0.128,
     "type": "Barrel",
     "slots": []
@@ -11088,7 +11088,7 @@
     "image": "/weapons/a-uzi-type-5-buttstock.webp",
     "ergo": 5,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.65,
     "type": "Stock",
     "slots": []
@@ -11099,7 +11099,7 @@
     "image": "/weapons/a-uzi-type-6-buttstock.webp",
     "ergo": 7,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 0.29,
     "type": "Stock",
     "slots": []
@@ -11110,7 +11110,7 @@
     "image": "/weapons/a-uzi-type-7-buttstock.webp",
     "ergo": 3,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.41,
     "type": "Stock",
     "slots": []
@@ -11205,7 +11205,7 @@
     "image": "/weapons/a-uzi-pro-9x19-114mm-barrel.webp",
     "ergo": -1,
     "recoil": -2.9,
-    "accuracy": 7.73,
+    "accuracy": 0,
     "weight": 0.131,
     "type": "Barrel",
     "slots": []
@@ -11216,7 +11216,7 @@
     "image": "/weapons/a-uzi-pro-9x19-170mm-barrel.webp",
     "ergo": -3,
     "recoil": -4.3,
-    "accuracy": 6.26,
+    "accuracy": 0,
     "weight": 0.19,
     "type": "Barrel",
     "slots": []
@@ -11227,7 +11227,7 @@
     "image": "/weapons/a-uzi-pro-9x19-210mm-barrel.webp",
     "ergo": -3,
     "recoil": -5.3,
-    "accuracy": 5.02,
+    "accuracy": 0,
     "weight": 0.241,
     "type": "Barrel",
     "slots": []
@@ -11238,7 +11238,7 @@
     "image": "/weapons/a-uzi-pro-9x19-240mm-barrel.webp",
     "ergo": -4,
     "recoil": -6,
-    "accuracy": 4.64,
+    "accuracy": 0,
     "weight": 0.288,
     "type": "Barrel",
     "slots": []
@@ -11292,7 +11292,7 @@
     "name": "UZI PRO 9x19 barrel retaining nut",
     "image": "/weapons/a-uzi-pro-9x19-barrel-retaining-nut.webp",
     "ergo": 1,
-    "recoil": -2,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.085,
     "type": "Muzzle adapter",
@@ -11325,7 +11325,7 @@
     "name": "UZI polymer handguard",
     "image": "/weapons/a-uzi-polymer-handguard.webp",
     "ergo": 7,
-    "recoil": 4.4,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.15,
     "type": "Handguard",
@@ -11337,7 +11337,7 @@
     "image": "/weapons/a-uzi-k-grip-handguard.webp",
     "ergo": 10,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Handguard",
     "slots": []
@@ -11348,7 +11348,7 @@
     "image": "/weapons/a-uzi-handguard-with-foregrip.webp",
     "ergo": 7,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Handguard",
     "slots": []
@@ -11370,7 +11370,7 @@
     "image": "/weapons/a-ak-gladman-skeleton-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.13,
     "type": "Pistol grip",
     "slots": []
@@ -11381,7 +11381,7 @@
     "image": "/weapons/a-ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline.webp",
     "ergo": 5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.15,
     "type": "Pistol grip",
     "slots": []
@@ -11414,7 +11414,7 @@
     "image": "/weapons/a-ak-zenit-dtk-1-7-62x39-5-45x39-muzzle-brake.webp",
     "ergo": -2.5,
     "recoil": -11.5,
-    "accuracy": -11.5,
+    "accuracy": 0,
     "weight": 0.128,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -11507,7 +11507,7 @@
     "image": "/weapons/a-ak-74-pws-cqb-74-5-45x39-muzzle-brake.webp",
     "ergo": -3.5,
     "recoil": -10.5,
-    "accuracy": -10.5,
+    "accuracy": 0,
     "weight": 0.19,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -11518,7 +11518,7 @@
     "image": "/weapons/a-akm-zenit-dtk-4m-7-62x39-sound-suppressor.webp",
     "ergo": -18,
     "recoil": -7,
-    "accuracy": -7,
+    "accuracy": 0,
     "weight": 0.354,
     "type": "Suppressor",
     "slots": []
@@ -11540,7 +11540,7 @@
     "image": "/weapons/a-ak-74m-polymer-stock.webp",
     "ergo": 5,
     "recoil": -22,
-    "accuracy": -22,
+    "accuracy": 0,
     "weight": 0.35,
     "type": "Stock",
     "slots": [
@@ -11613,7 +11613,7 @@
     "image": "/weapons/a-rotor-43-7-62x39-sound-suppressor.webp",
     "ergo": -14,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.57,
     "type": "Suppressor",
     "slots": []
@@ -11679,7 +11679,7 @@
     "image": "/weapons/a-ak-74m-caa-akts-ak74-buffer-tube.webp",
     "ergo": -2,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.25,
     "type": "Stock",
     "slots": []
@@ -11690,7 +11690,7 @@
     "image": "/weapons/a-ak-hexagon-dtkp-mk-2-7-62x39-sound-suppressor.webp",
     "ergo": -6,
     "recoil": -3.5,
-    "accuracy": -3.5,
+    "accuracy": 0,
     "weight": 0.412,
     "type": "Suppressor",
     "slots": []
@@ -11734,7 +11734,7 @@
     "image": "/weapons/a-ak-100-series-metal-skeletonized-stock.webp",
     "ergo": 10,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.264,
     "type": "Stock",
     "slots": []
@@ -11756,7 +11756,7 @@
     "image": "/weapons/a-ak-12-gas-tube.webp",
     "ergo": 0,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Gas block",
     "slots": []
@@ -11767,7 +11767,7 @@
     "image": "/weapons/a-ak-12-5-45x39-muzzle-brake.webp",
     "ergo": -1,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.1,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -11778,7 +11778,7 @@
     "image": "/weapons/a-ak-12-5-45x39-sound-suppressor.webp",
     "ergo": -12,
     "recoil": -5,
-    "accuracy": -5,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Suppressor",
     "slots": []
@@ -11789,7 +11789,7 @@
     "image": "/weapons/a-ak-12-railed-dust-cover.webp",
     "ergo": 2,
     "recoil": -0.3,
-    "accuracy": -0.3,
+    "accuracy": 0,
     "weight": 0.215,
     "type": "Dust cover",
     "slots": [
@@ -11868,7 +11868,7 @@
     "image": "/weapons/a-ak-12-buffer-tube.webp",
     "ergo": -1,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.142,
     "type": "Stock",
     "slots": []
@@ -11879,7 +11879,7 @@
     "image": "/weapons/a-ak-vector-vr-05t-7-62x39-muzzle-brake.webp",
     "ergo": -4,
     "recoil": -12.5,
-    "accuracy": -12.5,
+    "accuracy": 0,
     "weight": 0.116,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -11890,7 +11890,7 @@
     "image": "/weapons/a-ak-ak-evo-stock.webp",
     "ergo": 15,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.397,
     "type": "Stock",
     "slots": []
@@ -12108,7 +12108,7 @@
     "image": "/weapons/a-ak-74m-armacon-monolit-3-gen-2-buffer-tube-adapter-redline.webp",
     "ergo": -1,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.158,
     "type": "Stock",
     "slots": []
@@ -12119,7 +12119,7 @@
     "image": "/weapons/a-aks-74u-skeletonized-stock.webp",
     "ergo": 10,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.218,
     "type": "Stock",
     "slots": []
@@ -12241,7 +12241,7 @@
     "image": "/weapons/a-akm-7-62x39-muzzle-brake.webp",
     "ergo": 0,
     "recoil": -4,
-    "accuracy": -4,
+    "accuracy": 0,
     "weight": 0.02,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -12252,7 +12252,7 @@
     "image": "/weapons/a-vpo-136-vepr-km-7-62x39-muzzle-brake.webp",
     "ergo": 0,
     "recoil": -4,
-    "accuracy": -4,
+    "accuracy": 0,
     "weight": 0.02,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -12329,7 +12329,7 @@
     "image": "/weapons/a-akms-folding-stock.webp",
     "ergo": 13,
     "recoil": -19.5,
-    "accuracy": -19.5,
+    "accuracy": 0,
     "weight": 0.6,
     "type": "Stock",
     "slots": []
@@ -12340,7 +12340,7 @@
     "image": "/weapons/a-aks-74-skeletonized-stock.webp",
     "ergo": 10,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.264,
     "type": "Stock",
     "slots": []
@@ -12351,7 +12351,7 @@
     "image": "/weapons/a-akmsn-folding-stock.webp",
     "ergo": 13,
     "recoil": -19.5,
-    "accuracy": -19.5,
+    "accuracy": 0,
     "weight": 0.6,
     "type": "Stock",
     "slots": []
@@ -12463,7 +12463,7 @@
     "image": "/weapons/a-rfb-7-62x51-18-inch-barrel.webp",
     "ergo": -8,
     "recoil": -11.4,
-    "accuracy": 1.48,
+    "accuracy": 0,
     "weight": 0.91,
     "type": "Barrel",
     "slots": [
@@ -12493,7 +12493,7 @@
     "image": "/weapons/a-pl-15-9x19-112mm-barrel.webp",
     "ergo": -2,
     "recoil": -2.8,
-    "accuracy": 11,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -12526,7 +12526,7 @@
     "image": "/weapons/a-pkp-7-62x54r-658mm-barrel.webp",
     "ergo": -30,
     "recoil": -16.5,
-    "accuracy": 0.96,
+    "accuracy": 0,
     "weight": 3.2,
     "type": "Barrel",
     "slots": []
@@ -12537,7 +12537,7 @@
     "image": "/weapons/a-pkm-7-62x54r-658mm-barrel.webp",
     "ergo": -33,
     "recoil": -16.5,
-    "accuracy": 1.03,
+    "accuracy": 0,
     "weight": 2.4,
     "type": "Barrel",
     "slots": []
@@ -12570,7 +12570,7 @@
     "image": "/weapons/a-pk-bipod.webp",
     "ergo": -8,
     "recoil": -80,
-    "accuracy": -80,
+    "accuracy": 0,
     "weight": 0.47,
     "type": "Bipod",
     "slots": []
@@ -12581,7 +12581,7 @@
     "image": "/weapons/a-pkm-wooden-stock.webp",
     "ergo": 3,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 0.6,
     "type": "Stock",
     "slots": []
@@ -12592,7 +12592,7 @@
     "image": "/weapons/a-pk-zenit-pt-2-klassika-stock.webp",
     "ergo": -3,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.643,
     "type": "Stock",
     "slots": [
@@ -12610,7 +12610,7 @@
     "image": "/weapons/a-pkp-polymer-stock.webp",
     "ergo": 4.5,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 0.5,
     "type": "Stock",
     "slots": []
@@ -12679,7 +12679,7 @@
     "image": "/weapons/a-9a-91-9x39-barrel.webp",
     "ergo": 0,
     "recoil": -3,
-    "accuracy": 4.37,
+    "accuracy": 0,
     "weight": 0.409,
     "type": "Barrel",
     "slots": [
@@ -12698,7 +12698,7 @@
     "image": "/weapons/a-vsk-94-9x39-barrel.webp",
     "ergo": 0,
     "recoil": -3,
-    "accuracy": 4.37,
+    "accuracy": 0,
     "weight": 0.409,
     "type": "Barrel",
     "slots": [
@@ -12717,7 +12717,7 @@
     "image": "/weapons/a-9a-91-top-folding-stock.webp",
     "ergo": 16,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 0.5,
     "type": "Stock",
     "slots": []
@@ -12728,7 +12728,7 @@
     "image": "/weapons/a-vsk-94-stock.webp",
     "ergo": 5,
     "recoil": -28,
-    "accuracy": -28,
+    "accuracy": 0,
     "weight": 0.7,
     "type": "Stock",
     "slots": []
@@ -12750,7 +12750,7 @@
     "image": "/weapons/a-ak-skeletonized-stock-customized.webp",
     "ergo": 11.5,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.264,
     "type": "Stock",
     "slots": []
@@ -12761,7 +12761,7 @@
     "image": "/weapons/a-akms-fab-defense-m4-akms-p-stock-adapter.webp",
     "ergo": -2.5,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.436,
     "type": "Stock",
     "slots": []
@@ -12794,7 +12794,7 @@
     "image": "/weapons/a-dvl-10-7-62x51-500mm-suppressed-barrel.webp",
     "ergo": -15,
     "recoil": -12.5,
-    "accuracy": 0.76,
+    "accuracy": 0,
     "weight": 2.9,
     "type": "Barrel",
     "slots": [
@@ -12830,7 +12830,7 @@
     "image": "/weapons/a-dvl-10-lobaev-arms-stock.webp",
     "ergo": 12,
     "recoil": -25,
-    "accuracy": -25,
+    "accuracy": 0,
     "weight": 0.167,
     "type": "Stock",
     "slots": []
@@ -12840,7 +12840,7 @@
     "name": "PM 9x18PM 90-93 8-round magazine",
     "image": "/weapons/a-pm-9x18pm-90-93-8-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.045,
     "type": "Magazine",
@@ -12874,7 +12874,7 @@
     "image": "/weapons/a-pl-15-9x19-112mm-threaded-barrel.webp",
     "ergo": -2,
     "recoil": -2.8,
-    "accuracy": 11,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -12884,7 +12884,7 @@
     "name": "PL-15 9x19 16-round magazine",
     "image": "/weapons/a-pl-15-9x19-16-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.096,
     "type": "Magazine",
@@ -12970,7 +12970,7 @@
     "image": "/weapons/a-op-sks-7-62x39-520mm-barrel.webp",
     "ergo": -30,
     "recoil": -9.4,
-    "accuracy": 1.72,
+    "accuracy": 0,
     "weight": 1.5,
     "type": "Barrel",
     "slots": [
@@ -12990,7 +12990,7 @@
     "image": "/weapons/a-sks-7-62x39-520mm-barrel.webp",
     "ergo": -30,
     "recoil": -9.4,
-    "accuracy": 1.72,
+    "accuracy": 0,
     "weight": 1.5,
     "type": "Barrel",
     "slots": [
@@ -13031,7 +13031,7 @@
     "name": "SKS Leapers UTG PRO MTU017 receiver cover mount",
     "image": "/weapons/a-sks-leapers-utg-pro-mtu017-receiver-cover-mount.webp",
     "ergo": 7,
-    "recoil": -3,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.215,
     "type": "Dust cover",
@@ -13043,7 +13043,7 @@
     "image": "/weapons/a-desert-eagle-l6-50-ae-152mm-barrel.webp",
     "ergo": -3,
     "recoil": -3.5,
-    "accuracy": 6.88,
+    "accuracy": 0,
     "weight": 0.436,
     "type": "Barrel",
     "slots": [
@@ -13079,7 +13079,7 @@
     "image": "/weapons/a-desert-eagle-hogue-rubber-grip.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.11,
     "type": "Pistol grip",
     "slots": []
@@ -13122,7 +13122,7 @@
     "name": "Desert Eagle .50 AE 7-round magazine",
     "image": "/weapons/a-desert-eagle-50-ae-7-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.18,
     "type": "Magazine",
@@ -13145,7 +13145,7 @@
     "image": "/weapons/a-desert-eagle-l5-50-ae-127mm-barrel.webp",
     "ergo": -2,
     "recoil": -1,
-    "accuracy": 8.25,
+    "accuracy": 0,
     "weight": 0.336,
     "type": "Barrel",
     "slots": [
@@ -13174,7 +13174,7 @@
     "image": "/weapons/a-desert-eagle-l5-357-127mm-barrel.webp",
     "ergo": -2,
     "recoil": -2,
-    "accuracy": 8.94,
+    "accuracy": 0,
     "weight": 0.336,
     "type": "Barrel",
     "slots": [
@@ -13202,7 +13202,7 @@
     "name": "Desert Eagle .357 9-round magazine",
     "image": "/weapons/a-desert-eagle-357-9-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.18,
     "type": "Magazine",
@@ -13225,7 +13225,7 @@
     "image": "/weapons/a-mxlr-308-me-24-inch-barrel.webp",
     "ergo": -14,
     "recoil": -9,
-    "accuracy": 1.31,
+    "accuracy": 0,
     "weight": 1.1,
     "type": "Barrel",
     "slots": [
@@ -13269,7 +13269,7 @@
     "image": "/weapons/a-mxlr-standard-stock.webp",
     "ergo": 1,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.5,
     "type": "Stock",
     "slots": []
@@ -13324,7 +13324,7 @@
     "image": "/weapons/a-m1895-mxlr-ranger-point-precision-aluminum-stock.webp",
     "ergo": 6,
     "recoil": -18,
-    "accuracy": -18,
+    "accuracy": 0,
     "weight": 0.595,
     "type": "Stock",
     "slots": []
@@ -13335,7 +13335,7 @@
     "image": "/weapons/a-m1895-mxlr-magpul-elg-stock.webp",
     "ergo": 4,
     "recoil": -26,
-    "accuracy": -26,
+    "accuracy": 0,
     "weight": 0.5,
     "type": "Stock",
     "slots": []
@@ -13441,7 +13441,7 @@
     "image": "/weapons/a-sks-toz-wooden-stock-56-a-231-sb-5.webp",
     "ergo": 17,
     "recoil": -28,
-    "accuracy": -28,
+    "accuracy": 0,
     "weight": 0.703,
     "type": "Stock",
     "slots": []
@@ -13452,7 +13452,7 @@
     "image": "/weapons/a-op-sks-wooden-stock.webp",
     "ergo": 17,
     "recoil": -28,
-    "accuracy": -28,
+    "accuracy": 0,
     "weight": 0.703,
     "type": "Stock",
     "slots": []
@@ -13507,7 +13507,7 @@
     "image": "/weapons/a-rotor-43-366-tkm-sound-suppressor.webp",
     "ergo": -22,
     "recoil": -7,
-    "accuracy": -7,
+    "accuracy": 0,
     "weight": 0.57,
     "type": "Suppressor",
     "slots": []
@@ -13518,7 +13518,7 @@
     "image": "/weapons/a-mosin-rifle-standard-stock.webp",
     "ergo": 10,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 1.75,
     "type": "Stock",
     "slots": [
@@ -13647,7 +13647,7 @@
     "image": "/weapons/a-sks-tapco-intrafuse-chassis.webp",
     "ergo": 10,
     "recoil": -15,
-    "accuracy": -15,
+    "accuracy": 0,
     "weight": 0.75,
     "type": "Chassis",
     "slots": [
@@ -13699,7 +13699,7 @@
     "image": "/weapons/a-mosin-rifle-ati-monte-carlo-stock.webp",
     "ergo": 22,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 1.2,
     "type": "Stock",
     "slots": []
@@ -13721,7 +13721,7 @@
     "image": "/weapons/a-mosin-carbine-7-62x54r-514mm-barrel.webp",
     "ergo": -17,
     "recoil": -12.9,
-    "accuracy": 2.41,
+    "accuracy": 0,
     "weight": 1.5,
     "type": "Barrel",
     "slots": [
@@ -13745,7 +13745,7 @@
     "image": "/weapons/a-mosin-rifle-7-62x54r-sawed-off-200mm-barrel.webp",
     "ergo": 0,
     "recoil": -5,
-    "accuracy": 6.19,
+    "accuracy": 0,
     "weight": 0.7,
     "type": "Barrel",
     "slots": []
@@ -13756,7 +13756,7 @@
     "image": "/weapons/a-mosin-rifle-7-62x54r-sawed-off-220mm-threaded-barrel.webp",
     "ergo": -1,
     "recoil": -5.5,
-    "accuracy": 6.53,
+    "accuracy": 0,
     "weight": 0.9,
     "type": "Barrel",
     "slots": [
@@ -13936,7 +13936,7 @@
     "name": "VPO-101 dust cover",
     "image": "/weapons/a-vpo-101-dust-cover.webp",
     "ergo": 2,
-    "recoil": -3,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.12,
     "type": "Dust cover",
@@ -13959,7 +13959,7 @@
     "image": "/weapons/a-sks-fab-defense-uas-chassis.webp",
     "ergo": 12,
     "recoil": -17,
-    "accuracy": -17,
+    "accuracy": 0,
     "weight": 1.034,
     "type": "Chassis",
     "slots": [
@@ -14053,7 +14053,7 @@
     "image": "/weapons/a-vpo-215-wooden-stock.webp",
     "ergo": 17,
     "recoil": -28,
-    "accuracy": -28,
+    "accuracy": 0,
     "weight": 1.25,
     "type": "Stock",
     "slots": []
@@ -14132,7 +14132,7 @@
     "image": "/weapons/a-m590a1-polymer-stock.webp",
     "ergo": 7,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.64,
     "type": "Stock",
     "slots": []
@@ -14143,7 +14143,7 @@
     "image": "/weapons/a-m590-magpul-sga-stock.webp",
     "ergo": 10,
     "recoil": -29,
-    "accuracy": -29,
+    "accuracy": 0,
     "weight": 0.68,
     "type": "Stock",
     "slots": []
@@ -14196,7 +14196,7 @@
     "image": "/weapons/a-vpo-101-svd-style-walnut-stock.webp",
     "ergo": 21,
     "recoil": -25,
-    "accuracy": -25,
+    "accuracy": 0,
     "weight": 1.07,
     "type": "Stock",
     "slots": []
@@ -14207,7 +14207,7 @@
     "image": "/weapons/a-vpo-101-rotor-43-7-62x51-sound-suppressor.webp",
     "ergo": -20,
     "recoil": -5,
-    "accuracy": -5,
+    "accuracy": 0,
     "weight": 0.9,
     "type": "Suppressor",
     "slots": []
@@ -14271,7 +14271,7 @@
     "image": "/weapons/a-sks-ati-monte-carlo-stock.webp",
     "ergo": 22,
     "recoil": -35,
-    "accuracy": -35,
+    "accuracy": 0,
     "weight": 1.1,
     "type": "Stock",
     "slots": []
@@ -14282,7 +14282,7 @@
     "image": "/weapons/a-vpo-215-tactical-chassis.webp",
     "ergo": 10,
     "recoil": -15,
-    "accuracy": -15,
+    "accuracy": 0,
     "weight": 0.41,
     "type": "Chassis",
     "slots": [
@@ -14348,7 +14348,7 @@
     "image": "/weapons/a-mp-133-12ga-710mm-barrel-with-rib.webp",
     "ergo": -12,
     "recoil": -9,
-    "accuracy": 14.44,
+    "accuracy": 0,
     "weight": 1.35,
     "type": "Barrel",
     "slots": [
@@ -14368,7 +14368,7 @@
     "image": "/weapons/a-mp-153-12ga-610mm-barrel.webp",
     "ergo": -7,
     "recoil": -4,
-    "accuracy": 19.94,
+    "accuracy": 0,
     "weight": 1.25,
     "type": "Barrel",
     "slots": [
@@ -14388,7 +14388,7 @@
     "image": "/weapons/a-mp-133-12ga-510mm-barrel-with-rib.webp",
     "ergo": -3,
     "recoil": -3,
-    "accuracy": 21.31,
+    "accuracy": 0,
     "weight": 0.85,
     "type": "Barrel",
     "slots": [
@@ -14419,7 +14419,7 @@
     "image": "/weapons/a-mp-133-153-plastic-pistol-grip.webp",
     "ergo": 11,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.1,
     "type": "Stock",
     "slots": []
@@ -14452,7 +14452,7 @@
     "image": "/weapons/a-mp-43-1c-12ga-725mm-barrel.webp",
     "ergo": -9,
     "recoil": -12,
-    "accuracy": 13.06,
+    "accuracy": 0,
     "weight": 1.6,
     "type": "Barrel",
     "slots": []
@@ -14463,7 +14463,7 @@
     "image": "/weapons/a-mp-133-12ga-610mm-barrel.webp",
     "ergo": -7,
     "recoil": -4,
-    "accuracy": 19.94,
+    "accuracy": 0,
     "weight": 1.2,
     "type": "Barrel",
     "slots": []
@@ -14474,7 +14474,7 @@
     "image": "/weapons/a-mp-133-12ga-510mm-barrel.webp",
     "ergo": -5,
     "recoil": -3,
-    "accuracy": 21.31,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": []
@@ -14485,7 +14485,7 @@
     "image": "/weapons/a-mp-133-12ga-610mm-barrel-with-rib.webp",
     "ergo": -6,
     "recoil": -4,
-    "accuracy": 19.94,
+    "accuracy": 0,
     "weight": 1.25,
     "type": "Barrel",
     "slots": [
@@ -14505,7 +14505,7 @@
     "image": "/weapons/a-mp-133-12ga-540mm-barrel-with-rib.webp",
     "ergo": -5,
     "recoil": -3.5,
-    "accuracy": 20.63,
+    "accuracy": 0,
     "weight": 0.85,
     "type": "Barrel",
     "slots": [
@@ -14525,7 +14525,7 @@
     "image": "/weapons/a-mp-133-12ga-660mm-barrel.webp",
     "ergo": -12,
     "recoil": -6,
-    "accuracy": 17.19,
+    "accuracy": 0,
     "weight": 1.2,
     "type": "Barrel",
     "slots": []
@@ -14536,7 +14536,7 @@
     "image": "/weapons/a-mp-133-12ga-660mm-barrel-with-rib.webp",
     "ergo": -10,
     "recoil": -6,
-    "accuracy": 17.19,
+    "accuracy": 0,
     "weight": 1.25,
     "type": "Barrel",
     "slots": [
@@ -14556,7 +14556,7 @@
     "image": "/weapons/a-mp-133-12ga-710mm-barrel.webp",
     "ergo": -13,
     "recoil": -9,
-    "accuracy": 14.44,
+    "accuracy": 0,
     "weight": 1.3,
     "type": "Barrel",
     "slots": []
@@ -14567,7 +14567,7 @@
     "image": "/weapons/a-mp-133-12ga-750mm-barrel.webp",
     "ergo": -19,
     "recoil": -10,
-    "accuracy": 10.31,
+    "accuracy": 0,
     "weight": 1.5,
     "type": "Barrel",
     "slots": []
@@ -14578,7 +14578,7 @@
     "image": "/weapons/a-mp-133-12ga-750mm-barrel-with-rib.webp",
     "ergo": -17,
     "recoil": -10,
-    "accuracy": 10.31,
+    "accuracy": 0,
     "weight": 1.55,
     "type": "Barrel",
     "slots": [
@@ -14598,7 +14598,7 @@
     "image": "/weapons/a-mp-153-12ga-750mm-barrel.webp",
     "ergo": -20,
     "recoil": -10,
-    "accuracy": 10.31,
+    "accuracy": 0,
     "weight": 1.55,
     "type": "Barrel",
     "slots": [
@@ -14618,7 +14618,7 @@
     "image": "/weapons/a-mp-153-12ga-660mm-barrel.webp",
     "ergo": -12,
     "recoil": -6,
-    "accuracy": 17.19,
+    "accuracy": 0,
     "weight": 1.25,
     "type": "Barrel",
     "slots": [
@@ -14638,7 +14638,7 @@
     "image": "/weapons/a-mp-153-12ga-710mm-barrel.webp",
     "ergo": -16,
     "recoil": -9,
-    "accuracy": 14.44,
+    "accuracy": 0,
     "weight": 1.35,
     "type": "Barrel",
     "slots": [
@@ -14658,7 +14658,7 @@
     "image": "/weapons/a-mp-133-153-plastic-stock.webp",
     "ergo": 6,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.46,
     "type": "Stock",
     "slots": []
@@ -14669,7 +14669,7 @@
     "image": "/weapons/a-mp-133-153-wooden-stock.webp",
     "ergo": 6,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.64,
     "type": "Stock",
     "slots": []
@@ -14848,7 +14848,7 @@
     "image": "/weapons/a-mp-133-12ga-540mm-barrel.webp",
     "ergo": -6,
     "recoil": -3.5,
-    "accuracy": 20.63,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": []
@@ -14892,7 +14892,7 @@
     "image": "/weapons/a-mp-43-1c-12ga-510mm-barrel.webp",
     "ergo": -5,
     "recoil": -5,
-    "accuracy": 17.53,
+    "accuracy": 0,
     "weight": 1.4,
     "type": "Barrel",
     "slots": []
@@ -14914,7 +14914,7 @@
     "image": "/weapons/a-m590-tactical-rail.webp",
     "ergo": -2,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Mount",
     "slots": [
@@ -14997,7 +14997,7 @@
     "image": "/weapons/a-mp-155-12ga-510mm-barrel.webp",
     "ergo": -5,
     "recoil": -3,
-    "accuracy": 21.31,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": []
@@ -15008,7 +15008,7 @@
     "image": "/weapons/a-mp-155-walnut-stock.webp",
     "ergo": 6,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.64,
     "type": "Stock",
     "slots": []
@@ -15071,7 +15071,7 @@
     "image": "/weapons/a-mp-155-ultima-top-rail.webp",
     "ergo": -2,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Mount",
     "slots": [
@@ -15172,7 +15172,7 @@
     "image": "/weapons/a-mp-43-12ga-750mm-barrel.webp",
     "ergo": -11,
     "recoil": -14,
-    "accuracy": 10.66,
+    "accuracy": 0,
     "weight": 1.65,
     "type": "Barrel",
     "slots": []
@@ -15183,7 +15183,7 @@
     "image": "/weapons/a-mp-18-7-62x54r-600mm-barrel.webp",
     "ergo": -30,
     "recoil": -15,
-    "accuracy": 3.09,
+    "accuracy": 0,
     "weight": 1.35,
     "type": "Barrel",
     "slots": [
@@ -15202,7 +15202,7 @@
     "image": "/weapons/a-mp-18-wooden-stock.webp",
     "ergo": 6,
     "recoil": -22,
-    "accuracy": -22,
+    "accuracy": 0,
     "weight": 0.56,
     "type": "Stock",
     "slots": []
@@ -15213,7 +15213,7 @@
     "image": "/weapons/a-mp-18-polymer-stock.webp",
     "ergo": 7,
     "recoil": -22,
-    "accuracy": -22,
+    "accuracy": 0,
     "weight": 0.47,
     "type": "Stock",
     "slots": []
@@ -15223,8 +15223,8 @@
     "name": "MP-43 12ga sawed-off 310mm barrel",
     "image": "/weapons/a-mp-43-12ga-sawed-off-310mm-barrel.webp",
     "ergo": 3,
-    "recoil": -25,
-    "accuracy": 23.38,
+    "recoil": 0,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": []
@@ -15235,7 +15235,7 @@
     "image": "/weapons/a-mp-155-12ga-660mm-barrel.webp",
     "ergo": -10,
     "recoil": -7,
-    "accuracy": 17.88,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": []
@@ -15246,7 +15246,7 @@
     "image": "/weapons/a-mp-155-12ga-750mm-barrel.webp",
     "ergo": -12,
     "recoil": -9,
-    "accuracy": 15.13,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": [
@@ -15277,7 +15277,7 @@
     "image": "/weapons/a-pp-91-01-kedr-b-threaded-suppressor-adapter.webp",
     "ergo": 0,
     "recoil": -7,
-    "accuracy": -7,
+    "accuracy": 0,
     "weight": 0.07,
     "type": "Muzzle adapter",
     "slots": []
@@ -15353,7 +15353,7 @@
     "image": "/weapons/a-pb-9x18pm-sound-suppressor.webp",
     "ergo": -21,
     "recoil": -8,
-    "accuracy": -8,
+    "accuracy": 0,
     "weight": 0.131,
     "type": "Suppressor",
     "slots": []
@@ -15491,7 +15491,7 @@
     "image": "/weapons/a-pp-19-01-vityaz-metal-skeleton-stock.webp",
     "ergo": 6,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.218,
     "type": "Stock",
     "slots": []
@@ -15512,7 +15512,7 @@
     "name": "PP-19-01 Vityaz gas tube",
     "image": "/weapons/a-pp-19-01-vityaz-gas-tube.webp",
     "ergo": 0,
-    "recoil": -1.5,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.11,
     "type": "Gas block",
@@ -15524,7 +15524,7 @@
     "image": "/weapons/a-silencerco-osprey-9-9x19-sound-suppressor.webp",
     "ergo": -17,
     "recoil": -8,
-    "accuracy": -8,
+    "accuracy": 0,
     "weight": 0.27,
     "type": "Suppressor",
     "slots": []
@@ -15546,7 +15546,7 @@
     "image": "/weapons/a-rotor-43-9x19-sound-suppressor.webp",
     "ergo": -11,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.49,
     "type": "Suppressor",
     "slots": []
@@ -15590,7 +15590,7 @@
     "image": "/weapons/a-sig-sauer-srd9-9x19-sound-suppressor.webp",
     "ergo": -5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.255,
     "type": "Suppressor",
     "slots": []
@@ -15634,7 +15634,7 @@
     "image": "/weapons/a-orsis-t-5000m-aluminium-body.webp",
     "ergo": 16,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.64,
     "type": "Stock",
     "slots": [
@@ -15730,7 +15730,7 @@
     "image": "/weapons/a-ppsh-41-stock.webp",
     "ergo": 28,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 1.05,
     "type": "Stock",
     "slots": []
@@ -15752,7 +15752,7 @@
     "image": "/weapons/a-ppsh-41-7-62x25-269mm-barrel.webp",
     "ergo": -5,
     "recoil": -3,
-    "accuracy": 7.22,
+    "accuracy": 0,
     "weight": 0.51,
     "type": "Barrel",
     "slots": []
@@ -15785,7 +15785,7 @@
     "image": "/weapons/a-mp-43-1c-buttpad.webp",
     "ergo": 4,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Stock",
     "slots": []
@@ -15796,7 +15796,7 @@
     "image": "/weapons/a-mts-255-12-beechwood-forestock.webp",
     "ergo": 9,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Handguard",
     "slots": []
@@ -15807,7 +15807,7 @@
     "image": "/weapons/a-mts-255-12-12ga-755mm-barrel-with-rib.webp",
     "ergo": -18,
     "recoil": -10,
-    "accuracy": 9.63,
+    "accuracy": 0,
     "weight": 1.55,
     "type": "Barrel",
     "slots": [
@@ -15825,7 +15825,7 @@
     "image": "/weapons/a-mts-255-12-wooden-stock.webp",
     "ergo": 3,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Stock",
     "slots": []
@@ -15845,9 +15845,9 @@
     "id": "aa-12-12ga-330mm-barrel",
     "name": "AA-12 12ga 330mm barrel",
     "image": "/weapons/a-aa-12-12ga-330mm-barrel.webp",
-    "ergo": 2.57,
+    "ergo": 0,
     "recoil": -2,
-    "accuracy": 22.35,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": []
@@ -15857,7 +15857,7 @@
     "name": "AA-12 12ga 20-round drum magazine",
     "image": "/weapons/a-aa-12-12ga-20-round-drum-magazine.webp",
     "ergo": -10,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 1.13,
     "type": "Magazine",
@@ -15869,7 +15869,7 @@
     "image": "/weapons/a-aa-12-12ga-457mm-barrel.webp",
     "ergo": -6,
     "recoil": -6,
-    "accuracy": 20.97,
+    "accuracy": 0,
     "weight": 1.14,
     "type": "Barrel",
     "slots": []
@@ -15880,7 +15880,7 @@
     "image": "/weapons/a-aa-12-12ga-342mm-threaded-barrel.webp",
     "ergo": -1,
     "recoil": -3,
-    "accuracy": 22,
+    "accuracy": 0,
     "weight": 0.97,
     "type": "Barrel",
     "slots": []
@@ -15891,7 +15891,7 @@
     "image": "/weapons/a-aa-12-12ga-417mm-threaded-barrel.webp",
     "ergo": -4,
     "recoil": -5,
-    "accuracy": 21.31,
+    "accuracy": 0,
     "weight": 1.03,
     "type": "Barrel",
     "slots": [
@@ -15953,7 +15953,7 @@
     "image": "/weapons/a-pp-19-01-vityaz-sag-mk1-m-lok-handguard-with-gas-tube.webp",
     "ergo": 13,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.295,
     "type": "Gas block",
     "slots": [
@@ -15988,7 +15988,7 @@
     "image": "/weapons/a-pp-19-01-vityaz-vector-vr-lps-left-side-charging-handle.webp",
     "ergo": 15,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.27,
     "type": "Gas block",
     "slots": [
@@ -16107,7 +16107,7 @@
     "image": "/weapons/a-ar-10-7-62x51-18-inch-barrel.webp",
     "ergo": -23,
     "recoil": -11.4,
-    "accuracy": 1.2,
+    "accuracy": 0,
     "weight": 1.12,
     "type": "Barrel",
     "slots": [
@@ -16147,7 +16147,7 @@
     "image": "/weapons/a-ar-10-7-62x51-22-inch-barrel.webp",
     "ergo": -38,
     "recoil": -14,
-    "accuracy": 0.79,
+    "accuracy": 0,
     "weight": 1.2,
     "type": "Barrel",
     "slots": [
@@ -16187,7 +16187,7 @@
     "image": "/weapons/a-m870-12ga-508mm-barrel-with-a-fixed-sight.webp",
     "ergo": -7,
     "recoil": -6,
-    "accuracy": 18.91,
+    "accuracy": 0,
     "weight": 1.455,
     "type": "Barrel",
     "slots": [
@@ -16217,7 +16217,7 @@
     "image": "/weapons/a-m870-12ga-355mm-barrel.webp",
     "ergo": -3,
     "recoil": -2,
-    "accuracy": 22,
+    "accuracy": 0,
     "weight": 0.968,
     "type": "Barrel",
     "slots": []
@@ -16239,7 +16239,7 @@
     "image": "/weapons/a-m870-12ga-508mm-barrel.webp",
     "ergo": -8,
     "recoil": -6,
-    "accuracy": 18.91,
+    "accuracy": 0,
     "weight": 1.405,
     "type": "Barrel",
     "slots": [
@@ -16259,7 +16259,7 @@
     "image": "/weapons/a-m870-12ga-660mm-vent-rib-barrel.webp",
     "ergo": -12,
     "recoil": -9,
-    "accuracy": 11,
+    "accuracy": 0,
     "weight": 1.826,
     "type": "Barrel",
     "slots": [
@@ -16289,7 +16289,7 @@
     "image": "/weapons/a-m870-12ga-sawed-off-325mm-barrel.webp",
     "ergo": 2,
     "recoil": -1,
-    "accuracy": 22.35,
+    "accuracy": 0,
     "weight": 0.899,
     "type": "Barrel",
     "slots": []
@@ -16396,7 +16396,7 @@
     "image": "/weapons/a-m870-shockwave-raptor-grip.webp",
     "ergo": 6,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.22,
     "type": "Stock",
     "slots": []
@@ -16407,7 +16407,7 @@
     "image": "/weapons/a-m870-sps-polymer-stock.webp",
     "ergo": 6,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.64,
     "type": "Stock",
     "slots": []
@@ -16418,7 +16418,7 @@
     "image": "/weapons/a-m870-magpul-sga-polymer-stock.webp",
     "ergo": 10,
     "recoil": -29,
-    "accuracy": -29,
+    "accuracy": 0,
     "weight": 0.68,
     "type": "Stock",
     "slots": []
@@ -16588,7 +16588,7 @@
     "image": "/weapons/a-m700-ab-arms-mod-x-gen-3-chassis.webp",
     "ergo": 13,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.9,
     "type": "Chassis",
     "slots": [
@@ -16717,7 +16717,7 @@
     "image": "/weapons/a-m700-magpul-pro-700-chassis.webp",
     "ergo": 22,
     "recoil": -5,
-    "accuracy": -5,
+    "accuracy": 0,
     "weight": 1.72,
     "type": "Chassis",
     "slots": [
@@ -17709,7 +17709,7 @@
     "image": "/weapons/a-hexagon-12k-12ga-sound-suppressor.webp",
     "ergo": -15,
     "recoil": -5,
-    "accuracy": -5,
+    "accuracy": 0,
     "weight": 0.493,
     "type": "Suppressor",
     "slots": []
@@ -17764,7 +17764,7 @@
     "image": "/weapons/a-ar-10-odin-works-atlas-7-7-62x51-muzzle-brake.webp",
     "ergo": -5,
     "recoil": -12,
-    "accuracy": -12,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -17775,7 +17775,7 @@
     "image": "/weapons/a-rpk-16-5-45x39-15-inch-barrel.webp",
     "ergo": -16,
     "recoil": -7.4,
-    "accuracy": 1.65,
+    "accuracy": 0,
     "weight": 0.54,
     "type": "Barrel",
     "slots": []
@@ -17786,7 +17786,7 @@
     "image": "/weapons/a-rpk-16-5-45x39-22-inch-barrel.webp",
     "ergo": -22,
     "recoil": -11,
-    "accuracy": 1.1,
+    "accuracy": 0,
     "weight": 0.65,
     "type": "Barrel",
     "slots": []
@@ -17797,7 +17797,7 @@
     "image": "/weapons/a-rpk-16-dust-cover.webp",
     "ergo": 2,
     "recoil": -0.3,
-    "accuracy": -0.3,
+    "accuracy": 0,
     "weight": 0.215,
     "type": "Dust cover",
     "slots": [
@@ -17995,7 +17995,7 @@
     "image": "/weapons/a-lantac-bmd-blast-mitigation-device-a3-direct-thread-adapter.webp",
     "ergo": 4,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.03,
     "type": "Muzzle adapter",
     "slots": []
@@ -18164,7 +18164,7 @@
     "image": "/weapons/a-sig-sauer-srd762ti-7-62x51-sound-suppressor.webp",
     "ergo": -13,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.46,
     "type": "Suppressor",
     "slots": []
@@ -18251,7 +18251,7 @@
     "name": "AK-545 Mk. 2.1 gas tube",
     "image": "/weapons/a-ak-545-mk-2-1-gas-tube.webp",
     "ergo": 0,
-    "recoil": -5,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.1,
     "type": "Gas block",
@@ -18308,7 +18308,7 @@
     "image": "/weapons/a-ak-545-buffer-tube.webp",
     "ergo": -1,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.175,
     "type": "Stock",
     "slots": []
@@ -18319,7 +18319,7 @@
     "image": "/weapons/a-rd-704-slr-ion-lite-railed-gas-tube-handguard-with-gas-tube.webp",
     "ergo": 15,
     "recoil": -5,
-    "accuracy": -5,
+    "accuracy": 0,
     "weight": 0.48,
     "type": "Gas block",
     "slots": [
@@ -18402,7 +18402,7 @@
     "name": "SOK-12 Kiba Arms Zombie Custom dust cover",
     "image": "/weapons/a-sok-12-kiba-arms-zombie-custom-dust-cover.webp",
     "ergo": 2,
-    "recoil": -3,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.12,
     "type": "Dust cover",
@@ -18517,7 +18517,7 @@
     "name": "SOK-12 dust cover (Redline)",
     "image": "/weapons/a-sok-12-dust-cover-redline.webp",
     "ergo": 2,
-    "recoil": -3,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.12,
     "type": "Dust cover",
@@ -18529,7 +18529,7 @@
     "image": "/weapons/a-p226-9x19-112mm-barrel.webp",
     "ergo": -2,
     "recoil": -2.8,
-    "accuracy": 10.31,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -18540,7 +18540,7 @@
     "image": "/weapons/a-p226-9x19-112mm-threaded-barrel.webp",
     "ergo": -2,
     "recoil": -2.8,
-    "accuracy": 10.31,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -18551,7 +18551,7 @@
     "image": "/weapons/a-sok-12-ak-style-stock.webp",
     "ergo": 6,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.35,
     "type": "Stock",
     "slots": []
@@ -18562,7 +18562,7 @@
     "image": "/weapons/a-sig-sauer-collapsing-telescoping-stock.webp",
     "ergo": 23,
     "recoil": -18,
-    "accuracy": -18,
+    "accuracy": 0,
     "weight": 0.396,
     "type": "Stock",
     "slots": []
@@ -18705,7 +18705,7 @@
     "name": "MPX 9x19 30-round magazine",
     "image": "/weapons/a-mpx-9x19-30-round-magazine.webp",
     "ergo": -3,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.17,
     "type": "Magazine",
@@ -18716,7 +18716,7 @@
     "name": "SR-1MP 9x21 18-round magazine",
     "image": "/weapons/a-sr-1mp-9x21-18-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.105,
     "type": "Magazine",
@@ -18914,7 +18914,7 @@
     "name": "MPX 9x19 20-round magazine",
     "image": "/weapons/a-mpx-9x19-20-round-magazine.webp",
     "ergo": 3,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.14,
     "type": "Magazine",
@@ -18925,7 +18925,7 @@
     "name": "MPX 9x19 TTI \"Base Pad +11\" 41-round magazine",
     "image": "/weapons/a-mpx-9x19-tti-base-pad-11-41-round-magazine.webp",
     "ergo": -2,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.3,
     "type": "Magazine",
@@ -18980,7 +18980,7 @@
     "name": "SOK-12 12ga MaxRounds Powermag 20-round drum magazine",
     "image": "/weapons/a-sok-12-12ga-maxrounds-powermag-20-round-drum-magazine.webp",
     "ergo": -15,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.66,
     "type": "Magazine",
@@ -19072,7 +19072,7 @@
     "image": "/weapons/a-sig-sauer-telescoping-folding-stock.webp",
     "ergo": 9,
     "recoil": -21.5,
-    "accuracy": -21.5,
+    "accuracy": 0,
     "weight": 0.336,
     "type": "Stock",
     "slots": []
@@ -19083,7 +19083,7 @@
     "image": "/weapons/a-sig-sauer-thin-side-folding-stock.webp",
     "ergo": 17,
     "recoil": -19.5,
-    "accuracy": -19.5,
+    "accuracy": 0,
     "weight": 0.27,
     "type": "Stock",
     "slots": []
@@ -19116,7 +19116,7 @@
     "image": "/weapons/a-mcx-spear-6-8x51-upper-receiver.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.27,
     "type": "Receiver",
     "slots": [
@@ -19185,7 +19185,7 @@
     "image": "/weapons/a-uzi-pro-a3-tactical-modular-folding-brace.webp",
     "ergo": 14,
     "recoil": -12,
-    "accuracy": -12,
+    "accuracy": 0,
     "weight": 0.102,
     "type": "Stock",
     "slots": []
@@ -19195,7 +19195,7 @@
     "name": "SOK-12 12ga MD Arms 20-round drum magazine",
     "image": "/weapons/a-sok-12-12ga-md-arms-20-round-drum-magazine.webp",
     "ergo": -17,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.66,
     "type": "Magazine",
@@ -19218,7 +19218,7 @@
     "image": "/weapons/a-sako-trg-m10-338-lm-bolt-assembly.webp",
     "ergo": -2,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.45,
     "type": "Charging handle",
     "slots": []
@@ -19229,7 +19229,7 @@
     "image": "/weapons/a-sako-trg-m10-chassis.webp",
     "ergo": 10,
     "recoil": -4,
-    "accuracy": -4,
+    "accuracy": 0,
     "weight": 1.267,
     "type": "Chassis",
     "slots": []
@@ -19240,7 +19240,7 @@
     "image": "/weapons/a-sb-tactical-mpx-pistol-stabilizing-brace.webp",
     "ergo": 8,
     "recoil": -16,
-    "accuracy": -16,
+    "accuracy": 0,
     "weight": 0.392,
     "type": "Stock",
     "slots": []
@@ -19262,7 +19262,7 @@
     "image": "/weapons/a-sako-trg-m10-338-lm-receiver.webp",
     "ergo": 4,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.54,
     "type": "Receiver",
     "slots": [
@@ -19311,7 +19311,7 @@
     "name": "P226 9x19 15-round magazine",
     "image": "/weapons/a-p226-9x19-15-round-magazine.webp",
     "ergo": -0.5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.096,
     "type": "Magazine",
@@ -19344,7 +19344,7 @@
     "image": "/weapons/a-apb-detachable-wire-stock.webp",
     "ergo": 0,
     "recoil": -27,
-    "accuracy": -27,
+    "accuracy": 0,
     "weight": 0.15,
     "type": "Stock",
     "slots": []
@@ -19365,7 +19365,7 @@
     "name": "APS 9x18PM 20-round magazine",
     "image": "/weapons/a-aps-9x18pm-20-round-magazine.webp",
     "ergo": 0,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.044,
     "type": "Magazine",
@@ -19388,7 +19388,7 @@
     "image": "/weapons/a-m1a-7-62x51-16-inch-barrel.webp",
     "ergo": -17,
     "recoil": -10.3,
-    "accuracy": 1.34,
+    "accuracy": 0,
     "weight": 1.04,
     "type": "Barrel",
     "slots": []
@@ -19432,7 +19432,7 @@
     "image": "/weapons/a-m1a-socom-16-stock.webp",
     "ergo": 28,
     "recoil": -26,
-    "accuracy": -26,
+    "accuracy": 0,
     "weight": 1.004,
     "type": "Stock",
     "slots": []
@@ -19454,7 +19454,7 @@
     "image": "/weapons/a-m14-troy-s-a-s-s-chassis-stock.webp",
     "ergo": 30,
     "recoil": -13,
-    "accuracy": -13,
+    "accuracy": 0,
     "weight": 2.1,
     "type": "Chassis",
     "slots": [
@@ -19683,7 +19683,7 @@
     "image": "/weapons/a-apb-9x18pm-sound-suppressor.webp",
     "ergo": -21,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.49,
     "type": "Suppressor",
     "slots": []
@@ -19716,7 +19716,7 @@
     "image": "/weapons/a-m1a-promag-archangel-chassis.webp",
     "ergo": 40,
     "recoil": -30,
-    "accuracy": -30,
+    "accuracy": 0,
     "weight": 1.9,
     "type": "Chassis",
     "slots": [
@@ -19762,7 +19762,7 @@
     "image": "/weapons/a-m14-sage-international-m14alcs-chassis.webp",
     "ergo": 26,
     "recoil": -18,
-    "accuracy": -18,
+    "accuracy": 0,
     "weight": 1.9,
     "type": "Chassis",
     "slots": [
@@ -19805,7 +19805,7 @@
     "image": "/weapons/a-m1a-7-62x51-22-inch-barrel.webp",
     "ergo": -38,
     "recoil": -14,
-    "accuracy": 1.1,
+    "accuracy": 0,
     "weight": 1.11,
     "type": "Barrel",
     "slots": []
@@ -19937,7 +19937,7 @@
     "name": "P226 9x19 20-round extended magazine",
     "image": "/weapons/a-p226-9x19-20-round-extended-magazine.webp",
     "ergo": -2,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.11,
     "type": "Magazine",
@@ -20061,7 +20061,7 @@
     "image": "/weapons/a-steyr-aug-a1-stg77-1-5x-optic-sight.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 1.22,
     "type": "Assault scope",
     "slots": [
@@ -20080,7 +20080,7 @@
     "name": "Steyr AUG 5.56x45 30-round magazine",
     "image": "/weapons/a-steyr-aug-5-56x45-30-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.13,
     "type": "Magazine",
@@ -20091,7 +20091,7 @@
     "name": "Steyr AUG 5.56x45 10-round magazine",
     "image": "/weapons/a-steyr-aug-5-56x45-10-round-magazine.webp",
     "ergo": 5,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.1,
     "type": "Magazine",
@@ -20102,7 +20102,7 @@
     "name": "Steyr AUG 5.56x45 42-round magazine",
     "image": "/weapons/a-steyr-aug-5-56x45-42-round-magazine.webp",
     "ergo": -3,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.142,
     "type": "Magazine",
@@ -20136,7 +20136,7 @@
     "image": "/weapons/a-sr-2m-9x21-sv-1381-sound-suppressor.webp",
     "ergo": -14,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.575,
     "type": "Suppressor",
     "slots": []
@@ -20169,7 +20169,7 @@
     "image": "/weapons/a-sr-2m-top-folding-stock.webp",
     "ergo": 7,
     "recoil": -19,
-    "accuracy": -19,
+    "accuracy": 0,
     "weight": 0.21,
     "type": "Stock",
     "slots": []
@@ -20180,7 +20180,7 @@
     "image": "/weapons/a-sr-2mp-top-folding-stock.webp",
     "ergo": 8,
     "recoil": -19,
-    "accuracy": -19,
+    "accuracy": 0,
     "weight": 0.204,
     "type": "Stock",
     "slots": []
@@ -20434,7 +20434,7 @@
     "image": "/weapons/a-tt-7-62x25-116mm-barrel.webp",
     "ergo": -4,
     "recoil": -3,
-    "accuracy": 12.03,
+    "accuracy": 0,
     "weight": 0.06,
     "type": "Barrel",
     "slots": []
@@ -20575,7 +20575,7 @@
     "image": "/weapons/a-svd-7-62x54r-565mm-barrel.webp",
     "ergo": -22,
     "recoil": -14.1,
-    "accuracy": 1.13,
+    "accuracy": 0,
     "weight": 1.12,
     "type": "Barrel",
     "slots": [
@@ -20610,7 +20610,7 @@
     "image": "/weapons/a-svd-sag-mk1-chassis.webp",
     "ergo": 15,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.89,
     "type": "Handguard",
     "slots": [
@@ -20775,7 +20775,7 @@
     "image": "/weapons/a-kriss-vector-9x19-5-inch-barrel.webp",
     "ergo": 0,
     "recoil": -1,
-    "accuracy": 6.53,
+    "accuracy": 0,
     "weight": 0.16,
     "type": "Barrel",
     "slots": []
@@ -20786,7 +20786,7 @@
     "image": "/weapons/a-kriss-vector-gen-2-folding-stock.webp",
     "ergo": 7,
     "recoil": -22,
-    "accuracy": -22,
+    "accuracy": 0,
     "weight": 0.3,
     "type": "Stock",
     "slots": []
@@ -20797,7 +20797,7 @@
     "image": "/weapons/a-kriss-vector-45-acp-5-inch-barrel.webp",
     "ergo": -1,
     "recoil": -1.6,
-    "accuracy": 6.88,
+    "accuracy": 0,
     "weight": 0.17,
     "type": "Barrel",
     "slots": []
@@ -20807,7 +20807,7 @@
     "name": "Glock .45 ACP 13-round magazine",
     "image": "/weapons/a-glock-45-acp-13-round-magazine.webp",
     "ergo": -3,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.096,
     "type": "Magazine",
@@ -20853,7 +20853,7 @@
     "image": "/weapons/a-kriss-vector-9x19-6-inch-barrel.webp",
     "ergo": -2,
     "recoil": -2,
-    "accuracy": 6.19,
+    "accuracy": 0,
     "weight": 0.2,
     "type": "Barrel",
     "slots": [
@@ -20875,7 +20875,7 @@
     "image": "/weapons/a-kriss-vector-45-acp-6-inch-barrel.webp",
     "ergo": -2,
     "recoil": -2,
-    "accuracy": 6.53,
+    "accuracy": 0,
     "weight": 0.21,
     "type": "Barrel",
     "slots": []
@@ -20885,7 +20885,7 @@
     "name": "Glock .45 ACP KRISS G30 MagEx 30-round magazine",
     "image": "/weapons/a-glock-45-acp-kriss-g30-magex-30-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.18,
     "type": "Magazine",
@@ -20968,7 +20968,7 @@
     "image": "/weapons/a-sv-98-cnc-guns-ov-sv98-chassis.webp",
     "ergo": 10,
     "recoil": -4,
-    "accuracy": -4,
+    "accuracy": 0,
     "weight": 0.55,
     "type": "Chassis",
     "slots": [
@@ -21058,7 +21058,7 @@
     "image": "/weapons/a-svt-40-7-62x54r-625mm-barrel.webp",
     "ergo": -32,
     "recoil": -15.6,
-    "accuracy": 1.31,
+    "accuracy": 0,
     "weight": 1.33,
     "type": "Barrel",
     "slots": [
@@ -21075,7 +21075,7 @@
     "name": "SVT dust cover",
     "image": "/weapons/a-svt-dust-cover.webp",
     "ergo": 5,
-    "recoil": -3,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.088,
     "type": "Dust cover",
@@ -21098,7 +21098,7 @@
     "image": "/weapons/a-avt-40-wooden-stock.webp",
     "ergo": 36,
     "recoil": -18,
-    "accuracy": -18,
+    "accuracy": 0,
     "weight": 1.217,
     "type": "Stock",
     "slots": []
@@ -21160,7 +21160,7 @@
     "image": "/weapons/a-steyr-aug-a3-vltor-5-56x45-receiver.webp",
     "ergo": 3,
     "recoil": -4,
-    "accuracy": -4,
+    "accuracy": 0,
     "weight": 0.7,
     "type": "Receiver",
     "slots": [
@@ -21197,7 +21197,7 @@
     "image": "/weapons/a-ak-50-50-bmg-24-inch-barrel.webp",
     "ergo": -40,
     "recoil": -15,
-    "accuracy": 0.4,
+    "accuracy": 0,
     "weight": 1.62,
     "type": "Barrel",
     "slots": [
@@ -21221,7 +21221,7 @@
     "image": "/weapons/a-ak-50-dust-cover.webp",
     "ergo": 2,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 1.644,
     "type": "Dust cover",
     "slots": [
@@ -21324,7 +21324,7 @@
     "image": "/weapons/a-svt-40-svd-style-stock.webp",
     "ergo": 40,
     "recoil": -20,
-    "accuracy": -20,
+    "accuracy": 0,
     "weight": 1.217,
     "type": "Stock",
     "slots": []
@@ -21335,7 +21335,7 @@
     "image": "/weapons/a-tt-7-62x25-121mm-makeshift-threaded-barrel.webp",
     "ergo": -5,
     "recoil": -3.25,
-    "accuracy": 9.28,
+    "accuracy": 0,
     "weight": 0.062,
     "type": "Barrel",
     "slots": []
@@ -21346,7 +21346,7 @@
     "image": "/weapons/a-vss-wooden-stock.webp",
     "ergo": 8,
     "recoil": -22,
-    "accuracy": -22,
+    "accuracy": 0,
     "weight": 0.59,
     "type": "Stock",
     "slots": []
@@ -21356,7 +21356,7 @@
     "name": "MP-443 Grach 9x19 18-round magazine",
     "image": "/weapons/a-mp-443-grach-9x19-18-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.105,
     "type": "Magazine",
@@ -21400,7 +21400,7 @@
     "name": "TT 7.62x25 tt-105 8-round magazine",
     "image": "/weapons/a-tt-7-62x25-tt-105-8-round-magazine.webp",
     "ergo": -1,
-    "recoil": 1,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.08,
     "type": "Magazine",
@@ -21434,7 +21434,7 @@
     "image": "/weapons/a-toz-106-stock.webp",
     "ergo": 6,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 1.25,
     "type": "Stock",
     "slots": [
@@ -21452,7 +21452,7 @@
     "image": "/weapons/a-mts-20-01-stock.webp",
     "ergo": 7,
     "recoil": -27,
-    "accuracy": -27,
+    "accuracy": 0,
     "weight": 1.25,
     "type": "Stock",
     "slots": []
@@ -21474,7 +21474,7 @@
     "image": "/weapons/a-tt-7-62x25-116mm-gilded-barrel.webp",
     "ergo": -4,
     "recoil": -3,
-    "accuracy": 12.03,
+    "accuracy": 0,
     "weight": 0.06,
     "type": "Barrel",
     "slots": []
@@ -21496,7 +21496,7 @@
     "image": "/weapons/a-tt-dlp-tactical-precision-laser-sight.webp",
     "ergo": -1,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.086,
     "type": "Tactical combo device",
     "slots": []
@@ -21562,7 +21562,7 @@
     "image": "/weapons/a-ks-23-23x75-700mm-barrel.webp",
     "ergo": -10,
     "recoil": -8,
-    "accuracy": 15.47,
+    "accuracy": 0,
     "weight": 1.23,
     "type": "Barrel",
     "slots": []
@@ -21573,7 +21573,7 @@
     "image": "/weapons/a-ks-23-wooden-stock.webp",
     "ergo": 6,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.44,
     "type": "Stock",
     "slots": []
@@ -21606,7 +21606,7 @@
     "image": "/weapons/a-ks-23-23x75-510mm-barrel.webp",
     "ergo": -4,
     "recoil": -4,
-    "accuracy": 25.78,
+    "accuracy": 0,
     "weight": 0.91,
     "type": "Barrel",
     "slots": []
@@ -21760,7 +21760,7 @@
     "image": "/weapons/a-m60e4-7-62x51-458mm-barrel.webp",
     "ergo": -33,
     "recoil": -11.5,
-    "accuracy": 1.24,
+    "accuracy": 0,
     "weight": 2.1,
     "type": "Barrel",
     "slots": [
@@ -21801,7 +21801,7 @@
     "image": "/weapons/a-m60e6-7-62x51-458mm-barrel.webp",
     "ergo": -33,
     "recoil": -11.5,
-    "accuracy": 1.24,
+    "accuracy": 0,
     "weight": 2,
     "type": "Barrel",
     "slots": [
@@ -22006,7 +22006,7 @@
     "image": "/weapons/a-m60-bipod.webp",
     "ergo": -8,
     "recoil": -80,
-    "accuracy": -80,
+    "accuracy": 0,
     "weight": 0.537,
     "type": "Bipod",
     "slots": []
@@ -22017,7 +22017,7 @@
     "image": "/weapons/a-komz-rusak-reflex-sight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.24,
     "type": "Reflex sight",
     "slots": []
@@ -22039,7 +22039,7 @@
     "image": "/weapons/a-ar-15-5-56x45-10-3-inch-barrel.webp",
     "ergo": -2,
     "recoil": -5.2,
-    "accuracy": 2.41,
+    "accuracy": 0,
     "weight": 0.409,
     "type": "Barrel",
     "slots": []
@@ -22050,7 +22050,7 @@
     "image": "/weapons/a-ar-15-5-56x45-14-5-inch-barrel.webp",
     "ergo": -12,
     "recoil": -7.4,
-    "accuracy": 1.82,
+    "accuracy": 0,
     "weight": 0.509,
     "type": "Barrel",
     "slots": []
@@ -22127,7 +22127,7 @@
     "image": "/weapons/a-ar-15-5-56x45-molot-arms-16-inch-barrel.webp",
     "ergo": -16,
     "recoil": -8.1,
-    "accuracy": 2.2,
+    "accuracy": 0,
     "weight": 0.594,
     "type": "Barrel",
     "slots": []
@@ -22259,7 +22259,7 @@
     "image": "/weapons/a-ar-15-5-56x45-18-inch-barrel.webp",
     "ergo": -26,
     "recoil": -9.1,
-    "accuracy": 1.41,
+    "accuracy": 0,
     "weight": 0.78,
     "type": "Barrel",
     "slots": []
@@ -22270,7 +22270,7 @@
     "image": "/weapons/a-ar-15-5-56x45-20-inch-barrel.webp",
     "ergo": -29,
     "recoil": -10.2,
-    "accuracy": 1.1,
+    "accuracy": 0,
     "weight": 0.91,
     "type": "Barrel",
     "slots": []
@@ -22280,7 +22280,7 @@
     "name": "AR-15 Geissele SMR MK16 9.5 inch M-LOK handguard (DDC)",
     "image": "/weapons/a-ar-15-geissele-smr-mk16-9-5-inch-m-lok-handguard-ddc.webp",
     "ergo": 15.5,
-    "recoil": -0.4,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.335,
     "type": "Handguard",
@@ -22302,7 +22302,7 @@
     "name": "AR-15 Soyuz-TM 9 inch M-LOK handguard",
     "image": "/weapons/a-ar-15-soyuz-tm-9-inch-m-lok-handguard.webp",
     "ergo": 14.5,
-    "recoil": -2.2,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.155,
     "type": "Handguard",
@@ -22324,7 +22324,7 @@
     "name": "AR-15 Soyuz-TM 12 inch M-LOK handguard",
     "image": "/weapons/a-ar-15-soyuz-tm-12-inch-m-lok-handguard.webp",
     "ergo": 18,
-    "recoil": -1.8,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.2,
     "type": "Handguard",
@@ -22479,7 +22479,7 @@
     "image": "/weapons/a-ar-15-5-56x45-a2-type-20-inch-barrel.webp",
     "ergo": -32,
     "recoil": -10.2,
-    "accuracy": 1.24,
+    "accuracy": 0,
     "weight": 0.96,
     "type": "Barrel",
     "slots": []
@@ -22490,7 +22490,7 @@
     "image": "/weapons/a-ar-15-5-56x45-11-5-inch-barrel.webp",
     "ergo": -4,
     "recoil": -5.8,
-    "accuracy": 2.13,
+    "accuracy": 0,
     "weight": 0.581,
     "type": "Barrel",
     "slots": []
@@ -22501,7 +22501,7 @@
     "image": "/weapons/a-ar-15-5-56x45-centurion-arms-mk12-18-inch-barrel.webp",
     "ergo": -28,
     "recoil": -9.1,
-    "accuracy": 0.89,
+    "accuracy": 0,
     "weight": 1.1,
     "type": "Barrel",
     "slots": []
@@ -22512,7 +22512,7 @@
     "image": "/weapons/a-ar-15-5-56x45-centurion-arms-mk12-16-inch-barrel.webp",
     "ergo": -15,
     "recoil": -8.1,
-    "accuracy": 0.96,
+    "accuracy": 0,
     "weight": 1.1,
     "type": "Barrel",
     "slots": []
@@ -22589,7 +22589,7 @@
     "image": "/weapons/a-armacon-baskak-stock.webp",
     "ergo": 16,
     "recoil": -19,
-    "accuracy": -19,
+    "accuracy": 0,
     "weight": 0.27,
     "type": "Stock",
     "slots": []
@@ -22611,7 +22611,7 @@
     "image": "/weapons/a-ar-15-high-standard-m4ss-stock.webp",
     "ergo": 6,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.24,
     "type": "Stock",
     "slots": []
@@ -22644,7 +22644,7 @@
     "image": "/weapons/a-hensoldt-ff-4-16x56-34mm-riflescope.webp",
     "ergo": -6,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.9,
     "type": "Scope",
     "slots": []
@@ -22666,7 +22666,7 @@
     "image": "/weapons/a-ar-15-mft-bus-stock.webp",
     "ergo": 7,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.255,
     "type": "Stock",
     "slots": []
@@ -22677,7 +22677,7 @@
     "image": "/weapons/a-ak-gp-25-accessory-kit-recoil-pad.webp",
     "ergo": 1,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.155,
     "type": "Stock",
     "slots": []
@@ -22688,7 +22688,7 @@
     "image": "/weapons/a-ar-15-fab-defense-gl-shock-buttstock.webp",
     "ergo": 4,
     "recoil": -22.5,
-    "accuracy": -22.5,
+    "accuracy": 0,
     "weight": 0.308,
     "type": "Stock",
     "slots": []
@@ -22710,7 +22710,7 @@
     "image": "/weapons/a-ar-15-lmt-sopmod-stock.webp",
     "ergo": 5,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.148,
     "type": "Stock",
     "slots": []
@@ -22721,7 +22721,7 @@
     "image": "/weapons/a-ar-15-vltor-emod-stock.webp",
     "ergo": 7,
     "recoil": -21.5,
-    "accuracy": -21.5,
+    "accuracy": 0,
     "weight": 0.39,
     "type": "Stock",
     "slots": []
@@ -22732,7 +22732,7 @@
     "image": "/weapons/a-ar-15-hk-slim-line-buttstock.webp",
     "ergo": 10,
     "recoil": -21.5,
-    "accuracy": -21.5,
+    "accuracy": 0,
     "weight": 0.695,
     "type": "Stock",
     "slots": []
@@ -22809,7 +22809,7 @@
     "image": "/weapons/a-kmz-1p59-3-10x-riflescope.webp",
     "ergo": -8,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.94,
     "type": "Scope",
     "slots": []
@@ -22820,7 +22820,7 @@
     "image": "/weapons/a-kmz-1p69-3-10x-riflescope.webp",
     "ergo": -8,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.94,
     "type": "Scope",
     "slots": []
@@ -22842,7 +22842,7 @@
     "image": "/weapons/a-mesa-tactical-crosshair-hydraulic-buffer-tube.webp",
     "ergo": -1.5,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.19,
     "type": "Stock",
     "slots": []
@@ -22941,7 +22941,7 @@
     "image": "/weapons/a-npz-1p78-1-2-8x-scope.webp",
     "ergo": -6,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.6,
     "type": "Scope",
     "slots": []
@@ -22974,7 +22974,7 @@
     "image": "/weapons/a-ai-axmc-ax-buttstock.webp",
     "ergo": 4,
     "recoil": -19,
-    "accuracy": -19,
+    "accuracy": 0,
     "weight": 0.52,
     "type": "Stock",
     "slots": []
@@ -22985,7 +22985,7 @@
     "image": "/weapons/a-ai-axmc-338-lm-chassis.webp",
     "ergo": 4,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.31,
     "type": "Chassis",
     "slots": []
@@ -22996,7 +22996,7 @@
     "image": "/weapons/a-ar-15-sb-tactical-sba3-brace.webp",
     "ergo": 8,
     "recoil": -18,
-    "accuracy": -18,
+    "accuracy": 0,
     "weight": 0.191,
     "type": "Stock",
     "slots": []
@@ -23018,7 +23018,7 @@
     "image": "/weapons/a-ar-15-magpul-moe-sl-k-buttstock-coyote-tan.webp",
     "ergo": 8,
     "recoil": -22,
-    "accuracy": -22,
+    "accuracy": 0,
     "weight": 0.226,
     "type": "Stock",
     "slots": []
@@ -23139,7 +23139,7 @@
     "image": "/weapons/a-march-tactical-3-24x42-ffp-30mm-riflescope.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.64,
     "type": "Scope",
     "slots": []
@@ -23150,7 +23150,7 @@
     "image": "/weapons/a-leupold-deltapoint-reflex-sight.webp",
     "ergo": 0,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.053,
     "type": "Compact reflex sight",
     "slots": []
@@ -23183,7 +23183,7 @@
     "image": "/weapons/a-trijicon-acog-ta11d-3-5x35-scope.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.396,
     "type": "Assault scope",
     "slots": []
@@ -23194,7 +23194,7 @@
     "image": "/weapons/a-trijicon-reap-ir-thermal-scope.webp",
     "ergo": -13,
     "recoil": 0,
-    "accuracy": 2,
+    "accuracy": 0,
     "weight": 0.58,
     "type": "Thermal vision sight",
     "slots": []
@@ -23205,7 +23205,7 @@
     "image": "/weapons/a-leupold-mark-4-lr-6-5-20x50-30mm-riflescope.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.62,
     "type": "Scope",
     "slots": []
@@ -23216,7 +23216,7 @@
     "image": "/weapons/a-nightforce-atacr-7-35x56-34mm-riflescope.webp",
     "ergo": -8,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 1.113,
     "type": "Scope",
     "slots": []
@@ -23227,7 +23227,7 @@
     "image": "/weapons/a-eotech-vudu-1-6x24-30mm-riflescope.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.57,
     "type": "Scope",
     "slots": []
@@ -23238,7 +23238,7 @@
     "image": "/weapons/a-burris-fullfield-tac30-1-4x24-30mm-riflescope.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.48,
     "type": "Scope",
     "slots": []
@@ -23293,7 +23293,7 @@
     "image": "/weapons/a-kiba-arms-short-prism-2-5x-scope.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.322,
     "type": "Assault scope",
     "slots": []
@@ -23337,7 +23337,7 @@
     "image": "/weapons/a-mp9-9x19-sound-suppressor.webp",
     "ergo": -10,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.29,
     "type": "Suppressor",
     "slots": []
@@ -23392,7 +23392,7 @@
     "image": "/weapons/a-ar-15-fab-defense-gl-core-buttstock.webp",
     "ergo": 11,
     "recoil": -21,
-    "accuracy": -21,
+    "accuracy": 0,
     "weight": 0.271,
     "type": "Stock",
     "slots": []
@@ -23403,7 +23403,7 @@
     "image": "/weapons/a-ar-15-cmmg-ripstock-buttstock.webp",
     "ergo": 15,
     "recoil": -19,
-    "accuracy": -19,
+    "accuracy": 0,
     "weight": 0.28,
     "type": "Stock",
     "slots": []
@@ -23414,7 +23414,7 @@
     "image": "/weapons/a-mk47-254mm-barrel.webp",
     "ergo": -5,
     "recoil": -4.6,
-    "accuracy": 2.61,
+    "accuracy": 0,
     "weight": 0.47,
     "type": "Barrel",
     "slots": []
@@ -23425,7 +23425,7 @@
     "image": "/weapons/a-mk47-409mm-barrel.webp",
     "ergo": -13,
     "recoil": -7.4,
-    "accuracy": 1.72,
+    "accuracy": 0,
     "weight": 1.13,
     "type": "Barrel",
     "slots": []
@@ -23480,7 +23480,7 @@
     "image": "/weapons/a-schmidt-bender-pm-ii-3-20x50-34mm-riflescope.webp",
     "ergo": -6,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.9,
     "type": "Scope",
     "slots": []
@@ -23491,7 +23491,7 @@
     "image": "/weapons/a-vortex-razor-hd-gen-2-1-6x24-30mm-riflescope.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.57,
     "type": "Scope",
     "slots": []
@@ -23502,7 +23502,7 @@
     "image": "/weapons/a-schmidt-bender-pm-ii-1-8x24-30mm-riflescope.webp",
     "ergo": -3,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.9,
     "type": "Scope",
     "slots": []
@@ -23513,7 +23513,7 @@
     "image": "/weapons/a-schmidt-bender-pm-ii-5-25x56-34mm-riflescope.webp",
     "ergo": -8,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 1.08,
     "type": "Scope",
     "slots": []
@@ -23546,7 +23546,7 @@
     "image": "/weapons/a-bt10-v8-atlas-bipod.webp",
     "ergo": -3,
     "recoil": -65,
-    "accuracy": -65,
+    "accuracy": 0,
     "weight": 0.312,
     "type": "Bipod",
     "slots": []
@@ -23579,7 +23579,7 @@
     "image": "/weapons/a-nl545-gp-5-45x39-16-5-inch-barrel.webp",
     "ergo": -19,
     "recoil": -5.6,
-    "accuracy": 1.31,
+    "accuracy": 0,
     "weight": 0.78,
     "type": "Barrel",
     "slots": []
@@ -23590,7 +23590,7 @@
     "image": "/weapons/a-nl545-gp-5-45x39-11-5-inch-barrel.webp",
     "ergo": -6,
     "recoil": -2.1,
-    "accuracy": 1.99,
+    "accuracy": 0,
     "weight": 0.78,
     "type": "Barrel",
     "slots": []
@@ -23667,7 +23667,7 @@
     "image": "/weapons/a-ar-15-fab-defense-gl-core-s-buttstock-redline.webp",
     "ergo": 12.5,
     "recoil": -20.5,
-    "accuracy": -20.5,
+    "accuracy": 0,
     "weight": 0.21,
     "type": "Stock",
     "slots": []
@@ -24008,7 +24008,7 @@
     "image": "/weapons/a-ar-15-kac-qdc-5-56x45-3-prong-flash-eliminator.webp",
     "ergo": -1.5,
     "recoil": -6,
-    "accuracy": -6,
+    "accuracy": 0,
     "weight": 0.065,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -24052,7 +24052,7 @@
     "image": "/weapons/a-ar-15-alientech-5-56x45-muzzle-brake.webp",
     "ergo": -4,
     "recoil": -10,
-    "accuracy": -10,
+    "accuracy": 0,
     "weight": 0.085,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -24074,7 +24074,7 @@
     "image": "/weapons/a-sig-sauer-tango6t-1-6x24-30mm-riflescope.webp",
     "ergo": -4,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.626,
     "type": "Scope",
     "slots": []
@@ -24096,7 +24096,7 @@
     "image": "/weapons/a-ar-15-doublestar-carlson-tac-comp-5-56x45-compensator.webp",
     "ergo": -3.5,
     "recoil": -9.5,
-    "accuracy": -9.5,
+    "accuracy": 0,
     "weight": 0.208,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -24107,7 +24107,7 @@
     "image": "/weapons/a-ar-15-delta-tek-dtk-m16-5-56x45-muzzle-brake.webp",
     "ergo": -2,
     "recoil": -8,
-    "accuracy": -8,
+    "accuracy": 0,
     "weight": 0.125,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -24140,7 +24140,7 @@
     "image": "/weapons/a-nl545-di-5-45x39-16-3-inch-barrel.webp",
     "ergo": -16.5,
     "recoil": -5,
-    "accuracy": 1.38,
+    "accuracy": 0,
     "weight": 0.78,
     "type": "Barrel",
     "slots": []
@@ -24184,7 +24184,7 @@
     "image": "/weapons/a-leupold-mark-4-mr-t-ts-30a2-2-5-8x36-30mm-riflescope.webp",
     "ergo": -3.5,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.453,
     "type": "Scope",
     "slots": []
@@ -24217,7 +24217,7 @@
     "image": "/weapons/a-irbis-gun-45al-foregrip.webp",
     "ergo": 6,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.158,
     "type": "Foregrip",
     "slots": []
@@ -24415,7 +24415,7 @@
     "image": "/weapons/a-hk-416-5-56x45-11-inch-barrel.webp",
     "ergo": -4,
     "recoil": -5.6,
-    "accuracy": 2.41,
+    "accuracy": 0,
     "weight": 0.615,
     "type": "Barrel",
     "slots": []
@@ -24426,7 +24426,7 @@
     "image": "/weapons/a-hk-416-5-56x45-14-5-inch-barrel-with-flip-up-front-sight.webp",
     "ergo": -12,
     "recoil": -7.4,
-    "accuracy": 1.89,
+    "accuracy": 0,
     "weight": 0.985,
     "type": "Barrel",
     "slots": []
@@ -24437,7 +24437,7 @@
     "image": "/weapons/a-hk-416-5-56x45-16-5-inch-barrel-with-flip-up-front-sight.webp",
     "ergo": -17,
     "recoil": -8.4,
-    "accuracy": 1.55,
+    "accuracy": 0,
     "weight": 1.05,
     "type": "Barrel",
     "slots": []
@@ -24448,7 +24448,7 @@
     "image": "/weapons/a-hk-416-5-56x45-20-inch-barrel-with-flip-up-front-sight.webp",
     "ergo": -30,
     "recoil": -10.1,
-    "accuracy": 1.1,
+    "accuracy": 0,
     "weight": 1.2,
     "type": "Barrel",
     "slots": []
@@ -24459,7 +24459,7 @@
     "image": "/weapons/a-hk-416-5-56x45-10-6-inch-barrel.webp",
     "ergo": -3,
     "recoil": -5.3,
-    "accuracy": 2.51,
+    "accuracy": 0,
     "weight": 0.572,
     "type": "Barrel",
     "slots": []
@@ -24536,7 +24536,7 @@
     "image": "/weapons/a-hk417-7-62x51-16-5-inch-barrel.webp",
     "ergo": -23,
     "recoil": -10.5,
-    "accuracy": 1.13,
+    "accuracy": 0,
     "weight": 0.572,
     "type": "Barrel",
     "slots": []
@@ -24558,7 +24558,7 @@
     "image": "/weapons/a-fn-scar-h-7-62x51-13-inch-barrel.webp",
     "ergo": -8,
     "recoil": -9.9,
-    "accuracy": 2.23,
+    "accuracy": 0,
     "weight": 1.02,
     "type": "Barrel",
     "slots": []
@@ -24569,7 +24569,7 @@
     "image": "/weapons/a-fn-scar-h-7-62x51-16-inch-barrel.webp",
     "ergo": -18,
     "recoil": -12.2,
-    "accuracy": 1.72,
+    "accuracy": 0,
     "weight": 1.12,
     "type": "Barrel",
     "slots": []
@@ -24580,7 +24580,7 @@
     "image": "/weapons/a-fn-scar-h-7-62x51-20-inch-barrel.webp",
     "ergo": -31,
     "recoil": -15.2,
-    "accuracy": 1.24,
+    "accuracy": 0,
     "weight": 1.26,
     "type": "Barrel",
     "slots": []
@@ -24602,7 +24602,7 @@
     "image": "/weapons/a-fn-scar-l-5-56x45-10-inch-barrel.webp",
     "ergo": -3,
     "recoil": -5.1,
-    "accuracy": 2.68,
+    "accuracy": 0,
     "weight": 0.9,
     "type": "Barrel",
     "slots": []
@@ -24613,7 +24613,7 @@
     "image": "/weapons/a-fn-scar-l-5-56x45-14-inch-barrel.webp",
     "ergo": -11,
     "recoil": -7.1,
-    "accuracy": 1.99,
+    "accuracy": 0,
     "weight": 1,
     "type": "Barrel",
     "slots": []
@@ -24624,7 +24624,7 @@
     "image": "/weapons/a-fn-scar-l-5-56x45-18-inch-barrel.webp",
     "ergo": -26,
     "recoil": -9.1,
-    "accuracy": 1.55,
+    "accuracy": 0,
     "weight": 1.05,
     "type": "Barrel",
     "slots": []
@@ -24778,7 +24778,7 @@
     "image": "/weapons/a-surefire-socom556-monster-5-56x45-sound-suppressor.webp",
     "ergo": -14,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.496,
     "type": "Suppressor",
     "slots": []
@@ -24789,7 +24789,7 @@
     "image": "/weapons/a-ar-15-daniel-defense-mk12-low-profile-gas-block.webp",
     "ergo": 1,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.053,
     "type": "Gas block",
     "slots": []
@@ -24811,7 +24811,7 @@
     "image": "/weapons/a-surefire-socom556-mini-monster-5-56x45-sound-suppressor.webp",
     "ergo": -9,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.413,
     "type": "Suppressor",
     "slots": []
@@ -24822,7 +24822,7 @@
     "image": "/weapons/a-silencerco-hybrid-46-multi-caliber-sound-suppressor.webp",
     "ergo": -17,
     "recoil": -7,
-    "accuracy": -7,
+    "accuracy": 0,
     "weight": 0.49,
     "type": "Suppressor",
     "slots": []
@@ -24833,7 +24833,7 @@
     "image": "/weapons/a-hk-mp5sd-9x19-sound-suppressor.webp",
     "ergo": -5,
     "recoil": -8,
-    "accuracy": -8,
+    "accuracy": 0,
     "weight": 0.496,
     "type": "Suppressor",
     "slots": []
@@ -24865,7 +24865,7 @@
     "name": "HK MP5 3-lug muzzle adapter",
     "image": "/weapons/a-hk-mp5-3-lug-muzzle-adapter.webp",
     "ergo": 2,
-    "recoil": -2,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.08,
     "type": "Muzzle adapter",
@@ -24888,7 +24888,7 @@
     "image": "/weapons/a-hk-mp5-a3-old-model-stock.webp",
     "ergo": 7,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.67,
     "type": "Stock",
     "slots": []
@@ -24899,7 +24899,7 @@
     "image": "/weapons/a-hk-mp5-a2-stock.webp",
     "ergo": 6,
     "recoil": -24,
-    "accuracy": -24,
+    "accuracy": 0,
     "weight": 0.37,
     "type": "Stock",
     "slots": []
@@ -24932,7 +24932,7 @@
     "image": "/weapons/a-ar-10-jp-enterprises-gas-system-6.webp",
     "ergo": -2,
     "recoil": -4,
-    "accuracy": -4,
+    "accuracy": 0,
     "weight": 0.218,
     "type": "Gas block",
     "slots": []
@@ -24964,7 +24964,7 @@
     "name": "M4A1 front sight with gas block",
     "image": "/weapons/a-m4a1-front-sight-with-gas-block.webp",
     "ergo": -1,
-    "recoil": -0.5,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.15,
     "type": "Gas block",
@@ -25042,7 +25042,7 @@
     "image": "/weapons/a-hk-mp5k-polymer-handguard.webp",
     "ergo": 10,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.17,
     "type": "Handguard",
     "slots": []
@@ -25053,7 +25053,7 @@
     "image": "/weapons/a-surefire-socom556-rc2-5-56x45-sound-suppressor.webp",
     "ergo": -12,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.482,
     "type": "Suppressor",
     "slots": []
@@ -25130,7 +25130,7 @@
     "image": "/weapons/a-hk-g36-bipod.webp",
     "ergo": -4,
     "recoil": -80,
-    "accuracy": -80,
+    "accuracy": 0,
     "weight": 0.226,
     "type": "Bipod",
     "slots": []
@@ -25141,7 +25141,7 @@
     "image": "/weapons/a-hensoldt-rv-red-dot-sight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.227,
     "type": "Reflex sight",
     "slots": []
@@ -25306,7 +25306,7 @@
     "image": "/weapons/a-ak-50-m-lok-handguard-with-gas-tube.webp",
     "ergo": 2,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.729,
     "type": "Gas block",
     "slots": []
@@ -25328,7 +25328,7 @@
     "image": "/weapons/a-ar-15-windham-weaponry-rail-gas-block.webp",
     "ergo": 0,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Gas block",
     "slots": []
@@ -25449,7 +25449,7 @@
     "image": "/weapons/a-ar-15-jp-enterprises-gas-system-5b.webp",
     "ergo": -1,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.064,
     "type": "Gas block",
     "slots": []
@@ -25471,7 +25471,7 @@
     "image": "/weapons/a-sr-25-7-62x51-20-inch-barrel.webp",
     "ergo": -34,
     "recoil": -12.7,
-    "accuracy": 1.13,
+    "accuracy": 0,
     "weight": 1.6,
     "type": "Barrel",
     "slots": []
@@ -25482,7 +25482,7 @@
     "image": "/weapons/a-sr-25-7-62x51-16-inch-barrel.webp",
     "ergo": -17,
     "recoil": -10.2,
-    "accuracy": 1.55,
+    "accuracy": 0,
     "weight": 1.02,
     "type": "Barrel",
     "slots": []
@@ -25493,7 +25493,7 @@
     "image": "/weapons/a-ar-10-kac-low-profile-gas-block.webp",
     "ergo": -1,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.049,
     "type": "Gas block",
     "slots": []
@@ -25514,7 +25514,7 @@
     "name": "RFB thread protector",
     "image": "/weapons/a-rfb-thread-protector.webp",
     "ergo": 1,
-    "recoil": -2,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.01,
     "type": "Muzzle adapter",
@@ -25537,7 +25537,7 @@
     "image": "/weapons/a-mcx-gas-block.webp",
     "ergo": -1,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.049,
     "type": "Gas block",
     "slots": []
@@ -25570,7 +25570,7 @@
     "image": "/weapons/a-ar-10-cmmg-low-profile-gas-block.webp",
     "ergo": -1,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.095,
     "type": "Gas block",
     "slots": []
@@ -25581,7 +25581,7 @@
     "image": "/weapons/a-hk417-low-profile-gas-block.webp",
     "ergo": -1,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.12,
     "type": "Gas block",
     "slots": []
@@ -25636,7 +25636,7 @@
     "image": "/weapons/a-ar-15-ballistic-advantage-lo-pro-gas-block.webp",
     "ergo": 1,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.053,
     "type": "Gas block",
     "slots": []
@@ -25691,7 +25691,7 @@
     "image": "/weapons/a-9a-91-9x39-sound-suppressor.webp",
     "ergo": -4,
     "recoil": -14,
-    "accuracy": -14,
+    "accuracy": 0,
     "weight": 0.496,
     "type": "Suppressor",
     "slots": []
@@ -25713,7 +25713,7 @@
     "image": "/weapons/a-mcx-spear-adjustable-gas-piston.webp",
     "ergo": -1,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.049,
     "type": "Gas block",
     "slots": []
@@ -25790,7 +25790,7 @@
     "image": "/weapons/a-ar-15-slr-rifleworks-sentry-7-gas-block.webp",
     "ergo": -0.5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.04,
     "type": "Gas block",
     "slots": []
@@ -25801,7 +25801,7 @@
     "image": "/weapons/a-nl545-gas-block.webp",
     "ergo": -1,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.064,
     "type": "Gas block",
     "slots": []
@@ -25823,7 +25823,7 @@
     "image": "/weapons/a-ar-15-precision-reflex-mk12-gen-1-flip-up-front-sight-gas-block.webp",
     "ergo": 0.5,
     "recoil": -1.5,
-    "accuracy": -1.5,
+    "accuracy": 0,
     "weight": 0.14,
     "type": "Gas block",
     "slots": []
@@ -25856,7 +25856,7 @@
     "image": "/weapons/a-mcx-cal-x-mid-piston-gas-block.webp",
     "ergo": -6,
     "recoil": -3.5,
-    "accuracy": -3.5,
+    "accuracy": 0,
     "weight": 0.049,
     "type": "Gas block",
     "slots": []
@@ -25867,7 +25867,7 @@
     "image": "/weapons/a-ar-10-kac-m110-double-high-picatinny-gas-block.webp",
     "ergo": -2,
     "recoil": -2.5,
-    "accuracy": -2.5,
+    "accuracy": 0,
     "weight": 0.116,
     "type": "Gas block",
     "slots": []
@@ -25911,7 +25911,7 @@
     "image": "/weapons/a-sks-tapco-intrafuse-buffer-tube.webp",
     "ergo": -2,
     "recoil": -0.5,
-    "accuracy": -0.5,
+    "accuracy": 0,
     "weight": 0.19,
     "type": "Stock",
     "slots": []
@@ -25922,7 +25922,7 @@
     "image": "/weapons/a-sks-tapco-intrafuse-saw-style-pistol-grip.webp",
     "ergo": 3,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.09,
     "type": "Pistol grip",
     "slots": []
@@ -25955,7 +25955,7 @@
     "image": "/weapons/a-mosin-rifle-aim-sports-recoil-pad.webp",
     "ergo": 9,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.2,
     "type": "Stock",
     "slots": []
@@ -26054,7 +26054,7 @@
     "image": "/weapons/a-m700-ab-arms-mod-x-gen-3-keymod-handguard.webp",
     "ergo": 10,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.39,
     "type": "Handguard",
     "slots": []
@@ -26065,7 +26065,7 @@
     "image": "/weapons/a-m700-magpul-pro-700-folding-stock.webp",
     "ergo": 20,
     "recoil": -18,
-    "accuracy": -18,
+    "accuracy": 0,
     "weight": 0.4,
     "type": "Stock",
     "slots": []
@@ -26076,7 +26076,7 @@
     "image": "/weapons/a-m700-magpul-pro-700-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.08,
     "type": "Pistol grip",
     "slots": []
@@ -26120,7 +26120,7 @@
     "image": "/weapons/a-mosin-rifle-tiger-rock-7-62x51-thread-adapter.webp",
     "ergo": 0,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.07,
     "type": "Muzzle adapter",
     "slots": []
@@ -26131,7 +26131,7 @@
     "image": "/weapons/a-sks-vz-58-fab-defense-ag-58-pistol-grip.webp",
     "ergo": 5,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.113,
     "type": "Pistol grip",
     "slots": []
@@ -26186,7 +26186,7 @@
     "image": "/weapons/a-mp-155-ultima-polymer-stock.webp",
     "ergo": 9,
     "recoil": -25,
-    "accuracy": -25,
+    "accuracy": 0,
     "weight": 0.31,
     "type": "Stock",
     "slots": []
@@ -26274,7 +26274,7 @@
     "image": "/weapons/a-aa-12-12ga-choke.webp",
     "ergo": 0,
     "recoil": -3,
-    "accuracy": -3,
+    "accuracy": 0,
     "weight": 0.101,
     "type": "Muzzle adapter",
     "slots": []
@@ -26450,7 +26450,7 @@
     "image": "/weapons/a-mpx-9x19-8-inch-barrel.webp",
     "ergo": -6,
     "recoil": -5.1,
-    "accuracy": 5.16,
+    "accuracy": 0,
     "weight": 0.25,
     "type": "Barrel",
     "slots": []
@@ -26461,7 +26461,7 @@
     "image": "/weapons/a-mpx-sd-9x19-6-5-inch-ported-barrel.webp",
     "ergo": -3,
     "recoil": -4.1,
-    "accuracy": 6.19,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -26516,7 +26516,7 @@
     "image": "/weapons/a-mpx-9x19-4-5-inch-barrel.webp",
     "ergo": -2,
     "recoil": -2.9,
-    "accuracy": 8.59,
+    "accuracy": 0,
     "weight": 0.16,
     "type": "Barrel",
     "slots": []
@@ -26527,7 +26527,7 @@
     "image": "/weapons/a-mpx-9x19-6-5-inch-barrel.webp",
     "ergo": -3,
     "recoil": -4.1,
-    "accuracy": 6.88,
+    "accuracy": 0,
     "weight": 0.19,
     "type": "Barrel",
     "slots": []
@@ -26538,7 +26538,7 @@
     "image": "/weapons/a-mpx-9x19-10-5-inch-barrel.webp",
     "ergo": -9,
     "recoil": -6.6,
-    "accuracy": 4.3,
+    "accuracy": 0,
     "weight": 0.28,
     "type": "Barrel",
     "slots": []
@@ -26549,7 +26549,7 @@
     "image": "/weapons/a-mpx-9x19-14-inch-barrel.webp",
     "ergo": -14,
     "recoil": -8.9,
-    "accuracy": 1.38,
+    "accuracy": 0,
     "weight": 0.35,
     "type": "Barrel",
     "slots": []
@@ -26615,7 +26615,7 @@
     "image": "/weapons/a-kac-urx-3-3-1-stopper-panel.webp",
     "ergo": 10,
     "recoil": -1,
-    "accuracy": -1,
+    "accuracy": 0,
     "weight": 0.005,
     "type": "Auxiliary part",
     "slots": []
@@ -26648,7 +26648,7 @@
     "image": "/weapons/a-mcx-300-blk-6-75-inch-barrel.webp",
     "ergo": 0,
     "recoil": -3.1,
-    "accuracy": 3.27,
+    "accuracy": 0,
     "weight": 0.409,
     "type": "Barrel",
     "slots": []
@@ -26681,7 +26681,7 @@
     "image": "/weapons/a-mcx-300-blk-9-inch-barrel.webp",
     "ergo": -4,
     "recoil": -4.1,
-    "accuracy": 2.75,
+    "accuracy": 0,
     "weight": 0.479,
     "type": "Barrel",
     "slots": []
@@ -26780,7 +26780,7 @@
     "image": "/weapons/a-mcx-spear-6-8x51-13-inch-barrel.webp",
     "ergo": -13,
     "recoil": -6,
-    "accuracy": 1.48,
+    "accuracy": 0,
     "weight": 0.479,
     "type": "Barrel",
     "slots": []
@@ -26813,7 +26813,7 @@
     "image": "/weapons/a-mpx-9x19-ronin-arms-4-75-inch-ported-sd-barrel.webp",
     "ergo": -2,
     "recoil": -3,
-    "accuracy": 8.35,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -26824,7 +26824,7 @@
     "image": "/weapons/a-mpx-9x19-ronin-arms-6-75-inch-ported-sd-barrel.webp",
     "ergo": -3,
     "recoil": -4.3,
-    "accuracy": 6.6,
+    "accuracy": 0,
     "weight": 0.18,
     "type": "Barrel",
     "slots": []
@@ -26923,7 +26923,7 @@
     "image": "/weapons/a-mcx-300-blk-16-inch-barrel.webp",
     "ergo": -13,
     "recoil": -7.3,
-    "accuracy": 1.99,
+    "accuracy": 0,
     "weight": 0.526,
     "type": "Barrel",
     "slots": []
@@ -26989,7 +26989,7 @@
     "image": "/weapons/a-ak-zenit-pt-3-klassika-stock.webp",
     "ergo": 12,
     "recoil": -24.5,
-    "accuracy": -24.5,
+    "accuracy": 0,
     "weight": 0.218,
     "type": "Stock",
     "slots": []
@@ -27022,7 +27022,7 @@
     "image": "/weapons/a-m14-sage-international-m14alcs-mod-0-stock.webp",
     "ergo": 20,
     "recoil": -19,
-    "accuracy": -19,
+    "accuracy": 0,
     "weight": 1.004,
     "type": "Stock",
     "slots": []
@@ -27077,7 +27077,7 @@
     "image": "/weapons/a-ak-zenit-pt-1-klassika-stock.webp",
     "ergo": 7,
     "recoil": -25,
-    "accuracy": -25,
+    "accuracy": 0,
     "weight": 0.29,
     "type": "Stock",
     "slots": []
@@ -27132,7 +27132,7 @@
     "image": "/weapons/a-kac-prs-qdc-7-62x51-sound-suppressor.webp",
     "ergo": -18,
     "recoil": -3.5,
-    "accuracy": -3.5,
+    "accuracy": 0,
     "weight": 0.59,
     "type": "Suppressor",
     "slots": []
@@ -27175,7 +27175,7 @@
     "name": "KRISS Vector 9x19 thread protector",
     "image": "/weapons/a-kriss-vector-9x19-thread-protector.webp",
     "ergo": 2,
-    "recoil": -4,
+    "recoil": 0,
     "accuracy": 0,
     "weight": 0.01,
     "type": "Muzzle adapter",
@@ -27209,7 +27209,7 @@
     "image": "/weapons/a-sig-sauer-srd762-qd-7-62x51-sound-suppressor.webp",
     "ergo": -15,
     "recoil": -2,
-    "accuracy": -2,
+    "accuracy": 0,
     "weight": 0.46,
     "type": "Suppressor",
     "slots": []
@@ -27220,7 +27220,7 @@
     "image": "/weapons/a-stm-9-9x19-10-5-inch-barrel.webp",
     "ergo": -2,
     "recoil": -6.7,
-    "accuracy": 3.78,
+    "accuracy": 0,
     "weight": 0.409,
     "type": "Barrel",
     "slots": []
@@ -27231,7 +27231,7 @@
     "image": "/weapons/a-stm-9-9x19-12-inch-barrel.webp",
     "ergo": -3,
     "recoil": -7.6,
-    "accuracy": 2.58,
+    "accuracy": 0,
     "weight": 0.5,
     "type": "Barrel",
     "slots": []
@@ -27242,7 +27242,7 @@
     "image": "/weapons/a-stm-9-9x19-14-inch-barrel.webp",
     "ergo": -7,
     "recoil": -8.9,
-    "accuracy": 1.89,
+    "accuracy": 0,
     "weight": 0.6,
     "type": "Barrel",
     "slots": []
@@ -27253,7 +27253,7 @@
     "image": "/weapons/a-stm-9-9x19-16-inch-barrel.webp",
     "ergo": -10,
     "recoil": -10.2,
-    "accuracy": 1.55,
+    "accuracy": 0,
     "weight": 0.8,
     "type": "Barrel",
     "slots": []
@@ -27286,7 +27286,7 @@
     "image": "/weapons/a-steyr-aug-a1-5-56x45-20-inch-barrel.webp",
     "ergo": -25,
     "recoil": -10.2,
-    "accuracy": 1.24,
+    "accuracy": 0,
     "weight": 0.83,
     "type": "Barrel",
     "slots": []
@@ -27297,7 +27297,7 @@
     "image": "/weapons/a-steyr-aug-a1-5-56x45-16-inch-barrel.webp",
     "ergo": -14,
     "recoil": -8.3,
-    "accuracy": 1.65,
+    "accuracy": 0,
     "weight": 0.535,
     "type": "Barrel",
     "slots": []
@@ -27308,7 +27308,7 @@
     "image": "/weapons/a-steyr-aug-a3-5-56x45-16-inch-barrel.webp",
     "ergo": -14,
     "recoil": -8.3,
-    "accuracy": 1.58,
+    "accuracy": 0,
     "weight": 0.53,
     "type": "Barrel",
     "slots": []
@@ -27341,7 +27341,7 @@
     "image": "/weapons/a-steyr-aug-a3-m1-1-5x-optic-sight.webp",
     "ergo": -2,
     "recoil": 0,
-    "accuracy": 1,
+    "accuracy": 0,
     "weight": 0.624,
     "type": "Assault scope",
     "slots": []
@@ -27352,7 +27352,7 @@
     "image": "/weapons/a-svt-40-7-62x54r-muzzle-brake.webp",
     "ergo": -1,
     "recoil": -7,
-    "accuracy": -7,
+    "accuracy": 0,
     "weight": 0.07,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -27385,7 +27385,7 @@
     "image": "/weapons/a-ar-10-delta-tek-dtk-ar10-7-62x51-muzzle-brake.webp",
     "ergo": -2.5,
     "recoil": -10,
-    "accuracy": -10,
+    "accuracy": 0,
     "weight": 0.125,
     "type": "Flash hider/muzzle brake",
     "slots": []
@@ -27407,7 +27407,7 @@
     "image": "/weapons/a-sako-trg-m10-338-lm-20-inch-barrel.webp",
     "ergo": -33,
     "recoil": -12.7,
-    "accuracy": 0.53,
+    "accuracy": 0,
     "weight": 1.87,
     "type": "Barrel",
     "slots": []
@@ -27462,7 +27462,7 @@
     "image": "/weapons/a-ar-15-phase5-universal-mini-stock.webp",
     "ergo": 20,
     "recoil": -18.5,
-    "accuracy": -18.5,
+    "accuracy": 0,
     "weight": 0.17,
     "type": "Stock",
     "slots": []
@@ -27484,7 +27484,7 @@
     "image": "/weapons/a-ar-15-kac-sass-stock-taupe.webp",
     "ergo": 3,
     "recoil": -23,
-    "accuracy": -23,
+    "accuracy": 0,
     "weight": 0.58,
     "type": "Stock",
     "slots": []
