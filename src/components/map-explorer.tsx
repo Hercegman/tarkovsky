@@ -6,7 +6,7 @@ import Link from "next/link";
 import type { MapData } from "@/lib/types";
 import type { HighlightMarker } from "./leaflet-map";
 import { useProgress } from "@/hooks/use-progress";
-import { shapeDataUri } from "@/lib/map-colors";
+import { shapeDataUri, categoryLabel } from "@/lib/map-colors";
 
 const LeafletMap = dynamic(() => import("./leaflet-map"), {
   ssr: false,
@@ -220,7 +220,7 @@ export function MapExplorer({
                   alt=""
                   className={`h-4 w-4 shrink-0 ${on ? "" : "opacity-40 grayscale"}`}
                 />
-                <span className="flex-1 truncate">{c.name}</span>
+                <span className="flex-1 truncate">{categoryLabel(c.id, c.name)}</span>
                 <span className="text-xs text-[var(--muted)]">{counts[c.id]}</span>
               </button>
             );

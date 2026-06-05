@@ -7,7 +7,12 @@ Newest first.
 
 ---
 
-## `fccea6e` — themed hover tooltips + extract template image · 2026-06-05
+## `_pending_` — clearer extraction layer labels · 2026-06-05
+- **Changed:** the map layer panel now labels the extraction categories "PMC
+  Extraction", "Scav Extraction", "Transit Extraction" (were just "PMC", "Scav",
+  "Transit") via a `categoryLabel` override.
+
+## `fa662bb` — themed hover tooltips + extract template image · 2026-06-05
 - **Changed:** map marker info now shows on **hover** (Leaflet `Tooltip`) instead
   of on click, styled in the site's colours (dark surface, gold-dim border, gold
   title) instead of the white/black default.
