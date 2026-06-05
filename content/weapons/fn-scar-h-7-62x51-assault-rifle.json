@@ -1,0 +1,94 @@
+{
+  "id": "fn-scar-h-7-62x51-assault-rifle",
+  "name": "FN SCAR-H 7.62x51 assault rifle",
+  "page": "FN SCAR-H 7.62x51 assault rifle",
+  "image": "/weapons/fn-scar-h-7-62x51-assault-rifle.webp",
+  "ergonomics": 36,
+  "recoilVertical": 112,
+  "recoilHorizontal": 282,
+  "moa": 1.65,
+  "weight": 3.802,
+  "fireRate": 600,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-1-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
+        "ar-15-hera-arms-hg-15-pistol-grip",
+        "ar-15-hk-battle-grip-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+        "ar-15-hk-ergo-psg-1-style-pistol-grip",
+        "ar-15-hk-v2-pistol-grip",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-magpul-moe-pistol-grip-black",
+        "ar-15-magpul-moe-pistol-grip-fde",
+        "ar-15-naroh-arms-gral-s-pistol-grip",
+        "mcx-pistol-grip",
+        "ar-15-stark-ar-rifle-grip-black",
+        "ar-15-stark-ar-rifle-grip-fde",
+        "ar-15-tactical-dynamics-hexgrip-pistol-grip",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip",
+        "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "fn-scar-h-7-62x51-upper-receiver",
+        "fn-scar-h-7-62x51-upper-receiver-fde"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "fn-scar-folding-polymer-stock",
+        "fn-scar-folding-polymer-stock-fde",
+        "fn-scar-vltor-re-scar-stock-adapter-patriot-brown",
+        "fn-scar-vltor-re-scar-stock-adapter",
+        "fn-scar-jmac-customs-rsa-scar-1913-adapter"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "fn-scar-h-7-62x51-20-round-magazine",
+        "fn-scar-h-7-62x51-20-round-magazine-fde"
+      ]
+    },
+    {
+      "name": "AR-10 Magazine",
+      "allowed": [
+        "ar-10-7-62x51-kac-10-round-steel-magazine",
+        "ar-10-7-62x51-kac-20-round-steel-magazine",
+        "ar-10-7-62x51-lancer-l7awm-20-round-magazine",
+        "ar-10-7-62x51-lancer-l7awm-25-round-magazine",
+        "ar-10-7-62x51-magpul-pmag-20-sr-lr-gen-m3-20-round-magazine",
+        "ar-10-7-62x51-x-products-x-25-50-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "fn-scar-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR-H_7.62x51_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "id": "custom-guns-nl545-gp-5-45x39-assault-rifle",
+  "name": "Custom Guns NL545 (GP) 5.45x39 assault rifle",
+  "page": "Custom Guns NL545 (GP) 5.45x39 assault rifle",
+  "image": "/weapons/custom-guns-nl545-gp-5-45x39-assault-rifle.webp",
+  "ergonomics": 57,
+  "recoilVertical": 66,
+  "recoilHorizontal": 190,
+  "moa": 1.31,
+  "weight": 3.012,
+  "fireRate": 850,
+  "caliber": "5.45x39mm",
+  "slots": [
+    {
+      "name": "Receiver",
+      "allowed": [
+        "nl545-gp-5-45x39-upper-receiver-fde"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-1-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
+        "ar-15-hera-arms-hg-15-pistol-grip",
+        "ar-15-hk-battle-grip-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+        "ar-15-hk-ergo-psg-1-style-pistol-grip",
+        "ar-15-hk-v2-pistol-grip",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-magpul-moe-pistol-grip-black",
+        "ar-15-magpul-moe-pistol-grip-fde",
+        "ar-15-naroh-arms-gral-s-pistol-grip",
+        "mcx-pistol-grip",
+        "ar-15-stark-ar-rifle-grip-black",
+        "ar-15-stark-ar-rifle-grip-fde",
+        "ar-15-tactical-dynamics-hexgrip-pistol-grip",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip",
+        "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan",
+        "ar-15-dlg-tactical-dlg-138-pistol-grip-black",
+        "ar-15-dlg-tactical-dlg-138-pistol-grip-fde",
+        "ar-15-colt-a1-pistol-grip"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ar-15-cmmg-buffer-tube",
+        "ar-15-magpul-enhanced-receiver-extension",
+        "ar-15-adar-2-15-buffer-tube",
+        "ar-15-colt-carbine-buffer-tube",
+        "ar-15-doublestar-ace-socom-gen-4-stock",
+        "ar-15-ergo-f93-pro-stock",
+        "ar-15-magpul-ubr-gen2-stock-black",
+        "ar-15-magpul-ubr-gen2-stock-fde",
+        "ar-15-soyuz-tm-buffer-tube",
+        "ar-15-strike-industries-advanced-receiver-extension",
+        "ar-15-strike-industries-advanced-receiver-extension-anodized-red",
+        "ar-15-troy-m7a1-pdw-stock-black",
+        "ar-15-troy-m7a1-pdw-stock-fde",
+        "ar-15-strike-industries-viper-pdw-stock",
+        "ar-15-rtm-atp-buffer-tube",
+        "ar-15-doublestar-ace-arfx-skeleton-stock",
+        "ar-15-custom-guns-buffer-tube",
+        "ar-15-custom-guns-buffer-tube-fde"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ak-74-delta-tek-saiga-545-5-45x39-20-round-magazine",
+        "ak-74-5-45x39-6l18-45-round-magazine",
+        "ak-74-5-45x39-6l20-30-round-magazine",
+        "ak-74-5-45x39-6l23-30-round-magazine",
+        "ak-74-5-45x39-6l23-30-round-magazine-plum",
+        "ak-74-5-45x39-6l26-45-round-magazine",
+        "ak-74-saiga-545-5-45x39-10-round-magazine",
+        "ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine",
+        "ak-12-5-45x39-early-model-30-round-magazine",
+        "ak-12-5-45x39-30-round-magazine",
+        "rpk-16-5-45x39-95-round-drum-magazine",
+        "ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine-fde"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "nl545-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Custom_Guns_NL545_(GP)_5.45x39_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

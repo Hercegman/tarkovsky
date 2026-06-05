@@ -1,0 +1,64 @@
+{
+  "id": "magnum-research-desert-eagle-l6-50-ae-pistol",
+  "name": "Magnum Research Desert Eagle L6 .50 AE pistol",
+  "page": "Magnum Research Desert Eagle L6 .50 AE pistol",
+  "image": "/weapons/magnum-research-desert-eagle-l6-50-ae-pistol.webp",
+  "ergonomics": 69,
+  "recoilVertical": 449,
+  "recoilHorizontal": 318,
+  "moa": 6.88,
+  "weight": 1.755,
+  "fireRate": 30,
+  "caliber": ".50 Action Express",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "desert-eagle-l6-50-ae-152mm-barrel",
+        "desert-eagle-mk-xix-50-ae-152mm-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "desert-eagle-hogue-rubber-grip",
+        "desert-eagle-hogue-rubber-grip-with-finger-grooves"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "desert-eagle-mk-xix-pistol-slide",
+        "desert-eagle-l6-pistol-slide",
+        "desert-eagle-l6-pistol-slide-wts"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "desert-eagle-50-ae-7-round-magazine"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "ncstar-tactical-blue-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "olight-baldr-pro-tactical-flashlight-with-laser",
+        "olight-baldr-pro-tactical-flashlight-with-laser-tan",
+        "insight-wmx200-tactical-flashlight",
+        "kiba-arms-25mm-accessory-ring-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Magnum_Research_Desert_Eagle_L6_.50_AE_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

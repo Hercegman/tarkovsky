@@ -1,0 +1,55 @@
+{
+  "id": "mosin-7-62x54r-bolt-action-rifle-sniper",
+  "name": "Mosin 7.62x54R bolt-action rifle (Sniper)",
+  "page": "Mosin 7.62x54R bolt-action rifle (Sniper)",
+  "image": "/weapons/mosin-7-62x54r-bolt-action-rifle-sniper.webp",
+  "ergonomics": 4,
+  "recoilVertical": 178,
+  "recoilHorizontal": 541,
+  "moa": 1.3,
+  "weight": 4.88,
+  "fireRate": 30,
+  "caliber": "7.62x54mmR",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mosin-rifle-7-62x54r-sawed-off-200mm-barrel",
+        "mosin-rifle-7-62x54r-sawed-off-220mm-threaded-barrel",
+        "mosin-carbine-7-62x54r-514mm-barrel",
+        "mosin-rifle-7-62x54r-730mm-regular-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "mosin-rifle-ati-monte-carlo-stock",
+        "mosin-rifle-infantry-stock",
+        "mosin-rifle-carbine-stock",
+        "mosin-rifle-sniper-carbine-stock",
+        "mosin-rifle-promag-archangel-opfor-prs-chassis",
+        "mosin-rifle-standard-stock",
+        "mosin-rifle-sawed-off-sniper-stock",
+        "mosin-rifle-sawed-off-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "mosin-rifle-7-62x54r-promag-archangel-opfor-10-round-magazine",
+        "mosin-rifle-7-62x54r-5-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "mosin-rifle-kochetov-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Mosin_7.62x54R_bolt-action_rifle_(Sniper)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

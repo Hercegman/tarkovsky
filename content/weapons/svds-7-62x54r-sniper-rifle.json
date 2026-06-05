@@ -1,0 +1,81 @@
+{
+  "id": "svds-7-62x54r-sniper-rifle",
+  "name": "SVDS 7.62x54R sniper rifle",
+  "page": "SVDS 7.62x54R sniper rifle",
+  "image": "/weapons/svds-7-62x54r-sniper-rifle.webp",
+  "ergonomics": 51,
+  "recoilVertical": 114,
+  "recoilHorizontal": 336,
+  "moa": 1.03,
+  "weight": 4.386,
+  "fireRate": 700,
+  "caliber": "7.62x54mmR",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "svd-7-62x54r-565mm-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "svds-pistol-grip",
+        "svds-lynx-arms-ak-series-pistol-grip-adapter"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "svds-custom-cut-dust-cover",
+        "svds-dust-cover"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "svds-polymer-stock",
+        "svds-lynx-arms-hinge-buffer-tube-adapter"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "svd-7-62x54r-10-round-magazine",
+        "svd-7-62x54r-20-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "svds-front-trunnion",
+        "svd-sag-mk1-chassis",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "svd-sag-low-profile-sidemount",
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "svd-caa-xd-rgl-receiver-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "zenit-b-13-klassika-dovetail-rail-platform",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "sag-ak-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/SVDS_7.62x54R_sniper_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

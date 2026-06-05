@@ -1,0 +1,72 @@
+{
+  "id": "mp-133-12ga-pump-action-shotgun",
+  "name": "MP-133 12ga pump-action shotgun",
+  "page": "MP-133 12ga pump-action shotgun",
+  "image": "/weapons/mp-133-12ga-pump-action-shotgun.webp",
+  "ergonomics": 48,
+  "recoilVertical": 290,
+  "recoilHorizontal": 381,
+  "moa": 21.31,
+  "weight": 3.54,
+  "fireRate": 30,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mp-133-12ga-510mm-barrel",
+        "mp-133-12ga-510mm-barrel-with-rib",
+        "mp-133-12ga-540mm-barrel",
+        "mp-133-12ga-540mm-barrel-with-rib",
+        "mp-133-12ga-610mm-barrel",
+        "mp-133-12ga-610mm-barrel-with-rib",
+        "mp-133-12ga-660mm-barrel",
+        "mp-133-12ga-660mm-barrel-with-rib",
+        "mp-133-12ga-710mm-barrel",
+        "mp-133-12ga-710mm-barrel-with-rib",
+        "mp-133-12ga-750mm-barrel",
+        "mp-133-12ga-750mm-barrel-with-rib"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "mp-133-custom-plastic-forestock-with-rails",
+        "mp-133-beechwood-forestock"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "mp-133-153-taktika-tula-12003-stock-adapter",
+        "mp-133-153-plastic-pistol-grip",
+        "mp-133-153-plastic-stock",
+        "mp-133-153-wooden-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "mp-133-12ga-6-shell-magazine",
+        "mp-133-12ga-8-shell-magazine",
+        "mp-153-12ga-4-shell-magazine-cap",
+        "mp-153-12ga-5-shell-magazine",
+        "mp-153-12ga-6-shell-magazine",
+        "mp-153-12ga-7-shell-magazine",
+        "mp-153-12ga-8-shell-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "kiba-arms-sprm-rail-mount-for-pump-action-shotguns",
+        "delta-tek-sprut-mount-for-pump-action-shotguns"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/MP-133_12ga_pump-action_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

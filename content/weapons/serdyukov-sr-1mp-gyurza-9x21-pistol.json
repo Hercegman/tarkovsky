@@ -1,0 +1,33 @@
+{
+  "id": "serdyukov-sr-1mp-gyurza-9x21-pistol",
+  "name": "Serdyukov SR-1MP Gyurza 9x21 pistol",
+  "page": "Serdyukov SR-1MP Gyurza 9x21 pistol",
+  "image": "/weapons/serdyukov-sr-1mp-gyurza-9x21-pistol.webp",
+  "ergonomics": 81,
+  "recoilVertical": 442,
+  "recoilHorizontal": 325,
+  "moa": 7.49,
+  "weight": 0.895,
+  "fireRate": 30,
+  "caliber": "9x21mm Gyurza",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "sr-1mp-9x21-18-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "sr-1mp-quad-rail-mount",
+        "sr-1mp-single-rail-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Serdyukov_SR-1MP_Gyurza_9x21_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "hk-mp5k-9x19-submachine-gun",
+  "name": "HK MP5K 9x19 submachine gun",
+  "page": "HK MP5K 9x19 submachine gun",
+  "image": "/weapons/hk-mp5k-9x19-submachine-gun.webp",
+  "ergonomics": 77,
+  "recoilVertical": 55,
+  "recoilHorizontal": 259,
+  "moa": 7.56,
+  "weight": 2.09,
+  "fireRate": 900,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "hk-mp5-9x19-20-round-magazine",
+        "hk-mp5-9x19-30-round-magazine",
+        "hk-mp5-9x19-x-products-x-5-50-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "hk-mp5k-9x19-upper-receiver"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "hk-mp5k-cocking-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/HK_MP5K_9x19_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "mossberg-590a1-12ga-pump-action-shotgun",
+  "name": "Mossberg 590A1 12ga pump-action shotgun",
+  "page": "Mossberg 590A1 12ga pump-action shotgun",
+  "image": "/weapons/mossberg-590a1-12ga-pump-action-shotgun.webp",
+  "ergonomics": 56,
+  "recoilVertical": 299,
+  "recoilHorizontal": 351,
+  "moa": 16.98,
+  "weight": 3.962,
+  "fireRate": 30,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "m590a1-12ga-20-inch-barrel"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "m590-magpul-moe-forend",
+        "m590a1-speedfeed-short-handguard"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "m590-12ga-8-shell-magazine-cap"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "m590-magpul-sga-stock",
+        "m590-mesa-tactical-leo-gen-1-stock-adapter",
+        "m590a1-polymer-stock"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "m590-ghost-ring-rear-sight",
+        "m590-tactical-rail",
+        "m590-precision-reflex-scope-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Mossberg_590A1_12ga_pump-action_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "saiga-9-9x19-carbine",
+  "name": "Saiga-9 9x19 carbine",
+  "page": "Saiga-9 9x19 carbine",
+  "image": "/weapons/saiga-9-9x19-carbine.webp",
+  "ergonomics": 54.5,
+  "recoilVertical": 30,
+  "recoilHorizontal": 175,
+  "moa": 2.41,
+  "weight": 3.011,
+  "fireRate": 650,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Gas block",
+      "allowed": [
+        "pp-19-01-vityaz-gas-tube",
+        "pp-19-01-vityaz-vector-vr-lps-left-side-charging-handle",
+        "pp-19-01-vityaz-sag-mk1-m-lok-handguard-with-gas-tube"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "pp-19-01-vityaz-9x19-muzzle-brake",
+        "saiga-9-9x19-muzzle-brake",
+        "silencerco-hybrid-46-direct-thread-mount-adapter",
+        "rotor-43-9x19-sound-suppressor",
+        "sig-sauer-srd9-9x19-sound-suppressor",
+        "silencerco-osprey-9-9x19-sound-suppressor",
+        "pp-19-01-vityaz-9x19-sound-suppressor"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-12-pistol-grip",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "pp-19-01-vityaz-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip-fde",
+        "ak-gladman-skeleton-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "pp-19-01-vityaz-sn-dust-cover",
+        "pp-19-01-vityaz-dust-cover"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "pp-19-01-vityaz-rear-sight"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ak-74m-caa-akts-ak74-buffer-tube",
+        "ak-74m-ak-100-zenit-pt-lock",
+        "pp-19-01-vityaz-metal-skeleton-stock",
+        "ak-jmac-customs-rsa-5-5-stock-adapter",
+        "ak-ak-evo-stock",
+        "ak-74m-armacon-monolit-3-gen-2-buffer-tube-adapter-redline",
+        "ak-12-buffer-tube"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "saiga-9-9x19-sb-7-10-round-magazine",
+        "pp-19-01-vityaz-9x19-30-round-magazine",
+        "pp-19-01-vityaz-9x19-pufgun-sg-919-20-20-round-magazine",
+        "pp-19-01-vityaz-9x19-pufgun-sg-919-30-30-round-magazine",
+        "pp-19-01-9x19-f5-mfg-50-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Saiga-9_9x19_carbine",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "kalashnikov-ak-12-5-45x39-assault-rifle",
+  "name": "Kalashnikov AK-12 5.45x39 assault rifle",
+  "page": "Kalashnikov AK-12 5.45x39 assault rifle",
+  "image": "/weapons/kalashnikov-ak-12-5-45x39-assault-rifle.webp",
+  "ergonomics": 65.9,
+  "recoilVertical": 70,
+  "recoilHorizontal": 212,
+  "moa": 1.58,
+  "weight": 3.606,
+  "fireRate": 700,
+  "caliber": "5.45x39mm",
+  "slots": [
+    {
+      "name": "Gas block",
+      "allowed": [
+        "ak-12-gas-tube"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "ak-12-5-45x39-muzzle-brake",
+        "ak-12-5-45x39-sound-suppressor",
+        "ak-12-brt-m24-thread-muzzle-adapter"
+      ]
+    },
+    {
+      "name": "Launcher",
+      "allowed": [
+        "gp-25-kostyor-40mm-underbarrel-grenade-launcher"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-12-pistol-grip",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "pp-19-01-vityaz-pistol-grip",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-pufgun-sg-m2-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip-fde"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "ak-12-railed-dust-cover"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "ak-12-handguard",
+        "ak-12-l-a-c-akvilon-15-handguard",
+        "ak-12-tactical-ideas-n-4-handguard",
+        "ak-12-zenit-sport-12-handguard"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ak-74m-polymer-stock",
+        "ak-74m-caa-akts-ak74-buffer-tube",
+        "rpk-16-buffer-tube",
+        "ak-100-series-metal-skeletonized-stock",
+        "ak-12-buffer-tube",
+        "ak-ak-evo-stock",
+        "ak-jmac-customs-rsa-5-5-stock-adapter",
+        "ak-74m-ak-100-zenit-pt-lock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ak-74-5-45x39-6l18-45-round-magazine",
+        "ak-74-5-45x39-6l20-30-round-magazine",
+        "ak-74-5-45x39-6l23-30-round-magazine",
+        "ak-74-5-45x39-6l23-30-round-magazine-plum",
+        "ak-74-5-45x39-6l26-45-round-magazine",
+        "ak-74-5-45x39-6l31-60-round-magazine",
+        "ak-74-saiga-545-5-45x39-10-round-magazine",
+        "ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine",
+        "ak-12-5-45x39-30-round-magazine",
+        "rpk-16-5-45x39-95-round-drum-magazine",
+        "ak-12-5-45x39-early-model-30-round-magazine",
+        "ak-74-delta-tek-saiga-545-5-45x39-20-round-magazine",
+        "ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine-fde"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AK-12_5.45x39_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

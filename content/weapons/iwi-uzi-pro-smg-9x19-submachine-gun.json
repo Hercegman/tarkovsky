@@ -1,0 +1,64 @@
+{
+  "id": "iwi-uzi-pro-smg-9x19-submachine-gun",
+  "name": "IWI UZI PRO SMG 9x19 submachine gun",
+  "page": "IWI UZI PRO SMG 9x19 submachine gun",
+  "image": "/weapons/iwi-uzi-pro-smg-9x19-submachine-gun.webp",
+  "ergonomics": 83,
+  "recoilVertical": 54,
+  "recoilHorizontal": 189,
+  "moa": 6.26,
+  "weight": 1.908,
+  "fireRate": 1075,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "uzi-pro-9x19-20-round-magazine",
+        "uzi-pro-9x19-25-round-magazine",
+        "uzi-pro-9x19-32-round-magazine"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "uzi-pro-9x19-170mm-barrel",
+        "uzi-pro-9x19-210mm-barrel",
+        "uzi-pro-9x19-240mm-barrel"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "uzi-pro-9x19-barrel-retaining-nut"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "uzi-pro-stabilizing-brace",
+        "uzi-pro-a3-tactical-rear-stock-adapter",
+        "uzi-pro-sbr-buttstock",
+        "uzi-pro-backplate",
+        "uzi-pro-csm-stock-adapter"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "uzi-pro-smg-rail-adapter"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "uzi-pro-dust-cover"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/IWI_UZI_PRO_SMG_9x19_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

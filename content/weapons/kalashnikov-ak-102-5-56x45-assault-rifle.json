@@ -1,0 +1,149 @@
+{
+  "id": "kalashnikov-ak-102-5-56x45-assault-rifle",
+  "name": "Kalashnikov AK-102 5.56x45 assault rifle",
+  "page": "Kalashnikov AK-102 5.56x45 assault rifle",
+  "image": "/weapons/kalashnikov-ak-102-5-56x45-assault-rifle.webp",
+  "ergonomics": 63.6,
+  "recoilVertical": 74,
+  "recoilHorizontal": 202,
+  "moa": 1.93,
+  "weight": 3.205,
+  "fireRate": 600,
+  "caliber": "5.56x45mm NATO",
+  "slots": [
+    {
+      "name": "Gas block",
+      "allowed": [
+        "ak-74-gas-tube",
+        "akm-gas-tube",
+        "molot-arms-akm-type-gas-tube",
+        "ak-ultimak-m1-b-handguard-with-gas-tube"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "ak-cnc-warrior-5-56x45-muzzle-device-adapter",
+        "ak-101-5-56x45-muzzle-brake",
+        "ak-102-5-56x45-muzzle-brake",
+        "ak-74-srvv-mbr-jet-5-45x39-muzzle-brake",
+        "ar-15-pws-cqb-5-56x45-muzzle-brake",
+        "silencerco-hybrid-46-direct-thread-mount-adapter",
+        "rotor-43-5-56x45-sound-suppressor",
+        "ak-74-thread-type-jmac-customs-rrd-4c-multi-caliber-muzzle-brake"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-12-pistol-grip",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "pp-19-01-vityaz-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip-fde",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline",
+        "ak-gladman-skeleton-pistol-grip"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "rd-704-dust-cover",
+        "ak-akademia-bastion-dust-cover",
+        "ak-fab-defense-pdc-dust-cover",
+        "akm-dust-cover",
+        "molot-arms-akm-type-dust-cover",
+        "ak-tws-dog-leg-rail-dust-cover",
+        "ak-zenit-b-33-dust-cover"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "ak-105-rear-sight",
+        "ak-74-rear-sight",
+        "ak-74m-rear-sight",
+        "ak-rd-enhanced-v2-rear-sight",
+        "ak-taktika-tula-tt01-rear-sight-rail"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ak-74m-polymer-stock",
+        "ak-74m-caa-akts-ak74-buffer-tube",
+        "ak-74m-ak-100-zenit-pt-lock",
+        "rpk-16-buffer-tube",
+        "ak-100-series-metal-skeletonized-stock",
+        "ak-12-buffer-tube",
+        "ak-ak-evo-stock",
+        "ak-jmac-customs-rsa-5-5-stock-adapter",
+        "ak-74m-armacon-monolit-3-gen-2-buffer-tube-adapter-redline"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ak-101-5-56x45-6l29-30-round-magazine",
+        "slr-106-ak-5-56x45-circle-10-30-round-magazine",
+        "ak-5-56x45-molot-arms-45-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "zenit-b-13-klassika-dovetail-rail-platform",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "sag-ak-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AK-102_5.56x45_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

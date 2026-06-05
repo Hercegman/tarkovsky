@@ -1,0 +1,67 @@
+{
+  "id": "benelli-m3-super-90-12ga-dual-mode-shotgun",
+  "name": "Benelli M3 Super 90 12ga dual-mode shotgun",
+  "page": "Benelli M3 Super 90 12ga dual-mode shotgun",
+  "image": "/weapons/benelli-m3-super-90-12ga-dual-mode-shotgun.webp",
+  "ergonomics": 58,
+  "recoilVertical": 242,
+  "recoilHorizontal": 428,
+  "moa": 18.22,
+  "weight": 3.306,
+  "fireRate": 60,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "benelli-m3-super-90-12ga-500mm-barrel"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "benelli-m3-forend"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "benelli-m3-telescopic-stock",
+        "benelli-m3-mesa-tactical-urbino-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "benelli-m3-super-90-12ga-5-shell-magazine-cap",
+        "benelli-m3-super-90-12ga-toni-system-11-shell-magazine",
+        "benelli-m3-super-90-12ga-toni-system-13-shell-magazine",
+        "benelli-m3-super-90-12ga-toni-system-9-shell-magazine",
+        "benelli-m3-super-90-12ga-7-shell-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "benelli-m3-super-90-upper-receiver-top-rail"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "benelli-m3-ghost-ring-rear-sight"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "benelli-m3-super-90-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Benelli_M3_Super_90_12ga_dual-mode_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

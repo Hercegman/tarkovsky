@@ -1,0 +1,41 @@
+{
+  "id": "hk-mp5-9x19-submachine-gun-navy-3-round-burst",
+  "name": "HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+  "page": "HK MP5 9x19 submachine gun (Navy 3 Round Burst)",
+  "image": "/weapons/hk-mp5-9x19-submachine-gun-navy-3-round-burst.webp",
+  "ergonomics": 72,
+  "recoilVertical": 43,
+  "recoilHorizontal": 209,
+  "moa": 6.88,
+  "weight": 2.71,
+  "fireRate": 800,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Receiver",
+      "allowed": [
+        "hk-mp5-9x19-upper-receiver",
+        "hk-mp5sd-9x19-upper-receiver"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "hk-mp5-9x19-20-round-magazine",
+        "hk-mp5-9x19-30-round-magazine",
+        "hk-mp5-9x19-x-products-x-5-50-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "hk-mp5-cocking-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

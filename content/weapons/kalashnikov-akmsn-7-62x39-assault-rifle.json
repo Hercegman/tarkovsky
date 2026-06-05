@@ -1,0 +1,181 @@
+{
+  "id": "kalashnikov-akmsn-7-62x39-assault-rifle",
+  "name": "Kalashnikov AKMSN 7.62x39 assault rifle",
+  "page": "Kalashnikov AKMSN 7.62x39 assault rifle",
+  "image": "/weapons/kalashnikov-akmsn-7-62x39-assault-rifle.webp",
+  "ergonomics": 52,
+  "recoilVertical": 93,
+  "recoilHorizontal": 228,
+  "moa": 2.3,
+  "weight": 3.445,
+  "fireRate": 600,
+  "caliber": "7.62x39mm",
+  "slots": [
+    {
+      "name": "Gas block",
+      "allowed": [
+        "ak-kiba-arms-vdm-cs-gas-tube",
+        "ak-74-gas-tube",
+        "akm-gas-tube",
+        "molot-arms-akm-type-gas-tube",
+        "ak-troy-full-length-rail-handguard-with-gas-tube",
+        "ak-ultimak-m1-b-handguard-with-gas-tube",
+        "ak-vezhlivyy-strelok-vs-24-vs-33c-handguard-with-gas-tube",
+        "ak-vezhlivyy-strelok-vs-24-vs-33c-handguard-with-gas-tube-white"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "akm-7-62x39-muzzle-brake",
+        "akml-system-7-62x39-flash-hider",
+        "akm-thread-type-jmac-customs-rrd-4c-7-62x39-muzzle-brake",
+        "ak-lantac-drakon-7-62x39-muzzle-brake",
+        "vpo-136-vepr-km-7-62x39-muzzle-brake",
+        "vpo-209-thread-protector",
+        "ak-spikes-tactical-dynacomp-7-62x39-muzzle-compensator",
+        "ak-srvv-7-62x39-muzzle-brake",
+        "ak-venom-tactical-antidote-7-62x39-muzzle-brake",
+        "akm-7-62x39-kiba-arms-308-muzzle-device-adapter",
+        "ak-7-62x39-taktika-tula-muzzle-adapter",
+        "silencerco-hybrid-46-direct-thread-mount-adapter",
+        "akm-hexagon-7-62x39-sound-suppressor",
+        "akm-pbs-1-7-62x39-sound-suppressor",
+        "rotor-43-7-62x39-sound-suppressor",
+        "ak-vector-vr-05t-7-62x39-muzzle-brake"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-12-pistol-grip",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "pp-19-01-vityaz-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip-fde",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline",
+        "ak-gladman-skeleton-pistol-grip"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "ak-akademia-bastion-dust-cover",
+        "ak-fab-defense-pdc-dust-cover",
+        "akm-dust-cover",
+        "molot-arms-akm-type-dust-cover",
+        "ak-tws-dog-leg-rail-dust-cover",
+        "ak-zenit-b-33-dust-cover",
+        "rd-704-dust-cover"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "akm-rear-sight",
+        "akmb-system-rear-sight",
+        "ak-taktika-tula-tt01-rear-sight-rail",
+        "ak-rd-enhanced-v2-rear-sight"
+      ]
+    },
+    {
+      "name": "Front sight",
+      "allowed": [
+        "akmp-system-front-sight-device"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "akms-folding-stock",
+        "akmsn-folding-stock",
+        "akms-fab-defense-m4-akms-p-stock-adapter"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ak-7-62x39-ribbed-metal-10-round-magazine",
+        "ak-7-62x39-6l10-bakelite-30-round-magazine",
+        "ak-103-7-62x39-30-round-magazine",
+        "ak-7-62x39-30-round-magazine-issued-55-or-later",
+        "ak-7-62x39-aluminium-10-round-magazine",
+        "akms-7-62x39-aluminium-30-round-magazine",
+        "ak-7-62x39-molot-arms-6p2-sb-11-40-round-magazine",
+        "ak-7-62x39-6p2-bakelite-40-round-magazine",
+        "ak-7-62x39-magpul-pmag-30-gen-m3-30-round-magazine",
+        "ak-7-62x39-magpul-pmag-30-gen-m3-30-round-magazine-banana",
+        "ak-7-62x39-molot-arms-75-round-drum-magazine",
+        "ak-7-62x39-promag-ak-a-16-73-round-drum-magazine",
+        "ak-7-62x39-us-palm-ak30-30-round-magazine-black",
+        "ak-7-62x39-us-palm-ak30-30-round-magazine-fde",
+        "ak-7-62x39-x-products-x-47-50-round-drum-magazine",
+        "ak-7-62x39-fab-defense-ultimag-30r-30-round-magazine",
+        "ak-7-62x39-magpul-pmag-20-gen-m3-20-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "zenit-b-13-klassika-dovetail-rail-platform",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "sag-ak-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail",
+        "rs-regulate-ak-303m-full-length-lower-dovetail-mount"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    },
+    {
+      "name": "Launcher",
+      "allowed": [
+        "gp-25-kostyor-40mm-underbarrel-grenade-launcher"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AKMSN_7.62x39_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

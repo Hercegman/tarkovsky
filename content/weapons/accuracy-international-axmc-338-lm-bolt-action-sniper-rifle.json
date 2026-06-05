@@ -1,0 +1,39 @@
+{
+  "id": "accuracy-international-axmc-338-lm-bolt-action-sniper-rifle",
+  "name": "Accuracy International AXMC .338 LM bolt-action sniper rifle",
+  "page": "Accuracy International AXMC .338 LM bolt-action sniper rifle",
+  "image": "/weapons/accuracy-international-axmc-338-lm-bolt-action-sniper-rifle.webp",
+  "ergonomics": 11.5,
+  "recoilVertical": 240,
+  "recoilHorizontal": 499,
+  "moa": 0.34,
+  "weight": 5.79,
+  "fireRate": 30,
+  "caliber": ".338 Lapua Magnum",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ai-axmc-338-lm-10-round-magazine"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ai-axmc-pistol-grip",
+        "ai-axmc-gtac-ar-type-pistol-grip-adapter"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ai-axmc-338-lm-bolt-assembly"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Accuracy_International_AXMC_.338_LM_bolt-action_sniper_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

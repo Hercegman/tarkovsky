@@ -1,0 +1,44 @@
+{
+  "id": "sako-trg-m10-338-lm-bolt-action-sniper-rifle",
+  "name": "Sako TRG M10 .338 LM bolt-action sniper rifle",
+  "page": "Sako TRG M10 .338 LM bolt-action sniper rifle",
+  "image": "/weapons/sako-trg-m10-338-lm-bolt-action-sniper-rifle.webp",
+  "ergonomics": 18,
+  "recoilVertical": 304,
+  "recoilHorizontal": 657,
+  "moa": 0.44,
+  "weight": 6.796,
+  "fireRate": 30,
+  "caliber": ".338 Lapua Magnum",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "sako-trg-m10-338-lm-8-round-magazine"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "sako-trg-m10-338-lm-bolt-assembly"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "sako-trg-m10-chassis"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "sako-trg-m10-338-lm-receiver"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Sako_TRG_M10_.338_LM_bolt-action_sniper_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

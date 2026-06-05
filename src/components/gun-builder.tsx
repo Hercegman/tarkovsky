@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { AnimatePresence, motion } from "motion/react";
-import type { Weapon, Attachment } from "@/lib/types";
+import type { Weapon, Attachment, WeaponSlot } from "@/lib/types";
 import { computeStats } from "@/lib/gun-stats";
 
 interface SavedBuild {
@@ -62,6 +62,17 @@ export function GunBuilder({
     } finally {
       setSaving(false);
     }
+  }
+
+  function setSelection(key: string, id: string | null) {
+    setSelections((s) => {
+      const next = { ...s };
+      if (id) next[key] = id;
+      else delete next[key];
+      // Prune descendant selections (the parent attachment changed).
+      for (const k of Object.keys(next)) if (k.startsWith(key + ">")) delete next[k];
+      return next;
+    });
   }
 
   function loadBuild(b: SavedBuild) {
@@ -224,24 +235,16 @@ export function GunBuilder({
       </div>
 
       <div className="grid gap-5 lg:grid-cols-[1fr_260px]">
-        {/* Slots */}
+        {/* Slots (recursive: attachments can have sub-slots) */}
         <div className="space-y-2">
-          {weapon.slots.map((slot) => (
-            <SlotPicker
-              key={slot.name}
-              name={slot.name}
-              options={slot.allowed.map((id) => attachments[id]).filter(Boolean)}
-              value={selections[slot.name] ?? null}
-              onChange={(id) =>
-                setSelections((s) => {
-                  const next = { ...s };
-                  if (id) next[slot.name] = id;
-                  else delete next[slot.name];
-                  return next;
-                })
-              }
-            />
-          ))}
+          <SlotTree
+            slots={weapon.slots}
+            prefix=""
+            selections={selections}
+            attachments={attachments}
+            onChange={setSelection}
+            depth={0}
+          />
         </div>
 
         {/* Stats */}
@@ -266,6 +269,55 @@ export function GunBuilder({
         </aside>
       </div>
     </div>
+  );
+}
+
+function SlotTree({
+  slots,
+  prefix,
+  selections,
+  attachments,
+  onChange,
+  depth,
+}: {
+  slots: WeaponSlot[];
+  prefix: string;
+  selections: Record<string, string>;
+  attachments: Record<string, Attachment>;
+  onChange: (key: string, id: string | null) => void;
+  depth: number;
+}) {
+  return (
+    <>
+      {slots.map((slot) => {
+        const key = prefix ? `${prefix}>${slot.name}` : slot.name;
+        const selectedId = selections[key] ?? null;
+        const selected = selectedId ? attachments[selectedId] : null;
+        const sub = selected?.slots ?? [];
+        return (
+          <div key={key}>
+            <SlotPicker
+              name={slot.name}
+              options={slot.allowed.map((id) => attachments[id]).filter(Boolean)}
+              value={selectedId}
+              onChange={(id) => onChange(key, id)}
+            />
+            {sub.length > 0 && depth < 3 && (
+              <div className="ml-4 mt-2 space-y-2 border-l-2 border-[var(--border)] pl-3">
+                <SlotTree
+                  slots={sub}
+                  prefix={key}
+                  selections={selections}
+                  attachments={attachments}
+                  onChange={onChange}
+                  depth={depth + 1}
+                />
+              </div>
+            )}
+          </div>
+        );
+      })}
+    </>
   );
 }
 

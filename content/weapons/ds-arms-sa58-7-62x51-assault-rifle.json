@@ -1,0 +1,78 @@
+{
+  "id": "ds-arms-sa58-7-62x51-assault-rifle",
+  "name": "DS Arms SA58 7.62x51 assault rifle",
+  "page": "DS Arms SA58 7.62x51 assault rifle",
+  "image": "/weapons/ds-arms-sa58-7-62x51-assault-rifle.webp",
+  "ergonomics": 51.5,
+  "recoilVertical": 135,
+  "recoilHorizontal": 267,
+  "moa": 2.67,
+  "weight": 3.951,
+  "fireRate": 700,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "sa58-7-62x51-11-inch-barrel",
+        "sa58-7-62x51-16-inch-barrel",
+        "sa58-7-62x51-21-inch-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "sa58-fab-defense-ag-fal-pistol-grip",
+        "sa58-pistol-grip",
+        "sa58-saw-style-pistol-grip-black"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "fal-standard-dust-cover",
+        "sa58-extreme-duty-dust-cover"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "sa58-fal-aim-sports-universal-keymod-handguard",
+        "sa58-fal-aim-sports-universal-m-lok-handguard",
+        "sa58-fal-belgian-style-handguard",
+        "fal-original-handguard",
+        "sa58-fal-vltor-casv-fal-handguard",
+        "sa58-fal-vltor-casv-fas-handguard",
+        "sa58-quad-rail-full-length-handguard",
+        "sa58-quad-rail-handguard"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "sa58-fal-magpul-prs-2-polymer-stock",
+        "sa58-humpback-polymer-stock",
+        "sa58-brs-stock",
+        "sa58-buffer-tube-adapter",
+        "sa58-folding-stock",
+        "sa58-spr-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "sa58-fal-7-62x51-10-round-magazine",
+        "sa58-fal-7-62x51-20-round-magazine",
+        "sa58-fal-7-62x51-30-round-magazine",
+        "sa58-fal-7-62x51-mmw-polymer-20-round-magazine",
+        "sa58-fal-slr-7-62x51-30-round-magazine",
+        "sa58-fal-7-62x51-x-products-x-fal-50-round-drum-magazine"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/DS_Arms_SA58_7.62x51_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

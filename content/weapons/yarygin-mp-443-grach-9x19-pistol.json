@@ -1,0 +1,38 @@
+{
+  "id": "yarygin-mp-443-grach-9x19-pistol",
+  "name": "Yarygin MP-443 Grach 9x19 pistol",
+  "page": "Yarygin MP-443 Grach 9x19 pistol",
+  "image": "/weapons/yarygin-mp-443-grach-9x19-pistol.webp",
+  "ergonomics": 77,
+  "recoilVertical": 425,
+  "recoilHorizontal": 310,
+  "moa": 12.03,
+  "weight": 0.95,
+  "fireRate": 30,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "mp-443-grach-polymer-pistol-grip"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "mp-443-grach-9x19-18-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "mp-443-grach-zenit-b-8-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Yarygin_MP-443_Grach_9x19_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

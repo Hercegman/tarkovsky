@@ -110,6 +110,7 @@ export interface Attachment {
   accuracy: number; // MOA delta
   weight: number; // kg
   type: string | null;
+  slots?: WeaponSlot[]; // nested sub-slots (e.g. a handguard's rails)
 }
 
 export interface GunBuild {

@@ -1,0 +1,107 @@
+{
+  "id": "soyuz-tm-stm-9-gen-2-9x19-carbine",
+  "name": "Soyuz-TM STM-9 Gen.2 9x19 carbine",
+  "page": "Soyuz-TM STM-9 Gen.2 9x19 carbine",
+  "image": "/weapons/soyuz-tm-stm-9-gen-2-9x19-carbine.webp",
+  "ergonomics": 76,
+  "recoilVertical": 30,
+  "recoilHorizontal": 149,
+  "moa": 3.78,
+  "weight": 1.986,
+  "fireRate": 800,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-adar-2-15-wooden-stock",
+        "ar-15-hera-arms-cqr-pistol-grip-buttstock",
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-hera-arms-hg-15-pistol-grip",
+        "ar-15-hk-battle-grip-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip",
+        "ar-15-hk-ergo-psg-1-style-pistol-grip",
+        "ar-15-hk-v2-pistol-grip",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-magpul-moe-pistol-grip-black",
+        "ar-15-magpul-moe-pistol-grip-fde",
+        "ar-15-naroh-arms-gral-s-pistol-grip",
+        "mcx-pistol-grip",
+        "ar-15-stark-ar-rifle-grip-black",
+        "ar-15-stark-ar-rifle-grip-fde",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip",
+        "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "glock-9x19-big-stick-33-round-magazine",
+        "glock-9x19-17-round-magazine",
+        "glock-9x19-magpul-pmag-gl9-21-round-magazine",
+        "glock-9x19-sgm-tactical-50-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "stm-9-9x19-upper-receiver"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ar-15-colt-a2-buffer-tube",
+        "ar-15-adar-2-15-buffer-tube",
+        "ar-15-colt-carbine-buffer-tube",
+        "ar-15-doublestar-ace-socom-gen-4-stock",
+        "ar-15-ergo-f93-pro-stock",
+        "ar-15-magpul-ubr-gen2-stock-black",
+        "ar-15-magpul-ubr-gen2-stock-fde",
+        "ar-15-soyuz-tm-buffer-tube",
+        "ar-15-strike-industries-advanced-receiver-extension",
+        "ar-15-strike-industries-advanced-receiver-extension-anodized-red",
+        "ar-15-troy-m7a1-pdw-stock-black",
+        "ar-15-troy-m7a1-pdw-stock-fde",
+        "ar-15-strike-industries-viper-pdw-stock",
+        "ar-15-rtm-atp-buffer-tube"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ar-15-radian-weapons-raptor-sd-charging-handle",
+        "ar-15-adar-2-15-charging-handle",
+        "ar-15-badger-ordnance-tactical-charging-handle-latch",
+        "ar-15-colt-charging-handle",
+        "ar-15-geissele-ach-charging-handle-ddc",
+        "ar-15-hk-extended-latch-charging-handle",
+        "ar-15-masp-industries-ambidextrous-battle-charging-handle",
+        "ar-15-radian-weapons-raptor-charging-handle-fde",
+        "ar-15-radian-weapons-raptor-charging-handle-tungsten-grey",
+        "ar-15-rainier-arms-avalanche-mod2-charging-handle",
+        "ar-15-daniel-defense-grip-n-rip-charging-handle"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "stm-9-magwell",
+        "stm-9-magwell-grey"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Soyuz-TM_STM-9_Gen.2_9x19_carbine",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

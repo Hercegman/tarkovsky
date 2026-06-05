@@ -7,7 +7,13 @@ Newest first.
 
 ---
 
-## `_pending_` — gun builder: fix blank attachment/weapon images · 2026-06-05
+## `_pending_` — gun builder: all firearms + nested slots · 2026-06-05
+- **Added:** the builder now covers **all 145 firearms** (auto-ingested from the
+  wiki) with **1,790 attachments**, and **nested sub-slots** (e.g. a receiver's
+  barrel/handguard) rendered recursively. Filters drop wiki "Compatibility" tabs
+  so the attachment graph stays sane. Obsidian `Gun Builder` note added.
+
+## `3fc7a78` — gun builder: fix blank attachment/weapon images · 2026-06-05
 - **Fixed:** images in the builder rendered blank — switched from `next/image`
   `fill` (in flex containers) to plain `<img>`, so weapon and attachment icons show.
 

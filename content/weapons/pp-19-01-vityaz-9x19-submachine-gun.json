@@ -1,0 +1,137 @@
+{
+  "id": "pp-19-01-vityaz-9x19-submachine-gun",
+  "name": "PP-19-01 Vityaz 9x19 submachine gun",
+  "page": "PP-19-01 Vityaz 9x19 submachine gun",
+  "image": "/weapons/pp-19-01-vityaz-9x19-submachine-gun.webp",
+  "ergonomics": 57.5,
+  "recoilVertical": 41,
+  "recoilHorizontal": 192,
+  "moa": 4.47,
+  "weight": 2.858,
+  "fireRate": 700,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Gas block",
+      "allowed": [
+        "pp-19-01-vityaz-gas-tube",
+        "pp-19-01-vityaz-vector-vr-lps-left-side-charging-handle",
+        "pp-19-01-vityaz-sag-mk1-m-lok-handguard-with-gas-tube"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "pp-19-01-vityaz-9x19-muzzle-brake",
+        "saiga-9-9x19-muzzle-brake",
+        "silencerco-hybrid-46-direct-thread-mount-adapter",
+        "rotor-43-9x19-sound-suppressor",
+        "sig-sauer-srd9-9x19-sound-suppressor",
+        "silencerco-osprey-9-9x19-sound-suppressor",
+        "pp-19-01-vityaz-9x19-sound-suppressor"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-12-pistol-grip",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "pp-19-01-vityaz-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip-fde",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline",
+        "ak-gladman-skeleton-pistol-grip"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "pp-19-01-vityaz-sn-dust-cover",
+        "pp-19-01-vityaz-dust-cover"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "pp-19-01-vityaz-rear-sight"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ak-74m-caa-akts-ak74-buffer-tube",
+        "ak-74m-ak-100-zenit-pt-lock",
+        "pp-19-01-vityaz-metal-skeleton-stock",
+        "ak-jmac-customs-rsa-5-5-stock-adapter",
+        "ak-ak-evo-stock",
+        "ak-12-buffer-tube",
+        "ak-74m-armacon-monolit-3-gen-2-buffer-tube-adapter-redline"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "saiga-9-9x19-sb-7-10-round-magazine",
+        "pp-19-01-vityaz-9x19-30-round-magazine",
+        "pp-19-01-vityaz-9x19-pufgun-sg-919-20-20-round-magazine",
+        "pp-19-01-vityaz-9x19-pufgun-sg-919-30-30-round-magazine",
+        "pp-19-01-9x19-f5-mfg-50-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail",
+        "rs-regulate-ak-303m-full-length-lower-dovetail-mount"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/PP-19-01_Vityaz_9x19_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

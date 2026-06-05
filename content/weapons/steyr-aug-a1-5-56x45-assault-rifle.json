@@ -1,0 +1,42 @@
+{
+  "id": "steyr-aug-a1-5-56x45-assault-rifle",
+  "name": "Steyr AUG A1 5.56x45 assault rifle",
+  "page": "Steyr AUG A1 5.56x45 assault rifle",
+  "image": "/weapons/steyr-aug-a1-5-56x45-assault-rifle.webp",
+  "ergonomics": 72,
+  "recoilVertical": 75,
+  "recoilHorizontal": 222,
+  "moa": 1.24,
+  "weight": 3.826,
+  "fireRate": 715,
+  "caliber": "5.56x45mm NATO",
+  "slots": [
+    {
+      "name": "Receiver",
+      "allowed": [
+        "steyr-aug-a3-5-56x45-receiver",
+        "steyr-aug-a1-stg77-1-5x-optic-sight"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "steyr-aug-5-56x45-30-round-magazine",
+        "steyr-aug-5-56x45-10-round-magazine",
+        "steyr-aug-5-56x45-42-round-magazine"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "steyr-aug-a3-charging-handle",
+        "steyr-aug-a1-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_A1_5.56x45_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

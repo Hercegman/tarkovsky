@@ -1,0 +1,109 @@
+{
+  "id": "kalashnikov-pkp-7-62x54r-infantry-machine-gun",
+  "name": "Kalashnikov PKP 7.62x54R infantry machine gun",
+  "page": "Kalashnikov PKP 7.62x54R infantry machine gun",
+  "image": "/weapons/kalashnikov-pkp-7-62x54r-infantry-machine-gun.webp",
+  "ergonomics": 17.5,
+  "recoilVertical": 88,
+  "recoilHorizontal": 327,
+  "moa": 1.01,
+  "weight": 9.637,
+  "fireRate": 650,
+  "caliber": "7.62x54mmR",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "pkp-7-62x54r-658mm-barrel",
+        "pkm-7-62x54r-658mm-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "pk-pistol-grip",
+        "pk-pistol-grip-black",
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-kgb-mg-47-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-zenit-rk-3-pistol-grip",
+        "ak-us-palm-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "pk-rear-sight"
+      ]
+    },
+    {
+      "name": "Bipod",
+      "allowed": [
+        "pk-bipod"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "pkm-wooden-stock",
+        "pk-zenit-pt-2-klassika-stock",
+        "pkp-polymer-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "pk-7-62x54r-100-round-box"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "pk-zenit-b-50-handguard"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_PKP_7.62x54R_infantry_machine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

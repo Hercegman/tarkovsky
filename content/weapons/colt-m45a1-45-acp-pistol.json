@@ -1,0 +1,88 @@
+{
+  "id": "colt-m45a1-45-acp-pistol",
+  "name": "Colt M45A1 .45 ACP pistol",
+  "page": "Colt M45A1 .45 ACP pistol",
+  "image": "/weapons/colt-m45a1-45-acp-pistol.webp",
+  "ergonomics": 89,
+  "recoilVertical": 431,
+  "recoilHorizontal": 320,
+  "moa": 10.31,
+  "weight": 1.188,
+  "fireRate": 30,
+  "caliber": ".45 ACP",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "m1911a1-45-acp-127mm-barrel",
+        "m1911a1-45-acp-national-match-127mm-barrel",
+        "m1911a1-45-acp-141mm-threaded-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "m45a1-mil-tac-gvt-g10-side-grips"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "m1911a1-pistol-slide",
+        "m45a1-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "m1911a1-45-acp-7-round-magazine",
+        "m1911a1-45-acp-wilson-combat-7-round-magazine",
+        "m1911a1-45-acp-mec-gar-11-round-magazine"
+      ]
+    },
+    {
+      "name": "Trigger",
+      "allowed": [
+        "m1911a1-caspian-arms-trik-trigger",
+        "m1911a1-trigger",
+        "m45a1-trigger"
+      ]
+    },
+    {
+      "name": "Hammer",
+      "allowed": [
+        "m45a1-hammer",
+        "m1911a1-sti-hex-hammer",
+        "m1911a1-wilson-retro-commander-hammer",
+        "m1911a1-wilson-ultralight-skeletonized-hammer"
+      ]
+    },
+    {
+      "name": "Slide catch",
+      "allowed": [
+        "m1911a1-slide-stop",
+        "m45a1-slide-lock",
+        "m1911a1-wilson-extended-slide-stop"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "ncstar-tactical-blue-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "zenit-klesch-2u-tactical-flashlight"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Colt_M45A1_.45_ACP_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

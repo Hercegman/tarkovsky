@@ -1,0 +1,39 @@
+{
+  "id": "pb-9x18pm-silenced-pistol",
+  "name": "PB 9x18PM silenced pistol",
+  "page": "PB 9x18PM silenced pistol",
+  "image": "/weapons/pb-9x18pm-silenced-pistol.webp",
+  "ergonomics": 60,
+  "recoilVertical": 350,
+  "recoilHorizontal": 239,
+  "moa": 10.31,
+  "weight": 0.952,
+  "fireRate": 30,
+  "caliber": "9x18mm Makarov",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "pm-9x18pm-84-round-makeshift-drum-magazine",
+        "pm-9x18pm-90-93-8-round-magazine"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "pb-9x18pm-sound-suppressor"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "pb-bakelite-side-grips"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/PB_9x18PM_silenced_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

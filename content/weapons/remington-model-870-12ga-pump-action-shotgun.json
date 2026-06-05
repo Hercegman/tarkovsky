@@ -1,0 +1,63 @@
+{
+  "id": "remington-model-870-12ga-pump-action-shotgun",
+  "name": "Remington Model 870 12ga pump-action shotgun",
+  "page": "Remington Model 870 12ga pump-action shotgun",
+  "image": "/weapons/remington-model-870-12ga-pump-action-shotgun.webp",
+  "ergonomics": 54,
+  "recoilVertical": 278,
+  "recoilHorizontal": 330,
+  "moa": 18.91,
+  "weight": 3.276,
+  "fireRate": 30,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "m870-12ga-sawed-off-325mm-barrel",
+        "m870-12ga-355mm-barrel",
+        "m870-12ga-508mm-barrel",
+        "m870-12ga-508mm-barrel-with-a-fixed-sight",
+        "m870-12ga-660mm-vent-rib-barrel"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "m870-fab-defense-pr-870-forestock",
+        "m870-magpul-moe-handguard",
+        "m870-speedfeed-short-handguard"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "m870-fab-defense-agr-870-pistol-grip",
+        "m870-mesa-tactical-leo-stock-adapter",
+        "m870-shockwave-raptor-grip",
+        "m870-sps-polymer-stock",
+        "m870-magpul-sga-polymer-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "m870-12ga-4-shell-magazine-cap",
+        "m870-12ga-7-shell-magazine",
+        "m870-12ga-10-shell-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "m870-leapers-utg-pro-mtu-028sg-rail",
+        "m870-xs-shotrail-rail-with-ghost-ring-rear-sight"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Remington_Model_870_12ga_pump-action_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

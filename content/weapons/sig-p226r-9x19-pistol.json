@@ -1,0 +1,73 @@
+{
+  "id": "sig-p226r-9x19-pistol",
+  "name": "SIG P226R 9x19 pistol",
+  "page": "SIG P226R 9x19 pistol",
+  "image": "/weapons/sig-p226r-9x19-pistol.webp",
+  "ergonomics": 83.5,
+  "recoilVertical": 372,
+  "recoilHorizontal": 267,
+  "moa": 10.31,
+  "weight": 0.802,
+  "fireRate": 30,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "p226-9x19-112mm-barrel",
+        "p226-9x19-112mm-threaded-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "p226-axelson-tactical-mk25-pistol-grip",
+        "p226-polymer-pistol-grip-black",
+        "p226-emperor-scorpion-pistol-grip",
+        "p226-hogue-g10-chain-link-pistol-grip",
+        "p226-hogue-rubberized-pistol-grip",
+        "p226-combat-pistol-grip-fde",
+        "p226-stainless-elite-wooden-pistol-grip"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "p226-axelson-tactical-mk25-pistol-slide",
+        "p226-emperor-scorpion-pistol-slide",
+        "p226-legion-full-size-pistol-slide",
+        "p226-stainless-elite-pistol-slide",
+        "p226r-mk25-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "p226-9x19-20-round-extended-magazine",
+        "p226-9x19-15-round-magazine"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "ncstar-tactical-blue-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "um-tactical-um3-pistol-sight-mount",
+        "p226-bridge-sight-mount",
+        "olight-baldr-pro-tactical-flashlight-with-laser",
+        "olight-baldr-pro-tactical-flashlight-with-laser-tan"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/SIG_P226R_9x19_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

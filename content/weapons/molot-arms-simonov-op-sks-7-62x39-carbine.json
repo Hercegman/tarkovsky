@@ -1,0 +1,61 @@
+{
+  "id": "molot-arms-simonov-op-sks-7-62x39-carbine",
+  "name": "Molot Arms Simonov OP-SKS 7.62x39 carbine",
+  "page": "Molot Arms Simonov OP-SKS 7.62x39 carbine",
+  "image": "/weapons/molot-arms-simonov-op-sks-7-62x39-carbine.webp",
+  "ergonomics": 37,
+  "recoilVertical": 97,
+  "recoilHorizontal": 225,
+  "moa": 1.69,
+  "weight": 3.793,
+  "fireRate": 40,
+  "caliber": "7.62x39mm",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "op-sks-7-62x39-520mm-barrel",
+        "sks-7-62x39-520mm-barrel"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "op-sks-dust-cover",
+        "sks-dust-cover",
+        "sks-leapers-utg-pro-mtu017-receiver-cover-mount"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "sks-fab-defense-uas-chassis",
+        "op-sks-wooden-stock",
+        "sks-tapco-intrafuse-chassis",
+        "sks-toz-wooden-stock-56-a-231-sb-5",
+        "sks-ati-monte-carlo-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "sks-7-62x39-kci-75-round-drum-magazine",
+        "sks-7-62x39-promag-aalvx-35-round-magazine",
+        "sks-7-62x39-tapco-6610-20-round-magazine",
+        "sks-7-62x39-10-round-internal-box-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "op-sks-dovetail-mount",
+        "sks-choate-scope-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Molot_Arms_Simonov_OP-SKS_7.62x39_carbine",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

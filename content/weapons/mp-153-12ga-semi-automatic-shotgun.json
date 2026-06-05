@@ -1,0 +1,63 @@
+{
+  "id": "mp-153-12ga-semi-automatic-shotgun",
+  "name": "MP-153 12ga semi-automatic shotgun",
+  "page": "MP-153 12ga semi-automatic shotgun",
+  "image": "/weapons/mp-153-12ga-semi-automatic-shotgun.webp",
+  "ergonomics": 40,
+  "recoilVertical": 230,
+  "recoilHorizontal": 313,
+  "moa": 10.31,
+  "weight": 3.62,
+  "fireRate": 40,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mp-153-12ga-610mm-barrel",
+        "mp-153-12ga-660mm-barrel",
+        "mp-153-12ga-710mm-barrel",
+        "mp-153-12ga-750mm-barrel"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "mp-153-polymer-forestock"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "mp-133-153-taktika-tula-12003-stock-adapter",
+        "mp-133-153-plastic-pistol-grip",
+        "mp-133-153-plastic-stock",
+        "mp-133-153-wooden-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "mp-133-12ga-6-shell-magazine",
+        "mp-133-12ga-8-shell-magazine",
+        "mp-153-12ga-4-shell-magazine-cap",
+        "mp-153-12ga-5-shell-magazine",
+        "mp-153-12ga-6-shell-magazine",
+        "mp-153-12ga-7-shell-magazine",
+        "mp-153-12ga-8-shell-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "delta-tek-sprut-mount-for-pump-action-shotguns",
+        "kiba-arms-sprm-rail-mount-for-pump-action-shotguns"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_semi-automatic_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

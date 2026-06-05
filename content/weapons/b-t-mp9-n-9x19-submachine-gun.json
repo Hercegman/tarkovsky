@@ -1,0 +1,60 @@
+{
+  "id": "b-t-mp9-n-9x19-submachine-gun",
+  "name": "B&T MP9-N 9x19 submachine gun",
+  "page": "B&T MP9-N 9x19 submachine gun",
+  "image": "/weapons/b-t-mp9-n-9x19-submachine-gun.webp",
+  "ergonomics": 85.85,
+  "recoilVertical": 44,
+  "recoilHorizontal": 218,
+  "moa": 7.22,
+  "weight": 1.41,
+  "fireRate": 1100,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "mp9-9x19-sound-suppressor-mount"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "mp9-n-9x19-upper-receiver",
+        "mp9-9x19-upper-receiver"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "mp9-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "mp9-9x19-15-round-magazine",
+        "mp9-9x19-20-round-magazine",
+        "mp9-9x19-25-round-magazine",
+        "mp9-9x19-30-round-magazine"
+      ]
+    },
+    {
+      "name": "Foregrip",
+      "allowed": [
+        "mp9-n-vertical-foregrip"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "mp9-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/B%26T_MP9-N_9x19_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "mp-43-1c-12ga-double-barrel-shotgun",
+  "name": "MP-43-1C 12ga double-barrel shotgun",
+  "page": "MP-43-1C 12ga double-barrel shotgun",
+  "image": "/weapons/mp-43-1c-12ga-double-barrel-shotgun.webp",
+  "ergonomics": 39,
+  "recoilVertical": 240,
+  "recoilHorizontal": 355,
+  "moa": 13.06,
+  "weight": 3.6,
+  "fireRate": 900,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mp-43-1c-12ga-510mm-barrel",
+        "mp-43-1c-12ga-725mm-barrel",
+        "mp-43-12ga-750mm-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "mp-43-1c-buttpad"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/MP-43-1C_12ga_double-barrel_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

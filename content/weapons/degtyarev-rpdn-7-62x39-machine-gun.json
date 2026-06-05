@@ -1,0 +1,75 @@
+{
+  "id": "degtyarev-rpdn-7-62x39-machine-gun",
+  "name": "Degtyarev RPDN 7.62x39 machine gun",
+  "page": "Degtyarev RPDN 7.62x39 machine gun",
+  "image": "/weapons/degtyarev-rpdn-7-62x39-machine-gun.webp",
+  "ergonomics": 24,
+  "recoilVertical": 73,
+  "recoilHorizontal": 344,
+  "moa": 1.31,
+  "weight": 7.46,
+  "fireRate": 700,
+  "caliber": "7.62x39mm",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "rpd-7-62x39-520mm-barrel",
+        "rpd-7-62x39-sawed-off-350mm-barrel",
+        "rpd-7-62x39-ds-arms-370mm-barrel"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail",
+        "rs-regulate-ak-303m-full-length-lower-dovetail-mount"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "rpd-wooden-handguard",
+        "rpd-ds-arms-railed-handguard"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "rpd-wooden-stock",
+        "rpd-ds-arms-buttstock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "rpd-7-62x39-buben-100-round-box"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "rpd-rear-sight"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Degtyarev_RPDN_7.62x39_machine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

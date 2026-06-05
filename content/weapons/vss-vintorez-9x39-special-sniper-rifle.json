@@ -1,0 +1,88 @@
+{
+  "id": "vss-vintorez-9x39-special-sniper-rifle",
+  "name": "VSS Vintorez 9x39 special sniper rifle",
+  "page": "VSS Vintorez 9x39 special sniper rifle",
+  "image": "/weapons/vss-vintorez-9x39-special-sniper-rifle.webp",
+  "ergonomics": 60,
+  "recoilVertical": 51,
+  "recoilHorizontal": 173,
+  "moa": 3.27,
+  "weight": 2.6,
+  "fireRate": 900,
+  "caliber": "9x39mm",
+  "slots": [
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "as-val-9x39-integral-barrel-suppressor",
+        "vss-9x39-integral-barrel-suppressor"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "vss-val-polymer-handguard-plum",
+        "vss-val-polymer-handguard-black"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "as-val-dust-cover",
+        "vss-dust-cover"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "vss-wooden-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "vss-val-9x39-6l24-10-round-magazine",
+        "vss-val-9x39-6l25-20-round-magazine-plum",
+        "vss-val-9x39-sr3m-130-30-round-magazine",
+        "vss-val-9x39-30-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "svd-sag-low-profile-sidemount",
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "svd-caa-xd-rgl-receiver-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "zenit-b-13-klassika-dovetail-rail-platform",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail",
+        "rs-regulate-ak-303m-full-length-lower-dovetail-mount"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/VSS_Vintorez_9x39_special_sniper_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

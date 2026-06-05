@@ -1,0 +1,57 @@
+{
+  "id": "stechkin-apb-9x18pm-silenced-machine-pistol",
+  "name": "Stechkin APB 9x18PM silenced machine pistol",
+  "page": "Stechkin APB 9x18PM silenced machine pistol",
+  "image": "/weapons/stechkin-apb-9x18pm-silenced-machine-pistol.webp",
+  "ergonomics": 62,
+  "recoilVertical": 220,
+  "recoilHorizontal": 174,
+  "moa": 11,
+  "weight": 1.611,
+  "fireRate": 750,
+  "caliber": "9x18mm Makarov",
+  "slots": [
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "apb-9x18pm-sound-suppressor"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "aps-bakelite-side-pieces"
+      ]
+    },
+    {
+      "name": "Front sight",
+      "allowed": [
+        "aps-front-sight"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "apb-rear-sight",
+        "aps-rear-sight"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "apb-detachable-wire-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "aps-9x18pm-20-round-magazine"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stechkin_APB_9x18PM_silenced_machine_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

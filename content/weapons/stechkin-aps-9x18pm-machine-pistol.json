@@ -1,0 +1,51 @@
+{
+  "id": "stechkin-aps-9x18pm-machine-pistol",
+  "name": "Stechkin APS 9x18PM machine pistol",
+  "page": "Stechkin APS 9x18PM machine pistol",
+  "image": "/weapons/stechkin-aps-9x18pm-machine-pistol.webp",
+  "ergonomics": 73,
+  "recoilVertical": 328,
+  "recoilHorizontal": 260,
+  "moa": 10.31,
+  "weight": 1.021,
+  "fireRate": 750,
+  "caliber": "9x18mm Makarov",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "aps-bakelite-side-pieces"
+      ]
+    },
+    {
+      "name": "Front sight",
+      "allowed": [
+        "aps-front-sight"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "apb-rear-sight",
+        "aps-rear-sight"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "apb-detachable-wire-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "aps-9x18pm-20-round-magazine"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Stechkin_APS_9x18PM_machine_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

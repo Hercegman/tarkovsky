@@ -1,16 +1,16 @@
 /*
  * Project Tarkovsky — gun builder data (approximate, wiki-only).
  *
- * For a curated set of weapons, pulls base stats + the Mods slots (compatible
- * attachments) from the EFT Wiki, and each attachment's stat modifiers, into:
+ * Ingests ALL firearms from the EFT Wiki: base stats + Mods slots (compatible
+ * attachments) + each attachment's stat modifiers and nested sub-slots (2 levels).
  *   content/weapons/<id>.json, content/attachments.json, public/weapons/<id>.<ext>
  *
- * Source: EFT Wiki (CC BY-NC-SA). Stats are approximate (the wiki is the only
- * source we use; cross-slot conflicts and some mods are not modelled).
+ * Source: EFT Wiki (CC BY-NC-SA). Approximate — cross-slot conflicts and some
+ * mods aren't modelled.
  *
- * Usage: node scripts/ingest-weapons.mts
+ * Usage: node scripts/ingest-weapons.mts [--limit N]
  */
-import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const UA =
@@ -18,24 +18,21 @@ const UA =
 const API = "https://escapefromtarkov.fandom.com/api.php";
 const ROOT = process.cwd();
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
-
-// Curated MVP weapon set (wiki page titles).
-const WEAPONS = [
-  "ADAR 2-15 5.56x45 carbine",
-  "Kalashnikov AKS-74U 5.45x39 assault rifle",
-  "Kalashnikov AK-74M 5.45x39 assault rifle",
-  "Mosin 7.62x54R bolt-action rifle (Infantry)",
-  "Kalashnikov AKS-74UB 5.45x39 assault rifle",
-  "TOZ KS-23M 23x75mm pump-action shotgun",
-  "Makarov PM 9x18PM pistol",
-];
+const limit = (() => {
+  const i = process.argv.indexOf("--limit");
+  return i >= 0 ? Number(process.argv[i + 1]) : null;
+})();
 
 async function api(p: Record<string, string>): Promise<any> {
   const url = new URL(API);
   url.search = new URLSearchParams({ format: "json", formatversion: "2", maxlag: "5", ...p }).toString();
-  const res = await fetch(url, { headers: { "User-Agent": UA } });
-  if (!res.ok) throw new Error(`API ${res.status}`);
-  return res.json();
+  for (let a = 0; a < 4; a++) {
+    const res = await fetch(url, { headers: { "User-Agent": UA } });
+    if (res.status === 429 || res.status === 503) { await sleep(4000); continue; }
+    if (!res.ok) throw new Error(`API ${res.status}`);
+    return res.json();
+  }
+  throw new Error("API retries exhausted");
 }
 function chunk<T>(a: T[], n: number): T[][] {
   const o: T[][] = [];
@@ -44,8 +41,7 @@ function chunk<T>(a: T[], n: number): T[][] {
 }
 const slug = (s: string) =>
   s.toLowerCase().replace(/['’]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
-const extFor = (b: Uint8Array) =>
-  b[0] === 0x89 ? "png" : b[0] === 0xff ? "jpg" : b[0] === 0x52 ? "webp" : "png";
+const extFor = (b: Uint8Array) => (b[0] === 0x89 ? "png" : b[0] === 0xff ? "jpg" : b[0] === 0x52 ? "webp" : "png");
 
 function ibField(wt: string, key: string): string | null {
   const m = wt.match(new RegExp(`\\|\\s*${key}\\s*=\\s*([^\\n]*)`, "i"));
@@ -63,12 +59,8 @@ function fileField(wt: string, key: string): string | null {
   return v.replace(/\[\[|\]\]/g, "").replace(/^File:/i, "").split("|")[0].trim() || null;
 }
 
-interface Slot {
-  name: string;
-  allowed: string[]; // attachment slugs
-}
+interface Slot { name: string; allowed: string[]; }
 
-/** The rendered Mods section, bounded by the next top-level heading. */
 function modsRegion(html: string): string {
   const i = html.search(/id="Mods"/);
   if (i < 0) return "";
@@ -76,8 +68,6 @@ function modsRegion(html: string): string {
   const nh = after.search(/<h2[ >]/);
   return nh >= 0 ? html.slice(i, i + 5 + nh) : html.slice(i, i + 40000);
 }
-
-/** Slot names, in order, from the Mods tabber wikitext (`Name=` ... `|-|Name=`). */
 function slotNames(wt: string): string[] {
   const sec = wt.match(/==\s*Mods\s*==([\s\S]*?)(?=\n==[^=]|$)/i)?.[1] || "";
   const tab = sec.match(/<tabber>([\s\S]*?)<\/tabber>/i)?.[1] ?? sec;
@@ -86,10 +76,8 @@ function slotNames(wt: string): string[] {
     return m ? m[1].trim() : "";
   });
 }
-
-/** Parse the Mods tabber → slots with compatible attachment pages. */
-function parseMods(html: string, wt: string): { slots: Slot[]; pages: Map<string, { name: string; icon: string | null }> } {
-  const pages = new Map<string, { name: string; icon: string | null }>();
+function parseMods(html: string, wt: string, strict = false): { slots: Slot[]; pages: Map<string, string> } {
+  const pages = new Map<string, string>(); // page title -> (we just need the title)
   const slots: Slot[] = [];
   const region = modsRegion(html);
   if (!region) return { slots, pages };
@@ -98,56 +86,82 @@ function parseMods(html: string, wt: string): { slots: Slot[]; pages: Map<string
   for (let i = 0; i < contents.length; i++) {
     const block = contents[i];
     const allowed: string[] = [];
-    const re = /<a href="\/wiki\/([^"#:]+)"[^>]*?(?:title="([^"]+)")?[^>]*>(?:<img[^>]*?(?:data-src|src)="([^"]+)")?/g;
-    let m: RegExpExecArray | null;
+    const titleBySlug = new Map<string, string>();
     const seen = new Set<string>();
+    const re = /<a href="\/wiki\/([^"#:]+)"/g;
+    let m: RegExpExecArray | null;
     while ((m = re.exec(block))) {
       const page = decodeURIComponent(m[1]).replace(/_/g, " ");
-      if (/^(Weapon mods|Category|File|Special|Template|Help)/i.test(page)) continue;
+      if (/^(Weapon mods|Category|File|Special|Template|Help|Ammunition|Ammo)/i.test(page)) continue;
       const s = slug(page);
       if (seen.has(s)) continue;
       seen.add(s);
       allowed.push(s);
-      if (!pages.has(page)) pages.set(page, { name: (m[2] || page).trim(), icon: m[3] || null });
+      titleBySlug.set(s, page);
     }
-    if (allowed.length) slots.push({ name: (names[i] || `Slot ${i + 1}`).trim(), allowed });
+    const name = (names[i] || `Slot ${i + 1}`).trim();
+    // Skip non-mod tabs (compatibility lists, etc.) and over-large lists that
+    // are clearly compatibility tables rather than real sub-slots.
+    if (/compat|used in|trade|barter|craft|descr|variant|ammo|caliber/i.test(name)) continue;
+    if (allowed.length === 0 || (strict && allowed.length > 60)) continue;
+    for (const a of allowed) pages.set(titleBySlug.get(a)!, titleBySlug.get(a)!);
+    slots.push({ name, allowed });
   }
   return { slots, pages };
 }
+
+async function getFirearms(): Promise<string[]> {
+  let all: string[] = [];
+  let c: string | undefined;
+  do {
+    const d = await api({ action: "query", list: "categorymembers", cmtitle: "Category:Weapons", cmlimit: "500", cmtype: "page", ...(c ? { cmcontinue: c } : {}) });
+    all.push(...(d.query?.categorymembers ?? []).map((m: { title: string }) => m.title));
+    c = d.continue?.cmcontinue;
+    if (c) await sleep(500);
+  } while (c);
+  return all.filter(
+    (t) =>
+      /(rifle|carbine|submachine gun|shotgun|pistol|machine gun|marksman|revolver)/i.test(t) &&
+      !/grenade launcher|bayonet|knife|dagger|axe|machete|toy|kukri|hatchet|sword|gladius|cleaver|katana|signal pistol/i.test(t) &&
+      !/\((WTS|Golden|Redline|t|5-46)\)/i.test(t),
+  );
+}
+
+const attDefaults = (id: string, name: string) => ({
+  id, name, image: null as string | null, ergo: 0, recoil: 0, accuracy: 0, weight: 0,
+  type: null as string | null, slots: [] as Slot[],
+});
 
 async function main() {
   await mkdir(path.join(ROOT, "content", "weapons"), { recursive: true });
   await mkdir(path.join(ROOT, "public", "weapons"), { recursive: true });
 
-  const attachmentPages = new Map<string, { name: string; icon: string | null }>();
-  const weapons: any[] = [];
-  const imageJobs = new Map<string, string>(); // local slug -> File title (no File:)
+  let titles = await getFirearms();
+  if (limit) titles = titles.slice(0, limit);
+  console.log(`Firearms: ${titles.length}`);
 
-  for (const title of WEAPONS) {
+  const weapons: any[] = [];
+  const imageJobs = new Map<string, string>(); // localKey -> File title
+  const attachments: Record<string, any> = {};
+  const attachPages = new Map<string, string>(); // slug -> page title (to fetch)
+
+  // 1) Weapons.
+  for (const title of titles) {
     try {
       const wt = (await api({ action: "parse", page: title, prop: "wikitext" })).parse?.wikitext as string | undefined;
       const html = (await api({ action: "parse", page: title, prop: "text" })).parse?.text as string | undefined;
-      if (!wt || !html) {
-        console.warn(`  ! ${title}: no content`);
-        continue;
-      }
+      if (!wt || !html) continue;
       const rec = ibField(wt, "Weaprecoil") || "";
-      const recV = num((rec.match(/Vertical:\s*([^<|]+)/i) || [])[1] || null);
-      const recH = num((rec.match(/Horizontal:\s*([^<|]+)/i) || [])[1] || null);
       const { slots, pages } = parseMods(html, wt);
-      for (const [p, info] of pages) attachmentPages.set(p, info);
-
+      for (const p of pages.keys()) attachPages.set(slug(p), p);
       const id = slug(title);
       const imgFile = fileField(wt, "image");
       if (imgFile) imageJobs.set(`w-${id}`, imgFile);
       weapons.push({
-        id,
-        name: title,
-        page: title,
-        image: imgFile ? `/weapons/${id}.IMG` : null, // ext filled after download
+        id, name: title, page: title, image: null,
         ergonomics: num(ibField(wt, "ergonomics")),
-        recoilVertical: recV,
-        recoilHorizontal: recH,
+        recoilVertical: num((rec.match(/Vertical:\s*([^<|]+)/i) || [])[1] || null),
+        recoilHorizontal: num((rec.match(/Horizontal:\s*([^<|]+)/i) || [])[1] || null),
         moa: num(ibField(wt, "MOA")),
         weight: num(ibField(wt, "weight")),
         fireRate: num(ibField(wt, "rof")),
@@ -155,83 +169,104 @@ async function main() {
         slots,
         source: { url: `https://escapefromtarkov.fandom.com/wiki/${encodeURIComponent(title.replace(/ /g, "_"))}`, license: "CC BY-NC-SA", wiki: "Escape from Tarkov Wiki" },
       });
-      console.log(`  ${title}: ${slots.length} slots, ${pages.size} mods`);
-      await sleep(900);
+      console.log(`  ${title}: ${slots.length} slots`);
+      await sleep(800);
     } catch (e) {
       console.warn(`  ! ${title}: ${(e as Error).message}`);
     }
   }
 
-  // Fetch attachment infoboxes (batched).
-  console.log(`\nFetching ${attachmentPages.size} attachment infoboxes…`);
-  const attachments: Record<string, any> = {};
-  const pageList = [...attachmentPages.keys()];
-  for (const part of chunk(pageList, 50)) {
-    const data = await api({ action: "query", prop: "revisions", rvprop: "content", rvslots: "main", titles: part.join("|") });
-    for (const p of data.query?.pages ?? []) {
-      if (p.missing) continue;
-      const wt = p.revisions?.[0]?.slots?.main?.content as string | undefined;
-      if (!wt) continue;
-      const id = slug(p.title);
-      const iconFile = fileField(wt, "icon") || fileField(wt, "image");
-      if (iconFile) imageJobs.set(`a-${id}`, iconFile);
-      attachments[id] = {
-        id,
-        name: p.title,
-        image: iconFile ? `/weapons/a-${id}.IMG` : null,
-        ergo: num(ibField(wt, "ergonomics")) ?? 0,
-        recoil: num(ibField(wt, "recoil")) ?? 0,
-        accuracy: num(ibField(wt, "accuracy")) ?? 0,
-        weight: num(ibField(wt, "weight")) ?? 0,
-        type:
-          ((ibField(wt, "type") || "").replace(/\[\[|\]\]/g, "").split("|").pop() || "").trim() ||
-          null,
-      };
+  // 2) Attachments — two levels of nesting.
+  // Level fetch: batch wikitext for stats + detect a Mods tabber; record which need HTML.
+  async function fetchInfoboxes(pages: { slug: string; page: string }[], allowNested: boolean): Promise<{ slug: string; page: string }[]> {
+    const needHtml: { slug: string; page: string }[] = [];
+    const wtBySlug = new Map<string, string>();
+    for (const part of chunk(pages, 50)) {
+      const data = await api({ action: "query", prop: "revisions", rvprop: "content", rvslots: "main", titles: part.map((p) => p.page).join("|") });
+      for (const p of data.query?.pages ?? []) {
+        if (p.missing) continue;
+        const wt = p.revisions?.[0]?.slots?.main?.content as string | undefined;
+        if (!wt) continue;
+        const s = slug(p.title);
+        const a = attDefaults(s, p.title);
+        a.ergo = num(ibField(wt, "ergonomics")) ?? 0;
+        a.recoil = num(ibField(wt, "recoil")) ?? 0;
+        a.accuracy = num(ibField(wt, "accuracy")) ?? 0;
+        a.weight = num(ibField(wt, "weight")) ?? 0;
+        a.type = ((ibField(wt, "type") || "").replace(/\[\[|\]\]/g, "").split("|").pop() || "").trim() || null;
+        attachments[s] = a;
+        const iconFile = fileField(wt, "icon") || fileField(wt, "image");
+        if (iconFile) imageJobs.set(`a-${s}`, iconFile);
+        if (allowNested && (/<tabber>/i.test(wt) || /==\s*Mods\s*==/i.test(wt))) {
+          needHtml.push({ slug: s, page: p.title });
+          wtBySlug.set(s, wt);
+        }
+      }
+      process.stdout.write(`  …${Object.keys(attachments).length} attachments\r`);
+      await sleep(600);
     }
-    await sleep(700);
+    // For mods with sub-slots, fetch rendered HTML → nested slots + new sub-pages.
+    const newPages: { slug: string; page: string }[] = [];
+    for (const { slug: s, page } of needHtml) {
+      try {
+        const html = (await api({ action: "parse", page, prop: "text" })).parse?.text as string | undefined;
+        if (!html) continue;
+        const { slots, pages: subPages } = parseMods(html, wtBySlug.get(s) || "", true);
+        if (slots.length) attachments[s].slots = slots;
+        for (const p of subPages.keys()) {
+          const ss = slug(p);
+          if (!attachments[ss] && !attachPages.has(ss)) {
+            newPages.push({ slug: ss, page: p });
+            attachPages.set(ss, p);
+          }
+        }
+        await sleep(500);
+      } catch { /* skip */ }
+    }
+    return newPages;
   }
 
-  // Resolve + download images (batched imageinfo).
+  console.log(`\nLevel-1 attachments: ${attachPages.size}`);
+  const l1 = [...attachPages.entries()].map(([s, p]) => ({ slug: s, page: p }));
+  const l2 = await fetchInfoboxes(l1, true);
+  console.log(`\nLevel-2 attachments: ${l2.length}`);
+  if (l2.length) await fetchInfoboxes(l2, false);
+
+  // 3) Images.
   console.log(`\nDownloading ${imageJobs.size} images…`);
-  const jobs = [...imageJobs.entries()];
-  for (const part of chunk(jobs, 50)) {
-    const titles = part.map(([, fn]) => `File:${fn}`).join("|");
-    const info = await api({ action: "query", titles, prop: "imageinfo", iiprop: "url", iiurlwidth: "160" });
+  let ok = 0;
+  for (const part of chunk([...imageJobs.entries()], 50)) {
+    const titlesParam = part.map(([, fn]) => `File:${fn}`).join("|");
+    const info = await api({ action: "query", titles: titlesParam, prop: "imageinfo", iiprop: "url", iiurlwidth: "160" });
     const norm = (s: string) => s.replace(/_/g, " ").toLowerCase();
-    const urlByFile = new Map<string, string>();
+    const byFile = new Map<string, string>();
     for (const p of info.query?.pages ?? []) {
       const u = p.imageinfo?.[0]?.thumburl ?? p.imageinfo?.[0]?.url;
-      if (u) urlByFile.set(norm(p.title), u);
+      if (u) byFile.set(norm(p.title), u);
     }
     for (const [localKey, fn] of part) {
-      const u = urlByFile.get(norm(`File:${fn}`));
+      const u = byFile.get(norm(`File:${fn}`));
       if (!u) continue;
       try {
         const buf = new Uint8Array(await (await fetch(u, { headers: { "User-Agent": UA } })).arrayBuffer());
         const ext = extFor(buf);
-        const fileName = `${localKey.replace(/^w-/, "")}.${ext}`; // weapons: <id>.ext, mods: a-<id>.ext
-        await writeFile(path.join(ROOT, "public", "weapons", localKey.startsWith("a-") ? `${localKey}.${ext}` : fileName), buf);
-        const pubPath = `/weapons/${localKey.startsWith("a-") ? `${localKey}.${ext}` : fileName}`;
-        if (localKey.startsWith("w-")) {
-          const w = weapons.find((x) => x.id === localKey.slice(2));
-          if (w) w.image = pubPath;
-        } else {
-          const a = attachments[localKey.slice(2)];
-          if (a) a.image = pubPath;
-        }
-        await sleep(120);
+        const isWeapon = localKey.startsWith("w-");
+        const fileName = isWeapon ? `${localKey.slice(2)}.${ext}` : `${localKey}.${ext}`;
+        await writeFile(path.join(ROOT, "public", "weapons", fileName), buf);
+        const pub = `/weapons/${fileName}`;
+        if (isWeapon) { const w = weapons.find((x) => x.id === localKey.slice(2)); if (w) w.image = pub; }
+        else { const a = attachments[localKey.slice(2)]; if (a) a.image = pub; }
+        ok++;
+        await sleep(110);
       } catch { /* skip */ }
     }
-    await sleep(600);
+    process.stdout.write(`  …${ok} downloaded\r`);
+    await sleep(500);
   }
-
-  // Drop unresolved-image placeholders.
-  for (const w of weapons) if (w.image?.endsWith(".IMG")) w.image = null;
-  for (const a of Object.values(attachments)) if ((a as any).image?.endsWith(".IMG")) (a as any).image = null;
 
   for (const w of weapons) await writeFile(path.join(ROOT, "content", "weapons", `${w.id}.json`), JSON.stringify(w, null, 2) + "\n");
   await writeFile(path.join(ROOT, "content", "attachments.json"), JSON.stringify(attachments, null, 2) + "\n");
-  console.log(`\nDone. ${weapons.length} weapons, ${Object.keys(attachments).length} attachments.`);
+  console.log(`\nDone. ${weapons.length} weapons, ${Object.keys(attachments).length} attachments, ${ok} images.`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

@@ -1,0 +1,93 @@
+{
+  "id": "iwi-uzi-pro-pistol-9x19-submachine-gun",
+  "name": "IWI UZI PRO Pistol 9x19 submachine gun",
+  "page": "IWI UZI PRO Pistol 9x19 submachine gun",
+  "image": "/weapons/iwi-uzi-pro-pistol-9x19-submachine-gun.webp",
+  "ergonomics": 80,
+  "recoilVertical": 57,
+  "recoilHorizontal": 197,
+  "moa": 7.73,
+  "weight": 1.66,
+  "fireRate": 1075,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "uzi-pro-9x19-20-round-magazine",
+        "uzi-pro-9x19-25-round-magazine",
+        "uzi-pro-9x19-32-round-magazine"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "uzi-pro-9x19-pike-arms-114mm-threaded-barrel",
+        "uzi-pro-9x19-114mm-barrel",
+        "uzi-pro-9x19-170mm-barrel",
+        "uzi-pro-9x19-210mm-barrel",
+        "uzi-pro-9x19-240mm-barrel"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "uzi-pro-9x19-barrel-retaining-nut"
+      ]
+    },
+    {
+      "name": "Foregrip",
+      "allowed": [
+        "uzi-pro-a3-tactical-m-lok-handguard",
+        "bcm-gunfighter-mod-3-vertical-foregrip",
+        "ash-12-vertical-foregrip",
+        "fortis-shift-tactical-foregrip",
+        "hk-sturmgriff-foregrip",
+        "kac-vertical-foregrip",
+        "magpul-rvg-foregrip-black",
+        "magpul-rvg-foregrip-fde",
+        "rtm-osovets-p-2-tactical-foregrip",
+        "rtm-osovets-p-2-tactical-foregrip-khaki",
+        "rtm-pillau-tactical-foregrip",
+        "rtm-pillau-p-2-tactical-foregrip-red",
+        "rtm-pillau-tactical-foregrip-sand",
+        "tangodown-stubby-bgv-mk46k-foregrip-black",
+        "tangodown-stubby-bgv-mk46k-foregrip-fde",
+        "tangodown-stubby-bgv-mk46k-foregrip-stealth-grey",
+        "viking-tactics-uvg-tactical-foregrip",
+        "zenit-rk-1-tactical-foregrip-on-b-25u-mount",
+        "zenit-rk-0-tactical-foregrip",
+        "zenit-rk-1-tactical-foregrip",
+        "zenit-rk-2-tactical-foregrip",
+        "zenit-rk-4-tactical-foregrip",
+        "zenit-rk-5-tactical-foregrip",
+        "zenit-rk-6-tactical-foregrip",
+        "daniel-defense-25mm-accessory-ring-mount",
+        "zenit-kr-2-old-gen-mount",
+        "tangodown-bgv-qditi-foregrip-black",
+        "tangodown-stubby-bgv-qdk-foregrip-black"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "uzi-pro-stabilizing-brace",
+        "uzi-pro-a3-tactical-rear-stock-adapter",
+        "uzi-pro-sbr-buttstock",
+        "uzi-pro-backplate",
+        "uzi-pro-csm-stock-adapter"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "uzi-pro-dust-cover"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/IWI_UZI_PRO_Pistol_9x19_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "tokarev-tt-33-7-62x25-tt-pistol",
+  "name": "Tokarev TT-33 7.62x25 TT pistol",
+  "page": "Tokarev TT-33 7.62x25 TT pistol",
+  "image": "/weapons/tokarev-tt-33-7-62x25-tt-pistol.webp",
+  "ergonomics": 67,
+  "recoilVertical": 536,
+  "recoilHorizontal": 315,
+  "moa": 12.03,
+  "weight": 0.874,
+  "fireRate": 30,
+  "caliber": "7.62x25mm Tokarev",
+  "slots": [
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "tt-pm-laser-dtk-tt-muzzle-brake"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "tt-7-62x25-116mm-barrel",
+        "tt-7-62x25-116mm-gilded-barrel",
+        "tt-7-62x25-121mm-makeshift-threaded-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "tt-ornated-side-grips",
+        "tt-hogue-like-rubber-grip",
+        "tt-pm-laser-tt-206-side-grips-with-laser-sight",
+        "tt-razor-arms-rubber-grip",
+        "tt-side-grips"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "tt-7-62x25-tt-105-8-round-magazine"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "tt-dlp-tactical-precision-laser-sight"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Tokarev_TT-33_7.62x25_TT_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}
