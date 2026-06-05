@@ -7,7 +7,15 @@ Newest first.
 
 ---
 
-## `_pending_` — dynamic backdrop on the full quest page · 2026-06-05
+## `_pending_` — gun builder (wiki-sourced, approximate) · 2026-06-05
+- **Added:** a `/gun-builder` page — pick a weapon, fit attachments (filtered by
+  wiki compatibility), and see live approximate stats (ergonomics, recoil V/H,
+  MOA, weight). Data ingested from the EFT Wiki for a curated weapon set
+  (`scripts/ingest-weapons.mts` → `content/weapons`, `content/attachments.json`,
+  `public/weapons`); stat engine in `src/lib/gun-stats.ts`. Header nav link added.
+  (Saving builds + nested slots + more weapons come next.)
+
+## `f2d89ee` — dynamic backdrop on the full quest page · 2026-06-05
 - **Added:** the quest detail page now has a faint cycling backdrop (its map
   banners + trader portrait) like the other pages.
 

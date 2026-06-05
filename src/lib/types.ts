@@ -78,6 +78,45 @@ export interface GameMap {
   name: string; // "Customs"
 }
 
+// ---- Gun builder (approximate, wiki-sourced) ----
+
+export interface WeaponSlot {
+  name: string;
+  allowed: string[]; // attachment ids
+}
+
+export interface Weapon {
+  id: string;
+  name: string;
+  page: string;
+  image: string | null;
+  ergonomics: number | null;
+  recoilVertical: number | null;
+  recoilHorizontal: number | null;
+  moa: number | null;
+  weight: number | null;
+  fireRate: number | null;
+  caliber: string | null;
+  slots: WeaponSlot[];
+  source: { url: string; license: string; wiki: string };
+}
+
+export interface Attachment {
+  id: string;
+  name: string;
+  image: string | null;
+  ergo: number; // ergonomics delta
+  recoil: number; // recoil % delta (e.g. -20 = -20%)
+  accuracy: number; // MOA delta
+  weight: number; // kg
+  type: string | null;
+}
+
+export interface GunBuild {
+  weaponId: string;
+  items: Record<string, string>; // slotName -> attachmentId
+}
+
 export interface MapCategory {
   id: string; // e.g. "quest", "exfil_pmc"
   name: string; // "Quest Related"

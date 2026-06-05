@@ -1,0 +1,128 @@
+{
+  "id": "adar-2-15-5-56x45-carbine",
+  "name": "ADAR 2-15 5.56x45 carbine",
+  "page": "ADAR 2-15 5.56x45 carbine",
+  "image": "/weapons/adar-2-15-5-56x45-carbine.webp",
+  "ergonomics": 62.5,
+  "recoilVertical": 80,
+  "recoilHorizontal": 228,
+  "moa": 2.2,
+  "weight": 3.267,
+  "fireRate": 800,
+  "caliber": "5.56x45mm NATO",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-adar-2-15-wooden-stock",
+        "ar-15-hera-arms-cqr-pistol-grip-buttstock",
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-1-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
+        "ar-15-hera-arms-hg-15-pistol-grip",
+        "ar-15-hk-battle-grip-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+        "ar-15-hk-ergo-psg-1-style-pistol-grip",
+        "ar-15-hk-v2-pistol-grip",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-magpul-moe-pistol-grip-black",
+        "ar-15-magpul-moe-pistol-grip-fde",
+        "ar-15-naroh-arms-gral-s-pistol-grip",
+        "mcx-pistol-grip",
+        "ar-15-stark-ar-rifle-grip-black",
+        "ar-15-stark-ar-rifle-grip-fde",
+        "ar-15-tactical-dynamics-hexgrip-pistol-grip",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip",
+        "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "ar-15-radian-weapons-model-1-5-56x45-upper-receiver",
+        "ar-15-adar-2-15-5-56x45-upper-receiver",
+        "m4a1-5-56x45-upper-receiver",
+        "tx-15-5-56x45-lightweight-upper-receiver",
+        "ar-15-noveske-gen-3-5-56x45-upper-receiver",
+        "ar-15-vltor-mur-1s-5-56x45-upper-receiver",
+        "ar-15-aeroknox-ax-15-5-56x45-upper-receiver"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ar-15-colt-a2-buffer-tube",
+        "ar-15-adar-2-15-buffer-tube",
+        "ar-15-colt-carbine-buffer-tube",
+        "ar-15-doublestar-ace-socom-gen-4-stock",
+        "ar-15-ergo-f93-pro-stock",
+        "ar-15-magpul-ubr-gen2-stock-black",
+        "ar-15-magpul-ubr-gen2-stock-fde",
+        "ar-15-soyuz-tm-buffer-tube",
+        "ar-15-strike-industries-advanced-receiver-extension",
+        "ar-15-strike-industries-advanced-receiver-extension-anodized-red",
+        "ar-15-troy-m7a1-pdw-stock-black",
+        "ar-15-troy-m7a1-pdw-stock-fde",
+        "ar-15-strike-industries-viper-pdw-stock",
+        "ar-15-rtm-atp-buffer-tube",
+        "ar-15-doublestar-ace-arfx-skeleton-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ar-15-5-56x45-colt-stanag-30-round-magazine",
+        "fn-scar-l-5-56x45-30-round-magazine",
+        "fn-scar-l-5-56x45-30-round-magazine-fde",
+        "ar-15-5-56x45-hk-steel-maritime-stanag-30-round-magazine",
+        "ar-15-5-56x45-hk-pm-gen-2-stanag-30-round-magazine",
+        "ar-15-5-56x45-hk-30-stanag-polymer-30-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-d-60-stanag-60-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-10-gen-m3-stanag-10-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-20-gen-m3-stanag-20-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine-fde",
+        "ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine-fde",
+        "ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine-fde",
+        "ar-15-5-56x45-surefire-mag5-100-stanag-100-round-magazine",
+        "ar-15-5-56x45-surefire-mag5-60-stanag-60-round-magazine",
+        "ar-15-5-56x45-troy-battlemag-stanag-30-round-magazine",
+        "ar-15-5-56x45-beta-c-mag-100-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ar-15-radian-weapons-raptor-sd-charging-handle",
+        "ar-15-magpul-b-a-d-lever-bolt-release",
+        "ar-15-adar-2-15-charging-handle",
+        "ar-15-badger-ordnance-tactical-charging-handle-latch",
+        "ar-15-colt-charging-handle",
+        "ar-15-geissele-ach-charging-handle-ddc",
+        "ar-15-hk-extended-latch-charging-handle",
+        "ar-15-masp-industries-ambidextrous-battle-charging-handle",
+        "ar-15-radian-weapons-raptor-charging-handle-fde",
+        "ar-15-radian-weapons-raptor-charging-handle-tungsten-grey",
+        "ar-15-rainier-arms-avalanche-mod2-charging-handle",
+        "ar-15-daniel-defense-grip-n-rip-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/ADAR_2-15_5.56x45_carbine",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}
