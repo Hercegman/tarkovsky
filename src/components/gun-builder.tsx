@@ -1,10 +1,18 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import { AnimatePresence, motion } from "motion/react";
 import type { Weapon, Attachment } from "@/lib/types";
 import { computeStats } from "@/lib/gun-stats";
+
+interface SavedBuild {
+  id: string;
+  name: string;
+  weaponId: string;
+  items: Record<string, string>;
+}
 
 export function GunBuilder({
   weapons,
@@ -16,8 +24,108 @@ export function GunBuilder({
   const [weaponId, setWeaponId] = useState<string | null>(null);
   const [selections, setSelections] = useState<Record<string, string>>({});
   const [query, setQuery] = useState("");
+  const [builds, setBuilds] = useState<SavedBuild[] | null>(null);
+  const [anon, setAnon] = useState(false);
+  const [saveName, setSaveName] = useState("");
+  const [saving, setSaving] = useState(false);
 
   const weapon = weapons.find((w) => w.id === weaponId) ?? null;
+
+  const refresh = useCallback(async () => {
+    const r = await fetch("/api/builds", { cache: "no-store" });
+    if (r.status === 401) return setAnon(true);
+    if (r.ok) setBuilds((await r.json()).builds);
+  }, []);
+
+  useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    refresh();
+  }, [refresh]);
+
+  async function saveBuild() {
+    if (!weapon || saving) return;
+    setSaving(true);
+    try {
+      const r = await fetch("/api/builds", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          name: saveName.trim() || weapon.name,
+          weaponId: weapon.id,
+          items: selections,
+        }),
+      });
+      if (r.ok) {
+        const saved: SavedBuild = (await r.json()).build;
+        setBuilds((b) => [saved, ...(b ?? [])]);
+        setSaveName("");
+      }
+    } finally {
+      setSaving(false);
+    }
+  }
+
+  function loadBuild(b: SavedBuild) {
+    setWeaponId(b.weaponId);
+    setSelections(b.items ?? {});
+  }
+
+  async function deleteBuild(id: string) {
+    await fetch("/api/builds", {
+      method: "DELETE",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id }),
+    });
+    setBuilds((b) => (b ?? []).filter((x) => x.id !== id));
+  }
+
+  const buildsBar = (
+    <div className="mb-5 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-3">
+      {anon ? (
+        <p className="text-sm text-[var(--muted)]">
+          <Link href="/login" className="text-[var(--gold)] hover:underline">
+            Log in
+          </Link>{" "}
+          to save your builds.
+        </p>
+      ) : (
+        <div className="flex flex-wrap items-center gap-2">
+          <span className="text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
+            Saved builds
+          </span>
+          {builds && builds.length === 0 && (
+            <span className="text-xs text-[var(--muted)]">none yet</span>
+          )}
+          {builds?.map((b) => {
+            const w = weapons.find((x) => x.id === b.weaponId);
+            return (
+              <span
+                key={b.id}
+                className="group inline-flex items-center gap-1 rounded-lg border border-[var(--border)] bg-[var(--surface-2)] py-1 pl-2 pr-1 text-xs"
+              >
+                <button
+                  type="button"
+                  onClick={() => loadBuild(b)}
+                  title={w?.name}
+                  className="hover:text-[var(--gold)]"
+                >
+                  {b.name}
+                </button>
+                <button
+                  type="button"
+                  onClick={() => deleteBuild(b.id)}
+                  aria-label="Delete build"
+                  className="rounded px-1 text-[var(--muted)] hover:text-[var(--danger)]"
+                >
+                  ✕
+                </button>
+              </span>
+            );
+          })}
+        </div>
+      )}
+    </div>
+  );
 
   const chosen = useMemo(
     () =>
@@ -40,6 +148,7 @@ export function GunBuilder({
       : weapons;
     return (
       <div>
+        {buildsBar}
         <input
           type="search"
           value={query}
@@ -73,6 +182,25 @@ export function GunBuilder({
 
   return (
     <div>
+      {buildsBar}
+      {!anon && (
+        <div className="mb-5 flex flex-wrap items-center gap-2">
+          <input
+            value={saveName}
+            onChange={(e) => setSaveName(e.target.value)}
+            placeholder={`Build name (default: ${weapon.name})`}
+            className="min-w-[220px] flex-1 rounded-lg border border-[var(--border)] bg-[var(--surface)] px-3 py-2 text-sm outline-none focus:border-[var(--gold-dim)]"
+          />
+          <button
+            type="button"
+            onClick={saveBuild}
+            disabled={saving}
+            className="rounded-lg border border-[var(--gold-dim)] bg-[var(--gold)] px-4 py-2 text-sm font-medium text-[var(--background)] transition-colors hover:bg-[var(--gold-hi)] disabled:opacity-60"
+          >
+            {saving ? "Saving…" : "Save build"}
+          </button>
+        </div>
+      )}
       <div className="mb-5 flex flex-wrap items-center gap-4 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-4">
         <span className="relative h-16 w-32 shrink-0">
           {weapon.image && (

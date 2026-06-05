@@ -15,6 +15,13 @@
       "when": 1780612667311,
       "tag": "0001_charming_jubilee",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1780685811652,
+      "tag": "0002_charming_red_ghost",
+      "breakpoints": true
     }
   ]
 }

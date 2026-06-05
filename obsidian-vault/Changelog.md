@@ -7,7 +7,12 @@ Newest first.
 
 ---
 
-## `_pending_` — gun builder (wiki-sourced, approximate) · 2026-06-05
+## `_pending_` — gun builder: save & load builds · 2026-06-05
+- **Added:** logged-in users can name and save gun builds, then load or delete
+  them. DB `gun_builds` table (migration `0002`); `/api/builds` GET/POST/DELETE
+  (session-scoped, validated, rate-limited); save/load UI in the builder.
+
+## `9e24753` — gun builder (wiki-sourced, approximate) · 2026-06-05
 - **Added:** a `/gun-builder` page — pick a weapon, fit attachments (filtered by
   wiki compatibility), and see live approximate stats (ergonomics, recoil V/H,
   MOA, weight). Data ingested from the EFT Wiki for a curated weapon set

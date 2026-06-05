@@ -3,6 +3,7 @@ import {
   text,
   timestamp,
   primaryKey,
+  jsonb,
 } from "drizzle-orm/pg-core";
 
 export const users = pgTable("users", {
@@ -48,6 +49,21 @@ export const questProgress = pgTable(
   },
   (t) => [primaryKey({ columns: [t.userId, t.questId] })],
 );
+
+export const gunBuilds = pgTable("gun_builds", {
+  id: text("id")
+    .primaryKey()
+    .$defaultFn(() => crypto.randomUUID()),
+  userId: text("user_id")
+    .notNull()
+    .references(() => users.id, { onDelete: "cascade" }),
+  name: text("name").notNull(),
+  weaponId: text("weapon_id").notNull(),
+  items: jsonb("items").notNull().$type<Record<string, string>>(),
+  createdAt: timestamp("created_at", { withTimezone: true })
+    .notNull()
+    .defaultNow(),
+});
 
 export type User = typeof users.$inferSelect;
 export type NewUser = typeof users.$inferInsert;
