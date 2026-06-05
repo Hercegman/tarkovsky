@@ -31,6 +31,7 @@ All game data comes **only** from the Escape from Tarkov Wiki (Fandom) — see
 - [[Theming and UI]] — palette, fonts, motion, radar background
 - [[Deployment]] — Vercel + Neon, env vars, how to ship
 - [[Licensing]] — CC BY-NC-SA and attribution duties
+- [[Changelog]] — every commit and what changed
 
 ## Quick mental model
 
