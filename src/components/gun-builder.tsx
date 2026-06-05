@@ -145,6 +145,7 @@ export function GunBuilder({
     [selections, attachments],
   );
   const stats = weapon ? computeStats(weapon, chosen) : null;
+  const base = weapon ? computeStats(weapon, []) : null;
 
   function pick(weaponId: string) {
     setWeaponId(weaponId);
@@ -253,17 +254,18 @@ export function GunBuilder({
             <h3 className="mb-3 text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
               Stats <span className="text-[var(--muted)]">(approx.)</span>
             </h3>
-            {stats && (
+            {stats && base && (
               <dl className="space-y-2 text-sm">
-                <Stat label="Ergonomics" value={stats.ergonomics} />
-                <Stat label="Recoil ↕" value={stats.recoilVertical} />
-                <Stat label="Recoil ↔" value={stats.recoilHorizontal} />
-                <Stat label="Accuracy (MOA)" value={stats.moa} />
-                <Stat label="Weight (kg)" value={stats.weight} />
+                <Stat label="Ergonomics" base={base.ergonomics} value={stats.ergonomics} higherBetter />
+                <Stat label="Recoil ↕" base={base.recoilVertical} value={stats.recoilVertical} />
+                <Stat label="Recoil ↔" base={base.recoilHorizontal} value={stats.recoilHorizontal} />
+                <Stat label="Accuracy (MOA)" base={base.moa} value={stats.moa} />
+                <Stat label="Weight (kg)" base={base.weight} value={stats.weight} />
               </dl>
             )}
             <p className="mt-3 border-t border-[var(--border)] pt-2 text-[11px] text-[var(--muted)]">
-              Approximate, wiki-sourced. Cross-slot conflicts aren&apos;t modelled.
+              Base is the bare weapon (no mods); fitted mods add their modifiers.
+              Approximate — cross-slot conflicts aren&apos;t modelled.
             </p>
           </div>
         </aside>
@@ -321,11 +323,32 @@ function SlotTree({
   );
 }
 
-function Stat({ label, value }: { label: string; value: number }) {
+function Stat({
+  label,
+  base,
+  value,
+  higherBetter = false,
+}: {
+  label: string;
+  base: number;
+  value: number;
+  higherBetter?: boolean;
+}) {
+  const delta = Math.round((value - base) * 100) / 100;
+  const good = higherBetter ? delta > 0 : delta < 0;
+  const color = delta === 0 ? "text-[var(--muted)]" : good ? "text-[var(--success)]" : "text-[var(--danger)]";
   return (
     <div className="flex items-center justify-between">
       <dt className="text-[var(--muted)]">{label}</dt>
-      <dd className="font-mono font-semibold text-[var(--gold-hi)]">{value}</dd>
+      <dd className="flex items-baseline gap-2 font-mono">
+        {delta !== 0 && (
+          <span className={`text-[11px] ${color}`}>
+            {delta > 0 ? "+" : ""}
+            {delta}
+          </span>
+        )}
+        <span className="font-semibold text-[var(--gold-hi)]">{value}</span>
+      </dd>
     </div>
   );
 }
