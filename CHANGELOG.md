@@ -7,6 +7,13 @@ Newest first.
 
 ---
 
+## `fccea6e` — themed hover tooltips + extract template image · 2026-06-05
+- **Changed:** map marker info now shows on **hover** (Leaflet `Tooltip`) instead
+  of on click, styled in the site's colours (dark surface, gold-dim border, gold
+  title) instead of the white/black default.
+- **Added:** extraction markers show a **template extract image**
+  (`public/extract-template.webp`) in the tooltip with a red "TEMPLATE" overlay.
+
 ## `8a65e76` — revert quest item images; keep shaped markers · 2026-06-05
 - **Removed:** the "Items in this quest" gallery, all ~1,550 item icons
   (`public/items`), `content/items.json`, the `items` quest field, and the

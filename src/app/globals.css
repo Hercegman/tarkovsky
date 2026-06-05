@@ -127,6 +127,55 @@ body::before {
   border: 0;
 }
 
+/* Themed hover tooltips (replace Leaflet's white/black default). */
+.leaflet-tooltip.tark-tip {
+  background: var(--surface);
+  color: var(--foreground);
+  border: 1px solid var(--gold-dim);
+  border-radius: 8px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.55);
+  padding: 6px 8px;
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: 12px;
+  max-width: 220px;
+}
+.leaflet-tooltip.tark-tip .tip-title {
+  display: block;
+  color: var(--gold-hi);
+  font-weight: 600;
+}
+.leaflet-tooltip-top.tark-tip::before { border-top-color: var(--gold-dim); }
+.leaflet-tooltip-bottom.tark-tip::before { border-bottom-color: var(--gold-dim); }
+.leaflet-tooltip-left.tark-tip::before { border-left-color: var(--gold-dim); }
+.leaflet-tooltip-right.tark-tip::before { border-right-color: var(--gold-dim); }
+
+.tip-img {
+  display: block;
+  position: relative;
+  width: 190px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+}
+.tip-img img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.tip-template {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #e5484d;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  font-size: 18px;
+  text-shadow: 0 1px 4px #000, 0 0 2px #000;
+}
+
 /* ---------- Keyframes ---------- */
 @keyframes glow-pulse {
   0%, 100% { box-shadow: 0 0 18px rgba(157, 160, 121, 0.25), 0 0 40px rgba(157, 160, 121, 0.08); }
