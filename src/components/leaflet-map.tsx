@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo } from "react";
-import { MapContainer, ImageOverlay, Marker, Popup, useMap } from "react-leaflet";
+import { MapContainer, ImageOverlay, Marker, Tooltip, useMap } from "react-leaflet";
 import {
   CRS,
   divIcon,
@@ -109,21 +109,32 @@ export default function LeafletMap({
       <FlyToHighlight highlight={highlight} />
       {map.image && <ImageOverlay url={map.image} bounds={bounds} />}
 
-      {shown.map((p, i) => (
-        <Marker key={i} position={[p.y, p.x]} icon={iconByCat.get(p.c)}>
-          {p.t && (
-            <Popup>
-              <strong>{p.t}</strong>
-            </Popup>
-          )}
-        </Marker>
-      ))}
+      {shown.map((p, i) => {
+        const isExfil = p.c.startsWith("exfil");
+        if (!p.t && !isExfil) {
+          return <Marker key={i} position={[p.y, p.x]} icon={iconByCat.get(p.c)} />;
+        }
+        return (
+          <Marker key={i} position={[p.y, p.x]} icon={iconByCat.get(p.c)}>
+            <Tooltip direction="top" offset={[0, -6]} opacity={1} className="tark-tip">
+              {isExfil && (
+                <span className="tip-img">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img src="/extract-template.webp" alt="" />
+                  <span className="tip-template">TEMPLATE</span>
+                </span>
+              )}
+              {p.t && <span className="tip-title">{p.t}</span>}
+            </Tooltip>
+          </Marker>
+        );
+      })}
 
       {highlight.map((p, i) => (
         <Marker key={`h-${i}`} position={[p.y, p.x]} icon={hIcon} zIndexOffset={1000}>
-          <Popup>
-            <strong>{p.label}</strong>
-          </Popup>
+          <Tooltip direction="top" offset={[0, -8]} opacity={1} className="tark-tip">
+            <span className="tip-title">{p.label}</span>
+          </Tooltip>
         </Marker>
       ))}
     </MapContainer>
