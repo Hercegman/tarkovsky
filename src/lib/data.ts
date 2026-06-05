@@ -3,8 +3,52 @@
 import "server-only";
 import { readFile, readdir } from "node:fs/promises";
 import path from "node:path";
-import type { Quest, Trader, GameMap, MapData } from "./types";
+import type {
+  Quest,
+  Trader,
+  GameMap,
+  MapData,
+  Weapon,
+  Attachment,
+} from "./types";
 import { orderQuests } from "./quest-utils";
+
+let weaponCache: Weapon[] | null = null;
+let attachmentCache: Record<string, Attachment> | null = null;
+
+export async function getWeapons(): Promise<Weapon[]> {
+  if (weaponCache) return weaponCache;
+  const dir = path.join(CONTENT, "weapons");
+  let files: string[];
+  try {
+    files = (await readdir(dir)).filter((f) => f.endsWith(".json"));
+  } catch {
+    return [];
+  }
+  const weapons = await Promise.all(
+    files.map((f) => readJson<Weapon>(path.join(dir, f))),
+  );
+  weapons.sort((a, b) => a.name.localeCompare(b.name));
+  weaponCache = weapons;
+  return weapons;
+}
+
+export async function getWeapon(id: string): Promise<Weapon | null> {
+  const weapons = await getWeapons();
+  return weapons.find((w) => w.id === id) ?? null;
+}
+
+export async function getAttachments(): Promise<Record<string, Attachment>> {
+  if (attachmentCache) return attachmentCache;
+  try {
+    attachmentCache = await readJson<Record<string, Attachment>>(
+      path.join(CONTENT, "attachments.json"),
+    );
+  } catch {
+    attachmentCache = {};
+  }
+  return attachmentCache;
+}
 
 const CONTENT = path.resolve(process.cwd(), "content");
 

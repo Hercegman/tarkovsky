@@ -1,0 +1,52 @@
+{
+  "id": "toz-ks-23m-23x75mm-pump-action-shotgun",
+  "name": "TOZ KS-23M 23x75mm pump-action shotgun",
+  "page": "TOZ KS-23M 23x75mm pump-action shotgun",
+  "image": "/weapons/toz-ks-23m-23x75mm-pump-action-shotgun.webp",
+  "ergonomics": 39,
+  "recoilVertical": 318,
+  "recoilHorizontal": 409,
+  "moa": 16.24,
+  "weight": 3.76,
+  "fireRate": 30,
+  "caliber": "23x75mmR",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "ks-23-23x75-510mm-barrel",
+        "ks-23-23x75-700mm-barrel"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "ks-23m-forestock"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ks-23-wooden-stock",
+        "ks-23m-pistol-grip"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ks-23m-23x75-3-shell-magazine-cap"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "komz-rusak-reflex-sight"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/TOZ_KS-23M_23x75mm_pump-action_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

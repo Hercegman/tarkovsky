@@ -1,0 +1,49 @@
+{
+  "id": "mosin-7-62x54r-bolt-action-rifle-infantry",
+  "name": "Mosin 7.62x54R bolt-action rifle (Infantry)",
+  "page": "Mosin 7.62x54R bolt-action rifle (Infantry)",
+  "image": "/weapons/mosin-7-62x54r-bolt-action-rifle-infantry.webp",
+  "ergonomics": 3,
+  "recoilVertical": 178,
+  "recoilHorizontal": 541,
+  "moa": 1.3,
+  "weight": 4.89,
+  "fireRate": 30,
+  "caliber": "7.62x54mmR",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mosin-carbine-7-62x54r-514mm-barrel",
+        "mosin-rifle-7-62x54r-sawed-off-220mm-threaded-barrel",
+        "mosin-rifle-7-62x54r-sawed-off-200mm-barrel",
+        "mosin-rifle-7-62x54r-730mm-regular-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "mosin-rifle-ati-monte-carlo-stock",
+        "mosin-rifle-sawed-off-stock",
+        "mosin-rifle-sniper-carbine-stock",
+        "mosin-rifle-carbine-stock",
+        "mosin-rifle-infantry-stock",
+        "mosin-rifle-sawed-off-sniper-stock",
+        "mosin-rifle-standard-stock",
+        "mosin-rifle-promag-archangel-opfor-prs-chassis"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "mosin-rifle-7-62x54r-5-round-magazine",
+        "mosin-rifle-7-62x54r-promag-archangel-opfor-10-round-magazine"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Mosin_7.62x54R_bolt-action_rifle_(Infantry)",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

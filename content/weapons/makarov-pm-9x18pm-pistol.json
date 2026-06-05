@@ -1,0 +1,43 @@
+{
+  "id": "makarov-pm-9x18pm-pistol",
+  "name": "Makarov PM 9x18PM pistol",
+  "page": "Makarov PM 9x18PM pistol",
+  "image": "/weapons/makarov-pm-9x18pm-pistol.webp",
+  "ergonomics": 88,
+  "recoilVertical": 380,
+  "recoilHorizontal": 265,
+  "moa": 13.41,
+  "weight": 0.73,
+  "fireRate": 30,
+  "caliber": "9x18mm Makarov",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "pm-9x18pm-84-round-makeshift-drum-magazine",
+        "pm-9x18pm-90-93-8-round-magazine"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "pm-pistol-slide"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "pm-bakelite-grip",
+        "pm-fab-defense-pm-g-pistol-grip",
+        "pm-tactic-kit-pistol-grip",
+        "pm-fab-defense-pm-g-pistol-grip-olive-drab",
+        "pm-pm-laser-grip-with-laser-sight"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Makarov_PM_9x18PM_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

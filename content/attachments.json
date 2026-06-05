@@ -1,0 +1,2262 @@
+{
+  "ar-15-colt-carbine-buffer-tube": {
+    "id": "ar-15-colt-carbine-buffer-tube",
+    "name": "AR-15 Colt Carbine buffer tube",
+    "image": "/weapons/a-ar-15-colt-carbine-buffer-tube.webp",
+    "ergo": -2,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.162,
+    "type": "Stock"
+  },
+  "ar-15-colt-a2-pistol-grip": {
+    "id": "ar-15-colt-a2-pistol-grip",
+    "name": "AR-15 Colt A2 pistol grip",
+    "image": "/weapons/a-ar-15-colt-a2-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-damage-industries-ecs-pistol-grip-fde": {
+    "id": "ar-15-damage-industries-ecs-pistol-grip-fde",
+    "name": "AR-15 Damage Industries ECS pistol grip (FDE)",
+    "image": "/weapons/a-ar-15-damage-industries-ecs-pistol-grip-fde.webp",
+    "ergo": 3,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "m4a1-5-56x45-upper-receiver": {
+    "id": "m4a1-5-56x45-upper-receiver",
+    "name": "M4A1 5.56x45 upper receiver",
+    "image": "/weapons/a-m4a1-5-56x45-upper-receiver.webp",
+    "ergo": 5,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.27,
+    "type": "Receiver"
+  },
+  "ar-15-vltor-mur-1s-5-56x45-upper-receiver": {
+    "id": "ar-15-vltor-mur-1s-5-56x45-upper-receiver",
+    "name": "AR-15 Vltor MUR-1S 5.56x45 upper receiver",
+    "image": "/weapons/a-ar-15-vltor-mur-1s-5-56x45-upper-receiver.webp",
+    "ergo": 7,
+    "recoil": -4,
+    "accuracy": -4,
+    "weight": 0.246,
+    "type": "Receiver"
+  },
+  "ar-15-naroh-arms-gral-s-pistol-grip": {
+    "id": "ar-15-naroh-arms-gral-s-pistol-grip",
+    "name": "AR-15 Naroh Arms GRAL-S pistol grip",
+    "image": "/weapons/a-ar-15-naroh-arms-gral-s-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.092,
+    "type": "Pistol grip"
+  },
+  "ar-15-colt-a2-buffer-tube": {
+    "id": "ar-15-colt-a2-buffer-tube",
+    "name": "AR-15 Colt A2 buffer tube",
+    "image": "/weapons/a-ar-15-colt-a2-buffer-tube.webp",
+    "ergo": -2,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.09,
+    "type": "Stock"
+  },
+  "ar-15-hera-arms-cqr-pistol-grip-buttstock": {
+    "id": "ar-15-hera-arms-cqr-pistol-grip-buttstock",
+    "name": "AR-15 Hera Arms CQR pistol grip/buttstock",
+    "image": "/weapons/a-ar-15-hera-arms-cqr-pistol-grip-buttstock.webp",
+    "ergo": 15,
+    "recoil": -23,
+    "accuracy": -23,
+    "weight": 0.499,
+    "type": "Stock"
+  },
+  "ar-15-magpul-miad-pistol-grip-fde": {
+    "id": "ar-15-magpul-miad-pistol-grip-fde",
+    "name": "AR-15 Magpul MIAD pistol grip (FDE)",
+    "image": "/weapons/a-ar-15-magpul-miad-pistol-grip-fde.webp",
+    "ergo": 3,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.05,
+    "type": "Pistol grip"
+  },
+  "ar-15-tactical-dynamics-skeletonized-pistol-grip": {
+    "id": "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+    "name": "AR-15 Tactical Dynamics Skeletonized pistol grip",
+    "image": "/weapons/a-ar-15-tactical-dynamics-skeletonized-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.038,
+    "type": "Pistol grip"
+  },
+  "ar-15-ergo-f93-pro-stock": {
+    "id": "ar-15-ergo-f93-pro-stock",
+    "name": "AR-15 ERGO F93 PRO stock",
+    "image": "/weapons/a-ar-15-ergo-f93-pro-stock.webp",
+    "ergo": 12,
+    "recoil": -21.5,
+    "accuracy": -21.5,
+    "weight": 0.59,
+    "type": "Stock"
+  },
+  "ar-15-hk-battle-grip-pistol-grip": {
+    "id": "ar-15-hk-battle-grip-pistol-grip",
+    "name": "AR-15 HK Battle Grip pistol grip",
+    "image": "/weapons/a-ar-15-hk-battle-grip-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-hk-battle-grip-beavertail-pistol-grip": {
+    "id": "ar-15-hk-battle-grip-beavertail-pistol-grip",
+    "name": "AR-15 HK Battle Grip Beavertail pistol grip",
+    "image": "/weapons/a-ar-15-hk-battle-grip-beavertail-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-adar-2-15-5-56x45-upper-receiver": {
+    "id": "ar-15-adar-2-15-5-56x45-upper-receiver",
+    "name": "AR-15 ADAR 2-15 5.56x45 upper receiver",
+    "image": "/weapons/a-ar-15-adar-2-15-5-56x45-upper-receiver.webp",
+    "ergo": 4,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.27,
+    "type": "Receiver"
+  },
+  "ar-15-adar-2-15-wooden-stock": {
+    "id": "ar-15-adar-2-15-wooden-stock",
+    "name": "AR-15 ADAR 2-15 wooden stock",
+    "image": "/weapons/a-ar-15-adar-2-15-wooden-stock.webp",
+    "ergo": 13,
+    "recoil": -20,
+    "accuracy": 0,
+    "weight": 0.695,
+    "type": "Stock"
+  },
+  "ar-15-noveske-gen-3-5-56x45-upper-receiver": {
+    "id": "ar-15-noveske-gen-3-5-56x45-upper-receiver",
+    "name": "AR-15 Noveske Gen.3 5.56x45 upper receiver",
+    "image": "/weapons/a-ar-15-noveske-gen-3-5-56x45-upper-receiver.webp",
+    "ergo": 8,
+    "recoil": -2,
+    "accuracy": 0,
+    "weight": 0.212,
+    "type": "Receiver"
+  },
+  "ar-15-hk-v2-pistol-grip": {
+    "id": "ar-15-hk-v2-pistol-grip",
+    "name": "AR-15 HK V2 pistol grip",
+    "image": "/weapons/a-ar-15-hk-v2-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": -1,
+    "accuracy": 0,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-strike-industries-advanced-receiver-extension": {
+    "id": "ar-15-strike-industries-advanced-receiver-extension",
+    "name": "AR-15 Strike Industries Advanced Receiver Extension",
+    "image": "/weapons/a-ar-15-strike-industries-advanced-receiver-extension.webp",
+    "ergo": -0.5,
+    "recoil": -0.5,
+    "accuracy": 0,
+    "weight": 0.11,
+    "type": "Stock"
+  },
+  "ar-15-adar-2-15-buffer-tube": {
+    "id": "ar-15-adar-2-15-buffer-tube",
+    "name": "AR-15 ADAR 2-15 buffer tube",
+    "image": "/weapons/a-ar-15-adar-2-15-buffer-tube.webp",
+    "ergo": -2,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.19,
+    "type": "Stock"
+  },
+  "ar-15-hera-arms-hg-15-pistol-grip": {
+    "id": "ar-15-hera-arms-hg-15-pistol-grip",
+    "name": "AR-15 Hera Arms HG-15 pistol grip",
+    "image": "/weapons/a-ar-15-hera-arms-hg-15-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-hk-ergo-psg-1-style-pistol-grip": {
+    "id": "ar-15-hk-ergo-psg-1-style-pistol-grip",
+    "name": "AR-15 HK Ergo PSG-1 style pistol grip",
+    "image": "/weapons/a-ar-15-hk-ergo-psg-1-style-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.11,
+    "type": "Pistol grip"
+  },
+  "ar-15-doublestar-ace-socom-gen-4-stock": {
+    "id": "ar-15-doublestar-ace-socom-gen-4-stock",
+    "name": "AR-15 DoubleStar ACE SOCOM Gen.4 stock",
+    "image": "/weapons/a-ar-15-doublestar-ace-socom-gen-4-stock.webp",
+    "ergo": 13,
+    "recoil": -20,
+    "accuracy": -20,
+    "weight": 0.47,
+    "type": "Stock"
+  },
+  "tx-15-5-56x45-lightweight-upper-receiver": {
+    "id": "tx-15-5-56x45-lightweight-upper-receiver",
+    "name": "TX-15 5.56x45 Lightweight upper receiver",
+    "image": "/weapons/a-tx-15-5-56x45-lightweight-upper-receiver.webp",
+    "ergo": 7,
+    "recoil": -2,
+    "accuracy": -2,
+    "weight": 0.19,
+    "type": "Receiver"
+  },
+  "mcx-pistol-grip": {
+    "id": "mcx-pistol-grip",
+    "name": "MCX pistol grip",
+    "image": "/weapons/a-mcx-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-soyuz-tm-buffer-tube": {
+    "id": "ar-15-soyuz-tm-buffer-tube",
+    "name": "AR-15 Soyuz-TM buffer tube",
+    "image": "/weapons/a-ar-15-soyuz-tm-buffer-tube.webp",
+    "ergo": -1.5,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.162,
+    "type": "Stock"
+  },
+  "ar-15-dlg-tactical-dlg-123-pistol-grip": {
+    "id": "ar-15-dlg-tactical-dlg-123-pistol-grip",
+    "name": "AR-15 DLG Tactical DLG-123 pistol grip",
+    "image": "/weapons/a-ar-15-dlg-tactical-dlg-123-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.1,
+    "type": "Pistol grip"
+  },
+  "ar-15-magpul-ubr-gen2-stock-black": {
+    "id": "ar-15-magpul-ubr-gen2-stock-black",
+    "name": "AR-15 Magpul UBR GEN2 stock (Black)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-magpul-ubr-gen2-stock-fde": {
+    "id": "ar-15-magpul-ubr-gen2-stock-fde",
+    "name": "AR-15 Magpul UBR GEN2 stock (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-troy-m7a1-pdw-stock-fde": {
+    "id": "ar-15-troy-m7a1-pdw-stock-fde",
+    "name": "AR-15 TROY M7A1 PDW stock (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-stark-ar-rifle-grip-fde": {
+    "id": "ar-15-stark-ar-rifle-grip-fde",
+    "name": "AR-15 Stark AR Rifle Grip (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-stark-ar-rifle-grip-black": {
+    "id": "ar-15-stark-ar-rifle-grip-black",
+    "name": "AR-15 Stark AR Rifle Grip (Black)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-magpul-moe-pistol-grip-black": {
+    "id": "ar-15-magpul-moe-pistol-grip-black",
+    "name": "AR-15 Magpul MOE pistol grip (Black)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-magpul-moe-pistol-grip-fde": {
+    "id": "ar-15-magpul-moe-pistol-grip-fde",
+    "name": "AR-15 Magpul MOE pistol grip (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "hogue-overmolded-rubber-grip-black": {
+    "id": "hogue-overmolded-rubber-grip-black",
+    "name": "Hogue OverMolded Rubber Grip (Black)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "hogue-overmolded-rubber-grip-ghillie-earth": {
+    "id": "hogue-overmolded-rubber-grip-ghillie-earth",
+    "name": "Hogue OverMolded Rubber Grip (Ghillie Earth)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "hogue-overmolded-rubber-grip-ghillie-green": {
+    "id": "hogue-overmolded-rubber-grip-ghillie-green",
+    "name": "Hogue OverMolded Rubber Grip (Ghillie Green)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "hogue-overmolded-rubber-grip-olive-drab": {
+    "id": "hogue-overmolded-rubber-grip-olive-drab",
+    "name": "Hogue OverMolded Rubber Grip (Olive Drab)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "hogue-overmolded-rubber-grip-fde": {
+    "id": "hogue-overmolded-rubber-grip-fde",
+    "name": "Hogue OverMolded Rubber Grip (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-strike-industries-advanced-receiver-extension-anodized-red": {
+    "id": "ar-15-strike-industries-advanced-receiver-extension-anodized-red",
+    "name": "AR-15 Strike Industries Advanced Receiver Extension (Anodized Red)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-troy-m7a1-pdw-stock-black": {
+    "id": "ar-15-troy-m7a1-pdw-stock-black",
+    "name": "AR-15 TROY M7A1 PDW stock (Black)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-f1-firearms-skeletonized-style-2-pistol-grip": {
+    "id": "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
+    "name": "AR-15 F1 Firearms Skeletonized Style 2 pistol grip",
+    "image": "/weapons/a-ar-15-f1-firearms-skeletonized-style-2-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": 0,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-tactical-dynamics-hexgrip-pistol-grip": {
+    "id": "ar-15-tactical-dynamics-hexgrip-pistol-grip",
+    "name": "AR-15 Tactical Dynamics Hexgrip pistol grip",
+    "image": "/weapons/a-ar-15-tactical-dynamics-hexgrip-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.064,
+    "type": "Pistol grip"
+  },
+  "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip": {
+    "id": "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip",
+    "name": "AR-15 F1 Firearms Skeletonized Style 2 PC pistol grip",
+    "image": "/weapons/a-ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": 0,
+    "weight": 0.087,
+    "type": "Pistol grip"
+  },
+  "ar-15-f1-firearms-skeletonized-style-1-pistol-grip": {
+    "id": "ar-15-f1-firearms-skeletonized-style-1-pistol-grip",
+    "name": "AR-15 F1 Firearms Skeletonized Style 1 pistol grip",
+    "image": "/weapons/a-ar-15-f1-firearms-skeletonized-style-1-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": 0,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000": {
+    "id": "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+    "name": "AR-15 HK Battle Grip Beavertail pistol grip (RAL 8000)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-strike-industries-viper-pdw-stock": {
+    "id": "ar-15-strike-industries-viper-pdw-stock",
+    "name": "AR-15 Strike Industries Viper PDW stock",
+    "image": "/weapons/a-ar-15-strike-industries-viper-pdw-stock.webp",
+    "ergo": 22,
+    "recoil": -18,
+    "accuracy": -18,
+    "weight": 0.573,
+    "type": "Stock"
+  },
+  "ar-15-aeroknox-ax-15-5-56x45-upper-receiver": {
+    "id": "ar-15-aeroknox-ax-15-5-56x45-upper-receiver",
+    "name": "AR-15 Aeroknox AX-15 5.56x45 upper receiver",
+    "image": "/weapons/a-ar-15-aeroknox-ax-15-5-56x45-upper-receiver.webp",
+    "ergo": 11,
+    "recoil": -3.5,
+    "accuracy": -3.5,
+    "weight": 0.285,
+    "type": "Receiver"
+  },
+  "ar-15-aeroknox-orion-pistol-grip": {
+    "id": "ar-15-aeroknox-orion-pistol-grip",
+    "name": "AR-15 Aeroknox Orion pistol grip",
+    "image": "/weapons/a-ar-15-aeroknox-orion-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan": {
+    "id": "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan",
+    "name": "AR-15 SIG Sauer Reduced Angle Pistol Grip (Coyote Tan)",
+    "image": "/weapons/a-ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "ar-15-radian-weapons-model-1-5-56x45-upper-receiver": {
+    "id": "ar-15-radian-weapons-model-1-5-56x45-upper-receiver",
+    "name": "AR-15 Radian Weapons Model 1 5.56x45 upper receiver",
+    "image": "/weapons/a-ar-15-radian-weapons-model-1-5-56x45-upper-receiver.webp",
+    "ergo": 2.5,
+    "recoil": -4.5,
+    "accuracy": -4.5,
+    "weight": 0.27,
+    "type": "Receiver"
+  },
+  "aks-74u-pbs-4-5-45x39-sound-suppressor": {
+    "id": "aks-74u-pbs-4-5-45x39-sound-suppressor",
+    "name": "AKS-74U PBS-4 5.45x39 sound suppressor",
+    "image": "/weapons/a-aks-74u-pbs-4-5-45x39-sound-suppressor.webp",
+    "ergo": -18,
+    "recoil": -2,
+    "accuracy": -3,
+    "weight": 0.7,
+    "type": "Suppressor"
+  },
+  "ar-15-5-56x45-colt-stanag-30-round-magazine": {
+    "id": "ar-15-5-56x45-colt-stanag-30-round-magazine",
+    "name": "AR-15 5.56x45 Colt STANAG 30-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-colt-stanag-30-round-magazine.webp",
+    "ergo": -1.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.117,
+    "type": "Magazine"
+  },
+  "ar-15-colt-charging-handle": {
+    "id": "ar-15-colt-charging-handle",
+    "name": "AR-15 Colt charging handle",
+    "image": "/weapons/a-ar-15-colt-charging-handle.webp",
+    "ergo": 0.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.035,
+    "type": "Charging handle"
+  },
+  "ar-15-badger-ordnance-tactical-charging-handle-latch": {
+    "id": "ar-15-badger-ordnance-tactical-charging-handle-latch",
+    "name": "AR-15 Badger Ordnance Tactical Charging Handle Latch",
+    "image": "/weapons/a-ar-15-badger-ordnance-tactical-charging-handle-latch.webp",
+    "ergo": 1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.064,
+    "type": "Charging handle"
+  },
+  "ak-74-5-45x39-muzzle-brake": {
+    "id": "ak-74-5-45x39-muzzle-brake",
+    "name": "AK-74 5.45x39 muzzle brake",
+    "image": "/weapons/a-ak-74-5-45x39-muzzle-brake.webp",
+    "ergo": -0.5,
+    "recoil": -5,
+    "accuracy": 0,
+    "weight": 0.1,
+    "type": "Flash hider/muzzle brake"
+  },
+  "ak-zenit-dtk-1-7-62x39-5-45x39-muzzle-brake": {
+    "id": "ak-zenit-dtk-1-7-62x39-5-45x39-muzzle-brake",
+    "name": "AK Zenit DTK-1 7.62x39/5.45x39 muzzle brake",
+    "image": "/weapons/a-ak-zenit-dtk-1-7-62x39-5-45x39-muzzle-brake.webp",
+    "ergo": -2.5,
+    "recoil": -11.5,
+    "accuracy": -11.5,
+    "weight": 0.128,
+    "type": "Flash hider/muzzle brake"
+  },
+  "aks-74u-5-45x39-muzzle-brake": {
+    "id": "aks-74u-5-45x39-muzzle-brake",
+    "name": "AKS-74U 5.45x39 muzzle brake",
+    "image": "/weapons/a-aks-74u-5-45x39-muzzle-brake.webp",
+    "ergo": -1,
+    "recoil": -5,
+    "accuracy": 0,
+    "weight": 0.1,
+    "type": "Flash hider/muzzle brake"
+  },
+  "ar-15-5-56x45-magpul-pmag-20-gen-m3-stanag-20-round-magazine": {
+    "id": "ar-15-5-56x45-magpul-pmag-20-gen-m3-stanag-20-round-magazine",
+    "name": "AR-15 5.56x45 Magpul PMAG 20 GEN M3 STANAG 20-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-magpul-pmag-20-gen-m3-stanag-20-round-magazine.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.125,
+    "type": "Magazine"
+  },
+  "ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine": {
+    "id": "ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine",
+    "name": "AR-15 5.56x45 Magpul PMAG 40 GEN M3 STANAG 40-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine.webp",
+    "ergo": -3.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.2,
+    "type": "Magazine"
+  },
+  "ar-15-5-56x45-surefire-mag5-60-stanag-60-round-magazine": {
+    "id": "ar-15-5-56x45-surefire-mag5-60-stanag-60-round-magazine",
+    "name": "AR-15 5.56x45 SureFire MAG5-60 STANAG 60-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-surefire-mag5-60-stanag-60-round-magazine.webp",
+    "ergo": -9,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.18,
+    "type": "Magazine"
+  },
+  "ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine": {
+    "id": "ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine",
+    "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine.webp",
+    "ergo": -0.5,
+    "recoil": 1,
+    "accuracy": 0,
+    "weight": 0.138,
+    "type": "Magazine"
+  },
+  "ak-74-tgp-a-5-45x39-sound-suppressor": {
+    "id": "ak-74-tgp-a-5-45x39-sound-suppressor",
+    "name": "AK-74 TGP-A 5.45x39 sound suppressor",
+    "image": "/weapons/a-ak-74-tgp-a-5-45x39-sound-suppressor.webp",
+    "ergo": -18,
+    "recoil": -7,
+    "accuracy": 0,
+    "weight": 0.7,
+    "type": "Suppressor"
+  },
+  "ak-74-hexagon-5-45x39-sound-suppressor": {
+    "id": "ak-74-hexagon-5-45x39-sound-suppressor",
+    "name": "AK-74 Hexagon 5.45x39 sound suppressor",
+    "image": "/weapons/a-ak-74-hexagon-5-45x39-sound-suppressor.webp",
+    "ergo": -5,
+    "recoil": -1,
+    "accuracy": 0,
+    "weight": 0.462,
+    "type": "Suppressor"
+  },
+  "aks-74u-gas-tube": {
+    "id": "aks-74u-gas-tube",
+    "name": "AKS-74U gas tube",
+    "image": "/weapons/a-aks-74u-gas-tube.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.03,
+    "type": "Gas block"
+  },
+  "ak-74-pws-cqb-74-5-45x39-muzzle-brake": {
+    "id": "ak-74-pws-cqb-74-5-45x39-muzzle-brake",
+    "name": "AK-74 PWS CQB 74 5.45x39 muzzle brake",
+    "image": "/weapons/a-ak-74-pws-cqb-74-5-45x39-muzzle-brake.webp",
+    "ergo": -3.5,
+    "recoil": -10.5,
+    "accuracy": -10.5,
+    "weight": 0.19,
+    "type": "Flash hider/muzzle brake"
+  },
+  "silencerco-hybrid-46-direct-thread-mount-adapter": {
+    "id": "silencerco-hybrid-46-direct-thread-mount-adapter",
+    "name": "SilencerCo Hybrid 46 Direct Thread Mount adapter",
+    "image": "/weapons/a-silencerco-hybrid-46-direct-thread-mount-adapter.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.14,
+    "type": "Muzzle adapter"
+  },
+  "ar-15-5-56x45-magpul-pmag-d-60-stanag-60-round-magazine": {
+    "id": "ar-15-5-56x45-magpul-pmag-d-60-stanag-60-round-magazine",
+    "name": "AR-15 5.56x45 Magpul PMAG D-60 STANAG 60-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-magpul-pmag-d-60-stanag-60-round-magazine.webp",
+    "ergo": -7,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.58,
+    "type": "Magazine"
+  },
+  "ar-15-5-56x45-magpul-pmag-10-gen-m3-stanag-10-round-magazine": {
+    "id": "ar-15-5-56x45-magpul-pmag-10-gen-m3-stanag-10-round-magazine",
+    "name": "AR-15 5.56x45 Magpul PMAG 10 GEN M3 STANAG 10-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-magpul-pmag-10-gen-m3-stanag-10-round-magazine.webp",
+    "ergo": 5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.12,
+    "type": "Magazine"
+  },
+  "ak-105-5-45x39-muzzle-brake": {
+    "id": "ak-105-5-45x39-muzzle-brake",
+    "name": "AK-105 5.45x39 muzzle brake",
+    "image": "/weapons/a-ak-105-5-45x39-muzzle-brake.webp",
+    "ergo": -1,
+    "recoil": -5.5,
+    "accuracy": 0,
+    "weight": 0.1,
+    "type": "Flash hider/muzzle brake"
+  },
+  "ak-74m-5-45x39-muzzle-brake": {
+    "id": "ak-74m-5-45x39-muzzle-brake",
+    "name": "AK-74M 5.45x39 muzzle brake",
+    "image": "/weapons/a-ak-74m-5-45x39-muzzle-brake.webp",
+    "ergo": -0.5,
+    "recoil": -5,
+    "accuracy": 0,
+    "weight": 0.1,
+    "type": "Flash hider/muzzle brake"
+  },
+  "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine": {
+    "id": "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine",
+    "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine.webp",
+    "ergo": -0.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.138,
+    "type": "Magazine"
+  },
+  "ar-15-hk-extended-latch-charging-handle": {
+    "id": "ar-15-hk-extended-latch-charging-handle",
+    "name": "AR-15 HK Extended Latch charging handle",
+    "image": "/weapons/a-ar-15-hk-extended-latch-charging-handle.webp",
+    "ergo": 1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.064,
+    "type": "Charging handle"
+  },
+  "ar-15-adar-2-15-charging-handle": {
+    "id": "ar-15-adar-2-15-charging-handle",
+    "name": "AR-15 ADAR 2-15 charging handle",
+    "image": "/weapons/a-ar-15-adar-2-15-charging-handle.webp",
+    "ergo": 0.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.039,
+    "type": "Charging handle"
+  },
+  "ar-15-5-56x45-hk-steel-maritime-stanag-30-round-magazine": {
+    "id": "ar-15-5-56x45-hk-steel-maritime-stanag-30-round-magazine",
+    "name": "AR-15 5.56x45 HK Steel Maritime STANAG 30-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-hk-steel-maritime-stanag-30-round-magazine.webp",
+    "ergo": -1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.32,
+    "type": "Magazine"
+  },
+  "ar-15-5-56x45-surefire-mag5-100-stanag-100-round-magazine": {
+    "id": "ar-15-5-56x45-surefire-mag5-100-stanag-100-round-magazine",
+    "name": "AR-15 5.56x45 SureFire MAG5-100 STANAG 100-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-surefire-mag5-100-stanag-100-round-magazine.webp",
+    "ergo": -20,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.27,
+    "type": "Magazine"
+  },
+  "ar-15-5-56x45-hk-30-stanag-polymer-30-round-magazine": {
+    "id": "ar-15-5-56x45-hk-30-stanag-polymer-30-round-magazine",
+    "name": "AR-15 5.56x45 HK 30 STANAG polymer 30-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-hk-30-stanag-polymer-30-round-magazine.webp",
+    "ergo": -0.5,
+    "recoil": 1,
+    "accuracy": 0,
+    "weight": 0.17,
+    "type": "Magazine"
+  },
+  "ar-15-5-56x45-hk-pm-gen-2-stanag-30-round-magazine": {
+    "id": "ar-15-5-56x45-hk-pm-gen-2-stanag-30-round-magazine",
+    "name": "AR-15 5.56x45 HK PM Gen.2 STANAG 30-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-hk-pm-gen-2-stanag-30-round-magazine.webp",
+    "ergo": -3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.16,
+    "type": "Magazine"
+  },
+  "ar-15-5-56x45-troy-battlemag-stanag-30-round-magazine": {
+    "id": "ar-15-5-56x45-troy-battlemag-stanag-30-round-magazine",
+    "name": "AR-15 5.56x45 TROY BattleMag STANAG 30-round magazine",
+    "image": "/weapons/a-ar-15-5-56x45-troy-battlemag-stanag-30-round-magazine.webp",
+    "ergo": -0.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.138,
+    "type": "Magazine"
+  },
+  "ak-74-srvv-mbr-jet-5-45x39-muzzle-brake": {
+    "id": "ak-74-srvv-mbr-jet-5-45x39-muzzle-brake",
+    "name": "AK-74 SRVV MBR Jet 5.45x39 muzzle brake",
+    "image": "/weapons/a-ak-74-srvv-mbr-jet-5-45x39-muzzle-brake.webp",
+    "ergo": -3.5,
+    "recoil": -12.5,
+    "accuracy": 0,
+    "weight": 0.11,
+    "type": "Flash hider/muzzle brake"
+  },
+  "ak-cnc-warrior-5-56x45-muzzle-device-adapter": {
+    "id": "ak-cnc-warrior-5-56x45-muzzle-device-adapter",
+    "name": "AK CNC Warrior 5.56x45 muzzle device adapter",
+    "image": "/weapons/a-ak-cnc-warrior-5-56x45-muzzle-device-adapter.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.1,
+    "type": "Muzzle adapter"
+  },
+  "ar-15-geissele-ach-charging-handle-ddc": {
+    "id": "ar-15-geissele-ach-charging-handle-ddc",
+    "name": "AR-15 Geissele ACH charging handle (DDC)",
+    "image": "/weapons/a-ar-15-geissele-ach-charging-handle-ddc.webp",
+    "ergo": 2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.03,
+    "type": "Charging handle"
+  },
+  "ak-aeroknox-scorpius-pistol-grip": {
+    "id": "ak-aeroknox-scorpius-pistol-grip",
+    "name": "AK Aeroknox Scorpius pistol grip",
+    "image": "/weapons/a-ak-aeroknox-scorpius-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.14,
+    "type": "Pistol grip"
+  },
+  "ar-15-rainier-arms-avalanche-mod2-charging-handle": {
+    "id": "ar-15-rainier-arms-avalanche-mod2-charging-handle",
+    "name": "AR-15 Rainier Arms Avalanche MOD2 charging handle",
+    "image": "/weapons/a-ar-15-rainier-arms-avalanche-mod2-charging-handle.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.028,
+    "type": "Charging handle"
+  },
+  "ak-74-thread-type-jmac-customs-rrd-4c-multi-caliber-muzzle-brake": {
+    "id": "ak-74-thread-type-jmac-customs-rrd-4c-multi-caliber-muzzle-brake",
+    "name": "AK-74 thread type JMac Customs RRD-4C multi-caliber muzzle brake",
+    "image": "/weapons/a-ak-74-thread-type-jmac-customs-rrd-4c-multi-caliber-muzzle-brake.webp",
+    "ergo": -4.5,
+    "recoil": -13,
+    "accuracy": 0,
+    "weight": 0.085,
+    "type": "Flash hider/muzzle brake"
+  },
+  "ar-15-masp-industries-ambidextrous-battle-charging-handle": {
+    "id": "ar-15-masp-industries-ambidextrous-battle-charging-handle",
+    "name": "AR-15 MASP Industries Ambidextrous Battle Charging Handle",
+    "image": "/weapons/a-ar-15-masp-industries-ambidextrous-battle-charging-handle.webp",
+    "ergo": 1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.035,
+    "type": "Charging handle"
+  },
+  "ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine-fde": {
+    "id": "ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine-fde",
+    "name": "AR-15 5.56x45 Magpul PMAG 40 GEN M3 STANAG 40-round magazine (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-radian-weapons-raptor-charging-handle-tungsten-grey": {
+    "id": "ar-15-radian-weapons-raptor-charging-handle-tungsten-grey",
+    "name": "AR-15 Radian Weapons Raptor charging handle (Tungsten Grey)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine-fde": {
+    "id": "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine-fde",
+    "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 STANAG 30-round magazine (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine-fde": {
+    "id": "ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine-fde",
+    "name": "AR-15 5.56x45 Magpul PMAG 30 GEN M3 W STANAG 30-round magazine (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "fn-scar-l-5-56x45-30-round-magazine": {
+    "id": "fn-scar-l-5-56x45-30-round-magazine",
+    "name": "FN SCAR-L 5.56x45 30-round magazine",
+    "image": "/weapons/a-fn-scar-l-5-56x45-30-round-magazine.webp",
+    "ergo": -1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.117,
+    "type": "Magazine"
+  },
+  "ak-hexagon-reactor-5-45x39-muzzle-brake": {
+    "id": "ak-hexagon-reactor-5-45x39-muzzle-brake",
+    "name": "AK Hexagon Reactor 5.45x39 muzzle brake",
+    "image": "/weapons/a-ak-hexagon-reactor-5-45x39-muzzle-brake.webp",
+    "ergo": -4,
+    "recoil": -8,
+    "accuracy": 0,
+    "weight": 0.095,
+    "type": "Flash hider/muzzle brake"
+  },
+  "fn-scar-l-5-56x45-30-round-magazine-fde": {
+    "id": "fn-scar-l-5-56x45-30-round-magazine-fde",
+    "name": "FN SCAR-L 5.56x45 30-round magazine (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-rtm-atp-buffer-tube": {
+    "id": "ar-15-rtm-atp-buffer-tube",
+    "name": "AR-15 RTM ATP buffer tube",
+    "image": "/weapons/a-ar-15-rtm-atp-buffer-tube.webp",
+    "ergo": -1.5,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.115,
+    "type": "Stock"
+  },
+  "ak-custom-guns-cg101-ar-type-pistol-grip-adapter": {
+    "id": "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+    "name": "AK Custom Guns CG101 AR-type pistol grip adapter",
+    "image": "/weapons/a-ak-custom-guns-cg101-ar-type-pistol-grip-adapter.webp",
+    "ergo": -0.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.045,
+    "type": "Pistol grip"
+  },
+  "ar-15-daniel-defense-grip-n-rip-charging-handle": {
+    "id": "ar-15-daniel-defense-grip-n-rip-charging-handle",
+    "name": "AR-15 Daniel Defense GRIP-N-RIP charging handle",
+    "image": "/weapons/a-ar-15-daniel-defense-grip-n-rip-charging-handle.webp",
+    "ergo": 2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.043,
+    "type": "Charging handle"
+  },
+  "ar-15-radian-weapons-raptor-charging-handle-fde": {
+    "id": "ar-15-radian-weapons-raptor-charging-handle-fde",
+    "name": "AR-15 Radian Weapons Raptor charging handle (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ar-15-5-56x45-beta-c-mag-100-round-drum-magazine": {
+    "id": "ar-15-5-56x45-beta-c-mag-100-round-drum-magazine",
+    "name": "AR-15 5.56x45 Beta C-Mag 100-round drum magazine",
+    "image": "/weapons/a-ar-15-5-56x45-beta-c-mag-100-round-drum-magazine.webp",
+    "ergo": -18,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 1.056,
+    "type": "Magazine"
+  },
+  "ar-15-magpul-b-a-d-lever-bolt-release": {
+    "id": "ar-15-magpul-b-a-d-lever-bolt-release",
+    "name": "AR-15 Magpul B.A.D. Lever bolt release",
+    "image": "/weapons/a-ar-15-magpul-b-a-d-lever-bolt-release.webp",
+    "ergo": 2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.03,
+    "type": "Charging handle"
+  },
+  "ar-15-doublestar-ace-arfx-skeleton-stock": {
+    "id": "ar-15-doublestar-ace-arfx-skeleton-stock",
+    "name": "AR-15 DoubleStar ACE ARFX Skeleton Stock",
+    "image": "/weapons/a-ar-15-doublestar-ace-arfx-skeleton-stock.webp",
+    "ergo": 15,
+    "recoil": -20.5,
+    "accuracy": -20.5,
+    "weight": 0.317,
+    "type": "Stock"
+  },
+  "ar-15-radian-weapons-raptor-sd-charging-handle": {
+    "id": "ar-15-radian-weapons-raptor-sd-charging-handle",
+    "name": "AR-15 Radian Weapons Raptor-SD charging handle",
+    "image": "/weapons/a-ar-15-radian-weapons-raptor-sd-charging-handle.webp",
+    "ergo": 3.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.04,
+    "type": "Charging handle"
+  },
+  "ak-zenit-rp-1-charging-handle": {
+    "id": "ak-zenit-rp-1-charging-handle",
+    "name": "AK Zenit RP-1 charging handle",
+    "image": "/weapons/a-ak-zenit-rp-1-charging-handle.webp",
+    "ergo": 1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.017,
+    "type": "Charging handle"
+  },
+  "ak-zenit-rk-3-pistol-grip": {
+    "id": "ak-zenit-rk-3-pistol-grip",
+    "name": "AK Zenit RK-3 pistol grip",
+    "image": "/weapons/a-ak-zenit-rk-3-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.225,
+    "type": "Pistol grip"
+  },
+  "ak-74-5-45x39-6l23-30-round-magazine": {
+    "id": "ak-74-5-45x39-6l23-30-round-magazine",
+    "name": "AK-74 5.45x39 6L23 30-round magazine",
+    "image": "/weapons/a-ak-74-5-45x39-6l23-30-round-magazine.webp",
+    "ergo": -1.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.215,
+    "type": "Magazine"
+  },
+  "ak-74-saiga-545-5-45x39-10-round-magazine": {
+    "id": "ak-74-saiga-545-5-45x39-10-round-magazine",
+    "name": "AK-74 \"Saiga 545\" 5.45x39 10-round magazine",
+    "image": "/weapons/a-ak-74-saiga-545-5-45x39-10-round-magazine.webp",
+    "ergo": 5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.112,
+    "type": "Magazine"
+  },
+  "ak-74-5-45x39-6l20-30-round-magazine": {
+    "id": "ak-74-5-45x39-6l20-30-round-magazine",
+    "name": "AK-74 5.45x39 6L20 30-round magazine",
+    "image": "/weapons/a-ak-74-5-45x39-6l20-30-round-magazine.webp",
+    "ergo": -1.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.215,
+    "type": "Magazine"
+  },
+  "aks-74u-skeletonized-stock": {
+    "id": "aks-74u-skeletonized-stock",
+    "name": "AKS-74U skeletonized stock",
+    "image": "/weapons/a-aks-74u-skeletonized-stock.webp",
+    "ergo": 10,
+    "recoil": -21,
+    "accuracy": -21,
+    "weight": 0.218,
+    "type": "Stock"
+  },
+  "ak-74-5-45x39-6l26-45-round-magazine": {
+    "id": "ak-74-5-45x39-6l26-45-round-magazine",
+    "name": "AK-74 5.45x39 6L26 45-round magazine",
+    "image": "/weapons/a-ak-74-5-45x39-6l26-45-round-magazine.webp",
+    "ergo": -4,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.3,
+    "type": "Magazine"
+  },
+  "ak-74-5-45x39-6l31-60-round-magazine": {
+    "id": "ak-74-5-45x39-6l31-60-round-magazine",
+    "name": "AK-74 5.45x39 6L31 60-round magazine",
+    "image": "/weapons/a-ak-74-5-45x39-6l31-60-round-magazine.webp",
+    "ergo": -10,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.3,
+    "type": "Magazine"
+  },
+  "ak-74-5-45x39-6l18-45-round-magazine": {
+    "id": "ak-74-5-45x39-6l18-45-round-magazine",
+    "name": "AK-74 5.45x39 6L18 45-round magazine",
+    "image": "/weapons/a-ak-74-5-45x39-6l18-45-round-magazine.webp",
+    "ergo": -4.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.3,
+    "type": "Magazine"
+  },
+  "ak-74-bakelite-pistol-grip": {
+    "id": "ak-74-bakelite-pistol-grip",
+    "name": "AK-74 bakelite pistol grip",
+    "image": "/weapons/a-ak-74-bakelite-pistol-grip.webp",
+    "ergo": 2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.07,
+    "type": "Pistol grip"
+  },
+  "ak-74-polymer-pistol-grip": {
+    "id": "ak-74-polymer-pistol-grip",
+    "name": "AK-74 polymer pistol grip",
+    "image": "/weapons/a-ak-74-polymer-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.065,
+    "type": "Pistol grip"
+  },
+  "aks-74u-bakelite-pistol-grip": {
+    "id": "aks-74u-bakelite-pistol-grip",
+    "name": "AKS-74U bakelite pistol grip",
+    "image": "/weapons/a-aks-74u-bakelite-pistol-grip.webp",
+    "ergo": 2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.07,
+    "type": "Pistol grip"
+  },
+  "aks-74u-dust-cover": {
+    "id": "aks-74u-dust-cover",
+    "name": "AKS-74U dust cover",
+    "image": "/weapons/a-aks-74u-dust-cover.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.136,
+    "type": "Dust cover"
+  },
+  "aks-74ub-dust-cover": {
+    "id": "aks-74ub-dust-cover",
+    "name": "AKS-74UB dust cover",
+    "image": "/weapons/a-aks-74ub-dust-cover.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.142,
+    "type": "Dust cover"
+  },
+  "pp-19-01-vityaz-pistol-grip": {
+    "id": "pp-19-01-vityaz-pistol-grip",
+    "name": "PP-19-01 Vityaz pistol grip",
+    "image": "/weapons/a-pp-19-01-vityaz-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.07,
+    "type": "Pistol grip"
+  },
+  "ak-74-gas-tube": {
+    "id": "ak-74-gas-tube",
+    "name": "AK-74 gas tube",
+    "image": "/weapons/a-ak-74-gas-tube.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.12,
+    "type": "Gas block"
+  },
+  "akm-wooden-pistol-grip": {
+    "id": "akm-wooden-pistol-grip",
+    "name": "AKM wooden pistol grip",
+    "image": "/weapons/a-akm-wooden-pistol-grip.webp",
+    "ergo": 2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.07,
+    "type": "Pistol grip"
+  },
+  "ak-molot-bakelite-pistol-grip": {
+    "id": "ak-molot-bakelite-pistol-grip",
+    "name": "AK Molot bakelite pistol grip",
+    "image": "/weapons/a-ak-molot-bakelite-pistol-grip.webp",
+    "ergo": 2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.07,
+    "type": "Pistol grip"
+  },
+  "aks-74-aks-74u-zenit-pt-lock": {
+    "id": "aks-74-aks-74u-zenit-pt-lock",
+    "name": "AKS-74/AKS-74U Zenit PT Lock",
+    "image": "/weapons/a-aks-74-aks-74u-zenit-pt-lock.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.03,
+    "type": "Stock"
+  },
+  "ak-kiba-arms-vdm-cs-gas-tube": {
+    "id": "ak-kiba-arms-vdm-cs-gas-tube",
+    "name": "AK Kiba Arms VDM CS gas tube",
+    "image": "/weapons/a-ak-kiba-arms-vdm-cs-gas-tube.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.12,
+    "type": "Gas block"
+  },
+  "akm-gas-tube": {
+    "id": "akm-gas-tube",
+    "name": "AKM gas tube",
+    "image": "/weapons/a-akm-gas-tube.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.12,
+    "type": "Gas block"
+  },
+  "akm-bakelite-pistol-grip": {
+    "id": "akm-bakelite-pistol-grip",
+    "name": "AKM bakelite pistol grip",
+    "image": "/weapons/a-akm-bakelite-pistol-grip.webp",
+    "ergo": 2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.07,
+    "type": "Pistol grip"
+  },
+  "aks-74-skeletonized-stock": {
+    "id": "aks-74-skeletonized-stock",
+    "name": "AKS-74 skeletonized stock",
+    "image": "/weapons/a-aks-74-skeletonized-stock.webp",
+    "ergo": 10,
+    "recoil": -21,
+    "accuracy": -21,
+    "weight": 0.264,
+    "type": "Stock"
+  },
+  "ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine": {
+    "id": "ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine",
+    "name": "AK-74 5.45x39 Magpul PMAG 30 GEN M3 30-round magazine",
+    "image": "/weapons/a-ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine.webp",
+    "ergo": -1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.2,
+    "type": "Magazine"
+  },
+  "ak-magpul-moe-pistol-grip-black": {
+    "id": "ak-magpul-moe-pistol-grip-black",
+    "name": "AK Magpul MOE pistol grip (Black)",
+    "image": "/weapons/a-ak-magpul-moe-pistol-grip-black.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.08,
+    "type": "Pistol grip"
+  },
+  "rpk-16-5-45x39-95-round-drum-magazine": {
+    "id": "rpk-16-5-45x39-95-round-drum-magazine",
+    "name": "RPK-16 5.45x39 95-round drum magazine",
+    "image": "/weapons/a-rpk-16-5-45x39-95-round-drum-magazine.webp",
+    "ergo": -12,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.68,
+    "type": "Magazine"
+  },
+  "ak-12-pistol-grip": {
+    "id": "ak-12-pistol-grip",
+    "name": "AK-12 pistol grip",
+    "image": "/weapons/a-ak-12-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.05,
+    "type": "Pistol grip"
+  },
+  "ak-12-5-45x39-30-round-magazine": {
+    "id": "ak-12-5-45x39-30-round-magazine",
+    "name": "AK-12 5.45x39 30-round magazine",
+    "image": "/weapons/a-ak-12-5-45x39-30-round-magazine.webp",
+    "ergo": -0.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.19,
+    "type": "Magazine"
+  },
+  "ak-us-palm-pistol-grip": {
+    "id": "ak-us-palm-pistol-grip",
+    "name": "AK US Palm pistol grip",
+    "image": "/weapons/a-ak-us-palm-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": 0,
+    "weight": 0.09,
+    "type": "Pistol grip"
+  },
+  "ak-kgb-mg-47-pistol-grip": {
+    "id": "ak-kgb-mg-47-pistol-grip",
+    "name": "AK KGB MG-47 pistol grip",
+    "image": "/weapons/a-ak-kgb-mg-47-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.153,
+    "type": "Pistol grip"
+  },
+  "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip": {
+    "id": "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+    "name": "AK Custom Arms AGS-74 PRO + Sniper Kit pistol grip",
+    "image": "/weapons/a-ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.15,
+    "type": "Pistol grip"
+  },
+  "ak-strike-industries-enhanced-pistol-grip-fde": {
+    "id": "ak-strike-industries-enhanced-pistol-grip-fde",
+    "name": "AK Strike Industries Enhanced Pistol Grip (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ak-tapco-saw-style-pistol-grip-black": {
+    "id": "ak-tapco-saw-style-pistol-grip-black",
+    "name": "AK TAPCO SAW-Style pistol grip (Black)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ak-tapco-saw-style-pistol-grip-fde": {
+    "id": "ak-tapco-saw-style-pistol-grip-fde",
+    "name": "AK TAPCO SAW-Style pistol grip (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ak-74-5-45x39-6l23-30-round-magazine-plum": {
+    "id": "ak-74-5-45x39-6l23-30-round-magazine-plum",
+    "name": "AK-74 5.45x39 6L23 30-round magazine (Plum)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ak-kgb-mg-47-pistol-grip-anodized-red": {
+    "id": "ak-kgb-mg-47-pistol-grip-anodized-red",
+    "name": "AK KGB MG-47 pistol grip (Anodized Red)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ak-css-knurled-charging-handle": {
+    "id": "ak-css-knurled-charging-handle",
+    "name": "AK CSS knurled charging handle",
+    "image": "/weapons/a-ak-css-knurled-charging-handle.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.015,
+    "type": "Charging handle"
+  },
+  "ak-strike-industries-enhanced-pistol-grip-black": {
+    "id": "ak-strike-industries-enhanced-pistol-grip-black",
+    "name": "AK Strike Industries Enhanced Pistol Grip (Black)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ak-fab-defense-agr-47-pistol-grip-fde": {
+    "id": "ak-fab-defense-agr-47-pistol-grip-fde",
+    "name": "AK FAB Defense AGR-47 pistol grip (FDE)",
+    "image": "/weapons/a-ak-fab-defense-agr-47-pistol-grip-fde.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.12,
+    "type": "Pistol grip"
+  },
+  "ak-tangodown-battle-grip-pistol-grip": {
+    "id": "ak-tangodown-battle-grip-pistol-grip",
+    "name": "AK TangoDown Battle Grip pistol grip",
+    "image": "/weapons/a-ak-tangodown-battle-grip-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.11,
+    "type": "Pistol grip"
+  },
+  "ak-tangodown-battle-grip-pistol-grip-fde": {
+    "id": "ak-tangodown-battle-grip-pistol-grip-fde",
+    "name": "AK TangoDown Battle Grip pistol grip (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ak-12-5-45x39-early-model-30-round-magazine": {
+    "id": "ak-12-5-45x39-early-model-30-round-magazine",
+    "name": "AK-12 5.45x39 early model 30-round magazine",
+    "image": "/weapons/a-ak-12-5-45x39-early-model-30-round-magazine.webp",
+    "ergo": -1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.185,
+    "type": "Magazine"
+  },
+  "ak-74-delta-tek-saiga-545-5-45x39-20-round-magazine": {
+    "id": "ak-74-delta-tek-saiga-545-5-45x39-20-round-magazine",
+    "name": "AK-74 Delta-Tek Saiga 545 5.45x39 20-round magazine",
+    "image": "/weapons/a-ak-74-delta-tek-saiga-545-5-45x39-20-round-magazine.webp",
+    "ergo": 1.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.13,
+    "type": "Magazine"
+  },
+  "ak-mission-first-tactical-engage-ak47-pistol-grip": {
+    "id": "ak-mission-first-tactical-engage-ak47-pistol-grip",
+    "name": "AK Mission First Tactical ENGAGE AK47 pistol grip",
+    "image": "/weapons/a-ak-mission-first-tactical-engage-ak47-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.12,
+    "type": "Pistol grip"
+  },
+  "ak-pufgun-sg-m2-pistol-grip": {
+    "id": "ak-pufgun-sg-m2-pistol-grip",
+    "name": "AK PUFGUN SG-M2 pistol grip",
+    "image": "/weapons/a-ak-pufgun-sg-m2-pistol-grip.webp",
+    "ergo": 3,
+    "recoil": -1,
+    "accuracy": -1,
+    "weight": 0.132,
+    "type": "Pistol grip"
+  },
+  "aks-74u-legal-arsenal-pilgrim-railed-dust-cover": {
+    "id": "aks-74u-legal-arsenal-pilgrim-railed-dust-cover",
+    "name": "AKS-74U Legal Arsenal Pilgrim railed dust cover",
+    "image": "/weapons/a-aks-74u-legal-arsenal-pilgrim-railed-dust-cover.webp",
+    "ergo": 1.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.12,
+    "type": "Dust cover"
+  },
+  "ak-skeletonized-stock-customized": {
+    "id": "ak-skeletonized-stock-customized",
+    "name": "AK skeletonized stock (Customized)",
+    "image": "/weapons/a-ak-skeletonized-stock-customized.webp",
+    "ergo": 11.5,
+    "recoil": -21,
+    "accuracy": -21,
+    "weight": 0.264,
+    "type": "Stock"
+  },
+  "ak-zenit-rk-3-pistol-grip-fde": {
+    "id": "ak-zenit-rk-3-pistol-grip-fde",
+    "name": "AK Zenit RK-3 pistol grip (FDE)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "ak-gladman-skeleton-pistol-grip": {
+    "id": "ak-gladman-skeleton-pistol-grip",
+    "name": "AK Gladman Skeleton pistol grip",
+    "image": "/weapons/a-ak-gladman-skeleton-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.13,
+    "type": "Pistol grip"
+  },
+  "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline": {
+    "id": "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline",
+    "name": "AK Custom Arms AGS-74 PRO + Sniper Kit pistol grip (Redline)",
+    "image": "/weapons/a-ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline.webp",
+    "ergo": 5,
+    "recoil": -1.5,
+    "accuracy": -1.5,
+    "weight": 0.15,
+    "type": "Pistol grip"
+  },
+  "vomz-pilad-043-02-dovetail-mount": {
+    "id": "vomz-pilad-043-02-dovetail-mount",
+    "name": "VOMZ Pilad 043-02 dovetail mount",
+    "image": "/weapons/a-vomz-pilad-043-02-dovetail-mount.webp",
+    "ergo": -3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.04,
+    "type": "Mount"
+  },
+  "belomo-pso-1m2-1-4x24-scope": {
+    "id": "belomo-pso-1m2-1-4x24-scope",
+    "name": "BelOMO PSO-1M2-1 4x24 scope",
+    "image": "/weapons/a-belomo-pso-1m2-1-4x24-scope.webp",
+    "ergo": -7,
+    "recoil": 0,
+    "accuracy": 2,
+    "weight": 0.6,
+    "type": "Scope"
+  },
+  "ak-74-rear-sight": {
+    "id": "ak-74-rear-sight",
+    "name": "AK-74 rear sight",
+    "image": "/weapons/a-ak-74-rear-sight.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.025,
+    "type": "Iron sight"
+  },
+  "ak-taktika-tula-tt01-rear-sight-rail": {
+    "id": "ak-taktika-tula-tt01-rear-sight-rail",
+    "name": "AK Taktika Tula TT01 rear sight rail",
+    "image": "/weapons/a-ak-taktika-tula-tt01-rear-sight-rail.webp",
+    "ergo": -0.1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.085,
+    "type": "Iron sight"
+  },
+  "ak-74-dust-cover": {
+    "id": "ak-74-dust-cover",
+    "name": "AK-74 dust cover",
+    "image": "/weapons/a-ak-74-dust-cover.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.088,
+    "type": "Dust cover"
+  },
+  "ak-zenit-b-33-dust-cover": {
+    "id": "ak-zenit-b-33-dust-cover",
+    "name": "AK Zenit B-33 dust cover",
+    "image": "/weapons/a-ak-zenit-b-33-dust-cover.webp",
+    "ergo": 0.5,
+    "recoil": -0.8,
+    "accuracy": 0,
+    "weight": 0.215,
+    "type": "Dust cover"
+  },
+  "axion-kobra-dovetail-mount": {
+    "id": "axion-kobra-dovetail-mount",
+    "name": "Axion Kobra dovetail mount",
+    "image": "/weapons/a-axion-kobra-dovetail-mount.webp",
+    "ergo": -3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.043,
+    "type": "Mount"
+  },
+  "molot-arms-akm-type-gas-tube": {
+    "id": "molot-arms-akm-type-gas-tube",
+    "name": "Molot Arms AKM-type gas tube",
+    "image": "/weapons/a-molot-arms-akm-type-gas-tube.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.12,
+    "type": "Gas block"
+  },
+  "ak-ultimak-m1-b-handguard-with-gas-tube": {
+    "id": "ak-ultimak-m1-b-handguard-with-gas-tube",
+    "name": "AK UltiMAK M1-B handguard with gas tube",
+    "image": "/weapons/a-ak-ultimak-m1-b-handguard-with-gas-tube.webp",
+    "ergo": 13,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.12,
+    "type": "Gas block"
+  },
+  "axion-kobra-ekp-8-02-reflex-sight-dovetail": {
+    "id": "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+    "name": "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+    "image": "/weapons/a-axion-kobra-ekp-8-02-reflex-sight-dovetail.webp",
+    "ergo": -3,
+    "recoil": 0,
+    "accuracy": 4,
+    "weight": 0.273,
+    "type": "Reflex sight"
+  },
+  "nspu-m-3-5x-dovetail-night-vision-scope": {
+    "id": "nspu-m-3-5x-dovetail-night-vision-scope",
+    "name": "NSPU-M 3.5x dovetail night vision scope",
+    "image": "/weapons/a-nspu-m-3-5x-dovetail-night-vision-scope.webp",
+    "ergo": -20,
+    "recoil": -5,
+    "accuracy": 1,
+    "weight": 1.9,
+    "type": "Night vision scope"
+  },
+  "okp-7-reflex-sight-dovetail": {
+    "id": "okp-7-reflex-sight-dovetail",
+    "name": "OKP-7 reflex sight (Dovetail)",
+    "image": "/weapons/a-okp-7-reflex-sight-dovetail.webp",
+    "ergo": -4,
+    "recoil": 0,
+    "accuracy": 1,
+    "weight": 0.295,
+    "type": "Reflex sight"
+  },
+  "ak-105-rear-sight": {
+    "id": "ak-105-rear-sight",
+    "name": "AK-105 rear sight",
+    "image": "/weapons/a-ak-105-rear-sight.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.025,
+    "type": "Iron sight"
+  },
+  "ak-74m-rear-sight": {
+    "id": "ak-74m-rear-sight",
+    "name": "AK-74M rear sight",
+    "image": "/weapons/a-ak-74m-rear-sight.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.025,
+    "type": "Iron sight"
+  },
+  "ak-74m-dust-cover": {
+    "id": "ak-74m-dust-cover",
+    "name": "AK-74M dust cover",
+    "image": "/weapons/a-ak-74m-dust-cover.webp",
+    "ergo": 3.1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.088,
+    "type": "Dust cover"
+  },
+  "ak-74m-polymer-stock": {
+    "id": "ak-74m-polymer-stock",
+    "name": "AK-74M polymer stock",
+    "image": "/weapons/a-ak-74m-polymer-stock.webp",
+    "ergo": 5,
+    "recoil": -22,
+    "accuracy": -22,
+    "weight": 0.35,
+    "type": "Stock"
+  },
+  "ak-74m-ak-100-zenit-pt-lock": {
+    "id": "ak-74m-ak-100-zenit-pt-lock",
+    "name": "AK-74M/AK-100 Zenit PT Lock",
+    "image": "/weapons/a-ak-74m-ak-100-zenit-pt-lock.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.03,
+    "type": "Stock"
+  },
+  "ak-troy-full-length-rail-handguard-with-gas-tube": {
+    "id": "ak-troy-full-length-rail-handguard-with-gas-tube",
+    "name": "AK TROY Full Length Rail handguard with gas tube",
+    "image": "/weapons/a-ak-troy-full-length-rail-handguard-with-gas-tube.webp",
+    "ergo": 17,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.55,
+    "type": "Gas block"
+  },
+  "rpk-16-buffer-tube": {
+    "id": "rpk-16-buffer-tube",
+    "name": "RPK-16 buffer tube",
+    "image": "/weapons/a-rpk-16-buffer-tube.webp",
+    "ergo": -1,
+    "recoil": -0.5,
+    "accuracy": 0,
+    "weight": 0.142,
+    "type": "Stock"
+  },
+  "rpk-16-rear-sight": {
+    "id": "rpk-16-rear-sight",
+    "name": "RPK-16 rear sight",
+    "image": "/weapons/a-rpk-16-rear-sight.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.025,
+    "type": "Iron sight"
+  },
+  "mosin-carbine-7-62x54r-514mm-barrel": {
+    "id": "mosin-carbine-7-62x54r-514mm-barrel",
+    "name": "Mosin Carbine 7.62x54R 514mm barrel",
+    "image": "/weapons/a-mosin-carbine-7-62x54r-514mm-barrel.webp",
+    "ergo": -17,
+    "recoil": -12.9,
+    "accuracy": 2.41,
+    "weight": 1.5,
+    "type": "Barrel"
+  },
+  "mosin-rifle-7-62x54r-sawed-off-200mm-barrel": {
+    "id": "mosin-rifle-7-62x54r-sawed-off-200mm-barrel",
+    "name": "Mosin Rifle 7.62x54R sawed-off 200mm barrel",
+    "image": "/weapons/a-mosin-rifle-7-62x54r-sawed-off-200mm-barrel.webp",
+    "ergo": 0,
+    "recoil": -5,
+    "accuracy": 6.19,
+    "weight": 0.7,
+    "type": "Barrel"
+  },
+  "mosin-rifle-7-62x54r-sawed-off-220mm-threaded-barrel": {
+    "id": "mosin-rifle-7-62x54r-sawed-off-220mm-threaded-barrel",
+    "name": "Mosin Rifle 7.62x54R sawed-off 220mm threaded barrel",
+    "image": "/weapons/a-mosin-rifle-7-62x54r-sawed-off-220mm-threaded-barrel.webp",
+    "ergo": -1,
+    "recoil": -5.5,
+    "accuracy": 6.53,
+    "weight": 0.9,
+    "type": "Barrel"
+  },
+  "zenit-b-13-klassika-dovetail-rail-platform": {
+    "id": "zenit-b-13-klassika-dovetail-rail-platform",
+    "name": "Zenit B-13 \"Klassika\" dovetail rail platform",
+    "image": "/weapons/a-zenit-b-13-klassika-dovetail-rail-platform.webp",
+    "ergo": -2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.175,
+    "type": "Mount"
+  },
+  "belomo-pso-1-4x24-scope": {
+    "id": "belomo-pso-1-4x24-scope",
+    "name": "BelOMO PSO-1 4x24 scope",
+    "image": "/weapons/a-belomo-pso-1-4x24-scope.webp",
+    "ergo": -7,
+    "recoil": 0,
+    "accuracy": 2,
+    "weight": 0.6,
+    "type": "Scope"
+  },
+  "belomo-pso-1m2-4x24-scope": {
+    "id": "belomo-pso-1m2-4x24-scope",
+    "name": "BelOMO PSO-1M2 4x24 scope",
+    "image": "/weapons/a-belomo-pso-1m2-4x24-scope.webp",
+    "ergo": -7,
+    "recoil": 0,
+    "accuracy": 2,
+    "weight": 0.6,
+    "type": "Scope"
+  },
+  "zenit-b-13v-klassika-dovetail-rail-platform": {
+    "id": "zenit-b-13v-klassika-dovetail-rail-platform",
+    "name": "Zenit B-13V \"Klassika\" dovetail rail platform",
+    "image": "/weapons/a-zenit-b-13v-klassika-dovetail-rail-platform.webp",
+    "ergo": -2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.158,
+    "type": "Mount"
+  },
+  "npz-usp-1-tyulpan-4x-scope": {
+    "id": "npz-usp-1-tyulpan-4x-scope",
+    "name": "NPZ USP-1 Tyulpan 4x scope",
+    "image": "/weapons/a-npz-usp-1-tyulpan-4x-scope.webp",
+    "ergo": -6,
+    "recoil": 0,
+    "accuracy": 1,
+    "weight": 0.795,
+    "type": "Scope"
+  },
+  "ak-74m-caa-akts-ak74-buffer-tube": {
+    "id": "ak-74m-caa-akts-ak74-buffer-tube",
+    "name": "AK-74M CAA AKTS AK74 buffer tube",
+    "image": "/weapons/a-ak-74m-caa-akts-ak74-buffer-tube.webp",
+    "ergo": -2,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.25,
+    "type": "Stock"
+  },
+  "ak-vezhlivyy-strelok-vs-24-vs-33c-handguard-with-gas-tube": {
+    "id": "ak-vezhlivyy-strelok-vs-24-vs-33c-handguard-with-gas-tube",
+    "name": "AK Vezhlivyy Strelok VS-24 + VS-33c handguard with gas tube",
+    "image": "/weapons/a-ak-vezhlivyy-strelok-vs-24-vs-33c-handguard-with-gas-tube.webp",
+    "ergo": 17,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.385,
+    "type": "Gas block"
+  },
+  "kmz-1p59-dovetail-mount": {
+    "id": "kmz-1p59-dovetail-mount",
+    "name": "KMZ 1P59 dovetail mount",
+    "image": "/weapons/a-kmz-1p59-dovetail-mount.webp",
+    "ergo": -1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.41,
+    "type": "Mount"
+  },
+  "ak-akademia-bastion-dust-cover": {
+    "id": "ak-akademia-bastion-dust-cover",
+    "name": "AK AKademia Bastion dust cover",
+    "image": "/weapons/a-ak-akademia-bastion-dust-cover.webp",
+    "ergo": 1,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.237,
+    "type": "Dust cover"
+  },
+  "ak-fab-defense-pdc-dust-cover": {
+    "id": "ak-fab-defense-pdc-dust-cover",
+    "name": "AK FAB Defense PDC dust cover",
+    "image": "/weapons/a-ak-fab-defense-pdc-dust-cover.webp",
+    "ergo": 1.5,
+    "recoil": -0.6,
+    "accuracy": 0,
+    "weight": 0.202,
+    "type": "Dust cover"
+  },
+  "ak-tws-dog-leg-rail-dust-cover": {
+    "id": "ak-tws-dog-leg-rail-dust-cover",
+    "name": "AK TWS Dog Leg Rail dust cover",
+    "image": "/weapons/a-ak-tws-dog-leg-rail-dust-cover.webp",
+    "ergo": 0.8,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.195,
+    "type": "Dust cover"
+  },
+  "ak-vezhlivyy-strelok-vs-24-vs-33c-handguard-with-gas-tube-white": {
+    "id": "ak-vezhlivyy-strelok-vs-24-vs-33c-handguard-with-gas-tube-white",
+    "name": "AK Vezhlivyy Strelok VS-24 + VS-33c handguard with gas tube (White)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "npz-pk1-obzor-dovetail-reflex-sight": {
+    "id": "npz-pk1-obzor-dovetail-reflex-sight",
+    "name": "NPZ PK1 Obzor dovetail reflex sight",
+    "image": "/weapons/a-npz-pk1-obzor-dovetail-reflex-sight.webp",
+    "ergo": -3,
+    "recoil": 0,
+    "accuracy": 1,
+    "weight": 0.52,
+    "type": "Reflex sight"
+  },
+  "belomo-pk-aa-dovetail-reflex-sight": {
+    "id": "belomo-pk-aa-dovetail-reflex-sight",
+    "name": "BelOMO PK-AA dovetail reflex sight",
+    "image": "/weapons/a-belomo-pk-aa-dovetail-reflex-sight.webp",
+    "ergo": -4,
+    "recoil": 0,
+    "accuracy": 1,
+    "weight": 0.45,
+    "type": "Reflex sight"
+  },
+  "npz-1p78-1-dovetail-mount": {
+    "id": "npz-1p78-1-dovetail-mount",
+    "name": "NPZ 1P78-1 dovetail mount",
+    "image": "/weapons/a-npz-1p78-1-dovetail-mount.webp",
+    "ergo": -1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.04,
+    "type": "Mount"
+  },
+  "rd-704-dust-cover": {
+    "id": "rd-704-dust-cover",
+    "name": "RD-704 dust cover",
+    "image": "/weapons/a-rd-704-dust-cover.webp",
+    "ergo": 3,
+    "recoil": -3,
+    "accuracy": 0,
+    "weight": 0.088,
+    "type": "Dust cover"
+  },
+  "ak-rd-enhanced-v2-rear-sight": {
+    "id": "ak-rd-enhanced-v2-rear-sight",
+    "name": "AK RD Enhanced V2 Rear Sight",
+    "image": "/weapons/a-ak-rd-enhanced-v2-rear-sight.webp",
+    "ergo": 0.1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.026,
+    "type": "Iron sight"
+  },
+  "gp-25-kostyor-40mm-underbarrel-grenade-launcher": {
+    "id": "gp-25-kostyor-40mm-underbarrel-grenade-launcher",
+    "name": "GP-25 Kostyor 40mm underbarrel grenade launcher",
+    "image": "/weapons/a-gp-25-kostyor-40mm-underbarrel-grenade-launcher.webp",
+    "ergo": -35,
+    "recoil": -8,
+    "accuracy": 0,
+    "weight": 2.92,
+    "type": "Underbarrel grenade launcher"
+  },
+  "ak-100-series-metal-skeletonized-stock": {
+    "id": "ak-100-series-metal-skeletonized-stock",
+    "name": "AK 100-series metal skeletonized stock",
+    "image": "/weapons/a-ak-100-series-metal-skeletonized-stock.webp",
+    "ergo": 10,
+    "recoil": -21,
+    "accuracy": -21,
+    "weight": 0.264,
+    "type": "Stock"
+  },
+  "sag-bit-low-profile-dovetail-sidemount": {
+    "id": "sag-bit-low-profile-dovetail-sidemount",
+    "name": "SAG Bit low profile dovetail sidemount",
+    "image": "/weapons/a-sag-bit-low-profile-dovetail-sidemount.webp",
+    "ergo": -0.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.075,
+    "type": "Mount"
+  },
+  "sag-ak-dovetail-sidemount": {
+    "id": "sag-ak-dovetail-sidemount",
+    "name": "SAG AK dovetail sidemount",
+    "image": "/weapons/a-sag-ak-dovetail-sidemount.webp",
+    "ergo": -1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.165,
+    "type": "Mount"
+  },
+  "ak-12-rear-sight": {
+    "id": "ak-12-rear-sight",
+    "name": "AK-12 rear sight",
+    "image": "/weapons/a-ak-12-rear-sight.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.025,
+    "type": "Iron sight"
+  },
+  "ak-12-buffer-tube": {
+    "id": "ak-12-buffer-tube",
+    "name": "AK-12 buffer tube",
+    "image": "/weapons/a-ak-12-buffer-tube.webp",
+    "ergo": -1,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.142,
+    "type": "Stock"
+  },
+  "axion-kobra-ekp-1s-03-reflex-sight-dovetail": {
+    "id": "axion-kobra-ekp-1s-03-reflex-sight-dovetail",
+    "name": "Axion Kobra EKP-1S-03 reflex sight (Dovetail)",
+    "image": "/weapons/a-axion-kobra-ekp-1s-03-reflex-sight-dovetail.webp",
+    "ergo": -3,
+    "recoil": 0,
+    "accuracy": 4,
+    "weight": 0.273,
+    "type": "Reflex sight"
+  },
+  "ak-ak-evo-stock": {
+    "id": "ak-ak-evo-stock",
+    "name": "AK AK-EVO stock",
+    "image": "/weapons/a-ak-ak-evo-stock.webp",
+    "ergo": 15,
+    "recoil": -24,
+    "accuracy": -24,
+    "weight": 0.397,
+    "type": "Stock"
+  },
+  "ak-jmac-customs-rsa-5-5-stock-adapter": {
+    "id": "ak-jmac-customs-rsa-5-5-stock-adapter",
+    "name": "AK JMac Customs RSA-5.5 stock adapter",
+    "image": "/weapons/a-ak-jmac-customs-rsa-5-5-stock-adapter.webp",
+    "ergo": -0.5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.03,
+    "type": "Stock"
+  },
+  "ak-74m-armacon-monolit-3-gen-2-buffer-tube-adapter-redline": {
+    "id": "ak-74m-armacon-monolit-3-gen-2-buffer-tube-adapter-redline",
+    "name": "AK-74M Armacon Monolit 3 Gen.2 buffer tube adapter (Redline)",
+    "image": "/weapons/a-ak-74m-armacon-monolit-3-gen-2-buffer-tube-adapter-redline.webp",
+    "ergo": -1,
+    "recoil": -0.5,
+    "accuracy": -0.5,
+    "weight": 0.158,
+    "type": "Stock"
+  },
+  "pm-9x18pm-90-93-8-round-magazine": {
+    "id": "pm-9x18pm-90-93-8-round-magazine",
+    "name": "PM 9x18PM 90-93 8-round magazine",
+    "image": "/weapons/a-pm-9x18pm-90-93-8-round-magazine.webp",
+    "ergo": -1,
+    "recoil": 1,
+    "accuracy": 0,
+    "weight": 0.045,
+    "type": "Magazine"
+  },
+  "pm-9x18pm-84-round-makeshift-drum-magazine": {
+    "id": "pm-9x18pm-84-round-makeshift-drum-magazine",
+    "name": "PM 9x18PM 84-round makeshift drum magazine",
+    "image": "/weapons/a-pm-9x18pm-84-round-makeshift-drum-magazine.webp",
+    "ergo": -10,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.364,
+    "type": "Magazine"
+  },
+  "mosin-rifle-standard-stock": {
+    "id": "mosin-rifle-standard-stock",
+    "name": "Mosin Rifle standard stock",
+    "image": "/weapons/a-mosin-rifle-standard-stock.webp",
+    "ergo": 10,
+    "recoil": -20,
+    "accuracy": -20,
+    "weight": 1.75,
+    "type": "Stock"
+  },
+  "mosin-rifle-7-62x54r-5-round-magazine": {
+    "id": "mosin-rifle-7-62x54r-5-round-magazine",
+    "name": "Mosin Rifle 7.62x54R 5-round magazine",
+    "image": "/weapons/a-mosin-rifle-7-62x54r-5-round-magazine.webp",
+    "ergo": -1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.4,
+    "type": "Magazine"
+  },
+  "mosin-rifle-7-62x54r-730mm-regular-barrel": {
+    "id": "mosin-rifle-7-62x54r-730mm-regular-barrel",
+    "name": "Mosin Rifle 7.62x54R 730mm regular barrel",
+    "image": "/weapons/a-mosin-rifle-7-62x54r-730mm-regular-barrel.webp",
+    "ergo": -35,
+    "recoil": -18.3,
+    "accuracy": 5,
+    "weight": 1.7,
+    "type": "Barrel"
+  },
+  "mosin-rifle-7-62x54r-promag-archangel-opfor-10-round-magazine": {
+    "id": "mosin-rifle-7-62x54r-promag-archangel-opfor-10-round-magazine",
+    "name": "Mosin Rifle 7.62x54R ProMag Archangel OPFOR 10-round magazine",
+    "image": "/weapons/a-mosin-rifle-7-62x54r-promag-archangel-opfor-10-round-magazine.webp",
+    "ergo": -2,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.227,
+    "type": "Magazine"
+  },
+  "mosin-rifle-ati-monte-carlo-stock": {
+    "id": "mosin-rifle-ati-monte-carlo-stock",
+    "name": "Mosin Rifle ATI Monte Carlo stock",
+    "image": "/weapons/a-mosin-rifle-ati-monte-carlo-stock.webp",
+    "ergo": 22,
+    "recoil": -24,
+    "accuracy": -24,
+    "weight": 1.2,
+    "type": "Stock"
+  },
+  "mosin-rifle-promag-archangel-opfor-prs-chassis": {
+    "id": "mosin-rifle-promag-archangel-opfor-prs-chassis",
+    "name": "Mosin Rifle ProMag Archangel OPFOR PRS chassis",
+    "image": "/weapons/a-mosin-rifle-promag-archangel-opfor-prs-chassis.webp",
+    "ergo": 40,
+    "recoil": -27,
+    "accuracy": 3,
+    "weight": 2,
+    "type": "Stock"
+  },
+  "mosin-rifle-sawed-off-stock": {
+    "id": "mosin-rifle-sawed-off-stock",
+    "name": "Mosin Rifle sawed-off stock",
+    "image": "/weapons/a-mosin-rifle-sawed-off-stock.webp",
+    "ergo": 16,
+    "recoil": -3,
+    "accuracy": 0,
+    "weight": 0.8,
+    "type": "Stock"
+  },
+  "mosin-rifle-sniper-carbine-stock": {
+    "id": "mosin-rifle-sniper-carbine-stock",
+    "name": "Mosin Rifle sniper carbine stock",
+    "image": "/weapons/a-mosin-rifle-sniper-carbine-stock.webp",
+    "ergo": 11,
+    "recoil": -19,
+    "accuracy": 0,
+    "weight": 1.55,
+    "type": "Stock"
+  },
+  "mosin-rifle-carbine-stock": {
+    "id": "mosin-rifle-carbine-stock",
+    "name": "Mosin Rifle carbine stock",
+    "image": "/weapons/a-mosin-rifle-carbine-stock.webp",
+    "ergo": 14,
+    "recoil": -19,
+    "accuracy": 0,
+    "weight": 1.6,
+    "type": "Stock"
+  },
+  "mosin-rifle-infantry-stock": {
+    "id": "mosin-rifle-infantry-stock",
+    "name": "Mosin Rifle Infantry stock",
+    "image": "/weapons/a-mosin-rifle-infantry-stock.webp",
+    "ergo": 9,
+    "recoil": -20,
+    "accuracy": 0,
+    "weight": 1.8,
+    "type": "Stock"
+  },
+  "mosin-rifle-sawed-off-sniper-stock": {
+    "id": "mosin-rifle-sawed-off-sniper-stock",
+    "name": "Mosin Rifle sawed-off sniper stock",
+    "image": "/weapons/a-mosin-rifle-sawed-off-sniper-stock.webp",
+    "ergo": 16,
+    "recoil": -3,
+    "accuracy": 0,
+    "weight": 0.85,
+    "type": "Stock"
+  },
+  "ks-23-23x75-700mm-barrel": {
+    "id": "ks-23-23x75-700mm-barrel",
+    "name": "KS-23 23x75 700mm barrel",
+    "image": "/weapons/a-ks-23-23x75-700mm-barrel.webp",
+    "ergo": -10,
+    "recoil": -8,
+    "accuracy": 15.47,
+    "weight": 1.23,
+    "type": "Barrel"
+  },
+  "ks-23-wooden-stock": {
+    "id": "ks-23-wooden-stock",
+    "name": "KS-23 wooden stock",
+    "image": "/weapons/a-ks-23-wooden-stock.webp",
+    "ergo": 6,
+    "recoil": -24,
+    "accuracy": -24,
+    "weight": 0.44,
+    "type": "Stock"
+  },
+  "ks-23m-23x75-3-shell-magazine-cap": {
+    "id": "ks-23m-23x75-3-shell-magazine-cap",
+    "name": "KS-23M 23x75 3-shell magazine cap",
+    "image": "/weapons/a-ks-23m-23x75-3-shell-magazine-cap.webp",
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.01,
+    "type": "Magazine"
+  },
+  "ks-23m-forestock": {
+    "id": "ks-23m-forestock",
+    "name": "KS-23M forestock",
+    "image": "/weapons/a-ks-23m-forestock.webp",
+    "ergo": 5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.58,
+    "type": "Handguard"
+  },
+  "ks-23-23x75-510mm-barrel": {
+    "id": "ks-23-23x75-510mm-barrel",
+    "name": "KS-23 23x75 510mm barrel",
+    "image": "/weapons/a-ks-23-23x75-510mm-barrel.webp",
+    "ergo": -4,
+    "recoil": -4,
+    "accuracy": 25.78,
+    "weight": 0.91,
+    "type": "Barrel"
+  },
+  "ks-23m-pistol-grip": {
+    "id": "ks-23m-pistol-grip",
+    "name": "KS-23M pistol grip",
+    "image": "/weapons/a-ks-23m-pistol-grip.webp",
+    "ergo": 10,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.15,
+    "type": "Pistol grip"
+  },
+  "pm-bakelite-grip": {
+    "id": "pm-bakelite-grip",
+    "name": "PM bakelite grip",
+    "image": "/weapons/a-pm-bakelite-grip.webp",
+    "ergo": 3,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.07,
+    "type": "Pistol grip"
+  },
+  "pm-pistol-slide": {
+    "id": "pm-pistol-slide",
+    "name": "PM pistol slide",
+    "image": "/weapons/a-pm-pistol-slide.webp",
+    "ergo": 1,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.28,
+    "type": "Slide"
+  },
+  "pm-fab-defense-pm-g-pistol-grip": {
+    "id": "pm-fab-defense-pm-g-pistol-grip",
+    "name": "PM FAB Defense PM-G pistol grip",
+    "image": "/weapons/a-pm-fab-defense-pm-g-pistol-grip.webp",
+    "ergo": 5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.072,
+    "type": "Pistol grip"
+  },
+  "pm-tactic-kit-pistol-grip": {
+    "id": "pm-tactic-kit-pistol-grip",
+    "name": "PM Tactic Kit pistol grip",
+    "image": "/weapons/a-pm-tactic-kit-pistol-grip.webp",
+    "ergo": 7,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.114,
+    "type": "Pistol grip"
+  },
+  "pm-fab-defense-pm-g-pistol-grip-olive-drab": {
+    "id": "pm-fab-defense-pm-g-pistol-grip-olive-drab",
+    "name": "PM FAB Defense PM-G pistol grip (Olive Drab)",
+    "image": null,
+    "ergo": 0,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0,
+    "type": null
+  },
+  "komz-rusak-reflex-sight": {
+    "id": "komz-rusak-reflex-sight",
+    "name": "KOMZ Rusak reflex sight",
+    "image": "/weapons/a-komz-rusak-reflex-sight.webp",
+    "ergo": -2,
+    "recoil": 0,
+    "accuracy": 1,
+    "weight": 0.24,
+    "type": "Reflex sight"
+  },
+  "pm-pm-laser-grip-with-laser-sight": {
+    "id": "pm-pm-laser-grip-with-laser-sight",
+    "name": "PM PM-Laser grip with laser sight",
+    "image": "/weapons/a-pm-pm-laser-grip-with-laser-sight.webp",
+    "ergo": 5,
+    "recoil": 0,
+    "accuracy": 0,
+    "weight": 0.09,
+    "type": "Pistol grip"
+  }
+}
