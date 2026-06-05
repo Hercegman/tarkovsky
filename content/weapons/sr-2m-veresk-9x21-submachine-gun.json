@@ -1,0 +1,61 @@
+{
+  "id": "sr-2m-veresk-9x21-submachine-gun",
+  "name": "SR-2M Veresk 9x21 submachine gun",
+  "page": "SR-2M Veresk 9x21 submachine gun",
+  "image": "/weapons/sr-2m-veresk-9x21-submachine-gun.webp",
+  "ergonomics": 90,
+  "recoilVertical": 44,
+  "recoilHorizontal": 190,
+  "moa": 7.83,
+  "weight": 1.773,
+  "fireRate": 950,
+  "caliber": "9x21mm Gyurza",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "sr-2m-9x21-30-round-magazine",
+        "sr-2m-9x21-20-round-magazine"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "sr-2m-9x21-sv-1381-sound-suppressor",
+        "sr-2m-9x21-hand-stopper"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "sr-2m-pistol-grip-plum",
+        "sr-2m-pistol-grip-black"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "sr-2m-dust-cover"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "sr-2m-polymer-handguard-plum",
+        "sr-2m-polymer-handguard-black"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "sr-2m-top-folding-stock",
+        "sr-2mp-top-folding-stock"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/SR-2M_Veresk_9x21_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

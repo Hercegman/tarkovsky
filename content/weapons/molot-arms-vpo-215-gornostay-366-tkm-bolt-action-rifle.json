@@ -1,0 +1,45 @@
+{
+  "id": "molot-arms-vpo-215-gornostay-366-tkm-bolt-action-rifle",
+  "name": "Molot Arms VPO-215 Gornostay .366 TKM bolt-action rifle",
+  "page": "Molot Arms VPO-215 Gornostay .366 TKM bolt-action rifle",
+  "image": "/weapons/molot-arms-vpo-215-gornostay-366-tkm-bolt-action-rifle.webp",
+  "ergonomics": 28.5,
+  "recoilVertical": 130,
+  "recoilHorizontal": 316,
+  "moa": 1.47,
+  "weight": 3.3,
+  "fireRate": 30,
+  "caliber": ".366 TKM",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "vpo-215-02-366tkm-600mm-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "vpo-215-wooden-stock",
+        "vpo-215-tactical-chassis"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "vpo-215-366-tkm-4-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "vpo-215-scope-rail-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Molot_Arms_VPO-215_Gornostay_.366_TKM_bolt-action_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

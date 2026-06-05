@@ -1,0 +1,157 @@
+{
+  "id": "hk-mp7a1-4-6x30-submachine-gun",
+  "name": "HK MP7A1 4.6x30 submachine gun",
+  "page": "HK MP7A1 4.6x30 submachine gun",
+  "image": "/weapons/hk-mp7a1-4-6x30-submachine-gun.webp",
+  "ergonomics": 72.5,
+  "recoilVertical": 41,
+  "recoilHorizontal": 146,
+  "moa": 8.34,
+  "weight": 2.27,
+  "fireRate": 950,
+  "caliber": "4.6x30mm HK",
+  "slots": [
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "hk-mp7a1-4-6x30-flash-hider",
+        "hk-mp7-surefire-sf3p-4-6x30-flash-hider"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "hk-mp7-flip-up-rear-sight",
+        "kac-folding-micro-rear-sight",
+        "kac-folding-rear-sight",
+        "kriss-defiance-low-profile-flip-up-rear-sight",
+        "magpul-mbus-gen2-flip-up-rear-sight",
+        "magpul-mbus-gen2-flip-up-rear-sight-fde",
+        "mcx-flip-up-rear-sight",
+        "mpx-flip-up-rear-sight"
+      ]
+    },
+    {
+      "name": "Front sight",
+      "allowed": [
+        "hk-mp7-flip-up-front-sight",
+        "kac-folding-micro-front-sight",
+        "kac-folding-front-sight",
+        "kriss-defiance-low-profile-flip-up-front-sight",
+        "magpul-mbus-gen2-flip-up-front-sight",
+        "magpul-mbus-gen2-flip-up-front-sight-fde",
+        "mcx-flip-up-front-sight",
+        "mpx-flip-up-front-sight"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "hk-mp7a1-stock",
+        "hk-mp7a2-stock",
+        "hk-mp7-fab-defense-ars-stock-adapter"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "hk-mp7-4-6x30-20-round-magazine",
+        "hk-mp7-4-6x30-30-round-magazine",
+        "hk-mp7-4-6x30-40-round-magazine"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "holosun-ls321-tactical-device",
+        "l3harris-an-peq-15-tactical-device",
+        "l3harris-la-5b-peq-tactical-device",
+        "ncstar-tactical-blue-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "wilcox-raptar-es-tactical-rangefinder",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "zenit-klesch-2u-tactical-flashlight",
+        "zenit-perst-3-tactical-device",
+        "kiba-arms-25mm-accessory-ring-mount",
+        "daniel-defense-25mm-accessory-ring-mount",
+        "olight-baldr-pro-tactical-flashlight-with-laser",
+        "olight-baldr-pro-tactical-flashlight-with-laser-tan",
+        "insight-wmx200-tactical-flashlight",
+        "b-e-meyers-mawl-c1-tactical-device",
+        "zenit-kr-2-old-gen-mount",
+        "surefire-m600-scout-light-thumbscrew-mount",
+        "l3harris-an-peq-15-tactical-device-black"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "elcan-specterdr-1x-4x-scope",
+        "elcan-specterdr-1x-4x-scope-fde",
+        "leupold-mark-4-hamr-4x24-deltapoint-hybrid-assault-scope",
+        "monstrum-tactical-compact-prism-scope-2x32",
+        "sig-sauer-bravo4-4x30-scope",
+        "valday-ps-320-1-6x-scope",
+        "axion-kobra-ekp-8-18-reflex-sight",
+        "okp-7-reflex-sight",
+        "eotech-553-holographic-sight",
+        "eotech-exps3-0-holographic-sight-tan",
+        "eotech-hhs-1-hybrid-sight",
+        "eotech-hhs-1-hybrid-sight-tan",
+        "eotech-xps3-0-holographic-sight",
+        "eotech-xps3-2-holographic-sight",
+        "holosun-hs401g5-reflex-sight",
+        "leapers-utg-reflex-sight",
+        "sig-sauer-romeo8t-reflex-sight",
+        "trijicon-srs-02-reflex-sight",
+        "valday-pk-120-1p87-reflex-sight",
+        "valday-krechet-reflex-sight",
+        "vomz-pilad-p1x42-weaver-reflex-sight",
+        "vortex-razor-amg-uh-1-holographic-sight",
+        "walther-mrs-reflex-sight",
+        "belomo-pk-06-reflex-sight",
+        "ncstar-ado-p4-sniper-3-9x42-riflescope",
+        "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
+        "torrey-pines-logic-t12w-30hz-thermal-reflex-sight",
+        "aimpoint-micro-standard-mount",
+        "aimpoint-micro-h-2-standard-mount",
+        "aimpoint-compm4-pro-lrp-mount",
+        "aimpoint-compm4-pro-qrp2-mount",
+        "armasight-vulcan-universal-base",
+        "b-t-qd-nar-mount-for-aimpoint-acro",
+        "burris-fastfire-weaver-base",
+        "deltapoint-cross-slot-mount-base",
+        "kiba-arms-short-mount-sight-adapter",
+        "recknagel-era-tac-sunshade-mount-for-aimpoint-t-1-sights",
+        "sig-sauer-romeo-sight-mount",
+        "trijicon-rmr-high-profile-mount",
+        "trijicon-rmr-low-profile-mount",
+        "trijicon-ta51-sight-mount",
+        "unv-dloc-ird-sight-mount",
+        "swampfox-trihawk-prism-scope-3x30",
+        "armasight-zeus-universal-base",
+        "sig-sauer-romeo7-1x30-reflex-sight-prototype",
+        "sig-sauer-echo1-1-2x30mm-30hz-thermal-reflex-scope",
+        "elcan-specter-hco-holographic-sight",
+        "gbrs-aimpoint-hydra-mount-kit-black",
+        "gbrs-aimpoint-hydra-mount-kit-fde",
+        "wilcox-boss-xe-reflex-sight",
+        "cyclone-shakhin-mount",
+        "falke-le-reflex-sight",
+        "meprolight-mepro-red-dot-mount",
+        "steiner-r1x-reflex-sight",
+        "di-optical-fc1-sight-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/HK_MP7A1_4.6x30_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

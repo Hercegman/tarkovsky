@@ -1,0 +1,39 @@
+{
+  "id": "pp-91-01-kedr-b-9x18pm-submachine-gun",
+  "name": "PP-91-01 Kedr-B 9x18PM submachine gun",
+  "page": "PP-91-01 Kedr-B 9x18PM submachine gun",
+  "image": "/weapons/pp-91-01-kedr-b-9x18pm-submachine-gun.webp",
+  "ergonomics": 51,
+  "recoilVertical": 42,
+  "recoilHorizontal": 177,
+  "moa": 6.88,
+  "weight": 1.729,
+  "fireRate": 900,
+  "caliber": "9x18mm Makarov",
+  "slots": [
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "pp-91-01-kedr-b-threaded-suppressor-adapter"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "pp-91-kedr-polymer-pistol-grip"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "pp-91-kedr-9x18pm-20-round-magazine",
+        "pp-91-kedr-9x18pm-30-round-magazine"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/PP-91-01_Kedr-B_9x18PM_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

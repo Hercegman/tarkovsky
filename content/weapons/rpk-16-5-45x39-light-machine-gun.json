@@ -1,0 +1,101 @@
+{
+  "id": "rpk-16-5-45x39-light-machine-gun",
+  "name": "RPK-16 5.45x39 light machine gun",
+  "page": "RPK-16 5.45x39 light machine gun",
+  "image": "/weapons/rpk-16-5-45x39-light-machine-gun.webp",
+  "ergonomics": 45.8,
+  "recoilVertical": 68,
+  "recoilHorizontal": 202,
+  "moa": 1.65,
+  "weight": 3.697,
+  "fireRate": 650,
+  "caliber": "5.45x39mm",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "rpk-16-5-45x39-15-inch-barrel",
+        "rpk-16-5-45x39-22-inch-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ak-12-pistol-grip",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "pp-19-01-vityaz-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "rpk-16-dust-cover"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "rpk-16-handguard"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "rpk-16-buffer-tube",
+        "ak-12-buffer-tube",
+        "ak-ak-evo-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ak-74-5-45x39-6l18-45-round-magazine",
+        "ak-74-5-45x39-6l20-30-round-magazine",
+        "ak-74-5-45x39-6l23-30-round-magazine",
+        "ak-74-5-45x39-6l23-30-round-magazine-plum",
+        "ak-74-5-45x39-6l26-45-round-magazine",
+        "ak-74-5-45x39-6l31-60-round-magazine",
+        "ak-74-saiga-545-5-45x39-10-round-magazine",
+        "ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine",
+        "ak-12-5-45x39-30-round-magazine",
+        "rpk-16-5-45x39-95-round-drum-magazine",
+        "ak-74-delta-tek-saiga-545-5-45x39-20-round-magazine",
+        "ak-12-5-45x39-early-model-30-round-magazine"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/RPK-16_5.45x39_light_machine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

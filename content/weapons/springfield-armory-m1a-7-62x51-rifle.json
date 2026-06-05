@@ -1,0 +1,58 @@
+{
+  "id": "springfield-armory-m1a-7-62x51-rifle",
+  "name": "Springfield Armory M1A 7.62x51 rifle",
+  "page": "Springfield Armory M1A 7.62x51 rifle",
+  "image": "/weapons/springfield-armory-m1a-7-62x51-rifle.webp",
+  "ergonomics": 41,
+  "recoilVertical": 121,
+  "recoilHorizontal": 230,
+  "moa": 1.52,
+  "weight": 3.923,
+  "fireRate": 700,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "m1a-7-62x51-16-inch-barrel",
+        "m1a-7-62x51-22-inch-barrel"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "m14-sa-enlarged-military-aperture-rear-sight"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "m14-sage-international-m14alcs-chassis",
+        "m14-troy-s-a-s-s-chassis-stock",
+        "m1a-promag-archangel-chassis",
+        "m1a-socom-16-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "m1a-7-62x51-20-round-magazine",
+        "m14-7-62x51-30-round-magazine",
+        "m14-7-62x51-x-products-x-14-50-round-drum-magazine",
+        "m1a-7-62x51-10-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "m14-a-r-m-s-18-scope-mount",
+        "m14-leapers-utg-4-point-locking-deluxe-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Springfield_Armory_M1A_7.62x51_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

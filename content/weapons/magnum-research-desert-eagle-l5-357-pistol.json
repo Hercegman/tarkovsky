@@ -1,0 +1,45 @@
+{
+  "id": "magnum-research-desert-eagle-l5-357-pistol",
+  "name": "Magnum Research Desert Eagle L5 .357 pistol",
+  "page": "Magnum Research Desert Eagle L5 .357 pistol",
+  "image": "/weapons/magnum-research-desert-eagle-l5-357-pistol.webp",
+  "ergonomics": 73,
+  "recoilVertical": 446,
+  "recoilHorizontal": 314,
+  "moa": 8.94,
+  "weight": 1.507,
+  "fireRate": 30,
+  "caliber": ".357 Magnum",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "desert-eagle-l5-357-127mm-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "desert-eagle-hogue-rubber-grip",
+        "desert-eagle-hogue-rubber-grip-with-finger-grooves"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "desert-eagle-l5-357-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "desert-eagle-357-9-round-magazine"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Magnum_Research_Desert_Eagle_L5_.357_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

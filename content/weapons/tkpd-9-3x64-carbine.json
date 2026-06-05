@@ -1,0 +1,69 @@
+{
+  "id": "tkpd-9-3x64-carbine",
+  "name": "TKPD 9.3x64 carbine",
+  "page": "TKPD 9.3x64 carbine",
+  "image": "/weapons/tkpd-9-3x64-carbine.webp",
+  "ergonomics": 42,
+  "recoilVertical": 259,
+  "recoilHorizontal": 604,
+  "moa": 1.21,
+  "weight": 5.28,
+  "fireRate": 25,
+  "caliber": "9.3x64mm",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "tkpd-9-3x64-457mm-barrel",
+        "tkpd-9-3x64-570mm-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "svds-pistol-grip",
+        "svds-lynx-arms-ak-series-pistol-grip-adapter"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "tkpd-railed-dust-cover"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "svds-polymer-stock",
+        "svds-lynx-arms-hinge-buffer-tube-adapter"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "tkpd-9-3x64-10-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "okp-7-reflex-sight-dovetail",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "tkpd-front-trunnion",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/TKPD_9.3x64_carbine",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

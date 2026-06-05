@@ -1,0 +1,101 @@
+{
+  "id": "hk-g36-5-56x45-assault-rifle",
+  "name": "HK G36 5.56x45 assault rifle",
+  "page": "HK G36 5.56x45 assault rifle",
+  "image": "/weapons/hk-g36-5-56x45-assault-rifle.webp",
+  "ergonomics": 52.5,
+  "recoilVertical": 69,
+  "recoilHorizontal": 195,
+  "moa": 1.73,
+  "weight": 3.029,
+  "fireRate": 750,
+  "caliber": "5.56x45mm NATO",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "hk-g36-5-56x45-228mm-barrel",
+        "hk-g36-5-56x45-318mm-barrel",
+        "hk-g36-5-56x45-480mm-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "hk-g36-polymer-stock",
+        "hk-g36-kv-adjustable-stock",
+        "hk-g36-tommy-built-ar-stock-adapter",
+        "hk-g36-idz-adjustable-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "hk-g36-5-56x45-30-round-magazine"
+      ]
+    },
+    {
+      "name": "STANAG Magazine",
+      "allowed": [
+        "hk-g36-stanag-magwell",
+        "ar-15-5-56x45-colt-stanag-30-round-magazine",
+        "ar-15-5-56x45-hk-steel-maritime-stanag-30-round-magazine",
+        "ar-15-5-56x45-hk-pm-gen-2-stanag-30-round-magazine",
+        "ar-15-5-56x45-hk-30-stanag-polymer-30-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-d-60-stanag-60-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-10-gen-m3-stanag-10-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-20-gen-m3-stanag-20-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine-fde",
+        "ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-40-gen-m3-stanag-40-round-magazine-fde",
+        "ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine",
+        "ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine-fde",
+        "ar-15-5-56x45-surefire-mag5-100-stanag-100-round-magazine",
+        "ar-15-5-56x45-surefire-mag5-60-stanag-60-round-magazine",
+        "ar-15-5-56x45-troy-battlemag-stanag-30-round-magazine",
+        "ar-15-5-56x45-colt-stanag-20-round-magazine",
+        "fn-scar-l-5-56x45-30-round-magazine",
+        "fn-scar-l-5-56x45-30-round-magazine-fde"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "hk-g36-2-vent-handguard",
+        "hk-g36-6-vent-handguard",
+        "hk-g36-4-vent-handguard",
+        "hk-g36-kac-quad-rail-handguard",
+        "hk-g36-slim-line-hkey-handguard"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "hk-g36-stanag-magwell",
+        "hk-g36-magwell"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "hk-g36-hensoldt-hkv-3x-carry-handle",
+        "hk-g36-hensoldt-hkv-zf-1-5x-carry-handle",
+        "hk-g36-optic-rail-with-flip-up-sights",
+        "hk-g36-sight-mount",
+        "hk-g36-kac-600m-rear-sight-rail"
+      ]
+    },
+    {
+      "name": "Front Sight",
+      "allowed": [
+        "hk-g36-kac-front-flip-up-sight"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/HK_G36_5.56x45_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

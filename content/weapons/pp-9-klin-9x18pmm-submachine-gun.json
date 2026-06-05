@@ -1,0 +1,39 @@
+{
+  "id": "pp-9-klin-9x18pmm-submachine-gun",
+  "name": "PP-9 Klin 9x18PMM submachine gun",
+  "page": "PP-9 Klin 9x18PMM submachine gun",
+  "image": "/weapons/pp-9-klin-9x18pmm-submachine-gun.webp",
+  "ergonomics": 67,
+  "recoilVertical": 50,
+  "recoilHorizontal": 211,
+  "moa": 8.59,
+  "weight": 1.529,
+  "fireRate": 1000,
+  "caliber": "9x18mm Makarov",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "pp-91-kedr-polymer-pistol-grip"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "pp-91-kedr-9x18pm-20-round-magazine",
+        "pp-91-kedr-9x18pm-30-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "pp-91-kedr-rotor-43-ris-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/PP-9_Klin_9x18PMM_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

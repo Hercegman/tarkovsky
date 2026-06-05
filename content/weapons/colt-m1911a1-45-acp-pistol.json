@@ -1,0 +1,84 @@
+{
+  "id": "colt-m1911a1-45-acp-pistol",
+  "name": "Colt M1911A1 .45 ACP pistol",
+  "page": "Colt M1911A1 .45 ACP pistol",
+  "image": "/weapons/colt-m1911a1-45-acp-pistol.webp",
+  "ergonomics": 80.5,
+  "recoilVertical": 444,
+  "recoilHorizontal": 350,
+  "moa": 12.03,
+  "weight": 1.214,
+  "fireRate": 30,
+  "caliber": ".45 ACP",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "m1911a1-45-acp-127mm-barrel",
+        "m1911a1-45-acp-national-match-127mm-barrel",
+        "m1911a1-45-acp-141mm-threaded-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "m1911a1-side-grips",
+        "m1911-pachmayr-american-legend-grip-423",
+        "m1911-kiba-arms-geneburn-custom-side-grips"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "m1911a1-pistol-slide",
+        "m45a1-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "m1911a1-45-acp-7-round-magazine",
+        "m1911a1-45-acp-wilson-combat-7-round-magazine",
+        "m1911a1-45-acp-mec-gar-11-round-magazine"
+      ]
+    },
+    {
+      "name": "Trigger",
+      "allowed": [
+        "m1911a1-caspian-arms-trik-trigger",
+        "m1911a1-trigger",
+        "m45a1-trigger"
+      ]
+    },
+    {
+      "name": "Hammer",
+      "allowed": [
+        "m1911a1-hammer",
+        "m45a1-hammer",
+        "m1911a1-sti-hex-hammer",
+        "m1911a1-wilson-retro-commander-hammer",
+        "m1911a1-wilson-ultralight-skeletonized-hammer"
+      ]
+    },
+    {
+      "name": "Slide catch",
+      "allowed": [
+        "m1911a1-slide-stop",
+        "m45a1-slide-lock",
+        "m1911a1-wilson-extended-slide-stop"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "m1911a1-weigand-weig-a-tinny-rail-mount",
+        "m1911a1-ncstar-trigger-guard-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Colt_M1911A1_.45_ACP_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

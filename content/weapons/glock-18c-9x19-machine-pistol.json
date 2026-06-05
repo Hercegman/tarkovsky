@@ -1,0 +1,76 @@
+{
+  "id": "glock-18c-9x19-machine-pistol",
+  "name": "Glock 18C 9x19 machine pistol",
+  "page": "Glock 18C 9x19 machine pistol",
+  "image": "/weapons/glock-18c-9x19-machine-pistol.webp",
+  "ergonomics": 91,
+  "recoilVertical": 297,
+  "recoilHorizontal": 278,
+  "moa": 12.03,
+  "weight": 0.842,
+  "fireRate": 1200,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "glock-18c-9x19-114mm-compensated-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "glock-pachmayr-tactical-grip-glove"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "glock-18c-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "glock-9x19-big-stick-33-round-magazine",
+        "glock-9x19-17-round-magazine",
+        "glock-9x19-magpul-pmag-gl9-21-round-magazine",
+        "glock-9x19-sgm-tactical-50-round-drum-magazine",
+        "glock-9x19-big-stick-24-round-magazine-coyote",
+        "glock-9x19-big-stick-31-round-magazine-coyote",
+        "glock-9x19-19-round-magazine-coyote"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "ncstar-tactical-blue-laser",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "glock-aimtech-mount-base",
+        "um-tactical-um3-pistol-sight-mount"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "glock-aimtech-tiger-shark-sight-mount"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "glock-fab-defense-glr-17-stock"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Glock_18C_9x19_machine_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

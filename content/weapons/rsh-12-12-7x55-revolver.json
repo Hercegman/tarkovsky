@@ -1,0 +1,82 @@
+{
+  "id": "rsh-12-12-7x55-revolver",
+  "name": "RSh-12 12.7x55 revolver",
+  "page": "RSh-12 12.7x55 revolver",
+  "image": "/weapons/rsh-12-12-7x55-revolver.webp",
+  "ergonomics": 42,
+  "recoilVertical": null,
+  "recoilHorizontal": null,
+  "moa": 6.25,
+  "weight": 2.2,
+  "fireRate": 30,
+  "caliber": "12.7x55mm",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "rsh-12-12-7x55-5-round-cylinder"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "leapers-utg-reflex-sight",
+        "axion-kobra-ekp-8-18-reflex-sight",
+        "okp-7-reflex-sight",
+        "eotech-553-holographic-sight",
+        "eotech-exps3-0-holographic-sight-tan",
+        "eotech-xps3-2-holographic-sight",
+        "holosun-hs401g5-reflex-sight",
+        "sig-sauer-romeo8t-reflex-sight",
+        "trijicon-srs-02-reflex-sight",
+        "valday-pk-120-1p87-reflex-sight",
+        "valday-krechet-reflex-sight",
+        "vomz-pilad-p1x42-weaver-reflex-sight",
+        "vortex-razor-amg-uh-1-holographic-sight",
+        "walther-mrs-reflex-sight",
+        "belomo-pk-06-reflex-sight",
+        "aimpoint-micro-standard-mount",
+        "aimpoint-micro-h-2-standard-mount",
+        "aimpoint-compm4-pro-lrp-mount",
+        "aimpoint-compm4-pro-qrp2-mount",
+        "b-t-qd-nar-mount-for-aimpoint-acro",
+        "burris-fastfire-weaver-base",
+        "sig-sauer-romeo-sight-mount",
+        "recknagel-era-tac-sunshade-mount-for-aimpoint-t-1-sights",
+        "eotech-xps3-0-holographic-sight",
+        "deltapoint-cross-slot-mount-base",
+        "lobaev-arms-30mm-scope-mount",
+        "trijicon-rmr-low-profile-mount",
+        "torrey-pines-logic-t12w-30hz-thermal-reflex-sight"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "rsh-12-pistol-grip"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "ncstar-tactical-blue-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "olight-baldr-pro-tactical-flashlight-with-laser",
+        "olight-baldr-pro-tactical-flashlight-with-laser-tan",
+        "insight-wmx200-tactical-flashlight",
+        "kiba-arms-25mm-accessory-ring-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/RSh-12_12.7x55_revolver",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

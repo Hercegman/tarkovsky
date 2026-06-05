@@ -1,0 +1,73 @@
+{
+  "id": "iwi-uzi-9x19-submachine-gun",
+  "name": "IWI UZI 9x19 submachine gun",
+  "page": "IWI UZI 9x19 submachine gun",
+  "image": "/weapons/iwi-uzi-9x19-submachine-gun.webp",
+  "ergonomics": 77,
+  "recoilVertical": 39,
+  "recoilHorizontal": 184,
+  "moa": 4.4,
+  "weight": 3.753,
+  "fireRate": 600,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "uzi-9x19-20-round-magazine",
+        "uzi-9x19-25-round-magazine",
+        "uzi-9x19-32-round-magazine",
+        "uzi-9x19-40-round-magazine",
+        "uzi-9x19-50-round-magazine",
+        "uzi-pro-9x19-20-round-magazine",
+        "uzi-pro-9x19-25-round-magazine",
+        "uzi-pro-9x19-32-round-magazine",
+        "uzi-9x19-beta-c-mag-100-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "uzi-238mm-threaded-3-lug-barrel",
+        "uzi-9x19-259mm-barrel",
+        "uzi-9x19-409mm-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "uzi-type-3-buttstock",
+        "uzi-type-5-buttstock",
+        "uzi-type-6-buttstock",
+        "uzi-type-7-buttstock",
+        "uzi-stormwerkz-stock-adapter"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "uzi-stormwerkz-lower-handguard-rail",
+        "uzi-stormwerkz-scope-mount"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "uzi-polymer-handguard",
+        "uzi-k-grip-handguard",
+        "uzi-handguard-with-foregrip"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "uzi-pistol-grip-cover"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/IWI_UZI_9x19_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

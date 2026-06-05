@@ -1,0 +1,90 @@
+{
+  "id": "glock-17-9x19-pistol",
+  "name": "Glock 17 9x19 pistol",
+  "page": "Glock 17 9x19 pistol",
+  "image": "/weapons/glock-17-9x19-pistol.webp",
+  "ergonomics": 91,
+  "recoilVertical": 302,
+  "recoilHorizontal": 252,
+  "moa": 11.69,
+  "weight": 0.877,
+  "fireRate": 30,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "glock-9x19-lone-wolf-alphawolf-114mm-threaded-barrel",
+        "glock-9x19-double-diamond-114mm-threaded-barrel",
+        "glock-17-9x19-114mm-compensated-barrel",
+        "glock-17-9x19-114mm-barrel",
+        "glock-9x19-sai-threaded-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "glock-pachmayr-tactical-grip-glove"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "glock-17-mos-pistol-slide",
+        "glock-17-pistol-slide",
+        "glock-moto-cut-pistol-slide",
+        "glock-viper-cut-pistol-slide",
+        "glock-lone-wolf-alphawolf-pistol-slide",
+        "glock-lone-wolf-alphawolf-custom-pistol-slide",
+        "glock-polymer80-ps9-pistol-slide",
+        "glock-zev-tech-hex-gen3-rmr-pistol-slide",
+        "glock-zev-tech-hex-spartan-rmr-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "glock-9x19-big-stick-33-round-magazine",
+        "glock-9x19-17-round-magazine",
+        "glock-9x19-magpul-pmag-gl9-21-round-magazine",
+        "glock-9x19-sgm-tactical-50-round-drum-magazine",
+        "glock-9x19-big-stick-24-round-magazine-coyote",
+        "glock-9x19-big-stick-31-round-magazine-coyote",
+        "glock-9x19-19-round-magazine-coyote"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-9x19-fischer-development-fd917-sound-suppressor",
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "ncstar-tactical-blue-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "glock-aimtech-mount-base",
+        "um-tactical-um3-pistol-sight-mount"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "glock-aimtech-tiger-shark-sight-mount"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "glock-fab-defense-glr-17-stock"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Glock_17_9x19_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

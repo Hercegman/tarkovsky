@@ -1,0 +1,67 @@
+{
+  "id": "theakguy-ak-50-50-bmg-anti-materiel-rifle",
+  "name": "TheAKGuy AK-50 .50 BMG anti-materiel rifle",
+  "page": "TheAKGuy AK-50 .50 BMG anti-materiel rifle",
+  "image": "/weapons/theakguy-ak-50-50-bmg-anti-materiel-rifle.webp",
+  "ergonomics": 24,
+  "recoilVertical": 443,
+  "recoilHorizontal": 826,
+  "moa": 0.34,
+  "weight": 12.853,
+  "fireRate": 30,
+  "caliber": ".50 BMG",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "m82a1-50-bmg-10-round-magazine"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-74-bakelite-pistol-grip",
+        "ak-12-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-pufgun-sg-m2-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-us-palm-pistol-grip",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-zenit-rk-3-pistol-grip"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "ak-50-dust-cover"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "ak-50-50-bmg-24-inch-barrel"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/TheAKGuy_AK-50_.50_BMG_anti-materiel_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

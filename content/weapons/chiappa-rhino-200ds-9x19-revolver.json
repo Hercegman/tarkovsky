@@ -1,0 +1,40 @@
+{
+  "id": "chiappa-rhino-200ds-9x19-revolver",
+  "name": "Chiappa Rhino 200DS 9x19 revolver",
+  "page": "Chiappa Rhino 200DS 9x19 revolver",
+  "image": "/weapons/chiappa-rhino-200ds-9x19-revolver.webp",
+  "ergonomics": 97,
+  "recoilVertical": null,
+  "recoilHorizontal": null,
+  "moa": 9.63,
+  "weight": 0.713,
+  "fireRate": 30,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "chiappa-rhino-9x19-6-round-cylinder"
+      ]
+    },
+    {
+      "name": "Front sight",
+      "allowed": [
+        "chiappa-rhino-red-fiber-optic-front-sight",
+        "chiappa-rhino-front-sight"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "chiappa-rhino-plastic-pistol-grip",
+        "chiappa-rhino-wooden-pistol-grip"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chiappa_Rhino_200DS_9x19_revolver",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

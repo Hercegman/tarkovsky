@@ -1,0 +1,54 @@
+{
+  "id": "degtyarev-rpd-7-62x39-machine-gun",
+  "name": "Degtyarev RPD 7.62x39 machine gun",
+  "page": "Degtyarev RPD 7.62x39 machine gun",
+  "image": "/weapons/degtyarev-rpd-7-62x39-machine-gun.webp",
+  "ergonomics": 24,
+  "recoilVertical": 73,
+  "recoilHorizontal": 344,
+  "moa": 1.31,
+  "weight": 7.4,
+  "fireRate": 700,
+  "caliber": "7.62x39mm",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "rpd-7-62x39-520mm-barrel",
+        "rpd-7-62x39-sawed-off-350mm-barrel",
+        "rpd-7-62x39-ds-arms-370mm-barrel"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "rpd-wooden-handguard",
+        "rpd-ds-arms-railed-handguard"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "rpd-wooden-stock",
+        "rpd-ds-arms-buttstock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "rpd-7-62x39-buben-100-round-box"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "rpd-rear-sight"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Degtyarev_RPD_7.62x39_machine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

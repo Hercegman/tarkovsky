@@ -1,0 +1,60 @@
+{
+  "id": "beretta-m9a3-9x19-pistol",
+  "name": "Beretta M9A3 9x19 pistol",
+  "page": "Beretta M9A3 9x19 pistol",
+  "image": "/weapons/beretta-m9a3-9x19-pistol.webp",
+  "ergonomics": 70.5,
+  "recoilVertical": 392,
+  "recoilHorizontal": 272,
+  "moa": 9.97,
+  "weight": 0.818,
+  "fireRate": 30,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "m9a3-9x19-127mm-threaded-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "m9a3-polymer-side-grips"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "m9a3-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "m9a3-9x19-17-round-magazine",
+        "m9a3-9x19-cx4-30-round-magazine"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "ncstar-tactical-blue-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "um-tactical-um3-pistol-sight-mount",
+        "p226-bridge-sight-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Beretta_M9A3_9x19_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

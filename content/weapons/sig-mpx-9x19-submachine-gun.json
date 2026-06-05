@@ -1,0 +1,98 @@
+{
+  "id": "sig-mpx-9x19-submachine-gun",
+  "name": "SIG MPX 9x19 submachine gun",
+  "page": "SIG MPX 9x19 submachine gun",
+  "image": "/weapons/sig-mpx-9x19-submachine-gun.webp",
+  "ergonomics": 78.15,
+  "recoilVertical": 37,
+  "recoilHorizontal": 193,
+  "moa": 5,
+  "weight": 2.882,
+  "fireRate": 850,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-1-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
+        "ar-15-hera-arms-hg-15-pistol-grip",
+        "ar-15-hk-battle-grip-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+        "ar-15-hk-ergo-psg-1-style-pistol-grip",
+        "ar-15-hk-v2-pistol-grip",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-magpul-moe-pistol-grip-black",
+        "ar-15-magpul-moe-pistol-grip-fde",
+        "ar-15-naroh-arms-gral-s-pistol-grip",
+        "mcx-pistol-grip",
+        "ar-15-stark-ar-rifle-grip-black",
+        "ar-15-stark-ar-rifle-grip-fde",
+        "ar-15-tactical-dynamics-hexgrip-pistol-grip",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "mpx-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip",
+        "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan",
+        "ar-15-colt-a1-pistol-grip",
+        "ar-15-dlg-tactical-dlg-138-pistol-grip-black",
+        "ar-15-dlg-tactical-dlg-138-pistol-grip-fde",
+        "ar-15-tyrant-designs-mod-chevron-pistol-grip-black",
+        "ar-15-tyrant-designs-mod-chevron-pistol-grip-red",
+        "ar-15-tyrant-designs-mod-chevron-pistol-grip-yellow"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "mpx-gen1-9x19-upper-receiver"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "sig-sauer-folding-knuckle-stock-adapter",
+        "sig-sauer-collapsing-telescoping-stock",
+        "sig-sauer-telescoping-folding-stock",
+        "sig-sauer-thin-side-folding-stock",
+        "mpx-mcx-maxim-defense-cqb-stock",
+        "mpx-mcx-pmm-ulss-stock",
+        "sig-sauer-locking-stock-hinge-assembly",
+        "uzi-pro-a3-tactical-modular-folding-brace",
+        "sb-tactical-mpx-pistol-stabilizing-brace"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "mpx-9x19-f5-mfg-50-round-drum-magazine",
+        "mpx-9x19-20-round-magazine",
+        "mpx-9x19-30-round-magazine",
+        "mpx-9x19-tti-base-pad-11-41-round-magazine"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "mpx-geissele-sch-charging-handle",
+        "mpx-ambidextrous-charging-handle",
+        "mpx-single-latch-charging-handle",
+        "mpx-gen-2-ambidextrous-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/SIG_MPX_9x19_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

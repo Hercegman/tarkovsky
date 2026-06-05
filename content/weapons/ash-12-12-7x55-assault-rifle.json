@@ -1,0 +1,151 @@
+{
+  "id": "ash-12-12-7x55-assault-rifle",
+  "name": "ASh-12 12.7x55 assault rifle",
+  "page": "ASh-12 12.7x55 assault rifle",
+  "image": "/weapons/ash-12-12-7x55-assault-rifle.webp",
+  "ergonomics": 59,
+  "recoilVertical": 100,
+  "recoilHorizontal": 334,
+  "moa": 1.63,
+  "weight": 6.17,
+  "fireRate": 650,
+  "caliber": "12.7x55mm",
+  "slots": [
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "ash-12-12-7x55-muzzle-brake",
+        "ash-12-12-7x55-sound-suppressor"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "hk-mp7-flip-up-rear-sight",
+        "kac-folding-rear-sight",
+        "magpul-mbus-gen2-flip-up-rear-sight",
+        "magpul-mbus-gen2-flip-up-rear-sight-fde",
+        "mpx-flip-up-rear-sight"
+      ]
+    },
+    {
+      "name": "Front sight",
+      "allowed": [
+        "ash-12-folding-front-sight",
+        "hk-mp7-flip-up-front-sight",
+        "kac-folding-front-sight",
+        "magpul-mbus-gen2-flip-up-front-sight",
+        "magpul-mbus-gen2-flip-up-front-sight-fde",
+        "mpx-flip-up-front-sight"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ash-12-12-7x55-10-round-magazine",
+        "ash-12-12-7x55-20-round-magazine"
+      ]
+    },
+    {
+      "name": "Foregrip",
+      "allowed": [
+        "ash-12-vertical-foregrip",
+        "bcm-gunfighter-mod-3-vertical-foregrip",
+        "fortis-shift-tactical-foregrip",
+        "hera-arms-cqr-tactical-foregrip",
+        "kac-vertical-foregrip",
+        "magpul-afg-tactical-foregrip-black",
+        "magpul-afg-tactical-foregrip-fde",
+        "magpul-afg-tactical-foregrip-forest-green",
+        "magpul-afg-tactical-foregrip-olive-drab",
+        "magpul-rvg-foregrip-black",
+        "ash-12-polymer-handguard",
+        "rtm-pillau-tactical-foregrip",
+        "stark-se-5-express-forward-foregrip",
+        "strike-industries-cobra-tactical-foregrip",
+        "tangodown-stubby-bgv-mk46k-foregrip-black",
+        "tangodown-stubby-bgv-mk46k-foregrip-fde",
+        "tangodown-stubby-bgv-mk46k-foregrip-stealth-grey",
+        "viking-tactics-uvg-tactical-foregrip",
+        "zenit-rk-0-tactical-foregrip",
+        "zenit-rk-1-tactical-foregrip",
+        "zenit-rk-1-tactical-foregrip-on-b-25u-mount",
+        "zenit-rk-2-tactical-foregrip",
+        "zenit-rk-4-tactical-foregrip",
+        "zenit-rk-5-tactical-foregrip",
+        "zenit-rk-6-tactical-foregrip",
+        "tactical-dynamics-skeletonized-foregrip"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "burris-ar-p-e-p-r-30mm-ring-scope-mount",
+        "jp-enterprises-flat-top-30mm-ring-scope-mount",
+        "nightforce-magmount-30mm-ring-scope-mount",
+        "lobaev-arms-30mm-scope-mount",
+        "iea-mil-optics-kh-f-34mm-one-piece-magmount",
+        "nightforce-magmount-34mm-ring-scope-mount",
+        "nightforce-magmount-34mm-ring-scope-mount-with-ruggedized-accessory-platform",
+        "aimpoint-compm4-pro-lrp-mount",
+        "aimpoint-micro-standard-mount",
+        "armasight-vulcan-universal-base",
+        "belomo-pk-06-reflex-sight",
+        "burris-fastfire-weaver-base",
+        "axion-kobra-ekp-8-18-reflex-sight",
+        "kiba-arms-short-mount-sight-adapter",
+        "deltapoint-cross-slot-mount-base",
+        "elcan-specterdr-1x-4x-scope",
+        "elcan-specterdr-1x-4x-scope-fde",
+        "eotech-553-holographic-sight",
+        "eotech-exps3-0-holographic-sight-tan",
+        "eotech-hhs-1-hybrid-sight",
+        "eotech-hhs-1-hybrid-sight-tan",
+        "eotech-xps3-0-holographic-sight",
+        "eotech-xps3-2-holographic-sight",
+        "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
+        "trijicon-rmr-high-profile-mount",
+        "holosun-hs401g5-reflex-sight",
+        "kmz-1p69-weaver-mount",
+        "larue-lt101-qd-tactical-picatinny-riser-mount",
+        "leupold-mark-4-hamr-4x24-deltapoint-hybrid-assault-scope",
+        "trijicon-rmr-low-profile-mount",
+        "monstrum-tactical-compact-prism-scope-2x32",
+        "okp-7-reflex-sight",
+        "ash-12-rear-sight-carry-handle",
+        "sig-sauer-bravo4-4x30-scope",
+        "sig-sauer-romeo-sight-mount",
+        "trijicon-ta51-sight-mount",
+        "trijicon-srs-02-reflex-sight",
+        "unv-dloc-ird-sight-mount",
+        "valday-pk-120-1p87-reflex-sight",
+        "valday-ps-320-1-6x-scope",
+        "vomz-pilad-p1x42-weaver-reflex-sight",
+        "vortex-razor-amg-uh-1-holographic-sight",
+        "walther-mrs-reflex-sight"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "kiba-arms-25mm-accessory-ring-mount",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "zenit-klesch-2u-tactical-flashlight",
+        "l3harris-an-peq-15-tactical-device",
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "holosun-ls321-tactical-device",
+        "l3harris-la-5b-peq-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-xc1-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "zenit-perst-3-tactical-device"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/ASh-12_12.7x55_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

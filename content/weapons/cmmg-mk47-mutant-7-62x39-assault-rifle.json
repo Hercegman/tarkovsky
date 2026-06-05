@@ -1,0 +1,107 @@
+{
+  "id": "cmmg-mk47-mutant-7-62x39-assault-rifle",
+  "name": "CMMG Mk47 Mutant 7.62x39 assault rifle",
+  "page": "CMMG Mk47 Mutant 7.62x39 assault rifle",
+  "image": "/weapons/cmmg-mk47-mutant-7-62x39-assault-rifle.webp",
+  "ergonomics": 69,
+  "recoilVertical": 85,
+  "recoilHorizontal": 211,
+  "moa": 2.48,
+  "weight": 2.322,
+  "fireRate": 650,
+  "caliber": "7.62x39mm",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-1-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
+        "ar-15-hera-arms-hg-15-pistol-grip",
+        "ar-15-hk-battle-grip-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+        "ar-15-hk-ergo-psg-1-style-pistol-grip",
+        "ar-15-hk-v2-pistol-grip",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-magpul-moe-pistol-grip-black",
+        "ar-15-magpul-moe-pistol-grip-fde",
+        "ar-15-naroh-arms-gral-s-pistol-grip",
+        "mcx-pistol-grip",
+        "ar-15-stark-ar-rifle-grip-black",
+        "ar-15-stark-ar-rifle-grip-fde",
+        "ar-15-tactical-dynamics-hexgrip-pistol-grip",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip",
+        "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ak-7-62x39-ribbed-metal-10-round-magazine",
+        "ak-7-62x39-6l10-bakelite-30-round-magazine",
+        "ak-103-7-62x39-30-round-magazine",
+        "ak-7-62x39-30-round-magazine-issued-55-or-later",
+        "ak-7-62x39-aluminium-10-round-magazine",
+        "akms-7-62x39-aluminium-30-round-magazine",
+        "ak-7-62x39-molot-arms-6p2-sb-11-40-round-magazine",
+        "ak-7-62x39-6p2-bakelite-40-round-magazine",
+        "ak-7-62x39-magpul-pmag-30-gen-m3-30-round-magazine",
+        "ak-7-62x39-magpul-pmag-30-gen-m3-30-round-magazine-banana",
+        "ak-7-62x39-molot-arms-75-round-drum-magazine",
+        "ak-7-62x39-promag-ak-a-16-73-round-drum-magazine",
+        "ak-7-62x39-us-palm-ak30-30-round-magazine-black",
+        "ak-7-62x39-us-palm-ak30-30-round-magazine-fde",
+        "ak-7-62x39-fab-defense-ultimag-30r-30-round-magazine",
+        "ak-7-62x39-magpul-pmag-20-gen-m3-20-round-magazine"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "mk47-resolute-7-62x39-upper-receiver"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ar-15-cmmg-buffer-tube",
+        "ar-15-colt-a2-buffer-tube",
+        "ar-15-adar-2-15-buffer-tube",
+        "ar-15-colt-carbine-buffer-tube",
+        "ar-15-doublestar-ace-socom-gen-4-stock",
+        "ar-15-ergo-f93-pro-stock",
+        "ar-15-magpul-ubr-gen2-stock-black",
+        "ar-15-magpul-ubr-gen2-stock-fde",
+        "ar-15-soyuz-tm-buffer-tube",
+        "ar-15-strike-industries-advanced-receiver-extension",
+        "ar-15-strike-industries-advanced-receiver-extension-anodized-red",
+        "ar-15-troy-m7a1-pdw-stock-black",
+        "ar-15-troy-m7a1-pdw-stock-fde",
+        "ar-15-strike-industries-viper-pdw-stock",
+        "ar-15-rtm-atp-buffer-tube",
+        "ar-15-doublestar-ace-arfx-skeleton-stock"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "mk47-ambidextrous-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/CMMG_Mk47_Mutant_7.62x39_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

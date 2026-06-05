@@ -1,0 +1,44 @@
+{
+  "id": "mps-auto-assault-12-gen-1-12ga-automatic-shotgun",
+  "name": "MPS Auto Assault-12 Gen 1 12ga automatic shotgun",
+  "page": "MPS Auto Assault-12 Gen 1 12ga automatic shotgun",
+  "image": "/weapons/mps-auto-assault-12-gen-1-12ga-automatic-shotgun.webp",
+  "ergonomics": 42,
+  "recoilVertical": 172,
+  "recoilHorizontal": 230,
+  "moa": 22.35,
+  "weight": 5.09,
+  "fireRate": 330,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Stock",
+      "allowed": [
+        "aa-12-stock-assembly",
+        "aa-12-stock-assembly-fde",
+        "aa-12-stock-assembly-terragroup"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "aa-12-12ga-8-round-magazine",
+        "aa-12-12ga-20-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "aa-12-12ga-330mm-barrel",
+        "aa-12-12ga-457mm-barrel",
+        "aa-12-12ga-342mm-threaded-barrel",
+        "aa-12-12ga-417mm-threaded-barrel"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/MPS_Auto_Assault-12_Gen_1_12ga_automatic_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

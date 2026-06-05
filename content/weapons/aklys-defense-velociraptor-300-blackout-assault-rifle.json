@@ -1,0 +1,150 @@
+{
+  "id": "aklys-defense-velociraptor-300-blackout-assault-rifle",
+  "name": "Aklys Defense Velociraptor .300 Blackout assault rifle",
+  "page": "Aklys Defense Velociraptor .300 Blackout assault rifle",
+  "image": "/weapons/aklys-defense-velociraptor-300-blackout-assault-rifle.webp",
+  "ergonomics": 67.5,
+  "recoilVertical": 76,
+  "recoilHorizontal": 205,
+  "moa": 2.23,
+  "weight": 3.505,
+  "fireRate": 600,
+  "caliber": ".300 Blackout",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "akm-ak-74-hera-arms-cqr47-pistol-grip-buttstock",
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-12-pistol-grip",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "pp-19-01-vityaz-pistol-grip",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "ak-74-dust-cover",
+        "ak-74m-dust-cover",
+        "akm-dust-cover",
+        "molot-arms-akm-type-dust-cover",
+        "rd-704-dust-cover"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ak-74-polymer-stock",
+        "ak-74-polymer-stock-plum",
+        "ak-74-wooden-stock",
+        "akm-ak-74-caa-akts-buffer-tube",
+        "akm-ak-74-fab-defense-uas-stock",
+        "akm-ak-74-hexagon-kocherga-stock-anodized-red",
+        "akm-wooden-stock",
+        "akm-ak-74-magpul-zhukov-s-stock",
+        "vpo-136-vepr-km-wooden-stock",
+        "vpo-209-wooden-stock",
+        "akm-ak-74-promag-archangel-opfor-aa47-buttstock",
+        "akm-ak-74-rd-ak-to-m4-buffer-tube-adapter",
+        "akm-ak-74-me4-buffer-tube-adapter",
+        "akm-ak-74-zenit-pt-lock",
+        "ak-samson-rear-trunnion-folding-stock-adapter"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "slr-106-ak-5-56x45-circle-10-30-round-magazine",
+        "ak-101-5-56x45-6l29-30-round-magazine",
+        "ak-5-56x45-molot-arms-45-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "aimpoint-micro-standard-mount",
+        "aimpoint-micro-h-2-standard-mount",
+        "aimpoint-compm4-pro-lrp-mount",
+        "aimpoint-compm4-pro-qrp2-mount",
+        "b-t-qd-nar-mount-for-aimpoint-acro",
+        "burris-fastfire-weaver-base",
+        "deltapoint-cross-slot-mount-base",
+        "recknagel-era-tac-sunshade-mount-for-aimpoint-t-1-sights",
+        "sig-sauer-romeo-sight-mount",
+        "trijicon-rmr-high-profile-mount",
+        "trijicon-rmr-low-profile-mount",
+        "belomo-pk-06-reflex-sight",
+        "eotech-exps3-0-holographic-sight-tan",
+        "elcan-specter-hco-holographic-sight",
+        "eotech-xps3-0-holographic-sight",
+        "eotech-xps3-2-holographic-sight",
+        "leapers-utg-reflex-sight",
+        "holosun-hs401g5-reflex-sight",
+        "sig-sauer-romeo7-1x30-reflex-sight-prototype",
+        "trijicon-srs-02-reflex-sight",
+        "vomz-pilad-p1x42-weaver-reflex-sight",
+        "walther-mrs-reflex-sight"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "velociraptor-polymer-handguard"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Aklys_Defense_Velociraptor_.300_Blackout_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

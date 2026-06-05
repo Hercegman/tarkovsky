@@ -1,0 +1,108 @@
+{
+  "id": "kalashnikov-ak-308-7-62x51-assault-rifle",
+  "name": "Kalashnikov AK-308 7.62x51 assault rifle",
+  "page": "Kalashnikov AK-308 7.62x51 assault rifle",
+  "image": "/weapons/kalashnikov-ak-308-7-62x51-assault-rifle.webp",
+  "ergonomics": 60.4,
+  "recoilVertical": 103,
+  "recoilHorizontal": 221,
+  "moa": 1.79,
+  "weight": 3.889,
+  "fireRate": 700,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Gas block",
+      "allowed": [
+        "ak-12-gas-tube"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "ak-308-7-62x51-flash-hider"
+      ]
+    },
+    {
+      "name": "Launcher",
+      "allowed": [
+        "gp-25-kostyor-40mm-underbarrel-grenade-launcher"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-12-pistol-grip",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "pp-19-01-vityaz-pistol-grip",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip-fde"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "ak-308-railed-dust-cover"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "ak-308-handguard"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ak-74m-polymer-stock",
+        "ak-74m-caa-akts-ak74-buffer-tube",
+        "rpk-16-buffer-tube",
+        "ak-100-series-metal-skeletonized-stock",
+        "ak-12-buffer-tube",
+        "ak-ak-evo-stock",
+        "ak-jmac-customs-rsa-5-5-stock-adapter",
+        "ak-74m-ak-100-zenit-pt-lock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ak-308-7-62x51-20-round-magazine",
+        "saiga-308-ak-308-7-62x51-promag-24-round-magazine"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AK-308_7.62x51_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

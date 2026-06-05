@@ -1,0 +1,73 @@
+{
+  "id": "mps-auto-assault-12-gen-2-12ga-automatic-shotgun",
+  "name": "MPS Auto Assault-12 Gen 2 12ga automatic shotgun",
+  "page": "MPS Auto Assault-12 Gen 2 12ga automatic shotgun",
+  "image": "/weapons/mps-auto-assault-12-gen-2-12ga-automatic-shotgun.webp",
+  "ergonomics": 45,
+  "recoilVertical": 168,
+  "recoilHorizontal": 225,
+  "moa": 22,
+  "weight": 5.16,
+  "fireRate": 330,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Stock",
+      "allowed": [
+        "aa-12-stock-assembly",
+        "aa-12-stock-assembly-fde",
+        "aa-12-stock-assembly-terragroup"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "aa-12-12ga-8-round-magazine",
+        "aa-12-12ga-20-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "aa-12-12ga-330mm-barrel",
+        "aa-12-12ga-457mm-barrel",
+        "aa-12-12ga-342mm-threaded-barrel",
+        "aa-12-12ga-417mm-threaded-barrel"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "belomo-pk-06-reflex-sight",
+        "aimpoint-micro-standard-mount",
+        "aimpoint-micro-h-2-standard-mount",
+        "aimpoint-compm4-pro-lrp-mount",
+        "aimpoint-compm4-pro-qrp2-mount",
+        "b-t-qd-nar-mount-for-aimpoint-acro",
+        "burris-fastfire-weaver-base",
+        "deltapoint-cross-slot-mount-base",
+        "sig-sauer-romeo-sight-mount",
+        "trijicon-rmr-high-profile-mount",
+        "trijicon-rmr-low-profile-mount",
+        "eotech-exps3-0-holographic-sight-tan",
+        "eotech-xps3-0-holographic-sight",
+        "eotech-xps3-2-holographic-sight",
+        "holosun-hs401g5-reflex-sight",
+        "leapers-utg-reflex-sight",
+        "sig-sauer-romeo8t-reflex-sight",
+        "trijicon-srs-02-reflex-sight",
+        "valday-pk-120-1p87-reflex-sight",
+        "valday-krechet-reflex-sight",
+        "vomz-pilad-p1x42-weaver-reflex-sight",
+        "vortex-razor-amg-uh-1-holographic-sight",
+        "walther-mrs-reflex-sight",
+        "wilcox-boss-xe-reflex-sight"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/MPS_Auto_Assault-12_Gen_2_12ga_automatic_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "toz-106-20ga-bolt-action-shotgun",
+  "name": "TOZ-106 20ga bolt-action shotgun",
+  "page": "TOZ-106 20ga bolt-action shotgun",
+  "image": "/weapons/toz-106-20ga-bolt-action-shotgun.webp",
+  "ergonomics": 73,
+  "recoilVertical": 504,
+  "recoilHorizontal": 445,
+  "moa": 24.06,
+  "weight": 2.715,
+  "fireRate": 30,
+  "caliber": "20/70",
+  "slots": [
+    {
+      "name": "Stock",
+      "allowed": [
+        "toz-106-custom-cut-mosin-stock",
+        "mts-20-01-stock",
+        "toz-106-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "toz-106-20ga-mts-20-01-sb-3-2-shot-magazine",
+        "toz-106-20ga-mts-20-01-sb-3-4-shot-magazine",
+        "toz-106-20ga-mts-20-01-sb-3-5-shot-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "toz-106-dovetail-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/TOZ-106_20ga_bolt-action_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

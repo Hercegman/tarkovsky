@@ -1,0 +1,33 @@
+{
+  "id": "mp-18-7-62x54r-single-shot-rifle",
+  "name": "MP-18 7.62x54R single-shot rifle",
+  "page": "MP-18 7.62x54R single-shot rifle",
+  "image": "/weapons/mp-18-7-62x54r-single-shot-rifle.webp",
+  "ergonomics": 25,
+  "recoilVertical": 186,
+  "recoilHorizontal": 474,
+  "moa": 3.09,
+  "weight": 2.852,
+  "fireRate": 10,
+  "caliber": "7.62x54mmR",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mp-18-7-62x54r-600mm-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "mp-18-polymer-stock",
+        "mp-18-wooden-stock"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/MP-18_7.62x54R_single-shot_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

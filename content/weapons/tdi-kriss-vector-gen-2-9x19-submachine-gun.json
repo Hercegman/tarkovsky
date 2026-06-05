@@ -1,0 +1,130 @@
+{
+  "id": "tdi-kriss-vector-gen-2-9x19-submachine-gun",
+  "name": "TDI KRISS Vector Gen.2 9x19 submachine gun",
+  "page": "TDI KRISS Vector Gen.2 9x19 submachine gun",
+  "image": "/weapons/tdi-kriss-vector-gen-2-9x19-submachine-gun.webp",
+  "ergonomics": 75,
+  "recoilVertical": 37,
+  "recoilHorizontal": 243,
+  "moa": 6.53,
+  "weight": 2.576,
+  "fireRate": 950,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "glock-9x19-big-stick-33-round-magazine",
+        "glock-9x19-17-round-magazine",
+        "glock-9x19-magpul-pmag-gl9-21-round-magazine",
+        "glock-9x19-sgm-tactical-50-round-drum-magazine",
+        "glock-9x19-big-stick-24-round-magazine-coyote",
+        "glock-9x19-big-stick-31-round-magazine-coyote",
+        "glock-9x19-19-round-magazine-coyote"
+      ]
+    },
+    {
+      "name": "Front sight",
+      "allowed": [
+        "hk-mp7-flip-up-front-sight",
+        "kac-folding-micro-front-sight",
+        "kac-folding-front-sight",
+        "kriss-defiance-low-profile-flip-up-front-sight",
+        "magpul-mbus-gen2-flip-up-front-sight",
+        "magpul-mbus-gen2-flip-up-front-sight-fde",
+        "mpx-flip-up-front-sight"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "hk-mp7-flip-up-rear-sight",
+        "kac-folding-micro-rear-sight",
+        "kac-folding-rear-sight",
+        "kriss-defiance-low-profile-flip-up-rear-sight",
+        "magpul-mbus-gen2-flip-up-rear-sight",
+        "magpul-mbus-gen2-flip-up-rear-sight-fde",
+        "mpx-flip-up-rear-sight"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "elcan-specterdr-1x-4x-scope",
+        "elcan-specterdr-1x-4x-scope-fde",
+        "leupold-mark-4-hamr-4x24-deltapoint-hybrid-assault-scope",
+        "monstrum-tactical-compact-prism-scope-2x32",
+        "sig-sauer-bravo4-4x30-scope",
+        "valday-ps-320-1-6x-scope",
+        "axion-kobra-ekp-8-18-reflex-sight",
+        "okp-7-reflex-sight",
+        "eotech-553-holographic-sight",
+        "eotech-exps3-0-holographic-sight-tan",
+        "eotech-hhs-1-hybrid-sight",
+        "eotech-hhs-1-hybrid-sight-tan",
+        "eotech-xps3-0-holographic-sight",
+        "eotech-xps3-2-holographic-sight",
+        "holosun-hs401g5-reflex-sight",
+        "sig-sauer-romeo8t-reflex-sight",
+        "trijicon-srs-02-reflex-sight",
+        "valday-pk-120-1p87-reflex-sight",
+        "valday-krechet-reflex-sight",
+        "vomz-pilad-p1x42-weaver-reflex-sight",
+        "vortex-razor-amg-uh-1-holographic-sight",
+        "walther-mrs-reflex-sight",
+        "belomo-pk-06-reflex-sight",
+        "ncstar-ado-p4-sniper-3-9x42-riflescope",
+        "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
+        "torrey-pines-logic-t12w-30hz-thermal-reflex-sight",
+        "aimpoint-micro-standard-mount",
+        "aimpoint-compm4-pro-lrp-mount",
+        "armasight-vulcan-universal-base",
+        "burris-fastfire-weaver-base",
+        "deltapoint-cross-slot-mount-base",
+        "kiba-arms-short-mount-sight-adapter",
+        "sig-sauer-romeo-sight-mount",
+        "trijicon-rmr-high-profile-mount",
+        "trijicon-rmr-low-profile-mount",
+        "trijicon-ta51-sight-mount",
+        "unv-dloc-ird-sight-mount"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "holosun-ls321-tactical-device",
+        "l3harris-an-peq-15-tactical-device",
+        "l3harris-la-5b-peq-tactical-device",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-perst-3-tactical-device"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "kriss-vector-gen-2-folding-stock",
+        "kriss-vector-non-folding-stock-adapter"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "kriss-vector-9x19-5-inch-barrel",
+        "kriss-vector-9x19-6-inch-barrel"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "kriss-vector-bottom-rail",
+        "kriss-vector-mk-5-modular-rail",
+        "kriss-vector-side-rail"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/TDI_KRISS_Vector_Gen.2_9x19_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "tokarev-svt-40-7-62x54r-rifle",
+  "name": "Tokarev SVT-40 7.62x54R rifle",
+  "page": "Tokarev SVT-40 7.62x54R rifle",
+  "image": "/weapons/tokarev-svt-40-7-62x54r-rifle.webp",
+  "ergonomics": 26,
+  "recoilVertical": 104,
+  "recoilHorizontal": 401,
+  "moa": 1.37,
+  "weight": 4.155,
+  "fireRate": 50,
+  "caliber": "7.62x54mmR",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "svt-40-7-62x54r-625mm-barrel"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "svt-dust-cover"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "svt-40-tokarev-pu-mount"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "avt-40-wooden-stock",
+        "svt-40-svd-style-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "avt-40-7-62x54r-15-round-magazine",
+        "svt-40-7-62x54r-10-round-magazine"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Tokarev_SVT-40_7.62x54R_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

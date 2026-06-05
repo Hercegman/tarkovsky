@@ -1,0 +1,55 @@
+{
+  "id": "fn-p90-5-7x28-submachine-gun",
+  "name": "FN P90 5.7x28 submachine gun",
+  "page": "FN P90 5.7x28 submachine gun",
+  "image": "/weapons/fn-p90-5-7x28-submachine-gun.webp",
+  "ergonomics": 77.8,
+  "recoilVertical": 45,
+  "recoilHorizontal": 201,
+  "moa": 3.75,
+  "weight": 2.974,
+  "fireRate": 900,
+  "caliber": "5.7x28mm FN",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "fn-p90-5-7x28-50-round-magazine"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "fn-p90-stock",
+        "fn-ps90-stock"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "fn-p90-effen-90-5-7x28-upper-receiver",
+        "fn-p90-5-7x28-upper-receiver",
+        "fn-ps90-5-7x28-upper-receiver"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "fn-p90-5-7x28-10-5-inch-barrel",
+        "fn-p90-5-7x28-16-inch-barrel"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "fn-p90-charging-handle",
+        "fn-p90-k-m-the-handler-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/FN_P90_5.7x28_submachine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

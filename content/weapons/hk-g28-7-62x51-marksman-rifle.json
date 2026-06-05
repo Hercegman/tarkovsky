@@ -1,0 +1,78 @@
+{
+  "id": "hk-g28-7-62x51-marksman-rifle",
+  "name": "HK G28 7.62x51 marksman rifle",
+  "page": "HK G28 7.62x51 marksman rifle",
+  "image": "/weapons/hk-g28-7-62x51-marksman-rifle.webp",
+  "ergonomics": 37.5,
+  "recoilVertical": 75,
+  "recoilHorizontal": 206,
+  "moa": 1.1,
+  "weight": 5.468,
+  "fireRate": 700,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Receiver",
+      "allowed": [
+        "hk-g28-7-62x51-upper-receiver"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-1-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
+        "ar-15-hera-arms-hg-15-pistol-grip",
+        "ar-15-hk-battle-grip-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+        "ar-15-hk-ergo-psg-1-style-pistol-grip",
+        "ar-15-hk-v2-pistol-grip",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-magpul-moe-pistol-grip-black",
+        "ar-15-magpul-moe-pistol-grip-fde",
+        "ar-15-naroh-arms-gral-s-pistol-grip",
+        "mcx-pistol-grip",
+        "ar-15-stark-ar-rifle-grip-black",
+        "ar-15-stark-ar-rifle-grip-fde",
+        "ar-15-tactical-dynamics-hexgrip-pistol-grip",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip",
+        "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "hk417-g28-7-62x51-10-round-magazine",
+        "hk417-g28-7-62x51-20-round-magazine"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "hk-g28-buffer-tube"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "hk417-e1-extended-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/HK_G28_7.62x51_marksman_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

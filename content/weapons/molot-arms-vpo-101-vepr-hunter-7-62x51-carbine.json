@@ -1,0 +1,84 @@
+{
+  "id": "molot-arms-vpo-101-vepr-hunter-7-62x51-carbine",
+  "name": "Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine",
+  "page": "Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine",
+  "image": "/weapons/molot-arms-vpo-101-vepr-hunter-7-62x51-carbine.webp",
+  "ergonomics": 50,
+  "recoilVertical": 117,
+  "recoilHorizontal": 456,
+  "moa": 2.23,
+  "weight": 3.807,
+  "fireRate": 600,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Gas block",
+      "allowed": [
+        "vpo-101-gas-tube"
+      ]
+    },
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "vpo-101-rotor-43-7-62x51-sound-suppressor"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "vpo-101-dust-cover"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "ak-taktika-tula-tt01-rear-sight-rail",
+        "vpo-101-rear-sight"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "vpo-101-wooden-stock",
+        "vpo-101-svd-style-walnut-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "vpo-101-7-62x51-5-round-magazine",
+        "vpo-101-7-62x51-10-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "vpo-102-arbalet-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "svd-sag-low-profile-sidemount",
+        "zenit-b-13-klassika-dovetail-rail-platform",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "sag-ak-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Molot_Arms_VPO-101_Vepr-Hunter_7.62x51_carbine",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

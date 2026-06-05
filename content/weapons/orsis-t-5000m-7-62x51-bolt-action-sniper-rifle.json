@@ -1,0 +1,44 @@
+{
+  "id": "orsis-t-5000m-7-62x51-bolt-action-sniper-rifle",
+  "name": "ORSIS T-5000M 7.62x51 bolt-action sniper rifle",
+  "page": "ORSIS T-5000M 7.62x51 bolt-action sniper rifle",
+  "image": "/weapons/orsis-t-5000m-7-62x51-bolt-action-sniper-rifle.webp",
+  "ergonomics": 49.5,
+  "recoilVertical": 76,
+  "recoilHorizontal": 306,
+  "moa": 0.66,
+  "weight": 5.9,
+  "fireRate": 30,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "orsis-t-5000m-7-62x51-660mm-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "orsis-t-5000m-aluminium-body"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "orsis-t-5000m-7-62x51-5-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "orsis-t-5000m-scope-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/ORSIS_T-5000M_7.62x51_bolt-action_sniper_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

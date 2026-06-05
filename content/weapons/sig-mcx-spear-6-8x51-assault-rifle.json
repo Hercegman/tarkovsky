@@ -1,0 +1,94 @@
+{
+  "id": "sig-mcx-spear-6-8x51-assault-rifle",
+  "name": "SIG MCX-SPEAR 6.8x51 assault rifle",
+  "page": "SIG MCX-SPEAR 6.8x51 assault rifle",
+  "image": "/weapons/sig-mcx-spear-6-8x51-assault-rifle.webp",
+  "ergonomics": 46.5,
+  "recoilVertical": 77,
+  "recoilHorizontal": 230,
+  "moa": 1.43,
+  "weight": 4.209,
+  "fireRate": 800,
+  "caliber": "6.8x51mm",
+  "slots": [
+    {
+      "name": "Receiver",
+      "allowed": [
+        "mcx-spear-6-8x51-upper-receiver"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-1-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
+        "ar-15-hera-arms-hg-15-pistol-grip",
+        "ar-15-hk-battle-grip-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+        "ar-15-hk-ergo-psg-1-style-pistol-grip",
+        "ar-15-hk-v2-pistol-grip",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-magpul-moe-pistol-grip-black",
+        "ar-15-magpul-moe-pistol-grip-fde",
+        "ar-15-naroh-arms-gral-s-pistol-grip",
+        "mcx-pistol-grip",
+        "ar-15-stark-ar-rifle-grip-black",
+        "ar-15-stark-ar-rifle-grip-fde",
+        "ar-15-tactical-dynamics-hexgrip-pistol-grip",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip",
+        "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan",
+        "ar-15-dlg-tactical-dlg-138-pistol-grip-black",
+        "ar-15-dlg-tactical-dlg-138-pistol-grip-fde",
+        "ar-15-colt-a1-pistol-grip"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ar-10-7-62x51-lancer-l7awm-20-round-magazine",
+        "ar-10-7-62x51-lancer-l7awm-25-round-magazine",
+        "ar-10-7-62x51-magpul-pmag-20-sr-lr-gen-m3-20-round-magazine",
+        "ar-10-7-62x51-kac-20-round-steel-magazine",
+        "ar-10-7-62x51-kac-10-round-steel-magazine",
+        "ar-10-7-62x51-x-products-x-25-50-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "sig-sauer-folding-knuckle-stock-adapter",
+        "sig-sauer-collapsing-telescoping-stock",
+        "sig-sauer-telescoping-folding-stock",
+        "sig-sauer-thin-side-folding-stock",
+        "mpx-mcx-maxim-defense-cqb-stock",
+        "mpx-mcx-pmm-ulss-stock",
+        "sig-sauer-locking-stock-hinge-assembly",
+        "sb-tactical-mpx-pistol-stabilizing-brace",
+        "magpul-ucs-buttstock-black",
+        "magpul-ucs-buttstock-fde"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "mcx-spear-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/SIG_MCX-SPEAR_6.8x51_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

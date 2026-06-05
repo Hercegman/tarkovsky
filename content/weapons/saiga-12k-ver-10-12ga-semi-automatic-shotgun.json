@@ -1,0 +1,141 @@
+{
+  "id": "saiga-12k-ver-10-12ga-semi-automatic-shotgun",
+  "name": "Saiga-12K ver.10 12ga semi-automatic shotgun",
+  "page": "Saiga-12K ver.10 12ga semi-automatic shotgun",
+  "image": "/weapons/saiga-12k-ver-10-12ga-semi-automatic-shotgun.webp",
+  "ergonomics": 61,
+  "recoilVertical": 226,
+  "recoilHorizontal": 400,
+  "moa": 20.63,
+  "weight": 3.6,
+  "fireRate": 40,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "gk-02-12ga-muzzle-brake",
+        "tromix-monster-claw-12ga-muzzle-brake",
+        "sok-12-thread-protector",
+        "silencerco-salvo-12-thread-adapter",
+        "hexagon-12k-12ga-sound-suppressor"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-12-pistol-grip",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "pp-19-01-vityaz-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip-redline",
+        "ak-gladman-skeleton-pistol-grip"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "sok-12-dust-cover",
+        "sok-12-kiba-arms-zombie-custom-dust-cover",
+        "sok-12-dust-cover-redline"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "sok-12-css-rear-sight-rail-mount",
+        "sok-12-rear-sight"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "sok-12-bravo-18-aluminium-handguard",
+        "sok-12-custom-guns-type-340-handguard",
+        "sok-12-polymer-handguard",
+        "sok-12-leapers-utg-pro-mtu002-long-top-aluminum-handguard",
+        "sok-12-leapers-utg-pro-mtu002-short-top-aluminum-handguard",
+        "sok-12-chaos-titan-quad-rail-handguard",
+        "saiga-12-custom-guns-hedon-s-handguard-redline"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ak-74m-caa-akts-ak74-buffer-tube",
+        "ak-74m-ak-100-zenit-pt-lock",
+        "rpk-16-buffer-tube",
+        "sok-12-ak-style-stock",
+        "ak-jmac-customs-rsa-5-5-stock-adapter",
+        "ak-74m-armacon-monolit-3-gen-2-buffer-tube-adapter-redline"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "sok-12-12ga-sb-5-5-round-magazine",
+        "sok-12-12ga-maxrounds-powermag-20-round-drum-magazine",
+        "sok-12-12ga-sai-02-10-round-magazine",
+        "sok-12-12ga-md-arms-20-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "zenit-b-13-klassika-dovetail-rail-platform",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "sag-ak-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail",
+        "rs-regulate-ak-303m-full-length-lower-dovetail-mount",
+        "leapers-utg-universal-shotgun-barrel-mount"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ak-css-knurled-charging-handle",
+        "ak-zenit-rp-1-charging-handle"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Saiga-12K_ver.10_12ga_semi-automatic_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

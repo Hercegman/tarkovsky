@@ -1,0 +1,45 @@
+{
+  "id": "magnum-research-desert-eagle-l5-50-ae-pistol",
+  "name": "Magnum Research Desert Eagle L5 .50 AE pistol",
+  "page": "Magnum Research Desert Eagle L5 .50 AE pistol",
+  "image": "/weapons/magnum-research-desert-eagle-l5-50-ae-pistol.webp",
+  "ergonomics": 73,
+  "recoilVertical": 460,
+  "recoilHorizontal": 327,
+  "moa": 8.25,
+  "weight": 1.507,
+  "fireRate": 30,
+  "caliber": ".50 Action Express",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "desert-eagle-l5-50-ae-127mm-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "desert-eagle-hogue-rubber-grip",
+        "desert-eagle-hogue-rubber-grip-with-finger-grooves"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "desert-eagle-l5-50-ae-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "desert-eagle-50-ae-7-round-magazine"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Magnum_Research_Desert_Eagle_L5_.50_AE_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "kalashnikov-pkm-7-62x54r-machine-gun",
+  "name": "Kalashnikov PKM 7.62x54R machine gun",
+  "page": "Kalashnikov PKM 7.62x54R machine gun",
+  "image": "/weapons/kalashnikov-pkm-7-62x54r-machine-gun.webp",
+  "ergonomics": 13,
+  "recoilVertical": 81,
+  "recoilHorizontal": 301,
+  "moa": 1.08,
+  "weight": 8.994,
+  "fireRate": 650,
+  "caliber": "7.62x54mmR",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "pkp-7-62x54r-658mm-barrel",
+        "pkm-7-62x54r-658mm-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "pk-pistol-grip",
+        "pk-pistol-grip-black",
+        "ak-aeroknox-scorpius-pistol-grip",
+        "ak-custom-arms-ags-74-pro-sniper-kit-pistol-grip",
+        "ak-fab-defense-agr-47-pistol-grip-fde",
+        "ak-74-bakelite-pistol-grip",
+        "ak-74-polymer-pistol-grip",
+        "akm-bakelite-pistol-grip",
+        "akm-wooden-pistol-grip",
+        "aks-74u-bakelite-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip",
+        "ak-kgb-mg-47-pistol-grip-anodized-red",
+        "ak-magpul-moe-pistol-grip-black",
+        "ak-mission-first-tactical-engage-ak47-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-black",
+        "ak-molot-bakelite-pistol-grip",
+        "ak-strike-industries-enhanced-pistol-grip-fde",
+        "ak-tangodown-battle-grip-pistol-grip",
+        "ak-tangodown-battle-grip-pistol-grip-fde",
+        "ak-tapco-saw-style-pistol-grip-black",
+        "ak-tapco-saw-style-pistol-grip-fde",
+        "ak-us-palm-pistol-grip",
+        "ak-zenit-rk-3-pistol-grip",
+        "ak-custom-guns-cg101-ar-type-pistol-grip-adapter",
+        "ak-pufgun-sg-m2-pistol-grip"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "pk-rear-sight"
+      ]
+    },
+    {
+      "name": "Bipod",
+      "allowed": [
+        "pk-bipod"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "pkm-wooden-stock",
+        "pk-zenit-pt-2-klassika-stock",
+        "pkp-polymer-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "pk-7-62x54r-100-round-box"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "pk-zenit-b-50-handguard"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_PKM_7.62x54R_machine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

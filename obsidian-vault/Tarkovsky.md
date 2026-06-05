@@ -25,6 +25,7 @@ All game data comes **only** from the Escape from Tarkov Wiki (Fandom) — see
 - [[Data Ingest]] — the scripts that pull data from the wiki
 - [[Quests]] — quest data, in-game ordering, parts, item checklist
 - [[Maps]] — interactive Leaflet maps, markers, per-quest locations
+- [[Gun Builder]] — approximate wiki-only weapon builder
 - [[Auth and Profiles]] — accounts, login, profile page
 - [[Progress Tracking]] — completed quests + item checklists
 - [[Sounds]] — synthesized UI sounds and the toggle

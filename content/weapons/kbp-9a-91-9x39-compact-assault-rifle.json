@@ -1,0 +1,67 @@
+{
+  "id": "kbp-9a-91-9x39-compact-assault-rifle",
+  "name": "KBP 9A-91 9x39 compact assault rifle",
+  "page": "KBP 9A-91 9x39 compact assault rifle",
+  "image": "/weapons/kbp-9a-91-9x39-compact-assault-rifle.webp",
+  "ergonomics": 75.5,
+  "recoilVertical": 85,
+  "recoilHorizontal": 216,
+  "moa": 4.37,
+  "weight": 2.452,
+  "fireRate": 700,
+  "caliber": "9x39mm",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "9a-91-pistol-grip"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "9a-91-9x39-barrel",
+        "vsk-94-9x39-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "9a-91-top-folding-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "9a-91-9x39-20-round-magazine"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "zenit-b-13-klassika-dovetail-rail-platform",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/KBP_9A-91_9x39_compact_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

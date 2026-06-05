@@ -1,0 +1,19 @@
+{
+  "id": "nsv-utyos-12-7x108-heavy-machine-gun",
+  "name": "NSV Utyos 12.7x108 heavy machine gun",
+  "page": "NSV Utyos 12.7x108 heavy machine gun",
+  "image": "/weapons/nsv-utyos-12-7x108-heavy-machine-gun.webp",
+  "ergonomics": null,
+  "recoilVertical": null,
+  "recoilHorizontal": null,
+  "moa": null,
+  "weight": null,
+  "fireRate": 650,
+  "caliber": "12.7x108mm",
+  "slots": [],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/NSV_Utyos_12.7x108_heavy_machine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

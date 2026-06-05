@@ -1,0 +1,73 @@
+{
+  "id": "hk-usp-45-acp-pistol",
+  "name": "HK USP .45 ACP pistol",
+  "page": "HK USP .45 ACP pistol",
+  "image": "/weapons/hk-usp-45-acp-pistol.webp",
+  "ergonomics": 90.5,
+  "recoilVertical": 405,
+  "recoilHorizontal": 291,
+  "moa": 9.63,
+  "weight": 0.888,
+  "fireRate": 30,
+  "caliber": ".45 ACP",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "hk-usp-45-acp-112mm-barrel",
+        "hk-usp-tactical-45-acp-129mm-threaded-barrel",
+        "hk-usp-expert-45-acp-132mm-barrel",
+        "hk-usp-elite-45-acp-153mm-barrel",
+        "hk-usp-match-45-acp-153mm-barrel"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "hk-usp-elite-45-acp-pistol-slide",
+        "hk-usp-expert-45-acp-pistol-slide",
+        "hk-usp-match-45-acp-pistol-slide",
+        "hk-usp-tactical-45-acp-pistol-slide",
+        "hk-usp-45-acp-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "hk-usp-45-acp-12-round-magazine",
+        "hk-usp-tactical-45-acp-12-round-magazine"
+      ]
+    },
+    {
+      "name": "Trigger",
+      "allowed": [
+        "hk-usp-trigger"
+      ]
+    },
+    {
+      "name": "Hammer",
+      "allowed": [
+        "hk-usp-hammer"
+      ]
+    },
+    {
+      "name": "Slide catch",
+      "allowed": [
+        "hk-usp-slide-lock"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "hk-usp-45-acp-elite-compensator",
+        "hk-usp-45-acp-match-compensator",
+        "hk-usp-rail-adapter"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/HK_USP_.45_ACP_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

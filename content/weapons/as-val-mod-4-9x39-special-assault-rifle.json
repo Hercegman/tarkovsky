@@ -1,0 +1,91 @@
+{
+  "id": "as-val-mod-4-9x39-special-assault-rifle",
+  "name": "AS VAL MOD.4 9x39 special assault rifle",
+  "page": "AS VAL MOD.4 9x39 special assault rifle",
+  "image": "/weapons/as-val-mod-4-9x39-special-assault-rifle.webp",
+  "ergonomics": 46.5,
+  "recoilVertical": 40,
+  "recoilHorizontal": 147,
+  "moa": 3.97,
+  "weight": 3.2,
+  "fireRate": 900,
+  "caliber": "9x39mm",
+  "slots": [
+    {
+      "name": "Muzzle",
+      "allowed": [
+        "as-val-mod-4-9x39-integral-barrel-suppressor"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "as-val-rotor-43-pistol-grip-with-buffer-tube",
+        "as-val-pistol-grip-plum",
+        "as-val-pistol-grip-black",
+        "as-val-zenit-rk-3-pistol-grip"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "as-val-nb-mod-4-kit-handguard"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "as-val-dust-cover",
+        "vss-dust-cover"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "as-val-skeleton-stock",
+        "as-val-nb-stock-adapter-tube"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "vss-val-9x39-6l24-10-round-magazine",
+        "vss-val-9x39-6l25-20-round-magazine-plum",
+        "vss-val-9x39-sr3m-130-30-round-magazine",
+        "vss-val-9x39-30-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "axion-kobra-ekp-8-02-reflex-sight-dovetail",
+        "belomo-pk-aa-dovetail-reflex-sight",
+        "okp-7-reflex-sight-dovetail",
+        "npz-pk1-obzor-dovetail-reflex-sight",
+        "npz-usp-1-tyulpan-4x-scope",
+        "nspu-m-3-5x-dovetail-night-vision-scope",
+        "axion-kobra-dovetail-mount",
+        "svd-caa-xd-rgl-receiver-mount",
+        "kmz-1p59-dovetail-mount",
+        "npz-1p78-1-dovetail-mount",
+        "vomz-pilad-043-02-dovetail-mount",
+        "zenit-b-13-klassika-dovetail-rail-platform",
+        "zenit-b-13v-klassika-dovetail-rail-platform",
+        "sag-bit-low-profile-dovetail-sidemount",
+        "axion-kobra-ekp-1s-03-reflex-sight-dovetail",
+        "rs-regulate-ak-303m-full-length-lower-dovetail-mount",
+        "belomo-pso-1-4x24-scope",
+        "belomo-pso-1m2-1-4x24-scope",
+        "belomo-pso-1m2-4x24-scope",
+        "svd-sag-low-profile-sidemount",
+        "sr-3mp-dovetail-side-rail-black",
+        "sr-3mp-dovetail-side-rail-plum"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/AS_VAL_MOD.4_9x39_special_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

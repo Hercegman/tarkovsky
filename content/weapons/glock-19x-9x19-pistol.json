@@ -1,0 +1,71 @@
+{
+  "id": "glock-19x-9x19-pistol",
+  "name": "Glock 19X 9x19 pistol",
+  "page": "Glock 19X 9x19 pistol",
+  "image": "/weapons/glock-19x-9x19-pistol.webp",
+  "ergonomics": 96.5,
+  "recoilVertical": 294,
+  "recoilHorizontal": 244,
+  "moa": 10.31,
+  "weight": 0.698,
+  "fireRate": 30,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "glock-19x-9x19-102mm-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "glock-pachmayr-tactical-grip-glove"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "glock-19x-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "glock-9x19-big-stick-33-round-magazine",
+        "glock-9x19-17-round-magazine",
+        "glock-9x19-magpul-pmag-gl9-21-round-magazine",
+        "glock-9x19-sgm-tactical-50-round-drum-magazine",
+        "glock-9x19-big-stick-24-round-magazine-coyote",
+        "glock-9x19-big-stick-31-round-magazine-coyote",
+        "glock-9x19-19-round-magazine-coyote"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "um-tactical-um3-pistol-sight-mount",
+        "olight-baldr-pro-tactical-flashlight-with-laser",
+        "olight-baldr-pro-tactical-flashlight-with-laser-tan"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "glock-aimtech-tiger-shark-sight-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Glock_19X_9x19_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

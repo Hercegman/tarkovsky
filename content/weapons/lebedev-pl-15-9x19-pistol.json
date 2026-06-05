@@ -1,0 +1,50 @@
+{
+  "id": "lebedev-pl-15-9x19-pistol",
+  "name": "Lebedev PL-15 9x19 pistol",
+  "page": "Lebedev PL-15 9x19 pistol",
+  "image": "/weapons/lebedev-pl-15-9x19-pistol.webp",
+  "ergonomics": 94,
+  "recoilVertical": 281,
+  "recoilHorizontal": 228,
+  "moa": 11,
+  "weight": 0.94,
+  "fireRate": 30,
+  "caliber": "9x19mm Parabellum",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "pl-15-9x19-112mm-barrel",
+        "pl-15-9x19-112mm-threaded-barrel"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "pl-15-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "pl-15-9x19-16-round-magazine"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "um-tactical-um3-pistol-sight-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Lebedev_PL-15_9x19_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

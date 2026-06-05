@@ -1,0 +1,140 @@
+{
+  "id": "u-s-ordnance-m60e6-7-62x51-light-machine-gun",
+  "name": "U.S. Ordnance M60E6 7.62x51 light machine gun",
+  "page": "U.S. Ordnance M60E6 7.62x51 light machine gun",
+  "image": "/weapons/u-s-ordnance-m60e6-7-62x51-light-machine-gun.webp",
+  "ergonomics": 21,
+  "recoilVertical": 87,
+  "recoilHorizontal": 409,
+  "moa": 1.33,
+  "weight": 9.499,
+  "fireRate": 550,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "m60-7-62x51-capco-100-round-assault-box"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "m60e4-buttstock",
+        "m60e6-buttstock",
+        "m60e6-buttstock-fde"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "m60e3-7-62x51-584mm-barrel",
+        "m60e4-7-62x51-475mm-heavy-barrel",
+        "m60e4-7-62x51-458mm-barrel",
+        "m60e6-7-62x51-458mm-barrel"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "m60e4-mod-1-handguard",
+        "m60e6-handguard",
+        "m60e4-mod-1-handguard-fde"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "m60-rear-sight"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "m60e4-trigger-group",
+        "m60e6-trigger-group",
+        "m60e6-trigger-group-fde"
+      ]
+    },
+    {
+      "name": "Bipod",
+      "allowed": [
+        "m60-bipod"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "elcan-specterdr-1x-4x-scope",
+        "elcan-specterdr-1x-4x-scope-fde",
+        "leupold-mark-4-hamr-4x24-deltapoint-hybrid-assault-scope",
+        "monstrum-tactical-compact-prism-scope-2x32",
+        "sig-sauer-bravo4-4x30-scope",
+        "valday-ps-320-1-6x-scope",
+        "axion-kobra-ekp-8-18-reflex-sight",
+        "okp-7-reflex-sight",
+        "eotech-553-holographic-sight",
+        "eotech-exps3-0-holographic-sight-tan",
+        "eotech-hhs-1-hybrid-sight",
+        "eotech-hhs-1-hybrid-sight-tan",
+        "eotech-xps3-0-holographic-sight",
+        "eotech-xps3-2-holographic-sight",
+        "holosun-hs401g5-reflex-sight",
+        "leapers-utg-reflex-sight",
+        "sig-sauer-romeo8t-reflex-sight",
+        "trijicon-srs-02-reflex-sight",
+        "valday-pk-120-1p87-reflex-sight",
+        "valday-krechet-reflex-sight",
+        "vomz-pilad-p1x42-weaver-reflex-sight",
+        "vortex-razor-amg-uh-1-holographic-sight",
+        "walther-mrs-reflex-sight",
+        "belomo-pk-06-reflex-sight",
+        "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
+        "torrey-pines-logic-t12w-30hz-thermal-reflex-sight",
+        "aimpoint-micro-standard-mount",
+        "aimpoint-micro-h-2-standard-mount",
+        "aimpoint-compm4-pro-lrp-mount",
+        "aimpoint-compm4-pro-qrp2-mount",
+        "armasight-vulcan-universal-base",
+        "b-t-qd-nar-mount-for-aimpoint-acro",
+        "burris-fastfire-weaver-base",
+        "larue-lt101-qd-tactical-picatinny-riser-mount",
+        "deltapoint-cross-slot-mount-base",
+        "kiba-arms-short-mount-sight-adapter",
+        "recknagel-era-tac-sunshade-mount-for-aimpoint-t-1-sights",
+        "sig-sauer-romeo-sight-mount",
+        "trijicon-rmr-high-profile-mount",
+        "trijicon-rmr-low-profile-mount",
+        "trijicon-ta51-sight-mount",
+        "unv-dloc-ird-sight-mount",
+        "swampfox-trihawk-prism-scope-3x30",
+        "armasight-zeus-universal-base",
+        "sig-sauer-romeo7-1x30-reflex-sight-prototype",
+        "sig-sauer-echo1-1-2x30mm-30hz-thermal-reflex-scope",
+        "elcan-specter-hco-holographic-sight",
+        "gbrs-aimpoint-hydra-mount-kit-black",
+        "gbrs-aimpoint-hydra-mount-kit-fde",
+        "wilcox-boss-xe-reflex-sight",
+        "ai-ax-50-34mm-scope-mount",
+        "burris-ar-p-e-p-r-30mm-ring-scope-mount",
+        "geissele-super-precision-30mm-ring-scope-mount",
+        "geissele-super-precision-30mm-ring-scope-mount-ddc",
+        "jp-enterprises-flat-top-30mm-ring-scope-mount",
+        "lobaev-arms-30mm-scope-mount",
+        "nightforce-magmount-30mm-ring-scope-mount",
+        "nightforce-magmount-34mm-ring-scope-mount",
+        "nightforce-magmount-34mm-ring-scope-mount-with-ruggedized-accessory-platform",
+        "recknagel-era-tac-30mm-ring-scope-mount",
+        "recknagel-era-tac-34mm-ring-scope-mount",
+        "sig-sauer-alpha4-30mm-ring-scope-mount",
+        "leapers-utg-25mm-ring-scope-mount",
+        "iea-mil-optics-kh-f-34mm-one-piece-magmount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/U.S._Ordnance_M60E6_7.62x51_light_machine_gun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

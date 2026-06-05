@@ -1,0 +1,94 @@
+{
+  "id": "knights-armament-company-sr-25-7-62x51-marksman-rifle",
+  "name": "Knight's Armament Company SR-25 7.62x51 marksman rifle",
+  "page": "Knight's Armament Company SR-25 7.62x51 marksman rifle",
+  "image": "/weapons/knights-armament-company-sr-25-7-62x51-marksman-rifle.webp",
+  "ergonomics": 57.5,
+  "recoilVertical": 94,
+  "recoilHorizontal": 216,
+  "moa": 1.49,
+  "weight": 3.86,
+  "fireRate": 700,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-1-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pc-pistol-grip",
+        "ar-15-f1-firearms-skeletonized-style-2-pistol-grip",
+        "ar-15-hera-arms-hg-15-pistol-grip",
+        "ar-15-hk-battle-grip-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip",
+        "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+        "ar-15-hk-ergo-psg-1-style-pistol-grip",
+        "ar-15-hk-v2-pistol-grip",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-magpul-moe-pistol-grip-black",
+        "ar-15-magpul-moe-pistol-grip-fde",
+        "ar-15-naroh-arms-gral-s-pistol-grip",
+        "mcx-pistol-grip",
+        "ar-15-stark-ar-rifle-grip-black",
+        "ar-15-stark-ar-rifle-grip-fde",
+        "ar-15-tactical-dynamics-hexgrip-pistol-grip",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip",
+        "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan",
+        "ar-15-colt-a1-pistol-grip",
+        "ar-15-dlg-tactical-dlg-138-pistol-grip-black",
+        "ar-15-dlg-tactical-dlg-138-pistol-grip-fde"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ar-10-7-62x51-kac-10-round-steel-magazine",
+        "ar-10-7-62x51-kac-20-round-steel-magazine",
+        "ar-10-7-62x51-magpul-pmag-20-sr-lr-gen-m3-20-round-magazine",
+        "ar-10-7-62x51-lancer-l7awm-20-round-magazine",
+        "ar-10-7-62x51-lancer-l7awm-25-round-magazine",
+        "ar-10-7-62x51-x-products-x-25-50-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "ar-15-colt-carbine-buffer-tube",
+        "ar-15-doublestar-ace-socom-gen-4-stock",
+        "ar-15-ergo-f93-pro-stock",
+        "ar-15-soyuz-tm-buffer-tube",
+        "ar-15-strike-industries-advanced-receiver-extension",
+        "ar-15-strike-industries-advanced-receiver-extension-anodized-red",
+        "ar-15-rtm-atp-buffer-tube"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "sr-25-7-62x51-upper-receiver",
+        "sr-25-7-62x51-upper-receiver-taupe"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "ar-10-kac-ambidextrous-charging-handle",
+        "ar-10-kac-charging-handle",
+        "ar-10-kac-charging-handle-taupe"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Knight's_Armament_Company_SR-25_7.62x51_marksman_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

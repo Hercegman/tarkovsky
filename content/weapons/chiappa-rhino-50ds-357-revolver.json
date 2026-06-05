@@ -1,0 +1,60 @@
+{
+  "id": "chiappa-rhino-50ds-357-revolver",
+  "name": "Chiappa Rhino 50DS .357 revolver",
+  "page": "Chiappa Rhino 50DS .357 revolver",
+  "image": "/weapons/chiappa-rhino-50ds-357-revolver.webp",
+  "ergonomics": 82,
+  "recoilVertical": null,
+  "recoilHorizontal": null,
+  "moa": 5.16,
+  "weight": 0.902,
+  "fireRate": 30,
+  "caliber": ".357 Magnum",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "chiappa-rhino-357-6-round-cylinder"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "chiappa-rhino-red-fiber-optic-rear-sight",
+        "chiappa-rhino-rear-sight"
+      ]
+    },
+    {
+      "name": "Front sight",
+      "allowed": [
+        "chiappa-rhino-red-fiber-optic-front-sight",
+        "chiappa-rhino-front-sight"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "chiappa-rhino-plastic-pistol-grip",
+        "chiappa-rhino-wooden-pistol-grip"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "ncstar-tactical-blue-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Chiappa_Rhino_50DS_.357_revolver",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

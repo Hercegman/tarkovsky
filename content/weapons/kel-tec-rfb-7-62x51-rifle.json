@@ -1,0 +1,48 @@
+{
+  "id": "kel-tec-rfb-7-62x51-rifle",
+  "name": "Kel-Tec RFB 7.62x51 rifle",
+  "page": "Kel-Tec RFB 7.62x51 rifle",
+  "image": "/weapons/kel-tec-rfb-7-62x51-rifle.webp",
+  "ergonomics": 87.8,
+  "recoilVertical": 131,
+  "recoilHorizontal": 272,
+  "moa": 1.48,
+  "weight": 3.756,
+  "fireRate": 700,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "rfb-7-62x51-18-inch-barrel"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "rfb-handguard"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "sa58-fal-7-62x51-10-round-magazine",
+        "sa58-fal-7-62x51-20-round-magazine",
+        "sa58-fal-7-62x51-30-round-magazine",
+        "sa58-fal-7-62x51-mmw-polymer-20-round-magazine",
+        "sa58-fal-slr-7-62x51-30-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "rfb-scope-rail-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Kel-Tec_RFB_7.62x51_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

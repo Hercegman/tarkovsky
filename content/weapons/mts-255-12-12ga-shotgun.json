@@ -1,0 +1,44 @@
+{
+  "id": "mts-255-12-12ga-shotgun",
+  "name": "MTs-255-12 12ga shotgun",
+  "page": "MTs-255-12 12ga shotgun",
+  "image": "/weapons/mts-255-12-12ga-shotgun.webp",
+  "ergonomics": 43,
+  "recoilVertical": 226,
+  "recoilHorizontal": 301,
+  "moa": 9.34,
+  "weight": 4.25,
+  "fireRate": 30,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "mts-255-12-12ga-cylinder"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mts-255-12-12ga-755mm-barrel-with-rib"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "mts-255-12-wooden-stock"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "mts-255-12-beechwood-forestock"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/MTs-255-12_12ga_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

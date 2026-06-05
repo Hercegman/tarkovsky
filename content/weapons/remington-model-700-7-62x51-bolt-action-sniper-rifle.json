@@ -1,0 +1,62 @@
+{
+  "id": "remington-model-700-7-62x51-bolt-action-sniper-rifle",
+  "name": "Remington Model 700 7.62x51 bolt-action sniper rifle",
+  "page": "Remington Model 700 7.62x51 bolt-action sniper rifle",
+  "image": "/weapons/remington-model-700-7-62x51-bolt-action-sniper-rifle.webp",
+  "ergonomics": 32,
+  "recoilVertical": 127,
+  "recoilHorizontal": 427,
+  "moa": 0.71,
+  "weight": 4.06,
+  "fireRate": 30,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "m700-7-62x51-20-inch-stainless-steel-threaded-barrel",
+        "m700-7-62x51-26-inch-barrel",
+        "m700-7-62x51-20-inch-threaded-barrel",
+        "m700-7-62x51-26-inch-stainless-steel-barrel"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "m700-ab-arms-mod-x-gen-3-chassis",
+        "m700-ai-at-aics-polymer-chassis",
+        "m700-hogue-overmolded-ghillie-stock",
+        "m700-magpul-pro-700-chassis",
+        "m700-promag-archangel-chassis"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "m700-7-62x51-ai-aics-10-round-magazine",
+        "m700-7-62x51-ai-aics-5-round-magazine",
+        "m700-7-62x51-magpul-pmag-ac-10-round-magazine",
+        "m700-7-62x51-magpul-pmag-ac-5-round-magazine",
+        "m700-7-62x51-mdt-aics-12-round-magazine",
+        "m700-7-62x51-promag-aa-70-10-round-magazine",
+        "m700-7-62x51-promag-aa-70-20-round-magazine",
+        "m700-7-62x51-wyatts-outdoor-10-round-magazine",
+        "m700-7-62x51-wyatts-outdoor-5-round-magazine"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "m700-ab-arms-mod-x-rail-mount",
+        "m700-30mm-integral-ring-scope-mount",
+        "m700-extended-multi-slot-weaver-rail-base",
+        "m700-badger-ordnance-scope-rail"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Remington_Model_700_7.62x51_bolt-action_sniper_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

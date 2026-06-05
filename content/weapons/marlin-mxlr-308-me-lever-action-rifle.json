@@ -1,0 +1,72 @@
+{
+  "id": "marlin-mxlr-308-me-lever-action-rifle",
+  "name": "Marlin MXLR .308 ME lever-action rifle",
+  "page": "Marlin MXLR .308 ME lever-action rifle",
+  "image": "/weapons/marlin-mxlr-308-me-lever-action-rifle.webp",
+  "ergonomics": 32.8,
+  "recoilVertical": 122,
+  "recoilHorizontal": 252,
+  "moa": 1.33,
+  "weight": 3.075,
+  "fireRate": 100,
+  "caliber": ".308 Marlin Express",
+  "slots": [
+    {
+      "name": "Magazine",
+      "allowed": [
+        "mxlr-308-me-5-round-magazine"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "mxlr-standard-stock",
+        "m1895-mxlr-ranger-point-precision-aluminum-stock",
+        "m1895-mxlr-ranger-point-precision-aluminum-stock-fde",
+        "m1895-mxlr-ranger-point-precision-aluminum-stock-green",
+        "m1895-mxlr-magpul-elg-stock-fde",
+        "m1895-mxlr-magpul-elg-stock"
+      ]
+    },
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mxlr-308-me-24-inch-barrel"
+      ]
+    },
+    {
+      "name": "Mount",
+      "allowed": [
+        "m1895-mxlr-ranger-point-precision-rhino-5-inch-scope-rail",
+        "m1895-mxlr-xs-marlin-optic-mount"
+      ]
+    },
+    {
+      "name": "Trigger",
+      "allowed": [
+        "mxlr-trigger",
+        "m1895-mxlr-ranger-point-precision-trigger",
+        "m1895-mxlr-ranger-point-precision-trigger-black",
+        "m1895-mxlr-ranger-point-precision-trigger-gold"
+      ]
+    },
+    {
+      "name": "Hammer",
+      "allowed": [
+        "mxlr-hammer"
+      ]
+    },
+    {
+      "name": "Charge handle",
+      "allowed": [
+        "mxlr-loop-lever",
+        "m1895-mxlr-ranger-point-precision-medium-loop-lever"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Marlin_MXLR_.308_ME_lever-action_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

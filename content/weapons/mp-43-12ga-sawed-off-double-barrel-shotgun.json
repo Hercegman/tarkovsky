@@ -1,0 +1,26 @@
+{
+  "id": "mp-43-12ga-sawed-off-double-barrel-shotgun",
+  "name": "MP-43 12ga sawed-off double-barrel shotgun",
+  "page": "MP-43 12ga sawed-off double-barrel shotgun",
+  "image": "/weapons/mp-43-12ga-sawed-off-double-barrel-shotgun.webp",
+  "ergonomics": 53,
+  "recoilVertical": 279,
+  "recoilHorizontal": 413,
+  "moa": 23.38,
+  "weight": 2.1,
+  "fireRate": 900,
+  "caliber": "12/70",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mp-43-12ga-sawed-off-310mm-barrel"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/MP-43_12ga_sawed-off_double-barrel_shotgun",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

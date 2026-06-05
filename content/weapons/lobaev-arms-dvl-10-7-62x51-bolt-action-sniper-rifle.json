@@ -1,0 +1,99 @@
+{
+  "id": "lobaev-arms-dvl-10-7-62x51-bolt-action-sniper-rifle",
+  "name": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle",
+  "page": "Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle",
+  "image": "/weapons/lobaev-arms-dvl-10-7-62x51-bolt-action-sniper-rifle.webp",
+  "ergonomics": 49.5,
+  "recoilVertical": 55,
+  "recoilHorizontal": 290,
+  "moa": 0.45,
+  "weight": 5.068,
+  "fireRate": 30,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "dvl-10-7-62x51-500mm-suppressed-barrel",
+        "dvl-10-m2-7-62x51-660mm-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "ar-15-colt-a2-pistol-grip",
+        "ar-15-damage-industries-ecs-pistol-grip-fde",
+        "hogue-overmolded-rubber-grip-black",
+        "hogue-overmolded-rubber-grip-fde",
+        "hogue-overmolded-rubber-grip-ghillie-earth",
+        "hogue-overmolded-rubber-grip-ghillie-green",
+        "hogue-overmolded-rubber-grip-olive-drab",
+        "ar-15-magpul-miad-pistol-grip-fde",
+        "ar-15-tactical-dynamics-skeletonized-pistol-grip",
+        "ar-15-dlg-tactical-dlg-123-pistol-grip",
+        "ar-15-aeroknox-orion-pistol-grip"
+      ]
+    },
+    {
+      "name": "Stock",
+      "allowed": [
+        "dvl-10-lobaev-arms-stock"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "dvl-10-7-62x51-10-round-magazine"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "elcan-specterdr-1x-4x-scope",
+        "elcan-specterdr-1x-4x-scope-fde",
+        "leupold-mark-4-hamr-4x24-deltapoint-hybrid-assault-scope",
+        "monstrum-tactical-compact-prism-scope-2x32",
+        "sig-sauer-bravo4-4x30-scope",
+        "valday-ps-320-1-6x-scope",
+        "axion-kobra-ekp-8-18-reflex-sight",
+        "okp-7-reflex-sight",
+        "eotech-553-holographic-sight",
+        "eotech-exps3-0-holographic-sight-tan",
+        "eotech-hhs-1-hybrid-sight",
+        "eotech-hhs-1-hybrid-sight-tan",
+        "eotech-xps3-0-holographic-sight",
+        "eotech-xps3-2-holographic-sight",
+        "holosun-hs401g5-reflex-sight",
+        "trijicon-srs-02-reflex-sight",
+        "valday-pk-120-1p87-reflex-sight",
+        "vomz-pilad-p1x42-weaver-reflex-sight",
+        "vortex-razor-amg-uh-1-holographic-sight",
+        "walther-mrs-reflex-sight",
+        "belomo-pk-06-reflex-sight",
+        "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
+        "aimpoint-micro-standard-mount",
+        "aimpoint-compm4-pro-lrp-mount",
+        "armasight-vulcan-universal-base",
+        "burris-ar-p-e-p-r-30mm-ring-scope-mount",
+        "burris-fastfire-weaver-base",
+        "iea-mil-optics-kh-f-34mm-one-piece-magmount",
+        "jp-enterprises-flat-top-30mm-ring-scope-mount",
+        "deltapoint-cross-slot-mount-base",
+        "lobaev-arms-30mm-scope-mount",
+        "nightforce-magmount-30mm-ring-scope-mount",
+        "nightforce-magmount-34mm-ring-scope-mount",
+        "nightforce-magmount-34mm-ring-scope-mount-with-ruggedized-accessory-platform",
+        "sig-sauer-romeo-sight-mount",
+        "trijicon-rmr-high-profile-mount",
+        "trijicon-rmr-low-profile-mount",
+        "trijicon-ta51-sight-mount",
+        "unv-dloc-ird-sight-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Lobaev_Arms_DVL-10_7.62x51_bolt-action_sniper_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

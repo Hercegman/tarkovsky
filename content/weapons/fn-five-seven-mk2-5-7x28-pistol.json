@@ -1,0 +1,54 @@
+{
+  "id": "fn-five-seven-mk2-5-7x28-pistol",
+  "name": "FN Five-seveN MK2 5.7x28 pistol",
+  "page": "FN Five-seveN MK2 5.7x28 pistol",
+  "image": "/weapons/fn-five-seven-mk2-5-7x28-pistol.webp",
+  "ergonomics": 88,
+  "recoilVertical": 274,
+  "recoilHorizontal": 234,
+  "moa": 7.5,
+  "weight": 0.662,
+  "fireRate": 30,
+  "caliber": "5.7x28mm FN",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "fn-five-seven-5-7x28-120mm-barrel",
+        "fn-five-seven-5-7x28-120mm-threaded-barrel"
+      ]
+    },
+    {
+      "name": "Receiver",
+      "allowed": [
+        "fn-five-seven-mk2-pistol-slide"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "fn-five-seven-5-7x28-20-round-magazine",
+        "fn-five-seven-5-7x28-pro-mag-30-round-magazine"
+      ]
+    },
+    {
+      "name": "Tactical",
+      "allowed": [
+        "ncstar-tactical-blue-laser",
+        "glock-gtl-21-tactical-flashlight-with-laser",
+        "steiner-dbal-pl-tactical-device",
+        "steiner-las-tac-2-tactical-flashlight",
+        "surefire-x400-ultra-tactical-flashlight-with-laser",
+        "surefire-xc1-tactical-flashlight",
+        "zenit-klesch-2iks-ir-illuminator-with-laser",
+        "zenit-klesch-2p-flashlight-with-laser",
+        "um-tactical-um3-pistol-sight-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/FN_Five-seveN_MK2_5.7x28_pistol",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}

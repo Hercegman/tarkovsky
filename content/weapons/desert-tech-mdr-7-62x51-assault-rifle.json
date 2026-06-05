@@ -1,0 +1,153 @@
+{
+  "id": "desert-tech-mdr-7-62x51-assault-rifle",
+  "name": "Desert Tech MDR 7.62x51 assault rifle",
+  "page": "Desert Tech MDR 7.62x51 assault rifle",
+  "image": "/weapons/desert-tech-mdr-7-62x51-assault-rifle.webp",
+  "ergonomics": 61,
+  "recoilVertical": 104,
+  "recoilHorizontal": 257,
+  "moa": 1.36,
+  "weight": 4.469,
+  "fireRate": 650,
+  "caliber": "7.62x51mm NATO",
+  "slots": [
+    {
+      "name": "Barrel",
+      "allowed": [
+        "mdr-7-62x51-16-inch-barrel",
+        "mdr-7-62x51-20-inch-barrel"
+      ]
+    },
+    {
+      "name": "Pistol grip",
+      "allowed": [
+        "mdr-pistol-grip-fde",
+        "mdr-pistol-grip-black"
+      ]
+    },
+    {
+      "name": "Rear sight",
+      "allowed": [
+        "hk-mp7-flip-up-rear-sight",
+        "kac-folding-micro-rear-sight",
+        "kac-folding-rear-sight",
+        "kriss-defiance-low-profile-flip-up-rear-sight",
+        "magpul-mbus-gen2-flip-up-rear-sight",
+        "magpul-mbus-gen2-flip-up-rear-sight-fde",
+        "mcx-flip-up-rear-sight",
+        "mpx-flip-up-rear-sight",
+        "ar-15-colt-a2-rear-sight",
+        "ar-15-rear-sight-carry-handle",
+        "matech-buis-rear-sight"
+      ]
+    },
+    {
+      "name": "Handguard",
+      "allowed": [
+        "mdr-handguard-fde",
+        "mdr-handguard-black",
+        "mdr-blk-lbl-alx-bipod-20-handguard-fde",
+        "mdr-blk-lbl-alx-bipod-16-handguard-fde",
+        "mdr-blk-lbl-alx-bipod-20-handguard-black",
+        "mdr-blk-lbl-alx-bipod-16-handguard-black",
+        "mdr-blk-lbl-alx-20-handguard-fde",
+        "mdr-blk-lbl-alx-16-handguard-fde",
+        "mdr-blk-lbl-alx-16-handguard-black",
+        "mdr-blk-lbl-alx-20-handguard-black",
+        "mdr-micron-m-lok-handguard-fde",
+        "mdr-micron-m-lok-handguard-black"
+      ]
+    },
+    {
+      "name": "Magazine",
+      "allowed": [
+        "ar-10-7-62x51-kac-10-round-steel-magazine",
+        "ar-10-7-62x51-kac-20-round-steel-magazine",
+        "ar-10-7-62x51-magpul-pmag-20-sr-lr-gen-m3-20-round-magazine",
+        "ar-10-7-62x51-lancer-l7awm-20-round-magazine",
+        "ar-10-7-62x51-lancer-l7awm-25-round-magazine",
+        "ar-10-7-62x51-x-products-x-25-50-round-drum-magazine"
+      ]
+    },
+    {
+      "name": "Scope",
+      "allowed": [
+        "elcan-specterdr-1x-4x-scope",
+        "elcan-specterdr-1x-4x-scope-fde",
+        "leupold-mark-4-hamr-4x24-deltapoint-hybrid-assault-scope",
+        "monstrum-tactical-compact-prism-scope-2x32",
+        "sig-sauer-bravo4-4x30-scope",
+        "swampfox-trihawk-prism-scope-3x30",
+        "valday-ps-320-1-6x-scope",
+        "axion-kobra-ekp-8-18-reflex-sight",
+        "okp-7-reflex-sight",
+        "eotech-553-holographic-sight",
+        "eotech-exps3-0-holographic-sight-tan",
+        "eotech-hhs-1-hybrid-sight",
+        "eotech-hhs-1-hybrid-sight-tan",
+        "eotech-xps3-0-holographic-sight",
+        "eotech-xps3-2-holographic-sight",
+        "holosun-hs401g5-reflex-sight",
+        "leapers-utg-reflex-sight",
+        "sig-sauer-romeo8t-reflex-sight",
+        "trijicon-srs-02-reflex-sight",
+        "valday-pk-120-1p87-reflex-sight",
+        "valday-krechet-reflex-sight",
+        "vomz-pilad-p1x42-weaver-reflex-sight",
+        "vortex-razor-amg-uh-1-holographic-sight",
+        "walther-mrs-reflex-sight",
+        "belomo-pk-06-reflex-sight",
+        "ncstar-ado-p4-sniper-3-9x42-riflescope",
+        "flir-rs-32-2-25-9x-35mm-60hz-thermal-riflescope",
+        "torrey-pines-logic-t12w-30hz-thermal-reflex-sight",
+        "ai-ax-50-34mm-scope-mount",
+        "aimpoint-micro-standard-mount",
+        "aimpoint-micro-h-2-standard-mount",
+        "aimpoint-compm4-pro-lrp-mount",
+        "aimpoint-compm4-pro-qrp2-mount",
+        "armasight-vulcan-universal-base",
+        "b-t-qd-nar-mount-for-aimpoint-acro",
+        "burris-ar-p-e-p-r-30mm-ring-scope-mount",
+        "burris-fastfire-weaver-base",
+        "geissele-super-precision-30mm-ring-scope-mount",
+        "geissele-super-precision-30mm-ring-scope-mount-ddc",
+        "iea-mil-optics-kh-f-34mm-one-piece-magmount",
+        "jp-enterprises-flat-top-30mm-ring-scope-mount",
+        "kmz-1p69-weaver-mount",
+        "larue-lt101-qd-tactical-picatinny-riser-mount",
+        "deltapoint-cross-slot-mount-base",
+        "lobaev-arms-30mm-scope-mount",
+        "nightforce-magmount-30mm-ring-scope-mount",
+        "nightforce-magmount-34mm-ring-scope-mount",
+        "nightforce-magmount-34mm-ring-scope-mount-with-ruggedized-accessory-platform",
+        "kiba-arms-short-mount-sight-adapter",
+        "recknagel-era-tac-sunshade-mount-for-aimpoint-t-1-sights",
+        "recknagel-era-tac-30mm-ring-scope-mount",
+        "recknagel-era-tac-34mm-ring-scope-mount",
+        "sig-sauer-romeo-sight-mount",
+        "trijicon-rmr-high-profile-mount",
+        "trijicon-rmr-low-profile-mount",
+        "trijicon-ta51-sight-mount",
+        "unv-dloc-ird-sight-mount",
+        "leapers-utg-25mm-ring-scope-mount",
+        "armasight-zeus-universal-base",
+        "sig-sauer-echo1-1-2x30mm-30hz-thermal-reflex-scope",
+        "sig-sauer-romeo7-1x30-reflex-sight-prototype",
+        "elcan-specter-hco-holographic-sight",
+        "gbrs-aimpoint-hydra-mount-kit-black",
+        "gbrs-aimpoint-hydra-mount-kit-fde",
+        "wilcox-boss-xe-reflex-sight",
+        "cyclone-shakhin-mount",
+        "leupold-mark-ims-35mm-ring-scope-mount",
+        "falke-le-reflex-sight",
+        "meprolight-mepro-red-dot-mount",
+        "a-r-m-s-22-30mm-ring-scope-mount"
+      ]
+    }
+  ],
+  "source": {
+    "url": "https://escapefromtarkov.fandom.com/wiki/Desert_Tech_MDR_7.62x51_assault_rifle",
+    "license": "CC BY-NC-SA",
+    "wiki": "Escape from Tarkov Wiki"
+  }
+}
