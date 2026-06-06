@@ -7,7 +7,12 @@ Newest first.
 
 ---
 
-## `_pending_` — gun builder: fix stat parsing + show base/delta · 2026-06-05
+## `_pending_` — maps: bigger layout, no white background · 2026-06-06
+- **Changed:** wider map page; bigger quests + layers sidebars; taller map (82vh).
+- **Fixed:** removed Leaflet's default light-grey background around the map image
+  (`.leaflet-container` transparent) so there's no white box around the map.
+
+## `69de476` — gun builder: fix stat parsing + show base/delta · 2026-06-05
 - **Fixed:** empty wiki infobox fields bled into the next field, so `accuracy`
   picked up recoil values (negative MOA) — numbers now stop at a pipe
   (`scripts/fix-weapon-stats.mts` re-parsed all weapons/attachments). Accuracy and

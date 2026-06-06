@@ -127,6 +127,11 @@ body::before {
   border: 0;
 }
 
+/* Drop Leaflet's default light-grey background around the map image. */
+.leaflet-container {
+  background: transparent;
+}
+
 /* Themed hover tooltips (replace Leaflet's white/black default). */
 .leaflet-tooltip.tark-tip {
   background: var(--surface);
