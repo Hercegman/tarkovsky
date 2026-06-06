@@ -7,7 +7,20 @@ Newest first.
 
 ---
 
-## `_pending_` — centre the map vertically · 2026-06-06
+## `_pending_` — real UI sounds, gun stat baseline, shared extracts · 2026-06-06
+- **Changed:** UI sounds now play three real audio clips (hover / click / close,
+  in `public/sounds/`) decoded via Web Audio for low-latency overlap, replacing
+  the synthesized key-clack. Hover is throttled; volume per clip is tuned.
+- **Changed:** the gun builder now reports stats relative to the weapon's **factory
+  default build** (all default attachments installed), matching the Totov Builder
+  model — recoil = base × (1 + Σ recoil%), ergonomics/weight additive. Picking a
+  weapon starts at delta 0; swapping a mod shows the change vs the default loadout.
+- **Added:** co-located PMC + Scav extracts that share a name are merged into a
+  single **Shared Extraction** pin (sunburst-yellow) to cut map clutter — 33 across
+  the 10 maps. New `scripts/merge-shared-extracts.mts` (idempotent, also run inside
+  `ingest:maps`); `exfil_shared` is on by default in the layer panel.
+
+## `2fb3f3a` — centre the map vertically · 2026-06-06
 - **Changed:** the map is now vertically centred within the sidebar row
   (`lg:self-center`) so it sits towards the middle instead of pinned to the top.
 

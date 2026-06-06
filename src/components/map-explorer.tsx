@@ -17,9 +17,10 @@ const LeafletMap = dynamic(() => import("./leaflet-map"), {
   ),
 });
 
-const DEFAULT_ON = ["quest", "exfil_pmc", "exfil_scav", "exfil_transit"];
+const DEFAULT_ON = ["quest", "exfil_shared", "exfil_pmc", "exfil_scav", "exfil_transit"];
 const PRIORITY = [
   "quest",
+  "exfil_shared",
   "exfil_pmc",
   "exfil_scav",
   "exfil_transit",

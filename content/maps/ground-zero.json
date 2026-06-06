@@ -155,21 +155,14 @@
       "id": "container_greencrate",
       "name": "Wooden Crate",
       "color": "#fa005a"
+    },
+    {
+      "id": "exfil_shared",
+      "name": "Shared Extraction",
+      "color": "#ffb01f"
     }
   ],
   "markers": [
-    {
-      "c": "exfil_pmc",
-      "x": 3218,
-      "y": 6031,
-      "t": "Scav Checkpoint (Co-op) "
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 3671,
-      "y": 1510,
-      "t": "Nakatani Basement Stairs"
-    },
     {
       "c": "exfil_pmc",
       "x": 3733,
@@ -181,12 +174,6 @@
       "x": 1170,
       "y": 5354,
       "t": "Mira Ave (Flare)"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 1869,
-      "y": 6199,
-      "t": "Emercom Checkpoint"
     },
     {
       "c": "spawn_pmc",
@@ -495,24 +482,6 @@
       "t": "Cultist Spawn"
     },
     {
-      "c": "exfil_scav",
-      "x": 1890,
-      "y": 6199,
-      "t": "Emercom Checkpoint"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 3238,
-      "y": 6031,
-      "t": "Scav Checkpoint (Co-op)"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 3671,
-      "y": 1485,
-      "t": "Nakatani Basement Stairs"
-    },
-    {
       "c": "exfil_transit",
       "x": 1018,
       "y": 4412,
@@ -549,18 +518,6 @@
       "t": "The high rise where one die-hard guy kicked ass"
     },
     {
-      "c": "exfil_pmc",
-      "x": 1452,
-      "y": 3696,
-      "t": "Tartowers Sales Office "
-    },
-    {
-      "c": "exfil_scav",
-      "x": 1452,
-      "y": 3665,
-      "t": "Tartowers Sales Office "
-    },
-    {
       "c": "spawn_sniper",
       "x": 2389,
       "y": 4139,
@@ -589,6 +546,30 @@
       "x": 771,
       "y": 3516,
       "t": "Stash TP-200 TNT Bricks in the Designated Spot"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 3218,
+      "y": 6031,
+      "t": "Scav Checkpoint (Co-op)"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 3671,
+      "y": 1510,
+      "t": "Nakatani Basement Stairs"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 1869,
+      "y": 6199,
+      "t": "Emercom Checkpoint"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 1452,
+      "y": 3696,
+      "t": "Tartowers Sales Office"
     }
   ]
 }

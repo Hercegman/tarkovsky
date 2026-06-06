@@ -120,15 +120,14 @@
       "id": "container_greencrate",
       "name": "Wooden Crate",
       "color": "#fa005a"
+    },
+    {
+      "id": "exfil_shared",
+      "name": "Shared Extraction",
+      "color": "#ffb01f"
     }
   ],
   "markers": [
-    {
-      "c": "exfil_pmc",
-      "x": 6716,
-      "y": 5410,
-      "t": "Gate 3"
-    },
     {
       "c": "exfil_pmc",
       "x": 6861,
@@ -398,12 +397,6 @@
       "x": 6581,
       "y": 4573,
       "t": "Courtyard Gate "
-    },
-    {
-      "c": "exfil_scav",
-      "x": 6767,
-      "y": 5410,
-      "t": "Gate 3"
     },
     {
       "c": "exfil_transit",
@@ -676,18 +669,6 @@
       "t": "The stairway to the skies"
     },
     {
-      "c": "exfil_pmc",
-      "x": 12250,
-      "y": 5170,
-      "t": "Smugglers' Passage"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 12250,
-      "y": 5160,
-      "t": "Smugglers' Passage"
-    },
-    {
       "c": "spawn_pmc",
       "x": 10047,
       "y": 5704,
@@ -716,6 +697,18 @@
       "x": 10385,
       "y": 3384,
       "t": "Obtain the Burnt document"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 6716,
+      "y": 5410,
+      "t": "Gate 3"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 12250,
+      "y": 5170,
+      "t": "Smugglers' Passage"
     }
   ]
 }

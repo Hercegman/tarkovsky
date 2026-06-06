@@ -15,6 +15,7 @@
  */
 import { mkdir, writeFile, readFile } from "node:fs/promises";
 import path from "node:path";
+import { mergeSharedExtracts } from "./merge-shared-extracts.mts";
 
 const UA =
   "ProjectTarkovsky/1.0 (https://github.com/Hercegman/tarkovsky)";
@@ -160,6 +161,9 @@ async function ingestMap(id: string, name: string) {
     categories,
     markers,
   };
+  // Collapse co-located PMC+Scav extracts into one sunburst "shared" marker.
+  const sharedN = mergeSharedExtracts(out);
+  if (sharedN) console.log(`  merged ${sharedN} shared extract(s)`);
   await mkdir(path.join(ROOT, "content", "maps"), { recursive: true });
   await writeFile(
     path.join(ROOT, "content", "maps", `${id}.json`),

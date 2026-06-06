@@ -150,6 +150,11 @@
       "id": "container_greencrate",
       "name": "Wooden Crate",
       "color": "#fa005a"
+    },
+    {
+      "id": "exfil_shared",
+      "name": "Shared Extraction",
+      "color": "#ffb01f"
     }
   ],
   "markers": [
@@ -176,42 +181,6 @@
       "x": 6191,
       "y": 2145,
       "t": "Saferoom Exfil"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 4712,
-      "y": 895,
-      "t": "Emercom Checkpoint"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 531,
-      "y": 4636,
-      "t": "Railway Exfil"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 6462,
-      "y": 2725,
-      "t": "Scav Camp (Co-Op)"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 6468,
-      "y": 2725,
-      "t": "Scav Camp (Co-Op) "
-    },
-    {
-      "c": "exfil_scav",
-      "x": 539,
-      "y": 4636,
-      "t": "Railway Exfil"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 4722,
-      "y": 895,
-      "t": "Emercom Checkpoint"
     },
     {
       "c": "spawn_pmc",
@@ -832,22 +801,34 @@
       "t": "NSV \"Utyos\" heavy machine gun"
     },
     {
-      "c": "exfil_pmc",
-      "x": 6671,
-      "y": 3283,
-      "t": "Smugglers' Tunnel"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 6674,
-      "y": 3283,
-      "t": "Smugglers' Tunnel"
-    },
-    {
       "c": "spawn_scav",
       "x": 4819,
       "y": 2576,
       "t": "Scav Spawn"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 4712,
+      "y": 895,
+      "t": "Emercom Checkpoint"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 531,
+      "y": 4636,
+      "t": "Railway Exfil"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 6462,
+      "y": 2725,
+      "t": "Scav Camp (Co-Op)"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 6671,
+      "y": 3283,
+      "t": "Smugglers' Tunnel"
     }
   ]
 }

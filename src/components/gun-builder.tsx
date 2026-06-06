@@ -144,8 +144,20 @@ export function GunBuilder({
         .filter(Boolean),
     [selections, attachments],
   );
+  // Baseline = the weapon's factory default build (all default attachments
+  // installed), like Totov Builder — so the delta reflects changes vs the gun
+  // as it ships, not vs a stripped receiver.
+  const defaultChosen = useMemo(
+    () =>
+      weapon
+        ? Object.values(defaultSelections(weapon, attachments))
+            .map((id) => attachments[id])
+            .filter(Boolean)
+        : [],
+    [weapon, attachments],
+  );
   const stats = weapon ? computeStats(weapon, chosen) : null;
-  const base = weapon ? computeStats(weapon, []) : null;
+  const base = weapon ? computeStats(weapon, defaultChosen) : null;
 
   function pick(w: Weapon) {
     setWeaponId(w.id);
@@ -264,8 +276,10 @@ export function GunBuilder({
               </dl>
             )}
             <p className="mt-3 border-t border-[var(--border)] pt-2 text-[11px] text-[var(--muted)]">
-              Starts with the weapon&apos;s factory default attachments; the delta is
-              vs the bare weapon. Stats are wiki-sourced and approximate.
+              Starts fully built with the weapon&apos;s factory default attachments;
+              the delta shows changes vs that default loadout. Recoil = base ×
+              (1 + Σ recoil%), ergonomics/weight are additive — the Totov Builder
+              model. Stats are wiki-sourced and approximate.
             </p>
           </div>
         </aside>
