@@ -83,7 +83,7 @@ export function MapExplorer({
   }
 
   return (
-    <div className="grid gap-4 lg:grid-cols-[270px_1fr_230px]">
+    <div className="grid gap-5 lg:grid-cols-[340px_1fr_290px]">
       {/* Left — quests on this map */}
       <aside className="order-2 lg:order-1">
         <h2 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
@@ -99,7 +99,7 @@ export function MapExplorer({
           placeholder="Search quests…"
           className="mb-2 w-full rounded-lg border border-[var(--border)] bg-[var(--surface)] px-3 py-2 text-sm outline-none focus:border-[var(--gold-dim)]"
         />
-        <ul className="max-h-[320px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:max-h-[572px]">
+        <ul className="max-h-[320px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:max-h-[82vh]">
           {visibleQuests.map((q) => {
             const done = completed?.has(q.id) ?? false;
             const isSel = q.id === selected;
@@ -162,7 +162,7 @@ export function MapExplorer({
       <div className="order-1 lg:order-2">
         <div
           ref={mapRef}
-          className="relative h-[620px] overflow-hidden rounded-xl border border-[var(--border)] bg-black"
+          className="relative h-[82vh] min-h-[560px] overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
         >
           <LeafletMap map={map} active={active} highlight={highlight} />
           <button
@@ -202,7 +202,7 @@ export function MapExplorer({
         <h2 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
           Layers
         </h2>
-        <div className="max-h-[620px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2">
+        <div className="max-h-[60vh] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:max-h-[82vh]">
           {cats.map((c) => {
             const on = active.includes(c.id);
             return (
