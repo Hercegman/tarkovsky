@@ -3,8 +3,7 @@ export function SiteFooter() {
     <footer className="mt-auto border-t border-[var(--border)] bg-[var(--surface)] px-4 py-6 text-xs text-[var(--muted)]">
       <div className="mx-auto max-w-6xl space-y-2">
         <p>
-          All data is sourced <span className="text-[var(--gold)]">exclusively</span>{" "}
-          from the official{" "}
+          Quest, map and weapon data is sourced from the official{" "}
           <a
             href="https://escapefromtarkov.fandom.com"
             target="_blank"
@@ -13,7 +12,7 @@ export function SiteFooter() {
           >
             Escape from Tarkov Wiki
           </a>{" "}
-          (Fandom) — no game-mined data and no third-party APIs. Licensed under{" "}
+          (Fandom). Licensed under{" "}
           <a
             href="https://creativecommons.org/licenses/by-nc-sa/3.0/"
             target="_blank"
@@ -25,7 +24,19 @@ export function SiteFooter() {
           . This is a free, non-commercial fan project and is not affiliated with
           or endorsed by Battlestate Games.
         </p>
-        <p>Escape from Tarkov is a trademark of Battlestate Games.</p>
+        <p>
+          Gun-builder weapon default loadouts come from{" "}
+          <a
+            href="https://tarkov.dev"
+            target="_blank"
+            rel="noreferrer"
+            className="text-[var(--gold)] hover:underline"
+          >
+            tarkov.dev
+          </a>
+          ; all other data is from the wiki. Escape from Tarkov is a trademark of
+          Battlestate Games.
+        </p>
       </div>
     </footer>
   );

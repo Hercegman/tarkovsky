@@ -39,5 +39,10 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Makarov_PM_9x18PM_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "pm-9x18pm-90-93-8-round-magazine",
+    "pm-pistol-slide",
+    "pm-bakelite-grip"
+  ]
 }

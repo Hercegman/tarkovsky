@@ -96,5 +96,16 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR-L_5.56x45_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-colt-a2-pistol-grip",
+    "fn-scar-l-5-56x45-30-round-magazine",
+    "fn-scar-l-5-56x45-upper-receiver",
+    "fn-scar-l-5-56x45-18-inch-barrel",
+    "fn-scar-flip-up-rear-sight",
+    "fn-scar-bottom-rail",
+    "fn-scar-side-rails",
+    "fn-scar-folding-polymer-stock",
+    "fn-scar-charging-handle"
+  ]
 }

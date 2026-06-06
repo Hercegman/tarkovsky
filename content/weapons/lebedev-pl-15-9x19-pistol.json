@@ -46,5 +46,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Lebedev_PL-15_9x19_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "pl-15-9x19-112mm-barrel",
+    "pl-15-pistol-slide",
+    "pl-15-rear-sight",
+    "pl-15-9x19-16-round-magazine"
+  ]
 }

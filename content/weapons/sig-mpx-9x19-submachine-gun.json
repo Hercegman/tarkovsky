@@ -94,5 +94,16 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/SIG_MPX_9x19_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mcx-pistol-grip",
+    "mpx-9x19-30-round-magazine",
+    "mpx-gen1-9x19-upper-receiver",
+    "mpx-9x19-8-inch-barrel",
+    "mpx-gen1-6-inch-handguard",
+    "mpx-flip-up-front-sight",
+    "mpx-flip-up-rear-sight",
+    "sig-sauer-collapsing-telescoping-stock",
+    "mpx-ambidextrous-charging-handle"
+  ]
 }

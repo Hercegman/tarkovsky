@@ -147,9 +147,9 @@ export function GunBuilder({
   const stats = weapon ? computeStats(weapon, chosen) : null;
   const base = weapon ? computeStats(weapon, []) : null;
 
-  function pick(weaponId: string) {
-    setWeaponId(weaponId);
-    setSelections({});
+  function pick(w: Weapon) {
+    setWeaponId(w.id);
+    setSelections(defaultSelections(w, attachments));
   }
 
   if (!weapon) {
@@ -172,7 +172,7 @@ export function GunBuilder({
             <button
               key={w.id}
               type="button"
-              onClick={() => pick(w.id)}
+              onClick={() => pick(w)}
               className="group flex items-center gap-3 rounded-xl border border-[var(--border)] bg-[var(--surface)] p-3 text-left transition-all hover:-translate-y-0.5 hover:border-[var(--gold-dim)]"
             >
               <span className="flex h-14 w-24 shrink-0 items-center justify-center">
@@ -264,14 +264,38 @@ export function GunBuilder({
               </dl>
             )}
             <p className="mt-3 border-t border-[var(--border)] pt-2 text-[11px] text-[var(--muted)]">
-              Base is the bare weapon (no mods); fitted mods add their modifiers.
-              Approximate — cross-slot conflicts aren&apos;t modelled.
+              Starts with the weapon&apos;s factory default attachments; the delta is
+              vs the bare weapon. Stats are wiki-sourced and approximate.
             </p>
           </div>
         </aside>
       </div>
     </div>
   );
+}
+
+/** Pre-select a weapon's factory default attachments into their matching slots. */
+function defaultSelections(
+  weapon: Weapon,
+  attachments: Record<string, Attachment>,
+): Record<string, string> {
+  const set = new Set(weapon.defaults ?? []);
+  if (!set.size) return {};
+  const out: Record<string, string> = {};
+  const walk = (slots: WeaponSlot[], prefix: string, depth: number) => {
+    if (depth > 4) return; // guard against cyclic nested slots
+    for (const slot of slots) {
+      const key = prefix ? `${prefix}>${slot.name}` : slot.name;
+      const match = slot.allowed.find((id) => set.has(id));
+      if (match) {
+        out[key] = match;
+        const sub = attachments[match]?.slots;
+        if (sub?.length) walk(sub, key, depth + 1);
+      }
+    }
+  };
+  walk(weapon.slots, "", 0);
+  return out;
 }
 
 function SlotTree({

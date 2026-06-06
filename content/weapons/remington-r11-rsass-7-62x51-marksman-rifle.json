@@ -197,5 +197,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Remington_R11_RSASS_7.62x51_marksman_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-magpul-miad-pistol-grip-fde",
+    "ar-10-7-62x51-magpul-pmag-20-sr-lr-gen-m3-20-round-magazine",
+    "ar-15-magpul-enhanced-receiver-extension",
+    "r11-rsass-handguard",
+    "ar-10-7-62x51-22-inch-barrel",
+    "ar-10-aac-blackout-51t-7-62x51-flash-hider",
+    "ar-10-jp-enterprises-gas-system-6"
+  ]
 }

@@ -69,5 +69,10 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/MPS_Auto_Assault-12_Gen_2_12ga_automatic_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "aa-12-stock-assembly",
+    "aa-12-12ga-8-round-magazine",
+    "aa-12-12ga-330mm-barrel"
+  ]
 }

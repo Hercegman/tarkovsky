@@ -41,5 +41,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Molot_Arms_VPO-215_Gornostay_.366_TKM_bolt-action_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "vpo-215-366-tkm-4-round-magazine",
+    "vpo-215-wooden-stock",
+    "vpo-215-02-366tkm-600mm-barrel",
+    "vpo-215-scope-rail-mount"
+  ]
 }

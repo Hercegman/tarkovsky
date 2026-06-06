@@ -136,5 +136,15 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/U.S._Ordnance_M60E6_7.62x51_light_machine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "m60-7-62x51-capco-100-round-assault-box",
+    "m60e6-buttstock",
+    "m60e6-7-62x51-458mm-barrel",
+    "m60e6-7-62x51-flash-hider",
+    "m60e6-handguard",
+    "m60-rear-sight",
+    "m60e6-trigger-group",
+    "m60-bipod"
+  ]
 }

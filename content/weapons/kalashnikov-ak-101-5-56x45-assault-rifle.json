@@ -155,5 +155,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AK-101_5.56x45_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ak-74-gas-tube",
+    "ak-101-5-56x45-muzzle-brake",
+    "ak-74-polymer-pistol-grip",
+    "ak-74m-dust-cover",
+    "ak-74m-rear-sight",
+    "ak-74m-polymer-stock",
+    "ak-101-5-56x45-6l29-30-round-magazine"
+  ]
 }

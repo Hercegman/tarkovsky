@@ -85,5 +85,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_PKM_7.62x54R_machine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "pk-pistol-grip",
+    "pkm-7-62x54r-658mm-barrel",
+    "pk-7-62x54r-100-round-box",
+    "pkm-wooden-stock",
+    "pk-bipod",
+    "pk-rear-sight"
+  ]
 }

@@ -22,5 +22,8 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/MP-43_12ga_sawed-off_double-barrel_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mp-43-12ga-sawed-off-310mm-barrel"
+  ]
 }

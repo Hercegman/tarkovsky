@@ -69,5 +69,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/SIG_P226R_9x19_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "p226-9x19-112mm-barrel",
+    "p226-polymer-pistol-grip-black",
+    "p226r-mk25-pistol-slide",
+    "p226-rear-sight",
+    "p226-front-sight",
+    "p226-9x19-15-round-magazine"
+  ]
 }

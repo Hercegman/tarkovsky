@@ -50,5 +50,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/TOZ_Simonov_SKS_7.62x39_carbine",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "sks-toz-wooden-stock-56-a-231-sb-5",
+    "sks-7-62x39-520mm-barrel",
+    "sks-front-trunnion",
+    "sks-gas-tube",
+    "sks-7-62x39-10-round-internal-box-magazine",
+    "sks-dust-cover"
+  ]
 }

@@ -80,5 +80,16 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Colt_M1911A1_.45_ACP_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "m1911a1-45-acp-127mm-barrel",
+    "m1911a1-side-grips",
+    "m1911a1-pistol-slide",
+    "m1911a1-rear-sight",
+    "m1911a1-front-sight",
+    "m1911a1-45-acp-7-round-magazine",
+    "m1911a1-trigger",
+    "m1911a1-hammer",
+    "m1911a1-slide-stop"
+  ]
 }

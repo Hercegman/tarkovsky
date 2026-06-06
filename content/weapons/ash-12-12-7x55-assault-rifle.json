@@ -147,5 +147,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/ASh-12_12.7x55_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ash-12-12-7x55-muzzle-brake",
+    "ash-12-12-7x55-10-round-magazine",
+    "ash-12-folding-front-sight",
+    "ash-12-polymer-handguard",
+    "ash-12-vertical-foregrip",
+    "ash-12-rear-sight-carry-handle"
+  ]
 }

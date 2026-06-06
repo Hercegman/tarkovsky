@@ -40,5 +40,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Sako_TRG_M10_.338_LM_bolt-action_sniper_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "sako-trg-m10-338-lm-8-round-magazine",
+    "sako-trg-m10-338-lm-bolt-assembly",
+    "sako-trg-m10-chassis",
+    "sako-trg-m10-338-lm-receiver",
+    "sako-trg-m10-15-inch-handguard-assembly",
+    "sako-trg-m10-338-lm-23-5-inch-barrel"
+  ]
 }

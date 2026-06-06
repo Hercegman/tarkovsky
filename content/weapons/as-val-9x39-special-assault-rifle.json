@@ -96,5 +96,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/AS_VAL_9x39_special_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "as-val-9x39-integral-barrel-suppressor",
+    "as-val-rear-sight",
+    "as-val-dust-cover",
+    "vss-val-9x39-6l25-20-round-magazine-plum",
+    "as-val-pistol-grip-plum",
+    "as-val-skeleton-stock",
+    "vss-val-polymer-handguard-plum"
+  ]
 }

@@ -95,5 +95,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/SV-98_7.62x54R_bolt-action_sniper_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "sv-98-7-62x54r-10-round-magazine",
+    "sv-98-rear-sight",
+    "sv-98-anti-heat-ribbon",
+    "sv-98-7-62x54r-muzzle-device",
+    "sv-98-wooden-stock"
+  ]
 }

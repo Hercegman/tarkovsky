@@ -97,5 +97,16 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/RPK-16_5.45x39_light_machine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ak-12-pistol-grip",
+    "rpk-16-dust-cover",
+    "rpk-16-rear-sight-base",
+    "rpk-16-rear-sight",
+    "rpk-16-buffer-tube",
+    "ak-12-stock",
+    "rpk-16-handguard",
+    "ak-12-handguard-type-rail",
+    "rpk-16-5-45x39-15-inch-barrel"
+  ]
 }

@@ -78,5 +78,9 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/RSh-12_12.7x55_revolver",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "rsh-12-12-7x55-5-round-cylinder",
+    "rsh-12-pistol-grip"
+  ]
 }

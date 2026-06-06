@@ -35,5 +35,9 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/PP-91_Kedr_9x18PM_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "pp-91-kedr-polymer-pistol-grip",
+    "pp-91-kedr-9x18pm-30-round-magazine"
+  ]
 }

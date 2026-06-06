@@ -162,7 +162,8 @@ export function MapExplorer({
       <div className="order-1 lg:order-2">
         <div
           ref={mapRef}
-          className="relative h-[82vh] min-h-[560px] overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
+          style={{ aspectRatio: `${map.width} / ${map.height}` }}
+          className="map-fs relative max-h-[85vh] w-full overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
         >
           <LeafletMap map={map} active={active} highlight={highlight} />
           <button

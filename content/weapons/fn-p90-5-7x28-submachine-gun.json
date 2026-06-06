@@ -51,5 +51,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/FN_P90_5.7x28_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "fn-p90-5-7x28-50-round-magazine",
+    "fn-p90-stock",
+    "fn-p90-5-7x28-upper-receiver",
+    "fn-p90-5-7x28-10-5-inch-barrel",
+    "fn-p90-charging-handle"
+  ]
 }

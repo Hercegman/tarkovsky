@@ -165,5 +165,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AKS-74N_5.45x39_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ak-74-gas-tube",
+    "ak-74-5-45x39-muzzle-brake",
+    "aks-74u-bakelite-pistol-grip",
+    "ak-74-dust-cover",
+    "ak-74-rear-sight",
+    "aks-74-skeletonized-stock",
+    "ak-74-5-45x39-6l20-30-round-magazine"
+  ]
 }

@@ -95,5 +95,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Lobaev_Arms_DVL-10_7.62x51_bolt-action_sniper_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "dvl-10-7-62x51-10-round-magazine",
+    "dvl-10-m2-7-62x51-660mm-barrel",
+    "dvl-10-m2-7-62x51-muzzle-brake",
+    "hogue-overmolded-rubber-grip-olive-drab",
+    "dvl-10-lobaev-arms-stock"
+  ]
 }

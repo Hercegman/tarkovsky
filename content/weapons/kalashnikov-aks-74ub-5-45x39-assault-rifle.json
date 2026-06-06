@@ -137,5 +137,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AKS-74UB_5.45x39_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ak-74-bakelite-pistol-grip",
+    "aks-74u-skeletonized-stock",
+    "ak-74-5-45x39-6l20-30-round-magazine",
+    "aks-74u-pbs-4-5-45x39-sound-suppressor",
+    "aks-74ub-dust-cover",
+    "aks-74u-gas-tube",
+    "aks-74u-wooden-handguard"
+  ]
 }

@@ -90,5 +90,19 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Knight's_Armament_Company_SR-25_7.62x51_marksman_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-colt-a2-pistol-grip",
+    "ar-10-7-62x51-kac-20-round-steel-magazine",
+    "ar-15-colt-carbine-buffer-tube",
+    "ar-15-lmt-sopmod-stock",
+    "sr-25-7-62x51-upper-receiver",
+    "sr-25-7-62x51-16-inch-barrel",
+    "ar-10-kac-qdc-7-62x51-flash-suppressor-kit",
+    "ar-10-kac-low-profile-gas-block",
+    "ar-10-kac-urx-4-14-5-inch-handguard",
+    "kac-folding-micro-front-sight",
+    "kac-folding-micro-rear-sight",
+    "ar-10-kac-charging-handle"
+  ]
 }

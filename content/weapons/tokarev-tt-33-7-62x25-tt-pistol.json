@@ -52,5 +52,10 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Tokarev_TT-33_7.62x25_TT_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "tt-7-62x25-116mm-barrel",
+    "tt-side-grips",
+    "tt-7-62x25-tt-105-8-round-magazine"
+  ]
 }

@@ -72,5 +72,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Glock_18C_9x19_machine_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "glock-18c-9x19-114mm-compensated-barrel",
+    "glock-18c-pistol-slide",
+    "glock-rear-sight",
+    "glock-front-sight",
+    "glock-9x19-17-round-magazine"
+  ]
 }

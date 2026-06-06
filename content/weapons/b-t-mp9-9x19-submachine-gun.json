@@ -56,5 +56,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/B%26T_MP9_9x19_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mp9-9x19-30-round-magazine",
+    "mp9-stock",
+    "mp9-n-vertical-foregrip",
+    "mp9-n-9x19-upper-receiver",
+    "mp9-rear-sight",
+    "mp9-charging-handle"
+  ]
 }

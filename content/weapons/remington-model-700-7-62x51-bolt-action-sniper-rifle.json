@@ -58,5 +58,10 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Remington_Model_700_7.62x51_bolt-action_sniper_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "m700-7-62x51-wyatts-outdoor-5-round-magazine",
+    "m700-hogue-overmolded-ghillie-stock",
+    "m700-7-62x51-20-inch-threaded-barrel"
+  ]
 }

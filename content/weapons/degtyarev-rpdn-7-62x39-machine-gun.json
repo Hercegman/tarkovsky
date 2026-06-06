@@ -71,5 +71,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Degtyarev_RPDN_7.62x39_machine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "rpd-7-62x39-buben-100-round-box",
+    "rpd-wooden-stock",
+    "rpd-7-62x39-520mm-barrel",
+    "rpd-barrel-thread-protector",
+    "rpd-wooden-handguard",
+    "rpd-rear-sight"
+  ]
 }

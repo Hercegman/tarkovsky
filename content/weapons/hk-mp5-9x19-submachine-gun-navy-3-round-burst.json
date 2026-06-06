@@ -37,5 +37,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/HK_MP5_9x19_submachine_gun_(Navy_3_Round_Burst)",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "hk-mp5-9x19-30-round-magazine",
+    "hk-mp5-9x19-upper-receiver",
+    "hk-mp5-wide-tropical-polymer-handguard",
+    "hk-mp5-drum-rear-sight",
+    "hk-mp5-a2-stock",
+    "hk-mp5-3-lug-muzzle-adapter",
+    "hk-mp5-cocking-handle"
+  ]
 }

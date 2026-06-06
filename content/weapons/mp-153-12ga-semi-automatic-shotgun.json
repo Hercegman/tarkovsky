@@ -59,5 +59,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_semi-automatic_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mp-153-12ga-750mm-barrel",
+    "mp-153-polymer-forestock",
+    "mp-153-12ga-4-shell-magazine-cap",
+    "mp-133-153-plastic-stock"
+  ]
 }

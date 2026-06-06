@@ -41,5 +41,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/PPSh-41_7.62x25_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ppsh-41-stock",
+    "ppsh-41-7-62x25-35-round-magazine",
+    "ppsh-41-dust-cover",
+    "ppsh-41-7-62x25-269mm-barrel"
+  ]
 }

@@ -124,5 +124,16 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/ADAR_2-15_5.56x45_carbine",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-adar-2-15-wooden-stock",
+    "ar-15-5-56x45-magpul-pmag-10-gen-m3-stanag-10-round-magazine",
+    "ar-15-adar-2-15-5-56x45-upper-receiver",
+    "ar-15-5-56x45-molot-arms-16-inch-barrel",
+    "ar-15-adar-2-15-5-56x45-flash-hider",
+    "m4a1-front-sight-with-gas-block",
+    "ar-15-adar-2-15-wooden-handguard",
+    "ar-15-adar-2-15-buffer-tube",
+    "ar-15-adar-2-15-charging-handle"
+  ]
 }

@@ -35,5 +35,9 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/PP-9_Klin_9x18PMM_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "pp-91-kedr-polymer-pistol-grip",
+    "pp-91-kedr-9x18pm-30-round-magazine"
+  ]
 }

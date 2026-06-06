@@ -51,5 +51,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Mosin_7.62x54R_bolt-action_rifle_(Sniper)",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mosin-rifle-7-62x54r-5-round-magazine",
+    "mosin-rifle-standard-stock",
+    "mosin-rifle-7-62x54r-730mm-regular-barrel",
+    "mosin-rifle-front-sight",
+    "mosin-rifle-rear-sight"
+  ]
 }

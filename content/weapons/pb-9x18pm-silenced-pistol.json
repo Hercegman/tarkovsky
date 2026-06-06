@@ -35,5 +35,10 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/PB_9x18PM_silenced_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "pm-9x18pm-90-93-8-round-magazine",
+    "pb-9x18pm-sound-suppressor",
+    "pb-bakelite-side-grips"
+  ]
 }

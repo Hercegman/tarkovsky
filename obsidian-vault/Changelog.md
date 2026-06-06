@@ -7,7 +7,16 @@ Newest first.
 
 ---
 
-## `_pending_` — maps: bigger layout, no white background · 2026-06-06
+## `_pending_` — map fills its box; gun builder default loadouts · 2026-06-06
+- **Changed:** the map container now uses the map image's aspect ratio, so the
+  image fills the box edge-to-edge (no empty/white margin); fullscreen still fills.
+- **Added:** gun builder pre-installs each weapon's **factory default attachments**
+  (default presets fetched from tarkov.dev → `scripts/ingest-default-presets.mts`,
+  mapped to wiki attachments). So stats start at the default gun and swapping a mod
+  computes the correct delta. Footer notes default loadouts come from tarkov.dev;
+  all other data stays wiki-sourced.
+
+## `6ff4da9` — maps: bigger layout, no white background · 2026-06-06
 - **Changed:** wider map page; bigger quests + layers sidebars; taller map (82vh).
 - **Fixed:** removed Leaflet's default light-grey background around the map image
   (`.leaflet-container` transparent) so there's no white box around the map.

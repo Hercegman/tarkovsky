@@ -77,5 +77,16 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/SVDS_7.62x54R_sniper_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "svds-pistol-grip",
+    "svd-7-62x54r-10-round-magazine",
+    "svds-polymer-stock",
+    "svd-7-62x54r-565mm-barrel",
+    "svds-7-62x54r-muzzle-brake",
+    "svds-gas-tube",
+    "svds-front-trunnion",
+    "svds-polymer-handguard",
+    "svds-dust-cover"
+  ]
 }

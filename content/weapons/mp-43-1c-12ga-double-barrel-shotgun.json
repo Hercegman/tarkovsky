@@ -30,5 +30,9 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/MP-43-1C_12ga_double-barrel_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mp-43-1c-12ga-725mm-barrel",
+    "mp-43-1c-buttpad"
+  ]
 }

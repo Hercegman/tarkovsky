@@ -36,5 +36,10 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Chiappa_Rhino_200DS_9x19_revolver",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "chiappa-rhino-9x19-6-round-cylinder",
+    "chiappa-rhino-front-sight",
+    "chiappa-rhino-wooden-pistol-grip"
+  ]
 }

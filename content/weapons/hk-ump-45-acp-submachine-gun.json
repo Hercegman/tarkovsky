@@ -89,5 +89,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/HK_UMP_.45_ACP_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "hk-ump-45-acp-25-round-magazine",
+    "hk-ump-polymer-stock",
+    "hk-ump-45-acp-8-inch-barrel",
+    "hk-ump-bottom-handguard-rail",
+    "hk-ump-side-handguard-rail"
+  ]
 }

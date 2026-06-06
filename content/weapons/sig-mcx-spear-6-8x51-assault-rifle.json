@@ -90,5 +90,18 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/SIG_MCX-SPEAR_6.8x51_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-sig-sauer-reduced-angle-pistol-grip-coyote-tan",
+    "ar-10-7-62x51-lancer-l7awm-20-round-magazine",
+    "mcx-spear-6-8x51-upper-receiver",
+    "sig-sauer-alpha4-30mm-ring-scope-mount",
+    "sig-sauer-tango6t-1-6x24-30mm-riflescope",
+    "mcx-spear-6-8x51-13-inch-barrel",
+    "mcx-spear-adjustable-gas-piston",
+    "mcx-spear-11-inch-m-lok-handguard",
+    "sig-sauer-locking-stock-hinge-assembly",
+    "ar-15-magpul-moe-sl-k-buttstock-coyote-tan",
+    "mcx-spear-charging-handle"
+  ]
 }

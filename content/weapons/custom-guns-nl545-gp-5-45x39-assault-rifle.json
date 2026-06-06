@@ -104,5 +104,19 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Custom_Guns_NL545_(GP)_5.45x39_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-dlg-tactical-dlg-138-pistol-grip-black",
+    "ak-74-5-45x39-magpul-pmag-30-gen-m3-30-round-magazine",
+    "nl545-di-5-45x39-upper-receiver",
+    "nl545-di-5-45x39-16-3-inch-barrel",
+    "ar-15-lantac-dragon-5-56x45-muzzle-brake",
+    "ar-15-slr-rifleworks-sentry-7-gas-block",
+    "ar-15-custom-guns-14-inch-m-lok-handguard",
+    "magpul-mbus-gen2-flip-up-front-sight",
+    "magpul-mbus-gen2-flip-up-rear-sight",
+    "ar-15-custom-guns-buffer-tube",
+    "ar-15-fab-defense-gl-core-buttstock",
+    "nl545-charging-handle"
+  ]
 }

@@ -164,5 +164,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Molot_Arms_VPO-136_Vepr-KM_7.62x39_carbine",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "molot-arms-akm-type-gas-tube",
+    "vpo-136-vepr-km-7-62x39-muzzle-brake",
+    "ak-molot-bakelite-pistol-grip",
+    "molot-arms-akm-type-dust-cover",
+    "akm-rear-sight",
+    "vpo-136-vepr-km-wooden-stock",
+    "ak-7-62x39-aluminium-10-round-magazine"
+  ]
 }

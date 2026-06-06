@@ -56,5 +56,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Beretta_M9A3_9x19_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "m9a3-9x19-127mm-threaded-barrel",
+    "m9a3-polymer-side-grips",
+    "m9a3-pistol-slide",
+    "m9a3-front-sight",
+    "m9a3-9x19-17-round-magazine"
+  ]
 }

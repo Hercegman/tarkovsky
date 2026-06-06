@@ -86,5 +86,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Glock_17_9x19_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "glock-17-9x19-114mm-barrel",
+    "glock-17-pistol-slide",
+    "glock-rear-sight",
+    "glock-front-sight",
+    "glock-9x19-17-round-magazine"
+  ]
 }

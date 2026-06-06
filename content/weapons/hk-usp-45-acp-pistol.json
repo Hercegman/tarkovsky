@@ -69,5 +69,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/HK_USP_.45_ACP_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "hk-usp-45-acp-112mm-barrel",
+    "hk-usp-45-acp-pistol-slide",
+    "hk-usp-front-sight",
+    "hk-usp-45-acp-12-round-magazine",
+    "hk-usp-trigger",
+    "hk-usp-hammer",
+    "hk-usp-slide-lock"
+  ]
 }

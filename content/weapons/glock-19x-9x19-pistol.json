@@ -67,5 +67,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Glock_19X_9x19_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "glock-19x-9x19-102mm-barrel",
+    "glock-19x-pistol-slide",
+    "glock-19x-rear-sight",
+    "glock-19x-front-sight",
+    "glock-9x19-19-round-magazine-coyote"
+  ]
 }

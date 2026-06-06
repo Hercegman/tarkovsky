@@ -80,5 +80,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Molot_Arms_VPO-101_Vepr-Hunter_7.62x51_carbine",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "vpo-101-gas-tube",
+    "vpo-101-dust-cover",
+    "vpo-101-rear-sight",
+    "vpo-101-wooden-stock",
+    "vpo-101-7-62x51-5-round-magazine"
+  ]
 }

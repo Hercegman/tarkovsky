@@ -103,5 +103,15 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Soyuz-TM_STM-9_Gen.2_9x19_carbine",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-dlg-tactical-dlg-123-pistol-grip",
+    "glock-9x19-big-stick-33-round-magazine",
+    "stm-9-9x19-upper-receiver",
+    "stm-9-9x19-10-5-inch-barrel",
+    "ar-15-soyuz-tm-9-inch-m-lok-handguard",
+    "ar-15-soyuz-tm-buffer-tube",
+    "ar-15-fab-defense-gl-core-buttstock",
+    "ar-15-masp-industries-ambidextrous-battle-charging-handle"
+  ]
 }

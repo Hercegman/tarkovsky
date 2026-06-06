@@ -90,5 +90,17 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/FN_SCAR-H_7.62x51_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-damage-industries-ecs-pistol-grip-fde",
+    "fn-scar-h-7-62x51-20-round-magazine-fde",
+    "fn-scar-h-7-62x51-upper-receiver-fde",
+    "fn-scar-h-7-62x51-16-inch-barrel",
+    "ar-10-aac-scar-sd-51t-7-62x51-flash-hider",
+    "fn-scar-flip-up-rear-sight",
+    "fn-scar-bottom-rail",
+    "fn-scar-side-rails",
+    "fn-scar-folding-polymer-stock-fde",
+    "fn-scar-charging-handle"
+  ]
 }

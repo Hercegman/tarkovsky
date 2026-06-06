@@ -103,5 +103,19 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/CMMG_Mk47_Mutant_7.62x39_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-magpul-moe-pistol-grip-black",
+    "ak-7-62x39-magpul-pmag-30-gen-m3-30-round-magazine",
+    "mk47-resolute-7-62x39-upper-receiver",
+    "mk47-254mm-barrel",
+    "ar-10-cmmg-sv-brake-7-62x51-muzzle-brake",
+    "ar-10-cmmg-low-profile-gas-block",
+    "ar-10-cmmg-mk3-rml9-9-inch-m-lok-handguard",
+    "magpul-mbus-gen2-flip-up-front-sight",
+    "magpul-mbus-gen2-flip-up-rear-sight",
+    "ar-15-cmmg-buffer-tube",
+    "ar-15-cmmg-ripstock-buttstock",
+    "mk47-ambidextrous-charging-handle"
+  ]
 }

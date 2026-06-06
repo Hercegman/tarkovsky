@@ -34,5 +34,9 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Yarygin_MP-443_Grach_9x19_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mp-443-grach-9x19-18-round-magazine",
+    "mp-443-grach-polymer-pistol-grip"
+  ]
 }

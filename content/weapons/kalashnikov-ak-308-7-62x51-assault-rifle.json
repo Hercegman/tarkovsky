@@ -104,5 +104,17 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AK-308_7.62x51_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ak-12-gas-tube",
+    "ak-308-7-62x51-flash-hider",
+    "ak-12-pistol-grip",
+    "ak-308-railed-dust-cover",
+    "ak-12-rear-sight",
+    "ak-12-buffer-tube",
+    "ak-12-stock",
+    "ak-308-7-62x51-20-round-magazine",
+    "ak-308-handguard",
+    "ak-12-handguard-type-rail"
+  ]
 }

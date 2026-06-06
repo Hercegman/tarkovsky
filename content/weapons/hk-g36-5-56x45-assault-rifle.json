@@ -97,5 +97,16 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/HK_G36_5.56x45_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "hk-g36-5-56x45-30-round-magazine",
+    "hk-g36-polymer-stock",
+    "hk-g36-5-56x45-480mm-barrel",
+    "hk-g36-5-56x45-4-prong-flash-hider",
+    "hk-g36-gas-block",
+    "hk-g36-6-vent-handguard",
+    "hk-g36-magwell",
+    "hk-g36-hensoldt-hkv-3x-carry-handle",
+    "hensoldt-rv-red-dot-sight"
+  ]
 }

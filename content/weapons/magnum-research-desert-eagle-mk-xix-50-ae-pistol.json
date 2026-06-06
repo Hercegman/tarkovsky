@@ -44,5 +44,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Magnum_Research_Desert_Eagle_Mk_XIX_.50_AE_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "desert-eagle-mk-xix-50-ae-152mm-barrel",
+    "desert-eagle-front-sight",
+    "desert-eagle-hogue-rubber-grip",
+    "desert-eagle-mk-xix-pistol-slide",
+    "desert-eagle-50-ae-7-round-magazine"
+  ]
 }
