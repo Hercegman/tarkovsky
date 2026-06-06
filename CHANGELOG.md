@@ -7,7 +7,11 @@ Newest first.
 
 ---
 
-## `_pending_` — full-bleed map layout: edge sidebars, bigger map · 2026-06-06
+## `_pending_` — centre the map vertically · 2026-06-06
+- **Changed:** the map is now vertically centred within the sidebar row
+  (`lg:self-center`) so it sits towards the middle instead of pinned to the top.
+
+## `4dee050` — full-bleed map layout: edge sidebars, bigger map · 2026-06-06
 - **Changed:** the map page now spans the full page width — the quests and layers
   sidebars sit at the left/right page edges, and the map fills the freed centre
   space (bigger). Both sidebars are now the same fixed height (`88vh`) and scroll
