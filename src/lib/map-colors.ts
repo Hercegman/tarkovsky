@@ -7,7 +7,7 @@ const CURATED: Record<string, string> = {
   exfil_pmc: "#57b85a", // green
   exfil_scav: "#4f8fe0", // blue
   exfil_transit: "#46c7c7", // cyan
-  exfil_shared: "#7fd06a",
+  exfil_shared: "#ffb01f", // sunburst yellow (PMC + Scav share this extract)
   spawn_pmc: "#e05a5a", // red
   spawn_scav: "#d98a3a", // orange
   spawn_sniper: "#b06be0", // purple

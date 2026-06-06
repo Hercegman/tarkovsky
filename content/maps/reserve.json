@@ -145,6 +145,11 @@
       "id": "container_greencrate",
       "name": "Wooden Crate",
       "color": "#fa005a"
+    },
+    {
+      "id": "exfil_shared",
+      "name": "Shared Extraction",
+      "color": "#ffb01f"
     }
   ],
   "markers": [
@@ -156,27 +161,9 @@
     },
     {
       "c": "exfil_pmc",
-      "x": 3399,
-      "y": 2517,
-      "t": "Bunker Hermetic Door"
-    },
-    {
-      "c": "exfil_pmc",
       "x": 2061,
       "y": 354,
       "t": "Cliff Descent"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 2150,
-      "y": 2226,
-      "t": "Scav Lands (Co-Op)"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 912,
-      "y": 1893,
-      "t": "Armored Train"
     },
     {
       "c": "exfil_scav",
@@ -201,12 +188,6 @@
       "x": 3095,
       "y": 1471,
       "t": "Hole in the Wall by the Mountains"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 1624,
-      "y": 923,
-      "t": "Sewer Manhole"
     },
     {
       "c": "locked",
@@ -3263,30 +3244,6 @@
       "t": "Glukhar Boss Spawn"
     },
     {
-      "c": "exfil_scav",
-      "x": 922,
-      "y": 1893,
-      "t": "Armored Train"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 2160,
-      "y": 2226,
-      "t": "Scav Lands (Co-Op)"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 1634,
-      "y": 923,
-      "t": "Sewer Manhole"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 3409,
-      "y": 2517,
-      "t": "Bunker Hermetic Door"
-    },
-    {
       "c": "exfil_transit",
       "x": 374,
       "y": 1647,
@@ -3329,18 +3286,6 @@
       "t": "Every tank driver's first videogame"
     },
     {
-      "c": "exfil_pmc",
-      "x": 1255,
-      "y": 2415,
-      "t": "Exit to Woods"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 1265,
-      "y": 2415,
-      "t": "Exit to Woods"
-    },
-    {
       "c": "quest",
       "x": 3549,
       "y": 480,
@@ -3375,6 +3320,36 @@
       "x": 4216,
       "y": 2295,
       "t": "RB-PKPTS"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 3399,
+      "y": 2517,
+      "t": "Bunker Hermetic Door"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 2150,
+      "y": 2226,
+      "t": "Scav Lands (Co-Op)"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 912,
+      "y": 1893,
+      "t": "Armored Train"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 1624,
+      "y": 923,
+      "t": "Sewer Manhole"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 1255,
+      "y": 2415,
+      "t": "Exit to Woods"
     }
   ]
 }

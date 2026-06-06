@@ -160,6 +160,11 @@
       "id": "container_greencrate",
       "name": "Wooden Crate",
       "color": "#fa005a"
+    },
+    {
+      "id": "exfil_shared",
+      "name": "Shared Extraction",
+      "color": "#ffb01f"
     }
   ],
   "markers": [
@@ -435,12 +440,6 @@
     },
     {
       "c": "exfil_pmc",
-      "x": 2832,
-      "y": 596,
-      "t": "Smugglers' Boat"
-    },
-    {
-      "c": "exfil_pmc",
       "x": 1974,
       "y": 207,
       "t": "Dorms V-Ex"
@@ -453,12 +452,6 @@
     },
     {
       "c": "exfil_pmc",
-      "x": 852,
-      "y": 1524,
-      "t": "Smugglers' Bunker (ZB-1012)"
-    },
-    {
-      "c": "exfil_pmc",
       "x": 1461,
       "y": 1764,
       "t": "Old Gas Station"
@@ -468,18 +461,6 @@
       "x": 1938,
       "y": 1645,
       "t": "ZB-013"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 2726,
-      "y": 1671,
-      "t": "RUAF Roadblock"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 3975,
-      "y": 1400,
-      "t": "Crossroads"
     },
     {
       "c": "exfil_scav",
@@ -3404,18 +3385,6 @@
       "t": "Stash the Propane tank (5L)"
     },
     {
-      "c": "exfil_scav",
-      "x": 2740,
-      "y": 1674,
-      "t": "RUAF Roadblock"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 3997,
-      "y": 1405,
-      "t": "Crossroads"
-    },
-    {
       "c": "exfil_transit",
       "x": 1306,
       "y": 1803,
@@ -3465,33 +3434,9 @@
     },
     {
       "c": "exfil_pmc",
-      "x": 2246,
-      "y": 1270,
-      "t": "Boiler Room Basement (Co-op)"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 2272,
-      "y": 1271,
-      "t": "Boiler Room Basement (Co-op)"
-    },
-    {
-      "c": "exfil_pmc",
       "x": 1959,
       "y": 2105,
       "t": "Railroad Passage (Flare)"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 2842,
-      "y": 596,
-      "t": "Smugglers' Boat"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 862,
-      "y": 1524,
-      "t": "Smugglers' Bunker (ZB-1012)"
     },
     {
       "c": "quest",
@@ -3528,6 +3473,36 @@
       "x": 2343,
       "y": 1485,
       "t": "Reshala's Bunkhouse"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 2832,
+      "y": 596,
+      "t": "Smugglers' Boat"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 852,
+      "y": 1524,
+      "t": "Smugglers' Bunker (ZB-1012)"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 2726,
+      "y": 1671,
+      "t": "RUAF Roadblock"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 3975,
+      "y": 1400,
+      "t": "Crossroads"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 2246,
+      "y": 1270,
+      "t": "Boiler Room Basement (Co-op)"
     }
   ]
 }

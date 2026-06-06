@@ -155,6 +155,11 @@
       "id": "container_greencrate",
       "name": "Wooden Crate",
       "color": "#fa005a"
+    },
+    {
+      "id": "exfil_shared",
+      "name": "Shared Extraction",
+      "color": "#ffb01f"
     }
   ],
   "markers": [
@@ -3273,18 +3278,6 @@
       "t": "Stylobate Building Elevator"
     },
     {
-      "c": "exfil_pmc",
-      "x": 4871,
-      "y": 3403,
-      "t": "Pinewood Basement (Co-Op)"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 3736,
-      "y": 3493,
-      "t": "Smugglers' Basement"
-    },
-    {
       "c": "exfil_scav",
       "x": 3589,
       "y": 4784,
@@ -4089,12 +4082,6 @@
       "t": "Obtain the Tarkov City Souvenir Key"
     },
     {
-      "c": "exfil_scav",
-      "x": 4881,
-      "y": 3401,
-      "t": "Pinewood Basement (Co-Op)"
-    },
-    {
       "c": "exfil_transit",
       "x": 2924,
       "y": 3284,
@@ -4135,12 +4122,6 @@
       "x": 2921,
       "y": 2383,
       "t": "The really scary hole in the wall "
-    },
-    {
-      "c": "exfil_scav",
-      "x": 3746,
-      "y": 3493,
-      "t": "Smugglers' Basement"
     },
     {
       "c": "quest",
@@ -4255,6 +4236,18 @@
       "x": 5209,
       "y": 1334,
       "t": "Sniper Scav Spawn"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 4871,
+      "y": 3403,
+      "t": "Pinewood Basement (Co-Op)"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 3736,
+      "y": 3493,
+      "t": "Smugglers' Basement"
     }
   ]
 }

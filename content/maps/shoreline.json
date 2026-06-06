@@ -170,6 +170,11 @@
       "id": "container_greencrate",
       "name": "Wooden Crate",
       "color": "#fa005a"
+    },
+    {
+      "id": "exfil_shared",
+      "name": "Shared Extraction",
+      "color": "#ffb01f"
     }
   ],
   "markers": [
@@ -190,18 +195,6 @@
       "x": 380,
       "y": 2797,
       "t": "Path to Lighthouse "
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 3126,
-      "y": 3330,
-      "t": "Mountain Bunker"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 4732,
-      "y": 2044,
-      "t": "Road to Customs"
     },
     {
       "c": "exfil_pmc",
@@ -232,12 +225,6 @@
       "x": 2495,
       "y": 3245,
       "t": "Climber's Trail"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 4186,
-      "y": 2882,
-      "t": "Smugglers' Path (Co-op)"
     },
     {
       "c": "exfil_pmc",
@@ -1716,18 +1703,6 @@
       "t": "Obtain information about Thirsty"
     },
     {
-      "c": "exfil_scav",
-      "x": 4197,
-      "y": 2882,
-      "t": "Smugglers' Path (Co-op)"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 4705,
-      "y": 2044,
-      "t": "Road to Customs"
-    },
-    {
       "c": "exfil_transit",
       "x": 390,
       "y": 2787,
@@ -1798,12 +1773,6 @@
       "x": 3952,
       "y": 4186,
       "t": "TerraGroup Labs Yellow Keycard"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 3136,
-      "y": 3330,
-      "t": "Mountain Bunker"
     },
     {
       "c": "quest",
@@ -1966,6 +1935,24 @@
       "x": 2872,
       "y": 315,
       "t": "Transit to Icebreaker "
+    },
+    {
+      "c": "exfil_shared",
+      "x": 3126,
+      "y": 3330,
+      "t": "Mountain Bunker"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 4186,
+      "y": 2882,
+      "t": "Smugglers' Path (Co-op)"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 4705,
+      "y": 2044,
+      "t": "Road to Customs"
     }
   ]
 }

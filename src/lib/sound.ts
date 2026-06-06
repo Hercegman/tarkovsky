@@ -1,11 +1,30 @@
-// Synthesized UI sounds via the Web Audio API — no audio files. Style: quiet,
-// percussive mechanical "key clack" (typewriter-ish) rather than musical beeps.
-// Off by default; enabled from the header toggle (which also satisfies the
-// browser autoplay gesture requirement).
+// UI sounds — plays three short user-provided clips (hover / click / close).
+// Decoded once into AudioBuffers via the Web Audio API so they can overlap with
+// near-zero latency. Off by default; enabled from the header toggle (which also
+// satisfies the browser autoplay gesture requirement).
+
+const FILES = {
+  hover: "/sounds/hover.mp3",
+  click: "/sounds/click.mp3",
+  close: "/sounds/close.mp3",
+} as const;
+
+type SoundName = keyof typeof FILES;
+
+// Per-sound output gain (the source files differ in loudness / length).
+const GAIN: Record<SoundName, number> = {
+  hover: 0.35,
+  click: 0.6,
+  close: 0.6,
+};
 
 let ctx: AudioContext | null = null;
 let enabled = false;
 let initialized = false;
+const buffers: Partial<Record<SoundName, AudioBuffer>> = {};
+let loading = false;
+// Throttle hover so rapid pointer travel doesn't machine-gun the clip.
+let lastHoverAt = 0;
 
 function ensureCtx(): AudioContext | null {
   if (typeof window === "undefined") return null;
@@ -20,6 +39,25 @@ function ensureCtx(): AudioContext | null {
   return ctx;
 }
 
+async function loadBuffers(): Promise<void> {
+  const c = ensureCtx();
+  if (!c || loading) return;
+  loading = true;
+  await Promise.all(
+    (Object.keys(FILES) as SoundName[]).map(async (name) => {
+      if (buffers[name]) return;
+      try {
+        const res = await fetch(FILES[name]);
+        const arr = await res.arrayBuffer();
+        buffers[name] = await c.decodeAudioData(arr);
+      } catch {
+        /* ignore a failed clip */
+      }
+    }),
+  );
+  loading = false;
+}
+
 export function initSound(): void {
   if (initialized || typeof window === "undefined") return;
   initialized = true;
@@ -28,6 +66,7 @@ export function initSound(): void {
   } catch {
     /* ignore */
   }
+  if (enabled) void loadBuffers();
 }
 
 export function isSoundEnabled(): boolean {
@@ -41,70 +80,42 @@ export function setSoundEnabled(v: boolean): void {
   } catch {
     /* ignore */
   }
-  if (v) ensureCtx();
+  if (v) {
+    ensureCtx();
+    void loadBuffers();
+  }
 }
 
-/** Short band-passed noise burst — the "click" of a mechanical key. */
-function noise(c: AudioContext, t: number, dur: number, freq: number, q: number, gain: number) {
-  const len = Math.max(1, Math.ceil(c.sampleRate * dur));
-  const buf = c.createBuffer(1, len, c.sampleRate);
-  const data = buf.getChannelData(0);
-  for (let i = 0; i < len; i++) data[i] = Math.random() * 2 - 1;
+function play(name: SoundName) {
+  if (!enabled) return;
+  const c = ensureCtx();
+  const buf = buffers[name];
+  if (!c || !buf) {
+    // Buffers not decoded yet — kick off loading for next time.
+    void loadBuffers();
+    return;
+  }
   const src = c.createBufferSource();
   src.buffer = buf;
-  const bp = c.createBiquadFilter();
-  bp.type = "bandpass";
-  bp.frequency.value = freq;
-  bp.Q.value = q;
   const g = c.createGain();
-  g.gain.setValueAtTime(gain, t);
-  g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
-  src.connect(bp);
-  bp.connect(g);
+  g.gain.value = GAIN[name];
+  src.connect(g);
   g.connect(c.destination);
-  src.start(t);
-  src.stop(t + dur);
+  src.start();
 }
 
-/** Low sine "thock" — the body of the key hitting. */
-function thock(c: AudioContext, t: number, dur: number, freq: number, gain: number) {
-  const osc = c.createOscillator();
-  const g = c.createGain();
-  osc.type = "sine";
-  osc.frequency.setValueAtTime(freq, t);
-  osc.frequency.exponentialRampToValueAtTime(freq * 0.6, t + dur);
-  g.gain.setValueAtTime(gain, t);
-  g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
-  osc.connect(g);
-  g.connect(c.destination);
-  osc.start(t);
-  osc.stop(t + dur + 0.01);
-}
-
-// Faint single tick on hover.
 export function playHover() {
   if (!enabled) return;
-  const c = ensureCtx();
-  if (!c) return;
-  noise(c, c.currentTime, 0.012, 2600, 1.2, 0.012);
+  const now = typeof performance !== "undefined" ? performance.now() : 0;
+  if (now - lastHoverAt < 60) return;
+  lastHoverAt = now;
+  play("hover");
 }
 
-// Crisp key clack on click: noise tick + low thock.
 export function playClick() {
-  if (!enabled) return;
-  const c = ensureCtx();
-  if (!c) return;
-  const t = c.currentTime;
-  noise(c, t, 0.022, 2200, 0.9, 0.03);
-  thock(c, t, 0.035, 180, 0.035);
+  play("click");
 }
 
-// Heavier clack on close / back / exit (a different, deeper key).
 export function playClose() {
-  if (!enabled) return;
-  const c = ensureCtx();
-  if (!c) return;
-  const t = c.currentTime;
-  noise(c, t, 0.03, 1300, 0.7, 0.03);
-  thock(c, t, 0.05, 120, 0.04);
+  play("close");
 }

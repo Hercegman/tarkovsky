@@ -145,6 +145,11 @@
       "id": "container_greencrate",
       "name": "Wooden Crate",
       "color": "#fa005a"
+    },
+    {
+      "id": "exfil_shared",
+      "name": "Shared Extraction",
+      "color": "#ffb01f"
     }
   ],
   "markers": [
@@ -483,24 +488,6 @@
       "x": 2182,
       "y": 5662,
       "t": "Scav Bunker"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 2791,
-      "y": 6377,
-      "t": "Friendship Bridge (Co-Op)"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 5817,
-      "y": 950,
-      "t": "UN Roadblock"
-    },
-    {
-      "c": "exfil_pmc",
-      "x": 1590,
-      "y": 613,
-      "t": "Outskirts"
     },
     {
       "c": "exfil_pmc",
@@ -2519,24 +2506,6 @@
       "t": "Stash the Propane tank (5L)"
     },
     {
-      "c": "exfil_scav",
-      "x": 1605,
-      "y": 613,
-      "t": "Outskirts"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 2807,
-      "y": 6370,
-      "t": "Friendship Bridge (Co-Op)"
-    },
-    {
-      "c": "exfil_scav",
-      "x": 5817,
-      "y": 935,
-      "t": "UN Roadblock"
-    },
-    {
       "c": "exfil_transit",
       "x": 2104,
       "y": 614,
@@ -2717,18 +2686,6 @@
       "t": "Civilian Body"
     },
     {
-      "c": "exfil_pmc",
-      "x": 6751,
-      "y": 1721,
-      "t": "Railway Bridge to Tarkov "
-    },
-    {
-      "c": "exfil_scav",
-      "x": 6751,
-      "y": 1730,
-      "t": "Railway Bridge to Tarkov "
-    },
-    {
       "c": "exfil_transit",
       "x": 3994,
       "y": 401,
@@ -2889,6 +2846,30 @@
       "x": 6413,
       "y": 1421,
       "t": "Old House Toilet"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 2791,
+      "y": 6377,
+      "t": "Friendship Bridge (Co-Op)"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 5817,
+      "y": 950,
+      "t": "UN Roadblock"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 1590,
+      "y": 613,
+      "t": "Outskirts"
+    },
+    {
+      "c": "exfil_shared",
+      "x": 6751,
+      "y": 1721,
+      "t": "Railway Bridge to Tarkov"
     }
   ]
 }
