@@ -159,7 +159,7 @@ export function MapExplorer({
       </aside>
 
       {/* Center — the map */}
-      <div className="order-1 lg:order-2">
+      <div className="order-1 lg:order-2 lg:self-center">
         <div
           ref={mapRef}
           style={{ aspectRatio: `${map.width} / ${map.height}` }}
