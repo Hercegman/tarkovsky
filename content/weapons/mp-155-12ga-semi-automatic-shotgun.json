@@ -58,5 +58,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/MP-155_12ga_semi-automatic_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mp-155-12ga-660mm-barrel",
+    "mp-155-walnut-forestock",
+    "mp-155-12ga-6-shell-magazine",
+    "mp-155-walnut-stock"
+  ]
 }

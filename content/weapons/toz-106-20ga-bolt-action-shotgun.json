@@ -38,5 +38,10 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/TOZ-106_20ga_bolt-action_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "toz-106-20ga-mts-20-01-sb-3-2-shot-magazine",
+    "toz-106-stock",
+    "toz-106-002-pistol-grip"
+  ]
 }

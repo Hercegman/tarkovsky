@@ -172,5 +172,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Kalashnikov_AK-103_7.62x39_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ak-74-gas-tube",
+    "ak-103-7-62x39-muzzle-brake",
+    "ak-74-polymer-pistol-grip",
+    "ak-74m-dust-cover",
+    "ak-74m-rear-sight",
+    "ak-74m-polymer-stock",
+    "ak-103-7-62x39-30-round-magazine"
+  ]
 }

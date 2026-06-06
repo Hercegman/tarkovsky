@@ -137,5 +137,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Saiga-12K_ver.10_12ga_semi-automatic_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "sok-12-polymer-handguard",
+    "sok-12-thread-protector",
+    "ak-74-polymer-pistol-grip",
+    "sok-12-dust-cover",
+    "sok-12-rear-sight",
+    "sok-12-ak-style-stock",
+    "sok-12-12ga-sb-5-5-round-magazine"
+  ]
 }

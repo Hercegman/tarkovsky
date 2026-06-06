@@ -121,5 +121,18 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/HK_416A5_5.56x45_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-hk-battle-grip-beavertail-pistol-grip",
+    "ar-15-5-56x45-hk-steel-maritime-stanag-30-round-magazine",
+    "hk-416a5-5-56x45-upper-receiver",
+    "hk-416-5-56x45-14-5-inch-barrel-with-flip-up-front-sight",
+    "ar-15-colt-usgi-a2-5-56x45-flash-hider",
+    "hk-416a5-low-profile-gas-block",
+    "hk-416-quad-rail-handguard",
+    "hk-416a5-flip-up-rear-sight",
+    "hk-416-enhanced-buffer-tube",
+    "ar-15-hk-slim-line-buttstock",
+    "ar-15-hk-extended-latch-charging-handle"
+  ]
 }

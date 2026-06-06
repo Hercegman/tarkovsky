@@ -63,5 +63,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/TheAKGuy_AK-50_.50_BMG_anti-materiel_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ak-74-polymer-pistol-grip",
+    "ak-50-50-bmg-24-inch-barrel",
+    "ak-50-m-lok-handguard-with-gas-tube",
+    "ak-50-50-bmg-muzzle-brake",
+    "m82a1-50-bmg-10-round-magazine",
+    "ak-50-dust-cover"
+  ]
 }

@@ -124,5 +124,19 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Radian_Weapons_Model_1_FA_5.56x45_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-magpul-moe-pistol-grip-black",
+    "ar-15-5-56x45-magpul-pmag-30-gen-m3-stanag-30-round-magazine",
+    "ar-15-radian-weapons-model-1-5-56x45-upper-receiver",
+    "ar-15-5-56x45-ballistic-advantage-hanson-carbine-pro-16-inch-barrel",
+    "ar-15-aeroknox-butterfly-5-56x45-muzzle-brake",
+    "ar-15-daniel-defense-mk12-low-profile-gas-block",
+    "ar-15-radian-weapons-model-1-14-inch-handguard",
+    "magpul-mbus-gen2-flip-up-front-sight",
+    "magpul-mbus-gen2-flip-up-rear-sight",
+    "ar-15-strike-industries-advanced-receiver-extension",
+    "ar-15-magpul-moe-carbine-stock-black",
+    "ar-15-radian-weapons-raptor-sd-charging-handle"
+  ]
 }

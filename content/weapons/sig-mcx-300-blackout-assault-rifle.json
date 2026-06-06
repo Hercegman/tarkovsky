@@ -105,5 +105,18 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/SIG_MCX_.300_Blackout_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mcx-pistol-grip",
+    "ar-15-5-56x45-colt-stanag-30-round-magazine",
+    "mcx-gen1-300-blk-upper-receiver",
+    "mcx-300-blk-9-inch-barrel",
+    "sig-sauer-taper-lok-7-62x51-300-blk-muzzle-adapter",
+    "mcx-gas-block",
+    "mcx-gen1-keymod-8-inch-handguard",
+    "mcx-flip-up-front-sight",
+    "mcx-flip-up-rear-sight",
+    "sig-sauer-thin-side-folding-stock",
+    "mcx-charging-handle"
+  ]
 }

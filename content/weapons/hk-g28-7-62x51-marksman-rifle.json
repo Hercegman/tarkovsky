@@ -74,5 +74,20 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/HK_G28_7.62x51_marksman_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-hk-battle-grip-beavertail-pistol-grip-ral-8000",
+    "hk417-g28-7-62x51-20-round-magazine",
+    "hk-g28-buffer-tube",
+    "hk-g28-7-62x51-upper-receiver",
+    "recknagel-era-tac-34mm-ring-scope-mount",
+    "schmidt-bender-pm-ii-3-20x50-34mm-riflescope",
+    "recknagel-era-tac-sunshade-mount-for-aimpoint-t-1-sights",
+    "hk417-7-62x51-16-5-inch-barrel",
+    "hk417-low-profile-gas-block",
+    "hk417-extended-free-float-handguard-with-flip-up-front-sight",
+    "hk-sturmgriff-foregrip",
+    "hk-416a5-flip-up-rear-sight",
+    "hk417-e1-extended-charging-handle"
+  ]
 }

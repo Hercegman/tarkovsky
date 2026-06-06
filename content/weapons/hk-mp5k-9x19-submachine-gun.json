@@ -36,5 +36,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/HK_MP5K_9x19_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "hk-mp5-9x19-20-round-magazine",
+    "hk-mp5k-9x19-upper-receiver",
+    "hk-mp5k-polymer-handguard",
+    "hk-mp5-drum-rear-sight",
+    "hk-mp5k-cocking-handle"
+  ]
 }

@@ -68,5 +68,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/MP-133_12ga_pump-action_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mp-133-12ga-510mm-barrel",
+    "mp-133-beechwood-forestock",
+    "mp-133-12ga-6-shell-magazine",
+    "mp-133-153-wooden-stock"
+  ]
 }

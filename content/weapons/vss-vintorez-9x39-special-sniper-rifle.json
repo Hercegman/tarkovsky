@@ -84,5 +84,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/VSS_Vintorez_9x39_special_sniper_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "vss-val-9x39-6l24-10-round-magazine",
+    "vss-9x39-integral-barrel-suppressor",
+    "vss-rear-sight",
+    "vss-dust-cover",
+    "vss-wooden-stock",
+    "vss-val-polymer-handguard-black"
+  ]
 }

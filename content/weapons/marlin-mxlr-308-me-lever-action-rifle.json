@@ -68,5 +68,15 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Marlin_MXLR_.308_ME_lever-action_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mxlr-308-me-5-round-magazine",
+    "mxlr-standard-stock",
+    "mxlr-308-me-24-inch-barrel",
+    "mxlr-standard-handguard",
+    "mxlr-standard-front-sight",
+    "mxlr-trigger",
+    "mxlr-hammer",
+    "mxlr-loop-lever"
+  ]
 }

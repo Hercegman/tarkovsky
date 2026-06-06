@@ -35,5 +35,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Accuracy_International_AXMC_.338_LM_bolt-action_sniper_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ai-axmc-338-lm-10-round-magazine",
+    "ai-axmc-pistol-grip",
+    "ai-axmc-ax-buttstock",
+    "ai-axmc-338-lm-chassis",
+    "ai-axmc-adapter-kit-short-length-rail",
+    "ai-axmc-adapter-kit-medium-length-rail",
+    "ai-axmc-338-lm-bolt-assembly"
+  ]
 }

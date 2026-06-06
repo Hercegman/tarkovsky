@@ -38,5 +38,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Steyr_AUG_A1_5.56x45_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "steyr-aug-5-56x45-30-round-magazine",
+    "steyr-aug-a1-charging-handle",
+    "steyr-aug-a1-stg77-1-5x-optic-sight",
+    "steyr-aug-a1-5-56x45-20-inch-barrel"
+  ]
 }

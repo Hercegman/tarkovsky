@@ -53,5 +53,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Stechkin_APB_9x18PM_silenced_machine_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "aps-9x18pm-20-round-magazine",
+    "apb-detachable-wire-stock",
+    "aps-bakelite-side-pieces",
+    "aps-front-sight",
+    "apb-rear-sight",
+    "apb-9x18pm-sound-suppressor"
+  ]
 }

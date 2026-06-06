@@ -50,5 +50,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/FN_Five-seveN_MK2_5.7x28_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "fn-five-seven-5-7x28-120mm-barrel",
+    "fn-five-seven-mk2-pistol-slide",
+    "fn-five-seven-mk2-front-sight",
+    "fn-five-seven-5-7x28-20-round-magazine"
+  ]
 }

@@ -57,5 +57,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/SR-2M_Veresk_9x21_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "sr-2m-9x21-20-round-magazine",
+    "sr-2m-9x21-hand-stopper",
+    "sr-2m-top-folding-stock",
+    "sr-2m-dust-cover",
+    "sr-2m-polymer-handguard-plum",
+    "sr-2m-pistol-grip-plum"
+  ]
 }

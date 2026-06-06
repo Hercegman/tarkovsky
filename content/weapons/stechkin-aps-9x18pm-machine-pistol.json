@@ -47,5 +47,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Stechkin_APS_9x18PM_machine_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "aps-9x18pm-20-round-magazine",
+    "aps-bakelite-side-pieces",
+    "aps-front-sight",
+    "aps-rear-sight"
+  ]
 }

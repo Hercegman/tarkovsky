@@ -111,5 +111,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Saiga-9_9x19_carbine",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "pp-19-01-vityaz-pistol-grip",
+    "pp-19-01-vityaz-metal-skeleton-stock",
+    "saiga-9-9x19-sb-7-10-round-magazine",
+    "saiga-9-9x19-muzzle-brake",
+    "pp-19-01-vityaz-dust-cover",
+    "pp-19-01-vityaz-rear-sight",
+    "pp-19-01-vityaz-gas-tube"
+  ]
 }

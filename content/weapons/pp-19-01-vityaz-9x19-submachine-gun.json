@@ -133,5 +133,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/PP-19-01_Vityaz_9x19_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "pp-19-01-vityaz-pistol-grip",
+    "pp-19-01-vityaz-metal-skeleton-stock",
+    "pp-19-01-vityaz-9x19-30-round-magazine",
+    "pp-19-01-vityaz-9x19-muzzle-brake",
+    "pp-19-01-vityaz-dust-cover",
+    "pp-19-01-vityaz-rear-sight",
+    "pp-19-01-vityaz-gas-tube"
+  ]
 }

@@ -54,5 +54,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Springfield_Armory_M1A_7.62x51_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "m1a-7-62x51-10-round-magazine",
+    "m1a-socom-16-stock",
+    "m1a-socom-16-upper-part",
+    "m1a-7-62x51-16-inch-barrel",
+    "m14-sa-enlarged-military-aperture-rear-sight"
+  ]
 }

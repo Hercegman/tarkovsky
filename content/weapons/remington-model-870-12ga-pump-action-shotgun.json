@@ -59,5 +59,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Remington_Model_870_12ga_pump-action_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "m870-12ga-508mm-barrel",
+    "m870-speedfeed-short-handguard",
+    "m870-12ga-4-shell-magazine-cap",
+    "m870-sps-polymer-stock"
+  ]
 }

@@ -29,5 +29,9 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/MP-18_7.62x54R_single-shot_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mp-18-7-62x54r-600mm-barrel",
+    "mp-18-wooden-stock"
+  ]
 }

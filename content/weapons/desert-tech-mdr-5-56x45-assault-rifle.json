@@ -164,5 +164,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Desert_Tech_MDR_5.56x45_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mdr-pistol-grip-fde",
+    "ar-15-5-56x45-magpul-pmag-30-gen-m3-w-stanag-30-round-magazine",
+    "mdr-handguard-fde",
+    "mdr-5-56x45-16-inch-barrel",
+    "ar-15-desert-tech-5-56x45-flash-hider"
+  ]
 }

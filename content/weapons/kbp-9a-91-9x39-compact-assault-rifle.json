@@ -63,5 +63,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/KBP_9A-91_9x39_compact_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "9a-91-9x39-20-round-magazine",
+    "9a-91-pistol-grip",
+    "9a-91-top-folding-stock",
+    "9a-91-9x39-barrel",
+    "9a-91-handguard-retainer"
+  ]
 }

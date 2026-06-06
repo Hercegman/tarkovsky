@@ -60,5 +60,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/IWI_UZI_PRO_SMG_9x19_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "uzi-pro-9x19-20-round-magazine",
+    "uzi-pro-9x19-barrel-retaining-nut",
+    "uzi-pro-backplate",
+    "uzi-pro-dust-cover",
+    "uzi-pro-9x19-170mm-barrel"
+  ]
 }

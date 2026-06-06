@@ -65,5 +65,19 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/TKPD_9.3x64_carbine",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "svds-lynx-arms-ak-series-pistol-grip-adapter",
+    "ak-zenit-rk-3-pistol-grip",
+    "tkpd-9-3x64-10-round-magazine",
+    "svds-lynx-arms-hinge-buffer-tube-adapter",
+    "ar-15-colt-carbine-buffer-tube",
+    "tkpd-9-3x64-570mm-barrel",
+    "tkpd-9-3x64-muzzle-brake",
+    "tkpd-gas-tube",
+    "tkpd-front-trunnion",
+    "kac-folding-micro-front-sight",
+    "tkpd-railed-dust-cover",
+    "kac-folding-micro-rear-sight"
+  ]
 }

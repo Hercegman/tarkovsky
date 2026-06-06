@@ -63,5 +63,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Benelli_M3_Super_90_12ga_dual-mode_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "benelli-m3-super-90-12ga-500mm-barrel",
+    "benelli-m3-forend",
+    "benelli-m3-super-90-12ga-5-shell-magazine-cap",
+    "benelli-m3-telescopic-stock",
+    "benelli-m3-super-90-upper-receiver-top-rail",
+    "benelli-m3-ghost-ring-rear-sight",
+    "benelli-m3-super-90-charging-handle"
+  ]
 }

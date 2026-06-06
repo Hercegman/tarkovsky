@@ -74,5 +74,16 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/DS_Arms_SA58_7.62x51_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "sa58-saw-style-pistol-grip-black",
+    "sa58-fal-7-62x51-20-round-magazine",
+    "sa58-quad-rail-handguard",
+    "sa58-7-62x51-11-inch-barrel",
+    "sa58-3-prong-trident-7-62x51-flash-hider",
+    "sa58-extreme-duty-dust-cover",
+    "sa58-buffer-tube-adapter",
+    "ar-15-colt-carbine-buffer-tube",
+    "ar-15-magpul-moe-carbine-stock-black"
+  ]
 }

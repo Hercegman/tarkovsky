@@ -51,5 +51,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Mossberg_590A1_12ga_pump-action_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "m590a1-12ga-20-inch-barrel",
+    "m590a1-speedfeed-short-handguard",
+    "m590-12ga-8-shell-magazine-cap",
+    "m590a1-polymer-stock",
+    "m590-ghost-ring-rear-sight"
+  ]
 }

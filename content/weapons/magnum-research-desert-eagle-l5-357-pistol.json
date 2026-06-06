@@ -41,5 +41,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Magnum_Research_Desert_Eagle_L5_.357_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "desert-eagle-l5-357-127mm-barrel",
+    "desert-eagle-front-sight",
+    "desert-eagle-hogue-rubber-grip-with-finger-grooves",
+    "desert-eagle-l5-357-pistol-slide",
+    "desert-eagle-357-9-round-magazine"
+  ]
 }

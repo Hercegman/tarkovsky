@@ -84,5 +84,15 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Colt_M45A1_.45_ACP_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "m1911a1-45-acp-national-match-127mm-barrel",
+    "m45a1-mil-tac-gvt-g10-side-grips",
+    "m45a1-pistol-slide",
+    "m45a1-novak-lomount-front-sight",
+    "m1911a1-45-acp-wilson-combat-7-round-magazine",
+    "m45a1-trigger",
+    "m45a1-hammer",
+    "m45a1-slide-lock"
+  ]
 }

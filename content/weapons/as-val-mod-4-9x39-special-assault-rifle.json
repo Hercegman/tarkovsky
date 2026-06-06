@@ -87,5 +87,19 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/AS_VAL_MOD.4_9x39_special_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "as-val-mod-4-9x39-integral-barrel-suppressor",
+    "as-val-zenit-rk-3-pistol-grip",
+    "as-val-nb-mod-4-kit-handguard",
+    "nb-mod-4-kit-3-5-inch-rail",
+    "as-val-nb-mod-4-kit-top-cover",
+    "magpul-mbus-gen2-flip-up-rear-sight",
+    "as-val-9x39-nb-mod-4-jailbrake-muzzle-device",
+    "magpul-mbus-gen2-flip-up-front-sight",
+    "as-val-dust-cover",
+    "vss-val-9x39-30-round-magazine",
+    "as-val-nb-stock-adapter-tube",
+    "ar-15-magpul-ctr-carbine-stock-black"
+  ]
 }

@@ -150,5 +150,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Molot_Arms_VPO-209_.366_TKM_carbine",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "molot-arms-akm-type-gas-tube",
+    "vpo-209-thread-protector",
+    "ak-molot-bakelite-pistol-grip",
+    "molot-arms-akm-type-dust-cover",
+    "vpo-209-rear-sight",
+    "vpo-209-wooden-stock",
+    "ak-7-62x39-aluminium-10-round-magazine"
+  ]
 }

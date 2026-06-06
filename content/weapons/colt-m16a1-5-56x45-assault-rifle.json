@@ -133,5 +133,16 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Colt_M16A1_5.56x45_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ar-15-colt-a1-pistol-grip",
+    "ar-15-5-56x45-colt-stanag-20-round-magazine",
+    "m16a1e1-5-56x45-upper-receiver",
+    "ar-15-5-56x45-a2-type-20-inch-barrel",
+    "ar-15-colt-usgi-a1-3-prong-5-56x45-flash-hider",
+    "m4a1-front-sight-with-gas-block",
+    "ar-15-colt-m16a1-handguard",
+    "ar-15-colt-a2-buffer-tube",
+    "ar-15-colt-early-type-charging-handle"
+  ]
 }

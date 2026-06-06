@@ -48,5 +48,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/TOZ_KS-23M_23x75mm_pump-action_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ks-23-23x75-700mm-barrel",
+    "ks-23m-forestock",
+    "ks-23m-23x75-3-shell-magazine-cap",
+    "ks-23-wooden-stock"
+  ]
 }

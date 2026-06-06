@@ -121,5 +121,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/TDI_KRISS_Vector_Gen.2_.45_ACP_submachine_gun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "glock-45-acp-13-round-magazine",
+    "kriss-defiance-low-profile-flip-up-front-sight",
+    "kriss-defiance-low-profile-flip-up-rear-sight",
+    "kriss-vector-gen-2-folding-stock",
+    "kriss-vector-45-acp-5-inch-barrel",
+    "kriss-vector-bottom-rail",
+    "kriss-vector-side-rail"
+  ]
 }

@@ -56,5 +56,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Chiappa_Rhino_50DS_.357_revolver",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "chiappa-rhino-357-6-round-cylinder",
+    "chiappa-rhino-rear-sight",
+    "chiappa-rhino-front-sight",
+    "chiappa-rhino-wooden-pistol-grip"
+  ]
 }

@@ -98,6 +98,7 @@ export interface Weapon {
   fireRate: number | null;
   caliber: string | null;
   slots: WeaponSlot[];
+  defaults?: string[]; // factory default attachment slugs (from tarkov.dev presets)
   source: { url: string; license: string; wiki: string };
 }
 

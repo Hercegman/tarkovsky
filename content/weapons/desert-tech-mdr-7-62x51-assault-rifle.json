@@ -149,5 +149,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Desert_Tech_MDR_7.62x51_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mdr-pistol-grip-black",
+    "ar-10-7-62x51-magpul-pmag-20-sr-lr-gen-m3-20-round-magazine",
+    "mdr-handguard-black",
+    "mdr-7-62x51-16-inch-barrel",
+    "ar-10-desert-tech-7-62x51-flash-hider"
+  ]
 }

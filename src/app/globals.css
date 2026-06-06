@@ -132,6 +132,14 @@ body::before {
   background: transparent;
 }
 
+/* Fullscreen map fills the screen (ignore the aspect-ratio sizing). */
+.map-fs:fullscreen {
+  aspect-ratio: auto !important;
+  max-height: none !important;
+  height: 100%;
+  width: 100%;
+}
+
 /* Themed hover tooltips (replace Leaflet's white/black default). */
 .leaflet-tooltip.tark-tip {
   background: var(--surface);

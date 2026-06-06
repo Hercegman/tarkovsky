@@ -57,5 +57,11 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/KBP_VSK-94_9x39_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "9a-91-9x39-20-round-magazine",
+    "vsk-94-stock",
+    "vsk-94-9x39-barrel",
+    "9a-91-9x39-sound-suppressor"
+  ]
 }

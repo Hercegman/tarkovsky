@@ -29,5 +29,8 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Serdyukov_SR-1MP_Gyurza_9x21_pistol",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "sr-1mp-9x21-18-round-magazine"
+  ]
 }

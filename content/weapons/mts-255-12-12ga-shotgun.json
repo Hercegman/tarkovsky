@@ -40,5 +40,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/MTs-255-12_12ga_shotgun",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "mts-255-12-12ga-cylinder",
+    "mts-255-12-12ga-755mm-barrel-with-rib",
+    "mts-255-12-12ga-choke",
+    "mts-255-12-wooden-stock",
+    "mts-255-12-beechwood-forestock"
+  ]
 }

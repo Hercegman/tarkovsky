@@ -95,5 +95,14 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/SAG_AK-545_5.45x39_carbine",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ak-545-mk-2-1-gas-tube",
+    "ak-545-mk-3-handguard",
+    "ak-74m-5-45x39-muzzle-brake",
+    "ak-strike-industries-enhanced-pistol-grip-black",
+    "ak-545-buffer-tube",
+    "ar-15-high-standard-m4ss-stock",
+    "ak-74-5-45x39-6l23-30-round-magazine"
+  ]
 }

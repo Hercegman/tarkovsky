@@ -146,5 +146,13 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Aklys_Defense_Velociraptor_.300_Blackout_assault_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "ak-mission-first-tactical-engage-ak47-pistol-grip",
+    "velociraptor-polymer-handguard",
+    "rd-704-dust-cover",
+    "trijicon-rmr-low-profile-mount",
+    "akm-ak-74-magpul-zhukov-s-stock",
+    "slr-106-ak-5-56x45-circle-10-30-round-magazine"
+  ]
 }

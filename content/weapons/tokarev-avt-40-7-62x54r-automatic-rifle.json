@@ -42,5 +42,12 @@
     "url": "https://escapefromtarkov.fandom.com/wiki/Tokarev_AVT-40_7.62x54R_automatic_rifle",
     "license": "CC BY-NC-SA",
     "wiki": "Escape from Tarkov Wiki"
-  }
+  },
+  "defaults": [
+    "avt-40-wooden-stock",
+    "svt-40-7-62x54r-625mm-barrel",
+    "svt-40-7-62x54r-muzzle-brake",
+    "svt-dust-cover",
+    "avt-40-7-62x54r-15-round-magazine"
+  ]
 }
