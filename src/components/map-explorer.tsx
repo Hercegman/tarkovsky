@@ -83,7 +83,7 @@ export function MapExplorer({
   }
 
   return (
-    <div className="grid gap-5 lg:grid-cols-[340px_1fr_290px]">
+    <div className="grid gap-4 lg:grid-cols-[320px_1fr_300px] lg:items-start">
       {/* Left — quests on this map */}
       <aside className="order-2 lg:order-1">
         <h2 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
@@ -99,7 +99,7 @@ export function MapExplorer({
           placeholder="Search quests…"
           className="mb-2 w-full rounded-lg border border-[var(--border)] bg-[var(--surface)] px-3 py-2 text-sm outline-none focus:border-[var(--gold-dim)]"
         />
-        <ul className="max-h-[320px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:max-h-[82vh]">
+        <ul className="max-h-[320px] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:h-[88vh] lg:max-h-none">
           {visibleQuests.map((q) => {
             const done = completed?.has(q.id) ?? false;
             const isSel = q.id === selected;
@@ -163,7 +163,7 @@ export function MapExplorer({
         <div
           ref={mapRef}
           style={{ aspectRatio: `${map.width} / ${map.height}` }}
-          className="map-fs relative max-h-[85vh] w-full overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
+          className="map-fs relative max-h-[88vh] w-full overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
         >
           <LeafletMap map={map} active={active} highlight={highlight} />
           <button
@@ -203,7 +203,7 @@ export function MapExplorer({
         <h2 className="mb-2 text-xs font-semibold uppercase tracking-wider text-[var(--muted)]">
           Layers
         </h2>
-        <div className="max-h-[60vh] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:max-h-[82vh]">
+        <div className="max-h-[60vh] space-y-1 overflow-auto rounded-xl border border-[var(--border)] bg-[var(--surface)] p-2 lg:h-[88vh] lg:max-h-none">
           {cats.map((c) => {
             const on = active.includes(c.id);
             return (

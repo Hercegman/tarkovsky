@@ -7,7 +7,13 @@ Newest first.
 
 ---
 
-## `_pending_` — map fills its box; gun builder default loadouts · 2026-06-06
+## `_pending_` — full-bleed map layout: edge sidebars, bigger map · 2026-06-06
+- **Changed:** the map page now spans the full page width — the quests and layers
+  sidebars sit at the left/right page edges, and the map fills the freed centre
+  space (bigger). Both sidebars are now the same fixed height (`88vh`) and scroll
+  independently; the map cap was raised to `88vh` so it's taller too.
+
+## `c9f6b2a` — map fills its box; gun builder default loadouts · 2026-06-06
 - **Changed:** the map container now uses the map image's aspect ratio, so the
   image fills the box edge-to-edge (no empty/white margin); fullscreen still fills.
 - **Added:** gun builder pre-installs each weapon's **factory default attachments**

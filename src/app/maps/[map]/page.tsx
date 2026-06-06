@@ -36,7 +36,7 @@ export default async function MapPage(props: PageProps<"/maps/[map]">) {
 
   return (
     <div className="radial-glow min-h-full">
-      <div className="mx-auto max-w-[1600px] px-4 py-8">
+      <div className="px-4 py-8">
         <Link
           href="/maps"
           className="text-sm text-[var(--muted)] transition-colors hover:text-[var(--gold)]"
