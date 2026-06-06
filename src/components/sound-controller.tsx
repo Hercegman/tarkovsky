@@ -6,6 +6,13 @@ import { initSound, playHover, playClick, playClose } from "@/lib/sound";
 const INTERACTIVE = "a, button, [role='button'], input[type='checkbox']";
 const CLOSE_SEL = "[data-sound='close'], [aria-label='Close']";
 
+// A "back"/close action: an explicit marker, or a link/button whose label starts
+// with the ← arrow (our back links: "← All maps", "← Back to your profile", …).
+function isBack(el: Element): boolean {
+  if (el.matches(CLOSE_SEL)) return true;
+  return (el.textContent ?? "").trim().startsWith("←");
+}
+
 /** Mounts global listeners that play UI sounds on hover/click/close. */
 export function SoundController() {
   useEffect(() => {
@@ -26,17 +33,24 @@ export function SoundController() {
     function onClick(e: MouseEvent) {
       const el = (e.target as Element | null)?.closest?.(INTERACTIVE);
       if (!el) return;
-      if (el.matches(CLOSE_SEL)) playClose();
+      if (isBack(el)) playClose();
       else playClick();
+    }
+    // Thumb buttons: button 3 = "mouse 4" (back), button 4 = "mouse 5" (forward).
+    // Browsers navigate back/forward on these — play the back sound either way.
+    function onMouseDown(e: MouseEvent) {
+      if (e.button === 3 || e.button === 4) playClose();
     }
 
     document.addEventListener("mouseover", onOver);
     document.addEventListener("mouseout", onOut);
     document.addEventListener("click", onClick, true);
+    document.addEventListener("mousedown", onMouseDown, true);
     return () => {
       document.removeEventListener("mouseover", onOver);
       document.removeEventListener("mouseout", onOut);
       document.removeEventListener("click", onClick, true);
+      document.removeEventListener("mousedown", onMouseDown, true);
     };
   }, []);
 

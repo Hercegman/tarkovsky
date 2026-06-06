@@ -7,7 +7,11 @@ Newest first.
 
 ---
 
-## `_pending_` — real UI sounds, gun stat baseline, shared extracts · 2026-06-06
+## `_pending_` — back sound on thumb buttons + back links · 2026-06-06
+- **Added:** the back/close sound now plays when navigating back with the mouse
+  thumb buttons (mouse 4 / mouse 5) and when clicking an `←` back link.
+
+## `739b7d8` — real UI sounds, gun stat baseline, shared extracts · 2026-06-06
 - **Changed:** UI sounds now play three real audio clips (hover / click / close,
   in `public/sounds/`) decoded via Web Audio for low-latency overlap, replacing
   the synthesized key-clack. Hover is throttled; volume per clip is tuned.
