@@ -18,8 +18,13 @@ const GAIN: Record<SoundName, number> = {
   close: 0.6,
 };
 
+const VOL_KEY = "tark:vol";
+const LEGACY_KEY = "tark:sound"; // old on/off flag — migrated to a volume level
+const LEGACY_DEFAULT_VOL = 0.7; // volume given to users who had sound "on"
+
 let ctx: AudioContext | null = null;
-let enabled = false;
+// Master volume 0..1; 0 means muted (off by default). Multiplies per-sound gain.
+let volume = 0;
 let initialized = false;
 const buffers: Partial<Record<SoundName, AudioBuffer>> = {};
 let loading = false;
@@ -62,32 +67,48 @@ export function initSound(): void {
   if (initialized || typeof window === "undefined") return;
   initialized = true;
   try {
-    enabled = localStorage.getItem("tark:sound") === "on";
+    const stored = localStorage.getItem(VOL_KEY);
+    if (stored !== null) {
+      volume = clampVol(parseFloat(stored));
+    } else if (localStorage.getItem(LEGACY_KEY) === "on") {
+      // Migrate users who had the old on/off toggle enabled.
+      volume = LEGACY_DEFAULT_VOL;
+      localStorage.setItem(VOL_KEY, String(volume));
+    }
   } catch {
     /* ignore */
   }
-  if (enabled) void loadBuffers();
+  if (volume > 0) void loadBuffers();
 }
 
-export function isSoundEnabled(): boolean {
-  return enabled;
+function clampVol(v: number): number {
+  if (!Number.isFinite(v)) return 0;
+  return Math.min(1, Math.max(0, v));
 }
 
-export function setSoundEnabled(v: boolean): void {
-  enabled = v;
+export function getVolume(): number {
+  return volume;
+}
+
+export function setVolume(v: number): void {
+  volume = clampVol(v);
   try {
-    localStorage.setItem("tark:sound", v ? "on" : "off");
+    localStorage.setItem(VOL_KEY, String(volume));
   } catch {
     /* ignore */
   }
-  if (v) {
+  if (volume > 0) {
     ensureCtx();
     void loadBuffers();
   }
 }
 
+export function isSoundEnabled(): boolean {
+  return volume > 0;
+}
+
 function play(name: SoundName) {
-  if (!enabled) return;
+  if (volume <= 0) return;
   const c = ensureCtx();
   const buf = buffers[name];
   if (!c || !buf) {
@@ -98,14 +119,14 @@ function play(name: SoundName) {
   const src = c.createBufferSource();
   src.buffer = buf;
   const g = c.createGain();
-  g.gain.value = GAIN[name];
+  g.gain.value = GAIN[name] * volume;
   src.connect(g);
   g.connect(c.destination);
   src.start();
 }
 
 export function playHover() {
-  if (!enabled) return;
+  if (volume <= 0) return;
   const now = typeof performance !== "undefined" ? performance.now() : 0;
   if (now - lastHoverAt < 60) return;
   lastHoverAt = now;

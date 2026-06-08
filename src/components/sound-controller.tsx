@@ -27,6 +27,10 @@ export function SoundController() {
       }
     }
     function onOut(e: MouseEvent) {
+      const related = e.relatedTarget as Node | null;
+      // Still inside the same interactive element (moved onto a child) — keep it
+      // so jittering the cursor over one button doesn't re-trigger the hover sound.
+      if (lastHover && related && lastHover.contains(related)) return;
       const el = (e.target as Element | null)?.closest?.(INTERACTIVE);
       if (el && el === lastHover) lastHover = null;
     }

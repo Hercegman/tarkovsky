@@ -121,6 +121,57 @@ body::before {
   background: var(--gold);
 }
 
+/* ---------- Themed volume slider (olive/gold) ---------- */
+.vol-range {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  outline: none;
+}
+.vol-range::-webkit-slider-runnable-track {
+  height: 6px;
+  border-radius: 999px;
+  background: transparent;
+}
+.vol-range::-moz-range-track {
+  height: 6px;
+  border-radius: 999px;
+  background: var(--surface-2);
+}
+.vol-range::-moz-range-progress {
+  height: 6px;
+  border-radius: 999px;
+  background: var(--gold-dim);
+}
+.vol-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  margin-top: -5px; /* center on the 6px track */
+  border-radius: 999px;
+  background: var(--gold);
+  border: 1px solid var(--gold-dim);
+  transition: background 0.12s;
+}
+.vol-range::-webkit-slider-thumb:hover {
+  background: var(--gold-hi);
+}
+.vol-range::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 999px;
+  background: var(--gold);
+  border: 1px solid var(--gold-dim);
+  transition: background 0.12s;
+}
+.vol-range::-moz-range-thumb:hover {
+  background: var(--gold-hi);
+}
+
 /* Leaflet shaped markers: drop the default white box around div icons. */
 .leaflet-div-icon {
   background: transparent;
