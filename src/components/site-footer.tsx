@@ -22,19 +22,7 @@ export function SiteFooter() {
             CC BY-NC-SA
           </a>
           . This is a free, non-commercial fan project and is not affiliated with
-          or endorsed by Battlestate Games.
-        </p>
-        <p>
-          Gun-builder weapon default loadouts come from{" "}
-          <a
-            href="https://tarkov.dev"
-            target="_blank"
-            rel="noreferrer"
-            className="text-[var(--gold)] hover:underline"
-          >
-            tarkov.dev
-          </a>
-          ; all other data is from the wiki. Escape from Tarkov is a trademark of
+          or endorsed by Battlestate Games. Escape from Tarkov is a trademark of
           Battlestate Games.
         </p>
       </div>
