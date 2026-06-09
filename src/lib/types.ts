@@ -98,7 +98,7 @@ export interface Weapon {
   fireRate: number | null;
   caliber: string | null;
   slots: WeaponSlot[];
-  defaults?: string[]; // factory default attachment slugs (from tarkov.dev presets)
+  defaults?: string[]; // factory default attachment slugs
   source: { url: string; license: string; wiki: string };
 }
 
@@ -117,6 +117,32 @@ export interface Attachment {
 export interface GunBuild {
   weaponId: string;
   items: Record<string, string>; // slotName -> attachmentId
+}
+
+// ---- Ammunition (wiki-only; effectiveness mapped to approximate %) ----
+
+export interface Ammunition {
+  id: string; // slug of the ammo name
+  name: string; // e.g. "7.62x39mm BP gzh"
+  image: string | null; // self-hosted icon, e.g. /ammo/<id>.png
+  caliber: string; // e.g. "7.62x39mm"
+  damage: number | null;
+  penetration: number | null;
+  armorDamage: number | null; // %
+  accuracy: number | null; // %
+  recoil: number | null; // %
+  lightBleed: number | null; // %
+  heavyBleed: number | null; // %
+  velocity: number | null; // m/s (muzzle)
+  heat: number | null; // % (from the caliber Types table)
+  durabilityBurn: number | null; // % (from the caliber Types table)
+  bulletType: string | null; // AP / FMJ / HP / Slug / …
+  traderSource: string | null; // e.g. "Prapor LL2 · Workbench LV1", "Loot only"
+  tags: string[]; // meta / budget / craftable / tracer
+  armorClass: number[]; // six effectiveness levels 0..6, vs armor class 1..6
+  penPct: number[]; // six approx penetration % derived from armorClass
+  effLabels: string[]; // six wiki effectiveness labels (e.g. "Effective")
+  source: { url: string; license: string; wiki: string };
 }
 
 export interface MapCategory {

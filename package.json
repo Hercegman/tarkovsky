@@ -19,7 +19,8 @@
     "order:wiki": "node scripts/order-from-wiki.mts",
     "ingest:banners": "node scripts/ingest-map-banners.mts",
     "ingest:weapons": "node scripts/ingest-weapons.mts",
-    "ingest:default-presets": "node scripts/ingest-default-presets.mts"
+    "ingest:default-presets": "node scripts/ingest-default-presets.mts",
+    "ingest:ammo": "node scripts/ingest-ammo.mts"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",

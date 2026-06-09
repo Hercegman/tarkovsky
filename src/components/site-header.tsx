@@ -7,6 +7,7 @@ import { getTraders } from "@/lib/data";
 const nav = [
   { href: "/quests", label: "Quests" },
   { href: "/maps", label: "Maps" },
+  { href: "/ammo", label: "Ammo" },
   { href: "/gun-builder", label: "Gun Builder" },
 ];
 
