@@ -10,11 +10,13 @@ import type {
   MapData,
   Weapon,
   Attachment,
+  Ammunition,
 } from "./types";
 import { orderQuests } from "./quest-utils";
 
 let weaponCache: Weapon[] | null = null;
 let attachmentCache: Record<string, Attachment> | null = null;
+let ammoCache: Ammunition[] | null = null;
 
 export async function getWeapons(): Promise<Weapon[]> {
   if (weaponCache) return weaponCache;
@@ -48,6 +50,32 @@ export async function getAttachments(): Promise<Record<string, Attachment>> {
     attachmentCache = {};
   }
   return attachmentCache;
+}
+
+export async function getAmmo(): Promise<Ammunition[]> {
+  if (ammoCache) return ammoCache;
+  let byId: Record<string, Ammunition>;
+  try {
+    byId = await readJson<Record<string, Ammunition>>(
+      path.join(CONTENT, "ammo.json"),
+    );
+  } catch {
+    return []; // no ingest run yet
+  }
+  const ammo = Object.values(byId);
+  // Caliber first (groups the chart), then penetration desc within a caliber.
+  ammo.sort(
+    (a, b) =>
+      a.caliber.localeCompare(b.caliber) ||
+      (b.penetration ?? 0) - (a.penetration ?? 0),
+  );
+  ammoCache = ammo;
+  return ammo;
+}
+
+export async function getAmmoById(id: string): Promise<Ammunition | null> {
+  const ammo = await getAmmo();
+  return ammo.find((a) => a.id === id) ?? null;
 }
 
 const CONTENT = path.resolve(process.cwd(), "content");

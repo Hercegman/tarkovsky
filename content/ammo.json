@@ -1,0 +1,9295 @@
+{
+  "7-62x25mm-tt-lrnpc": {
+    "id": "7-62x25mm-tt-lrnpc",
+    "name": "7.62x25mm TT LRNPC",
+    "image": "/ammo/7-62x25mm-tt-lrnpc.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 66,
+    "penetration": 7,
+    "armorDamage": 27,
+    "accuracy": 10,
+    "recoil": -10,
+    "lightBleed": 15,
+    "heavyBleed": 10,
+    "velocity": 385,
+    "heat": 6.8,
+    "durabilityBurn": 15,
+    "bulletType": "7.62x25mm TT LRNPC",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Very effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x25mm-tt-lrn": {
+    "id": "7-62x25mm-tt-lrn",
+    "name": "7.62x25mm TT LRN",
+    "image": "/ammo/7-62x25mm-tt-lrn.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 64,
+    "penetration": 8,
+    "armorDamage": 28,
+    "accuracy": 5,
+    "recoil": -5,
+    "lightBleed": 15,
+    "heavyBleed": 10,
+    "velocity": 375,
+    "heat": 6.2,
+    "durabilityBurn": 15,
+    "bulletType": "7.62x25mm TT LRN",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Very effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x25mm-tt-fmj43": {
+    "id": "7-62x25mm-tt-fmj43",
+    "name": "7.62x25mm TT FMJ43",
+    "image": "/ammo/7-62x25mm-tt-fmj43.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 60,
+    "penetration": 11,
+    "armorDamage": 29,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 427,
+    "heat": -2.6,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x25mm-tt-akbs": {
+    "id": "7-62x25mm-tt-akbs",
+    "name": "7.62x25mm TT AKBS",
+    "image": "/ammo/7-62x25mm-tt-akbs.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 58,
+    "penetration": 12,
+    "armorDamage": 32,
+    "accuracy": 15,
+    "recoil": -15,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 425,
+    "heat": -5.6,
+    "durabilityBurn": null,
+    "bulletType": "7.62x25mm TT AKBS",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      25,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x25mm-tt-p-gl": {
+    "id": "7-62x25mm-tt-p-gl",
+    "name": "7.62x25mm TT P gl",
+    "image": "/ammo/7-62x25mm-tt-p-gl.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 58,
+    "penetration": 14,
+    "armorDamage": 32,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 430,
+    "heat": -4.4,
+    "durabilityBurn": null,
+    "bulletType": "7.62x25mm TT P gl",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      45,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Slightly effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x25mm-tt-pt-gzh": {
+    "id": "7-62x25mm-tt-pt-gzh",
+    "name": "7.62x25mm TT PT gzh",
+    "image": "/ammo/7-62x25mm-tt-pt-gzh.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 55,
+    "penetration": 18,
+    "armorDamage": 34,
+    "accuracy": -10,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 415,
+    "heat": 18,
+    "durabilityBurn": 50,
+    "bulletType": "7.62x25mm TT PT gzh",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      65,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x25mm-tt-pst-gzh": {
+    "id": "7-62x25mm-tt-pst-gzh",
+    "name": "7.62x25mm TT Pst gzh",
+    "image": "/ammo/7-62x25mm-tt-pst-gzh.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 50,
+    "penetration": 25,
+    "armorDamage": 36,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 430,
+    "heat": 7.4,
+    "durabilityBurn": 40,
+    "bulletType": "7.62x25mm TT Pst gzh",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      4,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      65,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x25mm-tt-m856a1": {
+    "id": "7-62x25mm-tt-m856a1",
+    "name": "7.62x25mm TT M856A1",
+    "image": "/ammo/7-62x25mm-tt-m856a1.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 36,
+    "penetration": 27,
+    "armorDamage": 31,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 26,
+    "heavyBleed": 7,
+    "velocity": 900,
+    "heat": 80,
+    "durabilityBurn": 6,
+    "bulletType": "7.62x25mm TT M856A1",
+    "traderSource": "Mechanic LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      5,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x25mm-tt-m855a1": {
+    "id": "7-62x25mm-tt-m855a1",
+    "name": "7.62x25mm TT M855A1",
+    "image": "/ammo/7-62x25mm-tt-m855a1.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 34,
+    "penetration": 31,
+    "armorDamage": 33,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 17,
+    "heavyBleed": 6,
+    "velocity": 900,
+    "heat": 8,
+    "durabilityBurn": 70,
+    "bulletType": "7.62x25mm TT M855A1",
+    "traderSource": "Mechanic LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      5,
+      3,
+      2,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      45,
+      25,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "Magdump only",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x25mm-tt-m995": {
+    "id": "7-62x25mm-tt-m995",
+    "name": "7.62x25mm TT M995",
+    "image": "/ammo/7-62x25mm-tt-m995.webp",
+    "caliber": "7.62x25mm Tokarev",
+    "damage": 32,
+    "penetration": 37,
+    "armorDamage": 36,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 14,
+    "heavyBleed": 4,
+    "velocity": 940,
+    "heat": 12,
+    "durabilityBurn": 100,
+    "bulletType": "7.62x25mm TT M995",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x25mm_Tokarev",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-sp8-gzh": {
+    "id": "9x18mm-pm-sp8-gzh",
+    "name": "9x18mm PM SP8 gzh",
+    "image": "/ammo/9x18mm-pm-sp8-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 67,
+    "penetration": 1,
+    "armorDamage": 2,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 15,
+    "heavyBleed": 10,
+    "velocity": 250,
+    "heat": -14.5,
+    "durabilityBurn": -20,
+    "bulletType": "9x18mm PM SP8 gzh",
+    "traderSource": "Prapor LL2 · Workbench LV1",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-sp7-gzh": {
+    "id": "9x18mm-pm-sp7-gzh",
+    "name": "9x18mm PM SP7 gzh",
+    "image": "/ammo/9x18mm-pm-sp7-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 77,
+    "penetration": 2,
+    "armorDamage": 5,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 25,
+    "heavyBleed": 10,
+    "velocity": 420,
+    "heat": -6.5,
+    "durabilityBurn": null,
+    "bulletType": "9x18mm PM SP7 gzh",
+    "traderSource": "Prapor LL2 after You've Got Mail",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-psv": {
+    "id": "9x18mm-pm-psv",
+    "name": "9x18mm PM PSV",
+    "image": "/ammo/9x18mm-pm-psv.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 69,
+    "penetration": 3,
+    "armorDamage": 5,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 10,
+    "heavyBleed": null,
+    "velocity": 280,
+    "heat": -8.8,
+    "durabilityBurn": null,
+    "bulletType": "9x18mm PM PSV",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-p-gzh": {
+    "id": "9x18mm-pm-p-gzh",
+    "name": "9x18mm PM P gzh",
+    "image": "/ammo/9x18mm-pm-p-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 50,
+    "penetration": 5,
+    "armorDamage": 16,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 10,
+    "heavyBleed": null,
+    "velocity": 302,
+    "heat": -7.1,
+    "durabilityBurn": null,
+    "bulletType": "9x18mm PM P gzh",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      25,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-pso-gzh": {
+    "id": "9x18mm-pm-pso-gzh",
+    "name": "9x18mm PM PSO gzh",
+    "image": "/ammo/9x18mm-pm-pso-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 54,
+    "penetration": 5,
+    "armorDamage": 13,
+    "accuracy": 10,
+    "recoil": null,
+    "lightBleed": 10,
+    "heavyBleed": null,
+    "velocity": 315,
+    "heat": -9.4,
+    "durabilityBurn": null,
+    "bulletType": "9x18mm PM PSO gzh",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      2,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      25,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-ps-gs-ppo": {
+    "id": "9x18mm-pm-ps-gs-ppo",
+    "name": "9x18mm PM PS gs PPO",
+    "image": "/ammo/9x18mm-pm-ps-gs-ppo.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 55,
+    "penetration": 6,
+    "armorDamage": 16,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 15,
+    "heavyBleed": null,
+    "velocity": 330,
+    "heat": -8.2,
+    "durabilityBurn": null,
+    "bulletType": "9x18mm PM PS gs PPO",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      45,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-prs-gs": {
+    "id": "9x18mm-pm-prs-gs",
+    "name": "9x18mm PM PRS gs",
+    "image": "/ammo/9x18mm-pm-prs-gs.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 58,
+    "penetration": 6,
+    "armorDamage": 16,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 15,
+    "heavyBleed": null,
+    "velocity": 302,
+    "heat": -9.9,
+    "durabilityBurn": null,
+    "bulletType": "9x18mm PM PRS gs",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      45,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-ppe-gzh": {
+    "id": "9x18mm-pm-ppe-gzh",
+    "name": "9x18mm PM PPe gzh",
+    "image": "/ammo/9x18mm-pm-ppe-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 61,
+    "penetration": 7,
+    "armorDamage": 15,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 15,
+    "heavyBleed": null,
+    "velocity": 297,
+    "heat": -7.4,
+    "durabilityBurn": null,
+    "bulletType": "9x18mm PM PPe gzh",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      65,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-ppt-gzh": {
+    "id": "9x18mm-pm-ppt-gzh",
+    "name": "9x18mm PM PPT gzh",
+    "image": "/ammo/9x18mm-pm-ppt-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 59,
+    "penetration": 8,
+    "armorDamage": 22,
+    "accuracy": -5,
+    "recoil": -7,
+    "lightBleed": 15,
+    "heavyBleed": null,
+    "velocity": 301,
+    "heat": 3.2,
+    "durabilityBurn": 15,
+    "bulletType": "9x18mm PM PPT gzh",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      5,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      85,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-pst-gzh": {
+    "id": "9x18mm-pm-pst-gzh",
+    "name": "9x18mm PM Pst gzh",
+    "image": "/ammo/9x18mm-pm-pst-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 50,
+    "penetration": 12,
+    "armorDamage": 26,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 298,
+    "heat": 3.7,
+    "durabilityBurn": 15,
+    "bulletType": "9x18mm PM Pst gzh",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-rg028-gzh": {
+    "id": "9x18mm-pm-rg028-gzh",
+    "name": "9x18mm PM RG028 gzh",
+    "image": "/ammo/9x18mm-pm-rg028-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 65,
+    "penetration": 13,
+    "armorDamage": 26,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 330,
+    "heat": -7.7,
+    "durabilityBurn": null,
+    "bulletType": "9x18mm PM RG028 gzh",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      25,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-bzht-gzh": {
+    "id": "9x18mm-pm-bzht-gzh",
+    "name": "9x18mm PM BZhT gzh",
+    "image": "/ammo/9x18mm-pm-bzht-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 53,
+    "penetration": 18,
+    "armorDamage": 28,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 15,
+    "heavyBleed": 10,
+    "velocity": 325,
+    "heat": 4.3,
+    "durabilityBurn": 15,
+    "bulletType": "9x18mm PM BZhT gzh",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pmm-pstm-gzh": {
+    "id": "9x18mm-pmm-pstm-gzh",
+    "name": "9x18mm PMM PstM gzh",
+    "image": "/ammo/9x18mm-pmm-pstm-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 58,
+    "penetration": 24,
+    "armorDamage": 33,
+    "accuracy": null,
+    "recoil": 5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 420,
+    "heat": 8.3,
+    "durabilityBurn": 60,
+    "bulletType": "9x18mm PMM PstM gzh",
+    "traderSource": "Prapor LL2 · Workbench LV1",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      4,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      65,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x18mm-pm-pbm-gzh": {
+    "id": "9x18mm-pm-pbm-gzh",
+    "name": "9x18mm PM PBM gzh",
+    "image": "/ammo/9x18mm-pm-pbm-gzh.webp",
+    "caliber": "9x18mm Makarov",
+    "damage": 40,
+    "penetration": 28,
+    "armorDamage": 30,
+    "accuracy": null,
+    "recoil": 4,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 519,
+    "heat": 14,
+    "durabilityBurn": 70,
+    "bulletType": "9x18mm PM PBM gzh",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      5,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x18mm_Makarov",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x19mm-rip": {
+    "id": "9x19mm-rip",
+    "name": "9x19mm RIP",
+    "image": "/ammo/9x19mm-rip.webp",
+    "caliber": "9x19mm Parabellum",
+    "damage": 102,
+    "penetration": 2,
+    "armorDamage": 11,
+    "accuracy": null,
+    "recoil": 5,
+    "lightBleed": 30,
+    "heavyBleed": 10,
+    "velocity": 381,
+    "heat": 8.3,
+    "durabilityBurn": 20,
+    "bulletType": "9x19mm RIP",
+    "traderSource": "Mechanic LL4",
+    "tags": [],
+    "armorClass": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Parabellum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x19mm-quakemaker": {
+    "id": "9x19mm-quakemaker",
+    "name": "9x19mm QuakeMaker",
+    "image": "/ammo/9x19mm-quakemaker.webp",
+    "caliber": "9x19mm Parabellum",
+    "damage": 85,
+    "penetration": 8,
+    "armorDamage": 22,
+    "accuracy": 10,
+    "recoil": 10,
+    "lightBleed": 15,
+    "heavyBleed": 22,
+    "velocity": 290,
+    "heat": -1.8,
+    "durabilityBurn": 10,
+    "bulletType": "9x19mm QuakeMaker",
+    "traderSource": "Peacekeeper LL4",
+    "tags": [],
+    "armorClass": [
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Parabellum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x19mm-pso-gzh": {
+    "id": "9x19mm-pso-gzh",
+    "name": "9x19mm PSO gzh",
+    "image": "/ammo/9x19mm-pso-gzh.webp",
+    "caliber": "9x19mm Parabellum",
+    "damage": 59,
+    "penetration": 10,
+    "armorDamage": 32,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 340,
+    "heat": 1.2,
+    "durabilityBurn": null,
+    "bulletType": "9x19mm PSO gzh",
+    "traderSource": "Prapor LL1 · Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      25,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Parabellum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x19mm-luger-cci": {
+    "id": "9x19mm-luger-cci",
+    "name": "9x19mm Luger CCI",
+    "image": "/ammo/9x19mm-luger-cci.webp",
+    "caliber": "9x19mm Parabellum",
+    "damage": 70,
+    "penetration": 10,
+    "armorDamage": 38,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 20,
+    "heavyBleed": 20,
+    "velocity": 420,
+    "heat": -4.8,
+    "durabilityBurn": 10,
+    "bulletType": "9x19mm Luger CCI",
+    "traderSource": "Mechanic LL3 · Workbench LV2",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      25,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Parabellum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x19mm-green-tracer": {
+    "id": "9x19mm-green-tracer",
+    "name": "9x19mm Green Tracer",
+    "image": "/ammo/9x19mm-green-tracer.webp",
+    "caliber": "9x19mm Parabellum",
+    "damage": 58,
+    "penetration": 14,
+    "armorDamage": 33,
+    "accuracy": -5,
+    "recoil": -6,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 365,
+    "heat": 13.1,
+    "durabilityBurn": 15,
+    "bulletType": "Tracer",
+    "traderSource": "Mechanic LL1",
+    "tags": [
+      "tracer",
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      3,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      45,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Parabellum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x19mm-fmj-m882": {
+    "id": "9x19mm-fmj-m882",
+    "name": "9x19mm FMJ M882",
+    "image": "/ammo/9x19mm-fmj-m882.webp",
+    "caliber": "9x19mm Parabellum",
+    "damage": 56,
+    "penetration": 18,
+    "armorDamage": 35,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 385,
+    "heat": 7.1,
+    "durabilityBurn": 5,
+    "bulletType": "FMJ",
+    "traderSource": "Peacekeeper LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      2,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      25,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Parabellum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x19mm-pst-gzh": {
+    "id": "9x19mm-pst-gzh",
+    "name": "9x19mm Pst gzh",
+    "image": "/ammo/9x19mm-pst-gzh.webp",
+    "caliber": "9x19mm Parabellum",
+    "damage": 54,
+    "penetration": 20,
+    "armorDamage": 33,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 457,
+    "heat": 7.1,
+    "durabilityBurn": 117,
+    "bulletType": "9x19mm Pst gzh",
+    "traderSource": "Prapor LL2 · Mechanic LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      2,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      25,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Parabellum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x19mm-ap-6-3": {
+    "id": "9x19mm-ap-6-3",
+    "name": "9x19mm AP 6.3",
+    "image": "/ammo/9x19mm-ap-6-3.webp",
+    "caliber": "9x19mm Parabellum",
+    "damage": 52,
+    "penetration": 30,
+    "armorDamage": 48,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 392,
+    "heat": 13.6,
+    "durabilityBurn": 35,
+    "bulletType": "AP",
+    "traderSource": "Peacekeeper LL3 · Workbench LV3",
+    "tags": [
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      4,
+      2,
+      1
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      65,
+      25,
+      10
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Magdump only",
+      "It's possible, but…"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Parabellum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x19mm-pbp-gzh": {
+    "id": "9x19mm-pbp-gzh",
+    "name": "9x19mm PBP gzh",
+    "image": "/ammo/9x19mm-pbp-gzh.webp",
+    "caliber": "9x19mm Parabellum",
+    "damage": 44,
+    "penetration": 39,
+    "armorDamage": 55,
+    "accuracy": 5,
+    "recoil": 5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 560,
+    "heat": 19,
+    "durabilityBurn": 170,
+    "bulletType": "9x19mm PBP gzh",
+    "traderSource": "Prapor LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x19mm_Parabellum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x21mm-pe-gzh": {
+    "id": "9x21mm-pe-gzh",
+    "name": "9x21mm PE gzh",
+    "image": "/ammo/9x21mm-pe-gzh.webp",
+    "caliber": "9x21mm Gyurza",
+    "damage": 80,
+    "penetration": 15,
+    "armorDamage": 63,
+    "accuracy": 3,
+    "recoil": -5,
+    "lightBleed": 15,
+    "heavyBleed": 10,
+    "velocity": 415,
+    "heat": null,
+    "durabilityBurn": 10,
+    "bulletType": "9x21mm PE gzh",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      25,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x21mm_Gyurza",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x21mm-p-gzh": {
+    "id": "9x21mm-p-gzh",
+    "name": "9x21mm P gzh",
+    "image": "/ammo/9x21mm-p-gzh.webp",
+    "caliber": "9x21mm Gyurza",
+    "damage": 65,
+    "penetration": 18,
+    "armorDamage": 44,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 15,
+    "heavyBleed": 10,
+    "velocity": 413,
+    "heat": null,
+    "durabilityBurn": 10,
+    "bulletType": "9x21mm P gzh",
+    "traderSource": "Prapor LL2 · Workbench LV1",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      45,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Slightly effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x21mm_Gyurza",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x21mm-ps-gzh": {
+    "id": "9x21mm-ps-gzh",
+    "name": "9x21mm PS gzh",
+    "image": "/ammo/9x21mm-ps-gzh.webp",
+    "caliber": "9x21mm Gyurza",
+    "damage": 59,
+    "penetration": 22,
+    "armorDamage": 39,
+    "accuracy": 1,
+    "recoil": -3,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 410,
+    "heat": 18.8,
+    "durabilityBurn": 35,
+    "bulletType": "9x21mm PS gzh",
+    "traderSource": "Prapor LL2 after The Bunker - Part 1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      3,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      45,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x21mm_Gyurza",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x21mm-7u4": {
+    "id": "9x21mm-7u4",
+    "name": "9x21mm 7U4",
+    "image": "/ammo/9x21mm-7u4.webp",
+    "caliber": "9x21mm Gyurza",
+    "damage": 53,
+    "penetration": 27,
+    "armorDamage": 44,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 300,
+    "heat": -2.5,
+    "durabilityBurn": -10,
+    "bulletType": "9x21mm 7U4",
+    "traderSource": "Prapor LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      5,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x21mm_Gyurza",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x21mm-bt-gzh": {
+    "id": "9x21mm-bt-gzh",
+    "name": "9x21mm BT gzh",
+    "image": "/ammo/9x21mm-bt-gzh.webp",
+    "caliber": "9x21mm Gyurza",
+    "damage": 52,
+    "penetration": 32,
+    "armorDamage": 42,
+    "accuracy": -5,
+    "recoil": 5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 410,
+    "heat": 25,
+    "durabilityBurn": 40,
+    "bulletType": "9x21mm BT gzh",
+    "traderSource": "Prapor LL3 after Test Drive - Part 2 · Ref LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      6,
+      4,
+      3,
+      1
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      65,
+      45,
+      10
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective",
+      "It's possible, but…"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x21mm_Gyurza",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x21mm-7n42-zubilo": {
+    "id": "9x21mm-7n42-zubilo",
+    "name": "9x21mm 7N42 Zubilo",
+    "image": "/ammo/9x21mm-7n42-zubilo.webp",
+    "caliber": "9x21mm Gyurza",
+    "damage": 49,
+    "penetration": 38,
+    "armorDamage": 47,
+    "accuracy": -3,
+    "recoil": 10,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 400,
+    "heat": 45,
+    "durabilityBurn": 50,
+    "bulletType": "9x21mm 7N42 Zubilo",
+    "traderSource": "Prapor LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      4,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      65,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x21mm_Gyurza",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "357-magnum-sp": {
+    "id": "357-magnum-sp",
+    "name": ".357 Magnum SP",
+    "image": "/ammo/357-magnum-sp.webp",
+    "caliber": ".357 Magnum",
+    "damage": 108,
+    "penetration": 12,
+    "armorDamage": 15,
+    "accuracy": 27,
+    "recoil": -29,
+    "lightBleed": 35,
+    "heavyBleed": 20,
+    "velocity": 455,
+    "heat": -7,
+    "durabilityBurn": 30,
+    "bulletType": "SP",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.357_Magnum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "357-magnum-hp": {
+    "id": "357-magnum-hp",
+    "name": ".357 Magnum HP",
+    "image": "/ammo/357-magnum-hp.webp",
+    "caliber": ".357 Magnum",
+    "damage": 99,
+    "penetration": 18,
+    "armorDamage": 20,
+    "accuracy": 15,
+    "recoil": 15,
+    "lightBleed": 40,
+    "heavyBleed": 30,
+    "velocity": 481,
+    "heat": 44,
+    "durabilityBurn": 60,
+    "bulletType": "HP",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      45,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Slightly effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.357_Magnum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "357-magnum-jhp": {
+    "id": "357-magnum-jhp",
+    "name": ".357 Magnum JHP",
+    "image": "/ammo/357-magnum-jhp.webp",
+    "caliber": ".357 Magnum",
+    "damage": 88,
+    "penetration": 24,
+    "armorDamage": 28,
+    "accuracy": 15,
+    "recoil": 8,
+    "lightBleed": 25,
+    "heavyBleed": 25,
+    "velocity": 425,
+    "heat": 28,
+    "durabilityBurn": 40,
+    "bulletType": "HP",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      2,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      25,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.357_Magnum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "357-magnum-fmj": {
+    "id": "357-magnum-fmj",
+    "name": ".357 Magnum FMJ",
+    "image": "/ammo/357-magnum-fmj.webp",
+    "caliber": ".357 Magnum",
+    "damage": 70,
+    "penetration": 35,
+    "armorDamage": 43,
+    "accuracy": null,
+    "recoil": 12,
+    "lightBleed": null,
+    "heavyBleed": 10,
+    "velocity": 385,
+    "heat": 28,
+    "durabilityBurn": 50,
+    "bulletType": "FMJ",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      2,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      25,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Magdump only",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.357_Magnum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "45-acp-rip": {
+    "id": "45-acp-rip",
+    "name": ".45 ACP RIP",
+    "image": "/ammo/45-acp-rip.webp",
+    "caliber": ".45 ACP",
+    "damage": 130,
+    "penetration": 3,
+    "armorDamage": 12,
+    "accuracy": -5,
+    "recoil": null,
+    "lightBleed": 30,
+    "heavyBleed": 20,
+    "velocity": 293,
+    "heat": 16.8,
+    "durabilityBurn": 50,
+    "bulletType": "RIP",
+    "traderSource": "Mechanic LL4 after Broadcast - Part 4",
+    "tags": [],
+    "armorClass": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.45_ACP",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "45-acp-hydra-shok": {
+    "id": "45-acp-hydra-shok",
+    "name": ".45 ACP Hydra-Shok",
+    "image": "/ammo/45-acp-hydra-shok.webp",
+    "caliber": ".45 ACP",
+    "damage": 100,
+    "penetration": 13,
+    "armorDamage": 30,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": 30,
+    "velocity": 274,
+    "heat": 13.8,
+    "durabilityBurn": 10,
+    "bulletType": "Hydra-Shok",
+    "traderSource": "Peacekeeper LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      45,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Slightly effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.45_ACP",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "45-acp-lasermatch-fmj": {
+    "id": "45-acp-lasermatch-fmj",
+    "name": ".45 ACP Lasermatch FMJ",
+    "image": "/ammo/45-acp-lasermatch-fmj.webp",
+    "caliber": ".45 ACP",
+    "damage": 76,
+    "penetration": 19,
+    "armorDamage": 37,
+    "accuracy": 10,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 290,
+    "heat": 10.7,
+    "durabilityBurn": 20,
+    "bulletType": "FMJ",
+    "traderSource": "Peacekeeper LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.45_ACP",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "45-acp-match-fmj": {
+    "id": "45-acp-match-fmj",
+    "name": ".45 ACP Match FMJ",
+    "image": "/ammo/45-acp-match-fmj.webp",
+    "caliber": ".45 ACP",
+    "damage": 72,
+    "penetration": 25,
+    "armorDamage": 36,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 340,
+    "heat": -0.4,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Peacekeeper LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      3,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      45,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.45_ACP",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "45-acp-ap": {
+    "id": "45-acp-ap",
+    "name": ".45 ACP AP",
+    "image": "/ammo/45-acp-ap.webp",
+    "caliber": ".45 ACP",
+    "damage": 66,
+    "penetration": 38,
+    "armorDamage": 48,
+    "accuracy": -5,
+    "recoil": 7,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 299,
+    "heat": 23,
+    "durabilityBurn": 70,
+    "bulletType": "AP",
+    "traderSource": "Peacekeeper LL4 · Ref LL4 · Workbench LV3",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      4,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      65,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.45_ACP",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "50-ae-jhp": {
+    "id": "50-ae-jhp",
+    "name": ".50 AE JHP",
+    "image": "/ammo/50-ae-jhp.webp",
+    "caliber": ".50 Action Express",
+    "damage": 147,
+    "penetration": 12,
+    "armorDamage": 23,
+    "accuracy": -10,
+    "recoil": 5,
+    "lightBleed": 35,
+    "heavyBleed": 40,
+    "velocity": 440,
+    "heat": 91,
+    "durabilityBurn": 20,
+    "bulletType": "HP",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.50_Action_Express",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "50-ae-hawk-jsp": {
+    "id": "50-ae-hawk-jsp",
+    "name": ".50 AE Hawk JSP",
+    "image": "/ammo/50-ae-hawk-jsp.webp",
+    "caliber": ".50 Action Express",
+    "damage": 122,
+    "penetration": 26,
+    "armorDamage": 28,
+    "accuracy": -5,
+    "recoil": 2,
+    "lightBleed": 25,
+    "heavyBleed": 30,
+    "velocity": 465,
+    "heat": 127,
+    "durabilityBurn": null,
+    "bulletType": ".50 AE Hawk JSP",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      4,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      65,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.50_Action_Express",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "50-ae-copper-solid": {
+    "id": "50-ae-copper-solid",
+    "name": ".50 AE Copper Solid",
+    "image": "/ammo/50-ae-copper-solid.webp",
+    "caliber": ".50 Action Express",
+    "damage": 94,
+    "penetration": 33,
+    "armorDamage": 56,
+    "accuracy": 5,
+    "recoil": 8,
+    "lightBleed": null,
+    "heavyBleed": 10,
+    "velocity": 460,
+    "heat": 115,
+    "durabilityBurn": 40,
+    "bulletType": ".50 AE Copper Solid",
+    "traderSource": "Mechanic LL2",
+    "tags": [
+      "meta",
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      3,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      45,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.50_Action_Express",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "50-ae-fmj": {
+    "id": "50-ae-fmj",
+    "name": ".50 AE FMJ",
+    "image": "/ammo/50-ae-fmj.webp",
+    "caliber": ".50 Action Express",
+    "damage": 85,
+    "penetration": 40,
+    "armorDamage": 50,
+    "accuracy": null,
+    "recoil": 10,
+    "lightBleed": null,
+    "heavyBleed": 10,
+    "velocity": 440,
+    "heat": 138,
+    "durabilityBurn": 70,
+    "bulletType": "FMJ",
+    "traderSource": "Mechanic LL3",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.50_Action_Express",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20x1mm-disk": {
+    "id": "20x1mm-disk",
+    "name": "20x1mm disk",
+    "image": "/ammo/20x1mm-disk.webp",
+    "caliber": "20x1mm",
+    "damage": 1,
+    "penetration": 0,
+    "armorDamage": 0,
+    "accuracy": null,
+    "recoil": 1,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 20,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "disk",
+    "traderSource": "Mechanic LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20x1mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "4-6x30mm-action-sx": {
+    "id": "4-6x30mm-action-sx",
+    "name": "4.6x30mm Action SX",
+    "image": "/ammo/4-6x30mm-action-sx.webp",
+    "caliber": "4.6x30mm HK",
+    "damage": 65,
+    "penetration": 18,
+    "armorDamage": 28,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 690,
+    "heat": -1,
+    "durabilityBurn": null,
+    "bulletType": "4.6x30mm Action SX",
+    "traderSource": "Mechanic LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/4.6x30mm_HK",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "4-6x30mm-subsonic-sx": {
+    "id": "4-6x30mm-subsonic-sx",
+    "name": "4.6x30mm Subsonic SX",
+    "image": "/ammo/4-6x30mm-subsonic-sx.webp",
+    "caliber": "4.6x30mm HK",
+    "damage": 52,
+    "penetration": 23,
+    "armorDamage": 33,
+    "accuracy": 10,
+    "recoil": -22,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 290,
+    "heat": -12,
+    "durabilityBurn": -30,
+    "bulletType": "4.6x30mm Subsonic SX",
+    "traderSource": "Mechanic LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      3,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      45,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/4.6x30mm_HK",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "4-6x30mm-jsp-sx": {
+    "id": "4-6x30mm-jsp-sx",
+    "name": "4.6x30mm JSP SX",
+    "image": "/ammo/4-6x30mm-jsp-sx.webp",
+    "caliber": "4.6x30mm HK",
+    "damage": 46,
+    "penetration": 32,
+    "armorDamage": 37,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 579,
+    "heat": -1,
+    "durabilityBurn": -10,
+    "bulletType": "4.6x30mm JSP SX",
+    "traderSource": "Mechanic LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      6,
+      4,
+      2,
+      1
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      65,
+      25,
+      10
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Magdump only",
+      "It's possible, but…"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/4.6x30mm_HK",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "4-6x30mm-fmj-sx": {
+    "id": "4-6x30mm-fmj-sx",
+    "name": "4.6x30mm FMJ SX",
+    "image": "/ammo/4-6x30mm-fmj-sx.webp",
+    "caliber": "4.6x30mm HK",
+    "damage": 43,
+    "penetration": 40,
+    "armorDamage": 41,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 620,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Mechanic LL4 after Import",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/4.6x30mm_HK",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "4-6x30mm-ap-sx": {
+    "id": "4-6x30mm-ap-sx",
+    "name": "4.6x30mm AP SX",
+    "image": "/ammo/4-6x30mm-ap-sx.webp",
+    "caliber": "4.6x30mm HK",
+    "damage": 35,
+    "penetration": 53,
+    "armorDamage": 46,
+    "accuracy": null,
+    "recoil": 10,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 680,
+    "heat": 10,
+    "durabilityBurn": 50,
+    "bulletType": "AP",
+    "traderSource": "Workbench LV3 after The Guide",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/4.6x30mm_HK",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-7x28mm-r37-f": {
+    "id": "5-7x28mm-r37-f",
+    "name": "5.7x28mm R37.F",
+    "image": "/ammo/5-7x28mm-r37-f.webp",
+    "caliber": "5.7x28mm FN",
+    "damage": 98,
+    "penetration": 8,
+    "armorDamage": 7,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 20,
+    "heavyBleed": 20,
+    "velocity": 729,
+    "heat": -2.9,
+    "durabilityBurn": null,
+    "bulletType": "5.7x28mm R37.F",
+    "traderSource": "Mechanic LL3 after Gunsmith - Part 9",
+    "tags": [],
+    "armorClass": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      65,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.7x28mm_FN",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-7x28mm-r37-x": {
+    "id": "5-7x28mm-r37-x",
+    "name": "5.7x28mm R37.X",
+    "image": "/ammo/5-7x28mm-r37-x.webp",
+    "caliber": "5.7x28mm FN",
+    "damage": 81,
+    "penetration": 11,
+    "armorDamage": 9,
+    "accuracy": -5,
+    "recoil": null,
+    "lightBleed": 10,
+    "heavyBleed": 10,
+    "velocity": 724,
+    "heat": -1.7,
+    "durabilityBurn": null,
+    "bulletType": "5.7x28mm R37.X",
+    "traderSource": "|Mechanic LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.7x28mm_FN",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-7x28mm-ss198lf": {
+    "id": "5-7x28mm-ss198lf",
+    "name": "5.7x28mm SS198LF",
+    "image": "/ammo/5-7x28mm-ss198lf.webp",
+    "caliber": "5.7x28mm FN",
+    "damage": 70,
+    "penetration": 17,
+    "armorDamage": 19,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 792,
+    "heat": -0.6,
+    "durabilityBurn": null,
+    "bulletType": "5.7x28mm SS198LF",
+    "traderSource": "Peacekeeper LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      4,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      65,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.7x28mm_FN",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-7x28mm-ss197sr": {
+    "id": "5-7x28mm-ss197sr",
+    "name": "5.7x28mm SS197SR",
+    "image": "/ammo/5-7x28mm-ss197sr.webp",
+    "caliber": "5.7x28mm FN",
+    "damage": 62,
+    "penetration": 25,
+    "armorDamage": 22,
+    "accuracy": 10,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 594,
+    "heat": null,
+    "durabilityBurn": -20,
+    "bulletType": "5.7x28mm SS197SR",
+    "traderSource": "Peacekeeper LL2 after Scrap Metal · Ref LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      4,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      65,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.7x28mm_FN",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-7x28mm-sb193": {
+    "id": "5-7x28mm-sb193",
+    "name": "5.7x28mm SB193",
+    "image": "/ammo/5-7x28mm-sb193.webp",
+    "caliber": "5.7x28mm FN",
+    "damage": 59,
+    "penetration": 27,
+    "armorDamage": 37,
+    "accuracy": 5,
+    "recoil": -15,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 299,
+    "heat": -6.4,
+    "durabilityBurn": -25,
+    "bulletType": "5.7x28mm SB193",
+    "traderSource": "Peacekeeper LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      5,
+      2,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      25,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Magdump only",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.7x28mm_FN",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-7x28mm-l191": {
+    "id": "5-7x28mm-l191",
+    "name": "5.7x28mm L191",
+    "image": "/ammo/5-7x28mm-l191.webp",
+    "caliber": "5.7x28mm FN",
+    "damage": 53,
+    "penetration": 33,
+    "armorDamage": 41,
+    "accuracy": -4,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 715,
+    "heat": 11.2,
+    "durabilityBurn": 15,
+    "bulletType": "5.7x28mm L191",
+    "traderSource": "Peacekeeper LL3 · Workbench LV2",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      3,
+      2,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      45,
+      25,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "Magdump only",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.7x28mm_FN",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-7x28mm-ss190": {
+    "id": "5-7x28mm-ss190",
+    "name": "5.7x28mm SS190",
+    "image": "/ammo/5-7x28mm-ss190.webp",
+    "caliber": "5.7x28mm FN",
+    "damage": 49,
+    "penetration": 37,
+    "armorDamage": 43,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 715,
+    "heat": 17,
+    "durabilityBurn": 20,
+    "bulletType": "5.7x28mm SS190",
+    "traderSource": "Ref LL3 · Peacekeeper LL4 · Workbench LV3",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.7x28mm_FN",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-hp": {
+    "id": "5-45x39mm-hp",
+    "name": "5.45x39mm HP",
+    "image": "/ammo/5-45x39mm-hp.webp",
+    "caliber": "5.45x39mm",
+    "damage": 76,
+    "penetration": 9,
+    "armorDamage": 15,
+    "accuracy": 3,
+    "recoil": -3,
+    "lightBleed": 15,
+    "heavyBleed": 15,
+    "velocity": 884,
+    "heat": 41.6,
+    "durabilityBurn": null,
+    "bulletType": "HP",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      5,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      85,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Very effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-prs-gs": {
+    "id": "5-45x39mm-prs-gs",
+    "name": "5.45x39mm PRS gs",
+    "image": "/ammo/5-45x39mm-prs-gs.webp",
+    "caliber": "5.45x39mm",
+    "damage": 70,
+    "penetration": 13,
+    "armorDamage": 24,
+    "accuracy": null,
+    "recoil": -5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 866,
+    "heat": 50.5,
+    "durabilityBurn": 15,
+    "bulletType": "PRS gs",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-sp": {
+    "id": "5-45x39mm-sp",
+    "name": "5.45x39mm SP",
+    "image": "/ammo/5-45x39mm-sp.webp",
+    "caliber": "5.45x39mm",
+    "damage": 67,
+    "penetration": 15,
+    "armorDamage": 31,
+    "accuracy": 5,
+    "recoil": -5,
+    "lightBleed": 10,
+    "heavyBleed": 10,
+    "velocity": 873,
+    "heat": 45.1,
+    "durabilityBurn": null,
+    "bulletType": "SP",
+    "traderSource": "Skier LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      25,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-us-gs": {
+    "id": "5-45x39mm-us-gs",
+    "name": "5.45x39mm US gs",
+    "image": "/ammo/5-45x39mm-us-gs.webp",
+    "caliber": "5.45x39mm",
+    "damage": 65,
+    "penetration": 17,
+    "armorDamage": 33,
+    "accuracy": null,
+    "recoil": -15,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 303,
+    "heat": 32.8,
+    "durabilityBurn": -20,
+    "bulletType": "US gs",
+    "traderSource": "Prapor LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-t-gs": {
+    "id": "5-45x39mm-t-gs",
+    "name": "5.45x39mm T gs",
+    "image": "/ammo/5-45x39mm-t-gs.webp",
+    "caliber": "5.45x39mm",
+    "damage": 59,
+    "penetration": 20,
+    "armorDamage": 36,
+    "accuracy": -3,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 883,
+    "heat": 52.2,
+    "durabilityBurn": 15,
+    "bulletType": "Tracer",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "tracer",
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-fmj": {
+    "id": "5-45x39mm-fmj",
+    "name": "5.45x39mm FMJ",
+    "image": "/ammo/5-45x39mm-fmj.webp",
+    "caliber": "5.45x39mm",
+    "damage": 55,
+    "penetration": 24,
+    "armorDamage": 38,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 884,
+    "heat": 43.4,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Prapor LL2 after Delivery From the Past · Ref LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      3,
+      2,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      45,
+      25,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "Magdump only",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-ps-gs": {
+    "id": "5-45x39mm-ps-gs",
+    "name": "5.45x39mm PS gs",
+    "image": "/ammo/5-45x39mm-ps-gs.webp",
+    "caliber": "5.45x39mm",
+    "damage": 56,
+    "penetration": 28,
+    "armorDamage": 40,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 890,
+    "heat": 48.7,
+    "durabilityBurn": 10,
+    "bulletType": "PS gs",
+    "traderSource": "Prapor LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      5,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-pp-gs": {
+    "id": "5-45x39mm-pp-gs",
+    "name": "5.45x39mm PP gs",
+    "image": "/ammo/5-45x39mm-pp-gs.webp",
+    "caliber": "5.45x39mm",
+    "damage": 51,
+    "penetration": 34,
+    "armorDamage": 42,
+    "accuracy": -2,
+    "recoil": 3,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 886,
+    "heat": 54,
+    "durabilityBurn": 20,
+    "bulletType": "PP gs",
+    "traderSource": "Ref LL2 · Workbench LV2 after The Punisher - Part 3",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      4,
+      3,
+      1
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      65,
+      45,
+      10
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective",
+      "It's possible, but…"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-bt-gs": {
+    "id": "5-45x39mm-bt-gs",
+    "name": "5.45x39mm BT gs",
+    "image": "/ammo/5-45x39mm-bt-gs.webp",
+    "caliber": "5.45x39mm",
+    "damage": 54,
+    "penetration": 37,
+    "armorDamage": 44,
+    "accuracy": -4,
+    "recoil": 5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 880,
+    "heat": 68.2,
+    "durabilityBurn": 50,
+    "bulletType": "BT gs",
+    "traderSource": "Prapor LL2 (Barter) · Prapor LL4",
+    "tags": [
+      "meta",
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      3,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      45,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-7n40": {
+    "id": "5-45x39mm-7n40",
+    "name": "5.45x39mm 7N40",
+    "image": "/ammo/5-45x39mm-7n40.webp",
+    "caliber": "5.45x39mm",
+    "damage": 55,
+    "penetration": 42,
+    "armorDamage": 45,
+    "accuracy": 50,
+    "recoil": -10,
+    "lightBleed": 20,
+    "heavyBleed": 15,
+    "velocity": 915,
+    "heat": 75.2,
+    "durabilityBurn": 35,
+    "bulletType": "7N40",
+    "traderSource": "Prapor LL4 after Calibration",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-bp-gs": {
+    "id": "5-45x39mm-bp-gs",
+    "name": "5.45x39mm BP gs",
+    "image": "/ammo/5-45x39mm-bp-gs.webp",
+    "caliber": "5.45x39mm",
+    "damage": 48,
+    "penetration": 45,
+    "armorDamage": 46,
+    "accuracy": -3,
+    "recoil": 7,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 890,
+    "heat": 59.3,
+    "durabilityBurn": 35,
+    "bulletType": "BP gs",
+    "traderSource": "Workbench LV3 after Gendarmerie - District Patrol",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-bs-gs": {
+    "id": "5-45x39mm-bs-gs",
+    "name": "5.45x39mm BS gs",
+    "image": "/ammo/5-45x39mm-bs-gs.webp",
+    "caliber": "5.45x39mm",
+    "damage": 45,
+    "penetration": 54,
+    "armorDamage": 57,
+    "accuracy": -4,
+    "recoil": 10,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 830,
+    "heat": 69.9,
+    "durabilityBurn": 45,
+    "bulletType": "BS gs",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-45x39mm-ppbs-gs-igolnik": {
+    "id": "5-45x39mm-ppbs-gs-igolnik",
+    "name": "5.45x39mm PPBS gs Igolnik",
+    "image": "/ammo/5-45x39mm-ppbs-gs-igolnik.webp",
+    "caliber": "5.45x39mm",
+    "damage": 37,
+    "penetration": 62,
+    "armorDamage": 59,
+    "accuracy": -5,
+    "recoil": 15,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 905,
+    "heat": 77,
+    "durabilityBurn": 70,
+    "bulletType": "PPBS gs Igolnik",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.45x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-warmageddon": {
+    "id": "5-56x45mm-warmageddon",
+    "name": "5.56x45mm Warmageddon",
+    "image": "/ammo/5-56x45mm-warmageddon.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 88,
+    "penetration": 3,
+    "armorDamage": 11,
+    "accuracy": 10,
+    "recoil": 10,
+    "lightBleed": 20,
+    "heavyBleed": 20,
+    "velocity": 936,
+    "heat": 53.9,
+    "durabilityBurn": null,
+    "bulletType": "5.56x45mm Warmageddon",
+    "traderSource": "Peacekeeper LL2 after Humanitarian Supplies",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-hp": {
+    "id": "5-56x45mm-hp",
+    "name": "5.56x45mm HP",
+    "image": "/ammo/5-56x45mm-hp.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 79,
+    "penetration": 7,
+    "armorDamage": 22,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 15,
+    "heavyBleed": 15,
+    "velocity": 947,
+    "heat": 55.8,
+    "durabilityBurn": null,
+    "bulletType": "HP",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      65,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-mk-255-mod-0-rrlp": {
+    "id": "5-56x45mm-mk-255-mod-0-rrlp",
+    "name": "5.56x45mm MK 255 Mod 0 (RRLP)",
+    "image": "/ammo/5-56x45mm-mk-255-mod-0-rrlp.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 72,
+    "penetration": 11,
+    "armorDamage": 24,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 936,
+    "heat": 59.6,
+    "durabilityBurn": 10,
+    "bulletType": "5.56x45mm MK 255 Mod 0 (RRLP)",
+    "traderSource": "Peacekeeper LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      10,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-m856": {
+    "id": "5-56x45mm-m856",
+    "name": "5.56x45mm M856",
+    "image": "/ammo/5-56x45mm-m856.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 60,
+    "penetration": 18,
+    "armorDamage": 26,
+    "accuracy": -2,
+    "recoil": -2,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 874,
+    "heat": 63.4,
+    "durabilityBurn": 15,
+    "bulletType": "5.56x45mm M856",
+    "traderSource": "Peacekeeper LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-fmj": {
+    "id": "5-56x45mm-fmj",
+    "name": "5.56x45mm FMJ",
+    "image": "/ammo/5-56x45mm-fmj.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 57,
+    "penetration": 23,
+    "armorDamage": 33,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 957,
+    "heat": 50.1,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Peacekeeper LL2 after Tigr Safari",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      4,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      65,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-m855": {
+    "id": "5-56x45mm-m855",
+    "name": "5.56x45mm M855",
+    "image": "/ammo/5-56x45mm-m855.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 54,
+    "penetration": 31,
+    "armorDamage": 37,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 922,
+    "heat": 61.5,
+    "durabilityBurn": 15,
+    "bulletType": "5.56x45mm M855",
+    "traderSource": "Peacekeeper LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      5,
+      3,
+      2,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      45,
+      25,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "Magdump only",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-mk-318-mod-0-sost": {
+    "id": "5-56x45mm-mk-318-mod-0-sost",
+    "name": "5.56x45mm MK 318 Mod 0 (SOST)",
+    "image": "/ammo/5-56x45mm-mk-318-mod-0-sost.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 53,
+    "penetration": 33,
+    "armorDamage": 39,
+    "accuracy": 2,
+    "recoil": 3,
+    "lightBleed": 15,
+    "heavyBleed": 10,
+    "velocity": 902,
+    "heat": 52,
+    "durabilityBurn": 15,
+    "bulletType": "5.56x45mm MK 318 Mod 0 (SOST)",
+    "traderSource": "Ref LL2 · Workbench LV2",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      4,
+      2,
+      1
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      65,
+      25,
+      10
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Magdump only",
+      "It's possible, but…"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-m856a1": {
+    "id": "5-56x45mm-m856a1",
+    "name": "5.56x45mm M856A1",
+    "image": "/ammo/5-56x45mm-m856a1.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 52,
+    "penetration": 38,
+    "armorDamage": 44,
+    "accuracy": -4,
+    "recoil": 4,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 940,
+    "heat": 65.3,
+    "durabilityBurn": 20,
+    "bulletType": "5.56x45mm M856A1",
+    "traderSource": "Peacekeeper LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      3,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      45,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-m855a1": {
+    "id": "5-56x45mm-m855a1",
+    "name": "5.56x45mm M855A1",
+    "image": "/ammo/5-56x45mm-m855a1.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 49,
+    "penetration": 44,
+    "armorDamage": 47,
+    "accuracy": -5,
+    "recoil": 5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 945,
+    "heat": 71,
+    "durabilityBurn": 34,
+    "bulletType": "5.56x45mm M855A1",
+    "traderSource": "Ref LL4 · Workbench LV3 after Your Car Needs a Service",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-m995": {
+    "id": "5-56x45mm-m995",
+    "name": "5.56x45mm M995",
+    "image": "/ammo/5-56x45mm-m995.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 42,
+    "penetration": 53,
+    "armorDamage": 52,
+    "accuracy": -7,
+    "recoil": 8,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 1013,
+    "heat": 80.5,
+    "durabilityBurn": 70,
+    "bulletType": "5.56x45mm M995",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "5-56x45mm-ssa-ap": {
+    "id": "5-56x45mm-ssa-ap",
+    "name": "5.56x45mm SSA AP",
+    "image": "/ammo/5-56x45mm-ssa-ap.webp",
+    "caliber": "5.56x45mm NATO",
+    "damage": 38,
+    "penetration": 57,
+    "armorDamage": 58,
+    "accuracy": -9,
+    "recoil": 6,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 1013,
+    "heat": 90,
+    "durabilityBurn": 80,
+    "bulletType": "AP",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/5.56x45mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "6-8x51mm-sig-fmj": {
+    "id": "6-8x51mm-sig-fmj",
+    "name": "6.8x51mm SIG FMJ",
+    "image": "/ammo/6-8x51mm-sig-fmj.webp",
+    "caliber": "6.8x51mm",
+    "damage": 80,
+    "penetration": 36,
+    "armorDamage": 49,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 899,
+    "heat": 136,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Peacekeeper LL3 · Ref LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      4,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      65,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/6.8x51mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "6-8x51mm-sig-hybrid": {
+    "id": "6-8x51mm-sig-hybrid",
+    "name": "6.8x51mm SIG Hybrid",
+    "image": "/ammo/6-8x51mm-sig-hybrid.webp",
+    "caliber": "6.8x51mm",
+    "damage": 72,
+    "penetration": 47,
+    "armorDamage": 58,
+    "accuracy": 3,
+    "recoil": 10,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 914,
+    "heat": 153,
+    "durabilityBurn": 50,
+    "bulletType": "SIG Hybrid",
+    "traderSource": "Peacekeeper LL4 after Trouble in the Big City",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/6.8x51mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "300-whisper": {
+    "id": "300-whisper",
+    "name": ".300 Whisper",
+    "image": "/ammo/300-whisper.webp",
+    "caliber": ".300 Blackout",
+    "damage": 90,
+    "penetration": 14,
+    "armorDamage": 19,
+    "accuracy": 5,
+    "recoil": -5,
+    "lightBleed": null,
+    "heavyBleed": 20,
+    "velocity": 853,
+    "heat": 97,
+    "durabilityBurn": 5,
+    "bulletType": ".300 Whisper",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      4,
+      2,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      65,
+      25,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Effective",
+      "Magdump only",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.300_Blackout",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "300-blackout-v-max": {
+    "id": "300-blackout-v-max",
+    "name": ".300 Blackout V-Max",
+    "image": "/ammo/300-blackout-v-max.webp",
+    "caliber": ".300 Blackout",
+    "damage": 72,
+    "penetration": 20,
+    "armorDamage": 25,
+    "accuracy": 30,
+    "recoil": -10,
+    "lightBleed": 22,
+    "heavyBleed": null,
+    "velocity": 723,
+    "heat": 80,
+    "durabilityBurn": 10,
+    "bulletType": "V-Max",
+    "traderSource": "Skier LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      4,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      65,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.300_Blackout",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "300-blackout-bcp-fmj": {
+    "id": "300-blackout-bcp-fmj",
+    "name": ".300 Blackout BCP FMJ",
+    "image": "/ammo/300-blackout-bcp-fmj.webp",
+    "caliber": ".300 Blackout",
+    "damage": 60,
+    "penetration": 30,
+    "armorDamage": 36,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 605,
+    "heat": 59.2,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Skier LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      6,
+      3,
+      2,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      45,
+      25,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "Magdump only",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.300_Blackout",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "300-blackout-m62-tracer": {
+    "id": "300-blackout-m62-tracer",
+    "name": ".300 Blackout M62 Tracer",
+    "image": "/ammo/300-blackout-m62-tracer.webp",
+    "caliber": ".300 Blackout",
+    "damage": 54,
+    "penetration": 36,
+    "armorDamage": 40,
+    "accuracy": null,
+    "recoil": 1,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 442,
+    "heat": 70,
+    "durabilityBurn": 25,
+    "bulletType": "Tracer",
+    "traderSource": "Workbench LV3 after Wet Job - Part 1",
+    "tags": [
+      "meta",
+      "tracer",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      4,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      65,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.300_Blackout",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "300-blackout-cbj": {
+    "id": "300-blackout-cbj",
+    "name": ".300 Blackout CBJ",
+    "image": "/ammo/300-blackout-cbj.webp",
+    "caliber": ".300 Blackout",
+    "damage": 58,
+    "penetration": 43,
+    "armorDamage": 57,
+    "accuracy": null,
+    "recoil": 5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 725,
+    "heat": 86,
+    "durabilityBurn": 34,
+    "bulletType": "CBJ",
+    "traderSource": "Mechanic LL3 (Barter) after accepting Test Drive - Part 6 · Ref LL3 · Peacekeeper LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.300_Blackout",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "300-blackout-ap": {
+    "id": "300-blackout-ap",
+    "name": ".300 Blackout AP",
+    "image": "/ammo/300-blackout-ap.webp",
+    "caliber": ".300 Blackout",
+    "damage": 51,
+    "penetration": 48,
+    "armorDamage": 65,
+    "accuracy": null,
+    "recoil": 3,
+    "lightBleed": 15,
+    "heavyBleed": 15,
+    "velocity": 635,
+    "heat": 99,
+    "durabilityBurn": 50,
+    "bulletType": "AP",
+    "traderSource": "Workbench LV3 after The Cleaner",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.300_Blackout",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x39mm-hp": {
+    "id": "7-62x39mm-hp",
+    "name": "7.62x39mm HP",
+    "image": "/ammo/7-62x39mm-hp.webp",
+    "caliber": "7.62x39mm",
+    "damage": 80,
+    "penetration": 15,
+    "armorDamage": 20,
+    "accuracy": -5,
+    "recoil": 5,
+    "lightBleed": 15,
+    "heavyBleed": 15,
+    "velocity": 754,
+    "heat": -7.5,
+    "durabilityBurn": null,
+    "bulletType": "HP",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      4,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      65,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x39mm-sp": {
+    "id": "7-62x39mm-sp",
+    "name": "7.62x39mm SP",
+    "image": "/ammo/7-62x39mm-sp.webp",
+    "caliber": "7.62x39mm",
+    "damage": 68,
+    "penetration": 20,
+    "armorDamage": 27,
+    "accuracy": 5,
+    "recoil": -5,
+    "lightBleed": 5,
+    "heavyBleed": 5,
+    "velocity": 772,
+    "heat": -4.5,
+    "durabilityBurn": null,
+    "bulletType": "SP",
+    "traderSource": "Skier LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      2,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      25,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x39mm-fmj": {
+    "id": "7-62x39mm-fmj",
+    "name": "7.62x39mm FMJ",
+    "image": "/ammo/7-62x39mm-fmj.webp",
+    "caliber": "7.62x39mm",
+    "damage": 63,
+    "penetration": 26,
+    "armorDamage": 33,
+    "accuracy": 2,
+    "recoil": -2,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 775,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Prapor LL2 · Workbench LV1",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      4,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      65,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x39mm-us-gzh": {
+    "id": "7-62x39mm-us-gzh",
+    "name": "7.62x39mm US gzh",
+    "image": "/ammo/7-62x39mm-us-gzh.webp",
+    "caliber": "7.62x39mm",
+    "damage": 56,
+    "penetration": 29,
+    "armorDamage": 42,
+    "accuracy": 5,
+    "recoil": -30,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 301,
+    "heat": -10.4,
+    "durabilityBurn": -20,
+    "bulletType": "US gzh",
+    "traderSource": "Prapor LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      5,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x39mm-t-45m1-gzh": {
+    "id": "7-62x39mm-t-45m1-gzh",
+    "name": "7.62x39mm T-45M1 gzh",
+    "image": "/ammo/7-62x39mm-t-45m1-gzh.webp",
+    "caliber": "7.62x39mm",
+    "damage": 65,
+    "penetration": 30,
+    "armorDamage": 46,
+    "accuracy": -4,
+    "recoil": -6,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 720,
+    "heat": 20,
+    "durabilityBurn": 20,
+    "bulletType": "Tracer",
+    "traderSource": "Prapor LL3",
+    "tags": [
+      "tracer"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x39mm-ps-gzh": {
+    "id": "7-62x39mm-ps-gzh",
+    "name": "7.62x39mm PS gzh",
+    "image": "/ammo/7-62x39mm-ps-gzh.webp",
+    "caliber": "7.62x39mm",
+    "damage": 61,
+    "penetration": 35,
+    "armorDamage": 52,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 717,
+    "heat": 12.5,
+    "durabilityBurn": 20,
+    "bulletType": "PS gzh",
+    "traderSource": "Prapor LL2 (Barter) · Prapor LL3 after The Punisher - Part 1",
+    "tags": [
+      "meta",
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      3,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      45,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x39mm-pp-gzh": {
+    "id": "7-62x39mm-pp-gzh",
+    "name": "7.62x39mm PP gzh",
+    "image": "/ammo/7-62x39mm-pp-gzh.webp",
+    "caliber": "7.62x39mm",
+    "damage": 59,
+    "penetration": 41,
+    "armorDamage": 57,
+    "accuracy": -1,
+    "recoil": 5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 732,
+    "heat": 72.5,
+    "durabilityBurn": 35,
+    "bulletType": "PP gzh",
+    "traderSource": "Prapor LL4 ·",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x39mm-bp-gzh": {
+    "id": "7-62x39mm-bp-gzh",
+    "name": "7.62x39mm BP gzh",
+    "image": "/ammo/7-62x39mm-bp-gzh.webp",
+    "caliber": "7.62x39mm",
+    "damage": 58,
+    "penetration": 47,
+    "armorDamage": 63,
+    "accuracy": -3,
+    "recoil": 7,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 730,
+    "heat": 91.9,
+    "durabilityBurn": 45,
+    "bulletType": "BP gzh",
+    "traderSource": "Workbench LV3 after Intimidator · Ref LL4",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x39mm-mai-ap": {
+    "id": "7-62x39mm-mai-ap",
+    "name": "7.62x39mm MAI AP",
+    "image": "/ammo/7-62x39mm-mai-ap.webp",
+    "caliber": "7.62x39mm",
+    "damage": 53,
+    "penetration": 58,
+    "armorDamage": 76,
+    "accuracy": -5,
+    "recoil": 10,
+    "lightBleed": 10,
+    "heavyBleed": 10,
+    "velocity": 875,
+    "heat": 102,
+    "durabilityBurn": 70,
+    "bulletType": "AP",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x51mm-ultra-nosler": {
+    "id": "7-62x51mm-ultra-nosler",
+    "name": "7.62x51mm Ultra Nosler",
+    "image": "/ammo/7-62x51mm-ultra-nosler.webp",
+    "caliber": "7.62x51mm NATO",
+    "damage": 105,
+    "penetration": 15,
+    "armorDamage": 40,
+    "accuracy": 35,
+    "recoil": -5,
+    "lightBleed": 20,
+    "heavyBleed": 20,
+    "velocity": 800,
+    "heat": -10,
+    "durabilityBurn": -5,
+    "bulletType": "7.62x51mm Ultra Nosler",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      65,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x51mm-tcw-sp": {
+    "id": "7-62x51mm-tcw-sp",
+    "name": "7.62x51mm TCW SP",
+    "image": "/ammo/7-62x51mm-tcw-sp.webp",
+    "caliber": "7.62x51mm NATO",
+    "damage": 85,
+    "penetration": 30,
+    "armorDamage": 25,
+    "accuracy": 20,
+    "recoil": -3,
+    "lightBleed": 15,
+    "heavyBleed": 15,
+    "velocity": 800,
+    "heat": -15,
+    "durabilityBurn": -2,
+    "bulletType": "7.62x51mm TCW SP",
+    "traderSource": "Skier LL2 · Ref LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      3,
+      2,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      45,
+      25,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "Magdump only",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x51mm-bcp-fmj": {
+    "id": "7-62x51mm-bcp-fmj",
+    "name": "7.62x51mm BCP FMJ",
+    "image": "/ammo/7-62x51mm-bcp-fmj.webp",
+    "caliber": "7.62x51mm NATO",
+    "damage": 83,
+    "penetration": 37,
+    "armorDamage": 56,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 12,
+    "heavyBleed": 12,
+    "velocity": 840,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Jaeger LL3 · Workbench LV2",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      4,
+      3,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      65,
+      45,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x51mm-m62-tracer": {
+    "id": "7-62x51mm-m62-tracer",
+    "name": "7.62x51mm M62 Tracer",
+    "image": "/ammo/7-62x51mm-m62-tracer.webp",
+    "caliber": "7.62x51mm NATO",
+    "damage": 82,
+    "penetration": 42,
+    "armorDamage": 65,
+    "accuracy": -10,
+    "recoil": 1,
+    "lightBleed": 10,
+    "heavyBleed": 10,
+    "velocity": 820,
+    "heat": 25,
+    "durabilityBurn": 15,
+    "bulletType": "Tracer",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta",
+      "tracer"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x51mm-m80": {
+    "id": "7-62x51mm-m80",
+    "name": "7.62x51mm M80",
+    "image": "/ammo/7-62x51mm-m80.webp",
+    "caliber": "7.62x51mm NATO",
+    "damage": 80,
+    "penetration": 43,
+    "armorDamage": 67,
+    "accuracy": -13,
+    "recoil": 1,
+    "lightBleed": 8,
+    "heavyBleed": 8,
+    "velocity": 820,
+    "heat": 10,
+    "durabilityBurn": 12,
+    "bulletType": "7.62x51mm M80",
+    "traderSource": "Ref LL3 · Peacekeeper LL4 after Revision - Lighthouse",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x51mm-m80a1": {
+    "id": "7-62x51mm-m80a1",
+    "name": "7.62x51mm M80A1",
+    "image": "/ammo/7-62x51mm-m80a1.webp",
+    "caliber": "7.62x51mm NATO",
+    "damage": 75,
+    "penetration": 55,
+    "armorDamage": 74,
+    "accuracy": -5,
+    "recoil": 4,
+    "lightBleed": 7,
+    "heavyBleed": 7,
+    "velocity": 929,
+    "heat": 35,
+    "durabilityBurn": 50,
+    "bulletType": "7.62x51mm M80A1",
+    "traderSource": "Workbench LV3 after Wet Job - Part 6",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x51mm-ball-11-long-range": {
+    "id": "7-62x51mm-ball-11-long-range",
+    "name": "7.62x51mm Ball 11 Long Range",
+    "image": "/ammo/7-62x51mm-ball-11-long-range.webp",
+    "caliber": "7.62x51mm NATO",
+    "damage": 95,
+    "penetration": 63,
+    "armorDamage": 88,
+    "accuracy": 15,
+    "recoil": 15,
+    "lightBleed": 10,
+    "heavyBleed": 10,
+    "velocity": 805,
+    "heat": 102,
+    "durabilityBurn": 70,
+    "bulletType": "7.62x51mm Ball 11 Long Range",
+    "traderSource": "Arena only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x51mm-m61": {
+    "id": "7-62x51mm-m61",
+    "name": "7.62x51mm M61",
+    "image": "/ammo/7-62x51mm-m61.webp",
+    "caliber": "7.62x51mm NATO",
+    "damage": 73,
+    "penetration": 60,
+    "armorDamage": 79,
+    "accuracy": 5,
+    "recoil": 3,
+    "lightBleed": 6,
+    "heavyBleed": 6,
+    "velocity": 833,
+    "heat": 30,
+    "durabilityBurn": 40,
+    "bulletType": "7.62x51mm M61",
+    "traderSource": "Ref LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x51mm-m993": {
+    "id": "7-62x51mm-m993",
+    "name": "7.62x51mm M993",
+    "image": "/ammo/7-62x51mm-m993.webp",
+    "caliber": "7.62x51mm NATO",
+    "damage": 70,
+    "penetration": 65,
+    "armorDamage": 85,
+    "accuracy": 15,
+    "recoil": 6,
+    "lightBleed": 5,
+    "heavyBleed": 5,
+    "velocity": 930,
+    "heat": 50,
+    "durabilityBurn": 65,
+    "bulletType": "7.62x51mm M993",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x51mm_NATO",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "308-me-lokt": {
+    "id": "308-me-lokt",
+    "name": ".308 ME LOKT",
+    "image": "/ammo/308-me-lokt.webp",
+    "caliber": ".308 Marlin Express",
+    "damage": 96,
+    "penetration": 24,
+    "armorDamage": 55,
+    "accuracy": -2,
+    "recoil": -3,
+    "lightBleed": 45,
+    "heavyBleed": 22,
+    "velocity": 838,
+    "heat": 5,
+    "durabilityBurn": 5,
+    "bulletType": ".308 ME LOKT",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      3,
+      2,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      45,
+      25,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "Magdump only",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.308_Marlin_Express",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "308-me": {
+    "id": "308-me",
+    "name": ".308 ME",
+    "image": "/ammo/308-me.webp",
+    "caliber": ".308 Marlin Express",
+    "damage": 80,
+    "penetration": 42,
+    "armorDamage": 78,
+    "accuracy": -2,
+    "recoil": 3,
+    "lightBleed": 35,
+    "heavyBleed": 17,
+    "velocity": 838,
+    "heat": 10,
+    "durabilityBurn": 12,
+    "bulletType": ".308 ME",
+    "traderSource": "Mechanic LL2 (Barter) · Mechanic LL3",
+    "tags": [
+      "meta",
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.308_Marlin_Express",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-hp-bt": {
+    "id": "7-62x54mm-r-hp-bt",
+    "name": "7.62x54mm R HP BT",
+    "image": "/ammo/7-62x54mm-r-hp-bt.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 102,
+    "penetration": 26,
+    "armorDamage": 37,
+    "accuracy": 10,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 807,
+    "heat": 35.7,
+    "durabilityBurn": -15,
+    "bulletType": "HP",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      3,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      45,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-sp-bt": {
+    "id": "7-62x54mm-r-sp-bt",
+    "name": "7.62x54mm R SP BT",
+    "image": "/ammo/7-62x54mm-r-sp-bt.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 92,
+    "penetration": 31,
+    "armorDamage": 56,
+    "accuracy": 7,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 706,
+    "heat": 42.3,
+    "durabilityBurn": -10,
+    "bulletType": "7.62x54mm R SP BT",
+    "traderSource": "Skier LL1 after Supplier",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      5,
+      4,
+      2,
+      1
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      65,
+      25,
+      10
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Magdump only",
+      "It's possible, but…"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-fmj": {
+    "id": "7-62x54mm-r-fmj",
+    "name": "7.62x54mm R FMJ",
+    "image": "/ammo/7-62x54mm-r-fmj.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 84,
+    "penetration": 36,
+    "armorDamage": 63,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 760,
+    "heat": 53.4,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "meta",
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      3,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      45,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-t-46m-gzh": {
+    "id": "7-62x54mm-r-t-46m-gzh",
+    "name": "7.62x54mm R T-46M gzh",
+    "image": "/ammo/7-62x54mm-r-t-46m-gzh.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 82,
+    "penetration": 41,
+    "armorDamage": 83,
+    "accuracy": -1,
+    "recoil": -5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 800,
+    "heat": 105.6,
+    "durabilityBurn": null,
+    "bulletType": "Tracer",
+    "traderSource": "Prapor LL3",
+    "tags": [
+      "meta",
+      "tracer"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-lps-gzh": {
+    "id": "7-62x54mm-r-lps-gzh",
+    "name": "7.62x54mm R LPS gzh",
+    "image": "/ammo/7-62x54mm-r-lps-gzh.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 81,
+    "penetration": 42,
+    "armorDamage": 78,
+    "accuracy": -5,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 865,
+    "heat": 131.3,
+    "durabilityBurn": 10,
+    "bulletType": "7.62x54mm R LPS gzh",
+    "traderSource": "Workbench LV2",
+    "tags": [
+      "meta",
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-ps-gzh": {
+    "id": "7-62x54mm-r-ps-gzh",
+    "name": "7.62x54mm R PS gzh",
+    "image": "/ammo/7-62x54mm-r-ps-gzh.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 84,
+    "penetration": 45,
+    "armorDamage": 84,
+    "accuracy": 10,
+    "recoil": 8,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 875,
+    "heat": 118.5,
+    "durabilityBurn": 15,
+    "bulletType": "7.62x54mm R PS gzh",
+    "traderSource": "Prapor LL4 after The Punisher - Part 6",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-bt-gzh": {
+    "id": "7-62x54mm-r-bt-gzh",
+    "name": "7.62x54mm R BT gzh",
+    "image": "/ammo/7-62x54mm-r-bt-gzh.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 78,
+    "penetration": 55,
+    "armorDamage": 87,
+    "accuracy": -2,
+    "recoil": -4,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 875,
+    "heat": 144.2,
+    "durabilityBurn": 50,
+    "bulletType": "7.62x54mm R BT gzh",
+    "traderSource": "Ref LL4 · Workbench LV3 after The Tarkov Shooter - Part 7",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-tungsten-carbide-ap": {
+    "id": "7-62x54mm-r-tungsten-carbide-ap",
+    "name": "7.62x54mm R Tungsten Carbide AP",
+    "image": "/ammo/7-62x54mm-r-tungsten-carbide-ap.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 98,
+    "penetration": 66,
+    "armorDamage": 94,
+    "accuracy": 10,
+    "recoil": 10,
+    "lightBleed": 10,
+    "heavyBleed": 10,
+    "velocity": 984,
+    "heat": 102,
+    "durabilityBurn": 70,
+    "bulletType": "AP",
+    "traderSource": "Arena only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-snb-gzh": {
+    "id": "7-62x54mm-r-snb-gzh",
+    "name": "7.62x54mm R SNB gzh",
+    "image": "/ammo/7-62x54mm-r-snb-gzh.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 75,
+    "penetration": 62,
+    "armorDamage": 87,
+    "accuracy": null,
+    "recoil": 10,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 875,
+    "heat": 133.9,
+    "durabilityBurn": 20,
+    "bulletType": "7.62x54mm R SNB gzh",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "7-62x54mm-r-bs-gs": {
+    "id": "7-62x54mm-r-bs-gs",
+    "name": "7.62x54mm R BS gs",
+    "image": "/ammo/7-62x54mm-r-bs-gs.webp",
+    "caliber": "7.62x54mmR",
+    "damage": 72,
+    "penetration": 70,
+    "armorDamage": 88,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 785,
+    "heat": 157,
+    "durabilityBurn": 70,
+    "bulletType": "7.62x54mm R BS gs",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/7.62x54mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "338-lapua-magnum-tac-x": {
+    "id": "338-lapua-magnum-tac-x",
+    "name": ".338 Lapua Magnum TAC-X",
+    "image": "/ammo/338-lapua-magnum-tac-x.webp",
+    "caliber": ".338 Lapua Magnum",
+    "damage": 196,
+    "penetration": 18,
+    "armorDamage": 55,
+    "accuracy": 10,
+    "recoil": 5,
+    "lightBleed": 80,
+    "heavyBleed": 50,
+    "velocity": 880,
+    "heat": 193.4,
+    "durabilityBurn": 40,
+    "bulletType": "TAC-X",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      3,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      45,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.338_Lapua_Magnum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "338-lapua-magnum-ucw": {
+    "id": "338-lapua-magnum-ucw",
+    "name": ".338 Lapua Magnum UCW",
+    "image": "/ammo/338-lapua-magnum-ucw.webp",
+    "caliber": ".338 Lapua Magnum",
+    "damage": 142,
+    "penetration": 32,
+    "armorDamage": 70,
+    "accuracy": -5,
+    "recoil": null,
+    "lightBleed": 50,
+    "heavyBleed": 40,
+    "velocity": 849,
+    "heat": 160.8,
+    "durabilityBurn": null,
+    "bulletType": "UCW",
+    "traderSource": "Jaeger LL3",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      4,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      65,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.338_Lapua_Magnum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "338-lapua-magnum-fmj": {
+    "id": "338-lapua-magnum-fmj",
+    "name": ".338 Lapua Magnum FMJ",
+    "image": "/ammo/338-lapua-magnum-fmj.webp",
+    "caliber": ".338 Lapua Magnum",
+    "damage": 122,
+    "penetration": 47,
+    "armorDamage": 83,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 35,
+    "heavyBleed": 50,
+    "velocity": 900,
+    "heat": 209.7,
+    "durabilityBurn": 80,
+    "bulletType": "FMJ",
+    "traderSource": "Skier LL3 (Barter) · Jaeger LL4 · Ref LL4 · Workbench LV3",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.338_Lapua_Magnum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "338-lapua-magnum-ap": {
+    "id": "338-lapua-magnum-ap",
+    "name": ".338 Lapua Magnum AP",
+    "image": "/ammo/338-lapua-magnum-ap.webp",
+    "caliber": ".338 Lapua Magnum",
+    "damage": 115,
+    "penetration": 79,
+    "armorDamage": 89,
+    "accuracy": null,
+    "recoil": 10,
+    "lightBleed": 20,
+    "heavyBleed": 55,
+    "velocity": 849,
+    "heat": 226,
+    "durabilityBurn": 140,
+    "bulletType": "AP",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.338_Lapua_Magnum",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x39mm-fmj": {
+    "id": "9x39mm-fmj",
+    "name": "9x39mm FMJ",
+    "image": "/ammo/9x39mm-fmj.webp",
+    "caliber": "9x39mm",
+    "damage": 75,
+    "penetration": 17,
+    "armorDamage": 28,
+    "accuracy": 5,
+    "recoil": -5,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 330,
+    "heat": 24,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      2,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      25,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x39mm-sp-5-gs": {
+    "id": "9x39mm-sp-5-gs",
+    "name": "9x39mm SP-5 gs",
+    "image": "/ammo/9x39mm-sp-5-gs.webp",
+    "caliber": "9x39mm",
+    "damage": 71,
+    "penetration": 28,
+    "armorDamage": 39,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": 10,
+    "velocity": 290,
+    "heat": 53,
+    "durabilityBurn": 20,
+    "bulletType": "SP-5 gs",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      5,
+      2,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      25,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Magdump only",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x39mm-spp-gs": {
+    "id": "9x39mm-spp-gs",
+    "name": "9x39mm SPP gs",
+    "image": "/ammo/9x39mm-spp-gs.webp",
+    "caliber": "9x39mm",
+    "damage": 68,
+    "penetration": 35,
+    "armorDamage": 48,
+    "accuracy": 10,
+    "recoil": 7,
+    "lightBleed": 10,
+    "heavyBleed": 20,
+    "velocity": 310,
+    "heat": 45,
+    "durabilityBurn": 10,
+    "bulletType": "SPP gs",
+    "traderSource": "Prapor LL3 (Barter) · Prapor LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      3,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      45,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x39mm-pab-9-gs": {
+    "id": "9x39mm-pab-9-gs",
+    "name": "9x39mm PAB-9 gs",
+    "image": "/ammo/9x39mm-pab-9-gs.webp",
+    "caliber": "9x39mm",
+    "damage": 62,
+    "penetration": 43,
+    "armorDamage": 57,
+    "accuracy": -15,
+    "recoil": 10,
+    "lightBleed": 10,
+    "heavyBleed": 12,
+    "velocity": 320,
+    "heat": 56,
+    "durabilityBurn": 55,
+    "bulletType": "PAB-9 gs",
+    "traderSource": "Workbench LV3 after Test Drive - Part 1",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x39mm-sp-6-gs": {
+    "id": "9x39mm-sp-6-gs",
+    "name": "9x39mm SP-6 gs",
+    "image": "/ammo/9x39mm-sp-6-gs.webp",
+    "caliber": "9x39mm",
+    "damage": 60,
+    "penetration": 48,
+    "armorDamage": 64,
+    "accuracy": null,
+    "recoil": 5,
+    "lightBleed": 10,
+    "heavyBleed": 10,
+    "velocity": 305,
+    "heat": 61,
+    "durabilityBurn": 45,
+    "bulletType": "SP-6 gs",
+    "traderSource": "Prapor LL4 after Capturing Outposts · Ref LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9x39mm-bp-gs": {
+    "id": "9x39mm-bp-gs",
+    "name": "9x39mm BP gs",
+    "image": "/ammo/9x39mm-bp-gs.webp",
+    "caliber": "9x39mm",
+    "damage": 58,
+    "penetration": 54,
+    "armorDamage": 69,
+    "accuracy": 10,
+    "recoil": 15,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 295,
+    "heat": 61,
+    "durabilityBurn": 35,
+    "bulletType": "BP gs",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9x39mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9-3x64mm-sp": {
+    "id": "9-3x64mm-sp",
+    "name": "9.3x64mm SP",
+    "image": "/ammo/9-3x64mm-sp.webp",
+    "caliber": "9.3x64mm",
+    "damage": 129,
+    "penetration": 37,
+    "armorDamage": 55,
+    "accuracy": null,
+    "recoil": -20,
+    "lightBleed": 80,
+    "heavyBleed": 50,
+    "velocity": 697,
+    "heat": 193.4,
+    "durabilityBurn": 40,
+    "bulletType": "SP",
+    "traderSource": "Prapor LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      6,
+      4,
+      3,
+      2
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      65,
+      45,
+      25
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective",
+      "Magdump only"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9.3x64mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9-3x64mm-fmj": {
+    "id": "9-3x64mm-fmj",
+    "name": "9.3x64mm FMJ",
+    "image": "/ammo/9-3x64mm-fmj.webp",
+    "caliber": "9.3x64mm",
+    "damage": 115,
+    "penetration": 44,
+    "armorDamage": 55,
+    "accuracy": 15,
+    "recoil": null,
+    "lightBleed": 80,
+    "heavyBleed": 50,
+    "velocity": 793,
+    "heat": 193.4,
+    "durabilityBurn": 40,
+    "bulletType": "FMJ",
+    "traderSource": "Prapor LL4 after No Questions Asked",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9.3x64mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "9-3x64mm-7n33": {
+    "id": "9-3x64mm-7n33",
+    "name": "9.3x64mm 7N33",
+    "image": "/ammo/9-3x64mm-7n33.webp",
+    "caliber": "9.3x64mm",
+    "damage": 108,
+    "penetration": 56,
+    "armorDamage": 55,
+    "accuracy": -5,
+    "recoil": 20,
+    "lightBleed": 80,
+    "heavyBleed": 50,
+    "velocity": 790,
+    "heat": 193.4,
+    "durabilityBurn": 40,
+    "bulletType": "7N33",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/9.3x64mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "366-tkm-geksa": {
+    "id": "366-tkm-geksa",
+    "name": ".366 TKM Geksa",
+    "image": "/ammo/366-tkm-geksa.webp",
+    "caliber": ".366 TKM",
+    "damage": 110,
+    "penetration": 14,
+    "armorDamage": 38,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": 30,
+    "heavyBleed": 10,
+    "velocity": 550,
+    "heat": 104.3,
+    "durabilityBurn": 35,
+    "bulletType": "Geksa",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      45,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Slightly effective",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.366_TKM",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "366-tkm-fmj": {
+    "id": "366-tkm-fmj",
+    "name": ".366 TKM FMJ",
+    "image": "/ammo/366-tkm-fmj.webp",
+    "caliber": ".366 TKM",
+    "damage": 98,
+    "penetration": 23,
+    "armorDamage": 48,
+    "accuracy": null,
+    "recoil": 10,
+    "lightBleed": 20,
+    "heavyBleed": 25,
+    "velocity": 580,
+    "heat": 83.9,
+    "durabilityBurn": null,
+    "bulletType": "FMJ",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      4,
+      1,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      65,
+      10,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.366_TKM",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "366-tkm-eko": {
+    "id": "366-tkm-eko",
+    "name": ".366 TKM EKO",
+    "image": "/ammo/366-tkm-eko.webp",
+    "caliber": ".366 TKM",
+    "damage": 73,
+    "penetration": 30,
+    "armorDamage": 40,
+    "accuracy": -10,
+    "recoil": -15,
+    "lightBleed": null,
+    "heavyBleed": 20,
+    "velocity": 770,
+    "heat": 81.6,
+    "durabilityBurn": null,
+    "bulletType": "EKO",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.366_TKM",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "366-tkm-ap-m": {
+    "id": "366-tkm-ap-m",
+    "name": ".366 TKM AP-M",
+    "image": "/ammo/366-tkm-ap-m.webp",
+    "caliber": ".366 TKM",
+    "damage": 90,
+    "penetration": 42,
+    "armorDamage": 60,
+    "accuracy": -22,
+    "recoil": 35,
+    "lightBleed": null,
+    "heavyBleed": 10,
+    "velocity": 602,
+    "heat": 127,
+    "durabilityBurn": 90,
+    "bulletType": "AP",
+    "traderSource": "Workbench LV3 after The Tarkov Shooter - Part 3",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.366_TKM",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-7x55mm-ps12a": {
+    "id": "12-7x55mm-ps12a",
+    "name": "12.7x55mm PS12A",
+    "image": "/ammo/12-7x55mm-ps12a.webp",
+    "caliber": "12.7x55mm",
+    "damage": 165,
+    "penetration": 10,
+    "armorDamage": 22,
+    "accuracy": -15,
+    "recoil": -12,
+    "lightBleed": 35,
+    "heavyBleed": 30,
+    "velocity": 870,
+    "heat": 113.4,
+    "durabilityBurn": null,
+    "bulletType": "PS12A",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12.7x55mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-7x55mm-ps12": {
+    "id": "12-7x55mm-ps12",
+    "name": "12.7x55mm PS12",
+    "image": "/ammo/12-7x55mm-ps12.webp",
+    "caliber": "12.7x55mm",
+    "damage": 115,
+    "penetration": 28,
+    "armorDamage": 60,
+    "accuracy": 10,
+    "recoil": null,
+    "lightBleed": 30,
+    "heavyBleed": 20,
+    "velocity": 300,
+    "heat": 138.5,
+    "durabilityBurn": 40,
+    "bulletType": "PS12",
+    "traderSource": "Prapor LL2 · Ref LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      5,
+      2,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      25,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Magdump only",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12.7x55mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-7x55mm-ps12b": {
+    "id": "12-7x55mm-ps12b",
+    "name": "12.7x55mm PS12B",
+    "image": "/ammo/12-7x55mm-ps12b.webp",
+    "caliber": "12.7x55mm",
+    "damage": 102,
+    "penetration": 46,
+    "armorDamage": 57,
+    "accuracy": null,
+    "recoil": 15,
+    "lightBleed": null,
+    "heavyBleed": 15,
+    "velocity": 570,
+    "heat": 151,
+    "durabilityBurn": 80,
+    "bulletType": "PS12B",
+    "traderSource": "Prapor LL4 · Ref LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12.7x55mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "50-bmg-hp": {
+    "id": "50-bmg-hp",
+    "name": ".50 BMG HP",
+    "image": "/ammo/50-bmg-hp.webp",
+    "caliber": ".50 BMG",
+    "damage": 260,
+    "penetration": 34,
+    "armorDamage": 22,
+    "accuracy": 15,
+    "recoil": 15,
+    "lightBleed": 70,
+    "heavyBleed": 40,
+    "velocity": 880,
+    "heat": 193.4,
+    "durabilityBurn": null,
+    "bulletType": "HP",
+    "traderSource": "Peacekeeper LL4",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      6,
+      4,
+      3,
+      1
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      65,
+      45,
+      10
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Slightly effective",
+      "It's possible, but…"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.50_BMG",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "50-bmg-m21": {
+    "id": "50-bmg-m21",
+    "name": ".50 BMG M21",
+    "image": "/ammo/50-bmg-m21.webp",
+    "caliber": ".50 BMG",
+    "damage": 220,
+    "penetration": 45,
+    "armorDamage": 55,
+    "accuracy": null,
+    "recoil": 20,
+    "lightBleed": 50,
+    "heavyBleed": 30,
+    "velocity": 867,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "M21",
+    "traderSource": "Peacekeeper LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      5,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      85,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.50_BMG",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "50-bmg-m33": {
+    "id": "50-bmg-m33",
+    "name": ".50 BMG M33",
+    "image": "/ammo/50-bmg-m33.webp",
+    "caliber": ".50 BMG",
+    "damage": 190,
+    "penetration": 56,
+    "armorDamage": 85,
+    "accuracy": -5,
+    "recoil": 25,
+    "lightBleed": 40,
+    "heavyBleed": 20,
+    "velocity": 887,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "M33",
+    "traderSource": "Peacekeeper LL4",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.50_BMG",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "50-bmg-m903-slap": {
+    "id": "50-bmg-m903-slap",
+    "name": ".50 BMG M903 SLAP",
+    "image": "/ammo/50-bmg-m903-slap.webp",
+    "caliber": ".50 BMG",
+    "damage": 160,
+    "penetration": 115,
+    "armorDamage": 90,
+    "accuracy": -10,
+    "recoil": 28,
+    "lightBleed": 30,
+    "heavyBleed": 15,
+    "velocity": 1220,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "AP",
+    "traderSource": "Loot only",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/.50_BMG",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-5-25mm-buckshot": {
+    "id": "12-70-5-25mm-buckshot",
+    "name": "12/70 5.25mm buckshot",
+    "image": "/ammo/12-70-5-25mm-buckshot.webp",
+    "caliber": "12/70",
+    "damage": 8,
+    "penetration": 1,
+    "armorDamage": 15,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 330,
+    "heat": 100.8,
+    "durabilityBurn": null,
+    "bulletType": "Buckshot",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-8-5mm-magnum-buckshot": {
+    "id": "12-70-8-5mm-magnum-buckshot",
+    "name": "12/70 8.5mm Magnum buckshot",
+    "image": "/ammo/12-70-8-5mm-magnum-buckshot.webp",
+    "caliber": "12/70",
+    "damage": 8,
+    "penetration": 2,
+    "armorDamage": 26,
+    "accuracy": -15,
+    "recoil": 115,
+    "lightBleed": 20,
+    "heavyBleed": 10,
+    "velocity": 385,
+    "heat": 146,
+    "durabilityBurn": null,
+    "bulletType": "Buckshot",
+    "traderSource": "Jaeger LL3",
+    "tags": [],
+    "armorClass": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-6-5mm-express-buckshot": {
+    "id": "12-70-6-5mm-express-buckshot",
+    "name": "12/70 6.5mm Express buckshot",
+    "image": "/ammo/12-70-6-5mm-express-buckshot.webp",
+    "caliber": "12/70",
+    "damage": 9,
+    "penetration": 3,
+    "armorDamage": 26,
+    "accuracy": 15,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 430,
+    "heat": 125.9,
+    "durabilityBurn": null,
+    "bulletType": "Buckshot",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-7mm-buckshot": {
+    "id": "12-70-7mm-buckshot",
+    "name": "12/70 7mm buckshot",
+    "image": "/ammo/12-70-7mm-buckshot.webp",
+    "caliber": "12/70",
+    "damage": 8,
+    "penetration": 3,
+    "armorDamage": 26,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 415,
+    "heat": 103.3,
+    "durabilityBurn": null,
+    "bulletType": "Buckshot",
+    "traderSource": "Skier LL1 · Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-piranha": {
+    "id": "12-70-piranha",
+    "name": "12/70 Piranha",
+    "image": "/ammo/12-70-piranha.webp",
+    "caliber": "12/70",
+    "damage": 10,
+    "penetration": 24,
+    "armorDamage": 22,
+    "accuracy": -5,
+    "recoil": null,
+    "lightBleed": 15,
+    "heavyBleed": 15,
+    "velocity": 310,
+    "heat": 110.8,
+    "durabilityBurn": 50,
+    "bulletType": "Piranha",
+    "traderSource": "Jaeger LL2 · Workbench LV1",
+    "tags": [
+      "meta",
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      5,
+      4,
+      4,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      65,
+      65,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-flechette": {
+    "id": "12-70-flechette",
+    "name": "12/70 flechette",
+    "image": "/ammo/12-70-flechette.webp",
+    "caliber": "12/70",
+    "damage": 8,
+    "penetration": 31,
+    "armorDamage": 26,
+    "accuracy": -10,
+    "recoil": null,
+    "lightBleed": 25,
+    "heavyBleed": 25,
+    "velocity": 320,
+    "heat": 115.9,
+    "durabilityBurn": 60,
+    "bulletType": "Flechette",
+    "traderSource": "Jaeger LL3 · Workbench LV3 after Setup",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      5,
+      5
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      85,
+      85
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Very effective",
+      "Very effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-rip": {
+    "id": "12-70-rip",
+    "name": "12/70 RIP",
+    "image": "/ammo/12-70-rip.webp",
+    "caliber": "12/70",
+    "damage": 265,
+    "penetration": 2,
+    "armorDamage": 11,
+    "accuracy": 80,
+    "recoil": 35,
+    "lightBleed": 40,
+    "heavyBleed": 25,
+    "velocity": 410,
+    "heat": 138.5,
+    "durabilityBurn": 60,
+    "bulletType": "RIP",
+    "traderSource": "Jaeger LL4 · Skier LL2 (Barter) after Bullshit",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-superformance-hp-slug": {
+    "id": "12-70-superformance-hp-slug",
+    "name": "12/70 SuperFormance HP slug",
+    "image": "/ammo/12-70-superformance-hp-slug.webp",
+    "caliber": "12/70",
+    "damage": 220,
+    "penetration": 5,
+    "armorDamage": 12,
+    "accuracy": 170,
+    "recoil": -15,
+    "lightBleed": 30,
+    "heavyBleed": 40,
+    "velocity": 594,
+    "heat": 104.6,
+    "durabilityBurn": 20,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-grizzly-40-slug": {
+    "id": "12-70-grizzly-40-slug",
+    "name": "12/70 Grizzly 40 slug",
+    "image": "/ammo/12-70-grizzly-40-slug.webp",
+    "caliber": "12/70",
+    "damage": 190,
+    "penetration": 12,
+    "armorDamage": 48,
+    "accuracy": 80,
+    "recoil": 20,
+    "lightBleed": null,
+    "heavyBleed": 10,
+    "velocity": 390,
+    "heat": 102.1,
+    "durabilityBurn": null,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      25,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-copper-sabot-premier-hp-slug": {
+    "id": "12-70-copper-sabot-premier-hp-slug",
+    "name": "12/70 Copper Sabot Premier HP slug",
+    "image": "/ammo/12-70-copper-sabot-premier-hp-slug.webp",
+    "caliber": "12/70",
+    "damage": 206,
+    "penetration": 14,
+    "armorDamage": 46,
+    "accuracy": 150,
+    "recoil": 10,
+    "lightBleed": 35,
+    "heavyBleed": 25,
+    "velocity": 442,
+    "heat": 105.8,
+    "durabilityBurn": 50,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      3,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      45,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-lead-slug": {
+    "id": "12-70-lead-slug",
+    "name": "12/70 lead slug",
+    "image": "/ammo/12-70-lead-slug.webp",
+    "caliber": "12/70",
+    "damage": 167,
+    "penetration": 15,
+    "armorDamage": 55,
+    "accuracy": 120,
+    "recoil": null,
+    "lightBleed": 10,
+    "heavyBleed": 15,
+    "velocity": 370,
+    "heat": 110.8,
+    "durabilityBurn": 50,
+    "bulletType": "Slug",
+    "traderSource": "Skier LL1 · Peacekeeper LL1 · Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      4,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      65,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-poleva-3-slug": {
+    "id": "12-70-poleva-3-slug",
+    "name": "12/70 Poleva-3 slug",
+    "image": "/ammo/12-70-poleva-3-slug.webp",
+    "caliber": "12/70",
+    "damage": 140,
+    "penetration": 17,
+    "armorDamage": 40,
+    "accuracy": 110,
+    "recoil": -15,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 410,
+    "heat": 108.3,
+    "durabilityBurn": 50,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-dual-sabot-slug": {
+    "id": "12-70-dual-sabot-slug",
+    "name": "12/70 Dual Sabot slug",
+    "image": "/ammo/12-70-dual-sabot-slug.webp",
+    "caliber": "12/70",
+    "damage": 2,
+    "penetration": 17,
+    "armorDamage": 65,
+    "accuracy": 100,
+    "recoil": 15,
+    "lightBleed": null,
+    "heavyBleed": 15,
+    "velocity": 415,
+    "heat": 113.4,
+    "durabilityBurn": 50,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      2,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      25,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-ftx-custom-lite-slug": {
+    "id": "12-70-ftx-custom-lite-slug",
+    "name": "12/70 FTX Custom Lite slug",
+    "image": "/ammo/12-70-ftx-custom-lite-slug.webp",
+    "caliber": "12/70",
+    "damage": 183,
+    "penetration": 20,
+    "armorDamage": 50,
+    "accuracy": 135,
+    "recoil": -25,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 480,
+    "heat": 118.4,
+    "durabilityBurn": 50,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      2,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      25,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-poleva-6u-slug": {
+    "id": "12-70-poleva-6u-slug",
+    "name": "12/70 Poleva-6u slug",
+    "image": "/ammo/12-70-poleva-6u-slug.webp",
+    "caliber": "12/70",
+    "damage": 150,
+    "penetration": 20,
+    "armorDamage": 50,
+    "accuracy": 115,
+    "recoil": -10,
+    "lightBleed": null,
+    "heavyBleed": 5,
+    "velocity": 430,
+    "heat": 135.9,
+    "durabilityBurn": 60,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      2,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      25,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-makeshift-50-bmg-slug": {
+    "id": "12-70-makeshift-50-bmg-slug",
+    "name": "12/70 makeshift .50 BMG slug",
+    "image": "/ammo/12-70-makeshift-50-bmg-slug.webp",
+    "caliber": "12/70",
+    "damage": 197,
+    "penetration": 26,
+    "armorDamage": 57,
+    "accuracy": 90,
+    "recoil": 25,
+    "lightBleed": null,
+    "heavyBleed": 15,
+    "velocity": 410,
+    "heat": 151,
+    "durabilityBurn": 100,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL3 · Workbench LV2",
+    "tags": [
+      "budget",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      5,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-70-ap-20-armor-piercing-slug": {
+    "id": "12-70-ap-20-armor-piercing-slug",
+    "name": "12/70 AP-20 armor-piercing slug",
+    "image": "/ammo/12-70-ap-20-armor-piercing-slug.webp",
+    "caliber": "12/70",
+    "damage": 164,
+    "penetration": 37,
+    "armorDamage": 65,
+    "accuracy": 80,
+    "recoil": 50,
+    "lightBleed": null,
+    "heavyBleed": 10,
+    "velocity": 510,
+    "heat": 148.5,
+    "durabilityBurn": 120,
+    "bulletType": "Slug",
+    "traderSource": "Workbench LV3 after The Huntsman Path - Outcasts",
+    "tags": [
+      "meta",
+      "craftable"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      5,
+      4,
+      3
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      85,
+      65,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-5-6mm-buckshot": {
+    "id": "20-70-5-6mm-buckshot",
+    "name": "20/70 5.6mm buckshot",
+    "image": "/ammo/20-70-5-6mm-buckshot.webp",
+    "caliber": "20/70",
+    "damage": 8,
+    "penetration": 1,
+    "armorDamage": 12,
+    "accuracy": -10,
+    "recoil": 10,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 340,
+    "heat": 81.6,
+    "durabilityBurn": null,
+    "bulletType": "Buckshot",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-6-2mm-buckshot": {
+    "id": "20-70-6-2mm-buckshot",
+    "name": "20/70 6.2mm buckshot",
+    "image": "/ammo/20-70-6-2mm-buckshot.webp",
+    "caliber": "20/70",
+    "damage": 8,
+    "penetration": 2,
+    "armorDamage": 13,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 410,
+    "heat": 83.9,
+    "durabilityBurn": null,
+    "bulletType": "Buckshot",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-7-5mm-buckshot": {
+    "id": "20-70-7-5mm-buckshot",
+    "name": "20/70 7.5mm buckshot",
+    "image": "/ammo/20-70-7-5mm-buckshot.webp",
+    "caliber": "20/70",
+    "damage": 8,
+    "penetration": 3,
+    "armorDamage": 14,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 430,
+    "heat": 93,
+    "durabilityBurn": 35,
+    "bulletType": "Buckshot",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-7-3mm-buckshot": {
+    "id": "20-70-7-3mm-buckshot",
+    "name": "20/70 7.3mm buckshot",
+    "image": "/ammo/20-70-7-3mm-buckshot.webp",
+    "caliber": "20/70",
+    "damage": 9,
+    "penetration": 3,
+    "armorDamage": 13,
+    "accuracy": null,
+    "recoil": 15,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 475,
+    "heat": 95.2,
+    "durabilityBurn": 30,
+    "bulletType": "Buckshot",
+    "traderSource": "Jaeger LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      45,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-devastator-slug": {
+    "id": "20-70-devastator-slug",
+    "name": "20/70 Devastator slug",
+    "image": "/ammo/20-70-devastator-slug.webp",
+    "caliber": "20/70",
+    "damage": 198,
+    "penetration": 5,
+    "armorDamage": 13,
+    "accuracy": 125,
+    "recoil": 30,
+    "lightBleed": 20,
+    "heavyBleed": 30,
+    "velocity": 405,
+    "heat": 104.3,
+    "durabilityBurn": 50,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL3",
+    "tags": [],
+    "armorClass": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      10,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-poleva-3-slug": {
+    "id": "20-70-poleva-3-slug",
+    "name": "20/70 Poleva-3 slug",
+    "image": "/ammo/20-70-poleva-3-slug.webp",
+    "caliber": "20/70",
+    "damage": 120,
+    "penetration": 14,
+    "armorDamage": 35,
+    "accuracy": 110,
+    "recoil": -15,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 425,
+    "heat": 106.6,
+    "durabilityBurn": 50,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      25,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Magdump only",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-star-slug": {
+    "id": "20-70-star-slug",
+    "name": "20/70 Star slug",
+    "image": "/ammo/20-70-star-slug.webp",
+    "caliber": "20/70",
+    "damage": 154,
+    "penetration": 16,
+    "armorDamage": 42,
+    "accuracy": 130,
+    "recoil": 5,
+    "lightBleed": null,
+    "heavyBleed": 30,
+    "velocity": 415,
+    "heat": 127,
+    "durabilityBurn": 80,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      5,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-poleva-6u-slug": {
+    "id": "20-70-poleva-6u-slug",
+    "name": "20/70 Poleva-6u slug",
+    "image": "/ammo/20-70-poleva-6u-slug.webp",
+    "caliber": "20/70",
+    "damage": 135,
+    "penetration": 17,
+    "armorDamage": 40,
+    "accuracy": 110,
+    "recoil": -10,
+    "lightBleed": null,
+    "heavyBleed": 10,
+    "velocity": 445,
+    "heat": 124.7,
+    "durabilityBurn": 80,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL1",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      5,
+      1,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      100,
+      85,
+      10,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Very effective",
+      "It's possible, but…",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-flechette": {
+    "id": "20-70-flechette",
+    "name": "20/70 flechette",
+    "image": "/ammo/20-70-flechette.webp",
+    "caliber": "20/70",
+    "damage": 8,
+    "penetration": 24,
+    "armorDamage": 24,
+    "accuracy": -10,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 400,
+    "heat": 113,
+    "durabilityBurn": 55,
+    "bulletType": "Flechette",
+    "traderSource": "Jaeger LL3 (Barter)",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      5,
+      4,
+      4,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      65,
+      65,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Effective",
+      "Effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-dangerous-game-slug": {
+    "id": "20-70-dangerous-game-slug",
+    "name": "20/70 Dangerous Game Slug",
+    "image": "/ammo/20-70-dangerous-game-slug.webp",
+    "caliber": "20/70",
+    "damage": 143,
+    "penetration": 25,
+    "armorDamage": 47,
+    "accuracy": 60,
+    "recoil": 40,
+    "lightBleed": 20,
+    "heavyBleed": 30,
+    "velocity": 476,
+    "heat": 134,
+    "durabilityBurn": 104,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL2 (Barter)",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      6,
+      5,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      85,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Very effective",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "20-70-tss-armor-piercing-slug": {
+    "id": "20-70-tss-armor-piercing-slug",
+    "name": "20/70 TSS Armor Piercing Slug",
+    "image": "/ammo/20-70-tss-armor-piercing-slug.webp",
+    "caliber": "20/70",
+    "damage": 155,
+    "penetration": 30,
+    "armorDamage": 54,
+    "accuracy": 64,
+    "recoil": 48,
+    "lightBleed": 20,
+    "heavyBleed": 30,
+    "velocity": 482,
+    "heat": 144,
+    "durabilityBurn": 121,
+    "bulletType": "Slug",
+    "traderSource": "Jaeger LL3 (Barter)",
+    "tags": [],
+    "armorClass": [
+      6,
+      6,
+      6,
+      3,
+      1,
+      0
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      45,
+      10,
+      0
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Slightly effective",
+      "It's possible, but…",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/20%2F70",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "23x75mm-zvezda-flashbang-round": {
+    "id": "23x75mm-zvezda-flashbang-round",
+    "name": "23x75mm Zvezda flashbang round",
+    "image": "/ammo/23x75mm-zvezda-flashbang-round.webp",
+    "caliber": "23x75mmR",
+    "damage": 0,
+    "penetration": 0,
+    "armorDamage": 0,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 80,
+    "heat": 250,
+    "durabilityBurn": 300,
+    "bulletType": "23x75mm Zvezda flashbang round",
+    "traderSource": "USEC: Skier LL4 after Counteraction · BEAR: Prapor LL3 after Our Own Land · Workbench LV3",
+    "tags": [
+      "craftable"
+    ],
+    "armorClass": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "penPct": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "effLabels": [
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless",
+      "Pointless"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/23x75mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "23x75mm-shrapnel-25-buckshot": {
+    "id": "23x75mm-shrapnel-25-buckshot",
+    "name": "23x75mm Shrapnel-25 buckshot",
+    "image": "/ammo/23x75mm-shrapnel-25-buckshot.webp",
+    "caliber": "23x75mmR",
+    "damage": 8,
+    "penetration": 10,
+    "armorDamage": 20,
+    "accuracy": 20,
+    "recoil": 10,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 375,
+    "heat": 197.5,
+    "durabilityBurn": 80,
+    "bulletType": "Buckshot",
+    "traderSource": "Prapor LL3",
+    "tags": [],
+    "armorClass": [
+      6,
+      4,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      100,
+      65,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/23x75mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "23x75mm-shrapnel-10-buckshot": {
+    "id": "23x75mm-shrapnel-10-buckshot",
+    "name": "23x75mm Shrapnel-10 buckshot",
+    "image": "/ammo/23x75mm-shrapnel-10-buckshot.webp",
+    "caliber": "23x75mmR",
+    "damage": 8,
+    "penetration": 11,
+    "armorDamage": 20,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 270,
+    "heat": 180,
+    "durabilityBurn": null,
+    "bulletType": "Buckshot",
+    "traderSource": "Prapor LL2",
+    "tags": [
+      "budget"
+    ],
+    "armorClass": [
+      6,
+      4,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      100,
+      65,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/23x75mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "23x75mm-barrikada-slug": {
+    "id": "23x75mm-barrikada-slug",
+    "name": "23x75mm Barrikada slug",
+    "image": "/ammo/23x75mm-barrikada-slug.webp",
+    "caliber": "23x75mmR",
+    "damage": 192,
+    "penetration": 39,
+    "armorDamage": 75,
+    "accuracy": -5,
+    "recoil": 25,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 420,
+    "heat": 232.5,
+    "durabilityBurn": 170,
+    "bulletType": "Slug",
+    "traderSource": "Prapor LL3",
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      4,
+      4
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      65,
+      65
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Effective",
+      "Effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/23x75mmR",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "40x46mm-m576-mp-apers-grenade": {
+    "id": "40x46mm-m576-mp-apers-grenade",
+    "name": "40x46mm M576 (MP-APERS) grenade",
+    "image": "/ammo/40x46mm-m576-mp-apers-grenade.webp",
+    "caliber": "40x46mm",
+    "damage": 15,
+    "penetration": 5,
+    "armorDamage": 95,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 269,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "AP",
+    "traderSource": "Loot only",
+    "tags": [],
+    "armorClass": [
+      5,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "penPct": [
+      85,
+      45,
+      45,
+      45,
+      45,
+      45
+    ],
+    "effLabels": [
+      "Very effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective",
+      "Slightly effective"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/40x46mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-7x108mm-bzt-44m": {
+    "id": "12-7x108mm-bzt-44m",
+    "name": "12.7x108mm BZT-44M",
+    "image": "/ammo/12-7x108mm-bzt-44m.webp",
+    "caliber": "12.7x108mm",
+    "damage": 199,
+    "penetration": 80,
+    "armorDamage": 95,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 818,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "BZT-44M",
+    "traderSource": null,
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12.7x108mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  },
+  "12-7x108mm-b-32": {
+    "id": "12-7x108mm-b-32",
+    "name": "12.7x108mm B-32",
+    "image": "/ammo/12-7x108mm-b-32.webp",
+    "caliber": "12.7x108mm",
+    "damage": 182,
+    "penetration": 88,
+    "armorDamage": 88,
+    "accuracy": null,
+    "recoil": null,
+    "lightBleed": null,
+    "heavyBleed": null,
+    "velocity": 818,
+    "heat": null,
+    "durabilityBurn": null,
+    "bulletType": "B-32",
+    "traderSource": null,
+    "tags": [
+      "meta"
+    ],
+    "armorClass": [
+      6,
+      6,
+      6,
+      6,
+      6,
+      6
+    ],
+    "penPct": [
+      100,
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "effLabels": [
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores",
+      "Usually ignores"
+    ],
+    "source": {
+      "url": "https://escapefromtarkov.fandom.com/wiki/12.7x108mm",
+      "license": "CC BY-NC-SA",
+      "wiki": "Escape from Tarkov Wiki"
+    }
+  }
+}

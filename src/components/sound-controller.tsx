@@ -41,9 +41,9 @@ export function SoundController() {
       else playClick();
     }
     // Thumb buttons: button 3 = "mouse 4" (back), button 4 = "mouse 5" (forward).
-    // Browsers navigate back/forward on these — play the back sound either way.
     function onMouseDown(e: MouseEvent) {
-      if (e.button === 3 || e.button === 4) playClose();
+      if (e.button === 3) playClick(); // mouse 4 (back thumb) → click sound
+      else if (e.button === 4) playClose(); // mouse 5 (forward thumb) → close sound
     }
 
     document.addEventListener("mouseover", onOver);
