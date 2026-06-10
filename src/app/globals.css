@@ -318,3 +318,30 @@ body::before {
     scroll-behavior: auto !important;
   }
 }
+
+/* ---------- /monitor — tactical CRT terminal ---------- */
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+@keyframes bar-grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+/* Faint horizontal scanlines, drawn over a panel via ::after. */
+.crt-scanlines::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    rgba(157, 160, 121, 0.05) 0px,
+    rgba(157, 160, 121, 0.05) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+}
+
+.crt-caret { animation: blink 1.1s step-end infinite; }
+
+.crt-bar {
+  transform-origin: left center;
+  animation: bar-grow 0.7s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
