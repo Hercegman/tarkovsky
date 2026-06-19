@@ -1,0 +1,34 @@
+#!/usr/bin/env bash
+#
+# Auto-post a dev-log note to Discord after each commit.
+# Install once (from repo root):  git config core.hooksPath scripts/hooks
+#
+# Add [skip-notify] anywhere in the commit message to suppress a post
+# (use it for WIP / noisy commits).
+#
+set -u
+
+subject=$(git log -1 --pretty=%s)
+case "$subject" in
+  *"[skip-notify]"*) exit 0 ;;
+esac
+
+body=$(git log -1 --pretty=%b)
+sha=$(git log -1 --pretty=%h)
+branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null)
+
+meta="${sha} · ${branch}"
+if [ -n "$body" ]; then
+  note="${body}"$'\n\n'"${meta}"
+else
+  note="${meta}"
+fi
+
+# Resolve a Node 24 binary: prefer a native one on PATH, else the Windows
+# install reachable from WSL via interop.
+NODE_BIN="$(command -v node || true)"
+[ -z "$NODE_BIN" ] && [ -x "/mnt/c/Program Files/nodejs/node.exe" ] && NODE_BIN="/mnt/c/Program Files/nodejs/node.exe"
+[ -z "$NODE_BIN" ] && exit 0
+
+# Fire-and-forget: a missing webhook / network error must never fail the commit.
+"$NODE_BIN" --env-file-if-exists=.env.local scripts/notify.mts devlog "$subject" "$note" || true

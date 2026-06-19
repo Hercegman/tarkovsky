@@ -32,4 +32,17 @@ export const progressSchema = z.object({
   completed: z.boolean(),
 });
 
+export const bugReportSchema = z.object({
+  message: z
+    .string()
+    .trim()
+    .min(10, "Please describe the bug in a bit more detail")
+    .max(1000, "Please keep it under 1000 characters"),
+  // Where in the app the report was filed (path, not a full URL).
+  page: z.string().trim().max(300).optional(),
+  // Optional way to reach the reporter back (Discord tag, email, …).
+  contact: z.string().trim().max(120).optional(),
+});
+
 export type RegisterInput = z.infer<typeof registerSchema>;
+export type BugReportInput = z.infer<typeof bugReportSchema>;

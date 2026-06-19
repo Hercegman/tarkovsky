@@ -20,7 +20,9 @@
     "ingest:banners": "node scripts/ingest-map-banners.mts",
     "ingest:weapons": "node scripts/ingest-weapons.mts",
     "ingest:default-presets": "node scripts/ingest-default-presets.mts",
-    "ingest:ammo": "node scripts/ingest-ammo.mts"
+    "ingest:ammo": "node scripts/ingest-ammo.mts",
+    "notify:devlog": "node --env-file-if-exists=.env.local scripts/notify.mts devlog",
+    "notify:release": "node --env-file-if-exists=.env.local scripts/notify.mts release"
   },
   "dependencies": {
     "@react-three/drei": "^10.7.7",
