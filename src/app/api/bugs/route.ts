@@ -17,6 +17,15 @@ export async function POST(req: Request) {
     );
   }
 
+  // Bug reports require an account.
+  const session = await auth();
+  if (!session?.user?.id) {
+    return NextResponse.json(
+      { error: "You must be logged in to report a bug." },
+      { status: 401 },
+    );
+  }
+
   let body: unknown;
   try {
     body = await req.json();
@@ -41,8 +50,8 @@ export async function POST(req: Request) {
   }
 
   const { message, page, contact } = parsed.data;
-  const session = await auth();
-  const reporter = session?.user?.name || session?.user?.email || "anonymous";
+  const reporter =
+    session.user.name || session.user.email || `user ${session.user.id}`;
   const userAgent = req.headers.get("user-agent") ?? "unknown";
 
   const embed = {
