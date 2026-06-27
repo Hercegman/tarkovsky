@@ -1,5 +1,6 @@
 "use client";
 
+import dynamic from "next/dynamic";
 import {
   LiveblocksProvider,
   RoomProvider,
@@ -9,7 +10,21 @@ import { LiveList } from "@liveblocks/client";
 import type { MapData } from "@/lib/types";
 import type { Stroke } from "@/liveblocks.config";
 import { getOrCreateGuestId, getGuestName } from "@/lib/session-client";
-import { SessionBoard } from "./session-board";
+
+// Leaflet touches `window` at import time, so the board (and its leaflet imports)
+// must never be evaluated on the server — load it client-only, like the existing
+// map components do with dynamic(ssr:false).
+const SessionBoard = dynamic(
+  () => import("./session-board").then((m) => m.SessionBoard),
+  {
+    ssr: false,
+    loading: () => (
+      <div className="flex h-[70vh] items-center justify-center text-sm text-[var(--muted)]">
+        Loading map…
+      </div>
+    ),
+  },
+);
 
 export function SessionRoom({ code, map }: { code: string; map: MapData }) {
   return (
