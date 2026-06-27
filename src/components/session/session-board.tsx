@@ -168,8 +168,8 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
   return (
     <div className="radial-glow min-h-full">
       <div className="mx-auto max-w-6xl px-4 py-6">
-        {/* Top bar */}
-        <div className="mb-3 flex flex-wrap items-center gap-3">
+        {/* Top bar (session controls live inside the map so they show in fullscreen) */}
+        <div className="mb-3 flex items-center gap-3">
           <Link
             href="/sessions"
             className="text-sm text-[var(--muted)] transition-colors hover:text-[var(--gold)]"
@@ -179,51 +179,6 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
           <h1 className="text-lg font-bold">
             <span className="text-gradient">{map.name}</span>
           </h1>
-
-          <button
-            type="button"
-            onClick={copyCode}
-            title="Copy the session code"
-            className="rounded-lg border border-[var(--gold-dim)] bg-[var(--surface)] px-3 py-1.5 font-mono text-sm tracking-widest text-[var(--gold)] transition-colors hover:bg-[var(--gold)] hover:text-[var(--background)]"
-          >
-            {copied ? "Copied!" : `Code: ${code}`}
-          </button>
-
-          {!isCoach && (
-            <button
-              type="button"
-              onClick={() => setFollowing((f) => !f)}
-              disabled={!coach}
-              title={coach ? "Snap to the coach's view" : "Waiting for the coach"}
-              className={`rounded-lg border px-3 py-1.5 text-sm transition-colors disabled:opacity-40 ${
-                following
-                  ? "border-[var(--gold)] bg-[var(--gold)]/20 text-[var(--gold)]"
-                  : "border-[var(--border)] hover:bg-[var(--surface-2)]"
-              }`}
-            >
-              {following ? "● Following coach" : "Follow coach"}
-            </button>
-          )}
-
-          {/* Participants */}
-          <div className="ml-auto flex items-center gap-2">
-            {participants.map((p) => (
-              <span
-                key={p.id}
-                className="flex items-center gap-1.5 rounded-full border border-[var(--border)] bg-[var(--surface)] px-2.5 py-1 text-xs"
-                title={p.role === "coach" ? "Coach" : "Player"}
-              >
-                <span
-                  className="h-2.5 w-2.5 rounded-full"
-                  style={{ backgroundColor: p.color }}
-                />
-                {p.name}
-                {p.role === "coach" && (
-                  <span className="text-[10px] uppercase text-[var(--gold)]">coach</span>
-                )}
-              </span>
-            ))}
-          </div>
         </div>
 
         {/* The board */}
@@ -266,14 +221,65 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
             onClear={clearAll}
           />
 
-          <button
-            type="button"
-            onClick={toggleFullscreen}
-            title="Toggle fullscreen"
-            className="absolute right-3 top-3 z-[1100] rounded-lg border border-[var(--gold-dim)] bg-[var(--surface)]/90 px-3 py-1.5 text-xs text-[var(--gold)] backdrop-blur transition-colors hover:bg-[var(--gold)] hover:text-[var(--background)]"
-          >
-            ⤢ Fullscreen
-          </button>
+          {/* Floating control cluster — inside the map so it stays in fullscreen.
+              The container ignores pointer events; each control re-enables them. */}
+          <div className="pointer-events-none absolute right-3 top-3 z-[1100] flex max-w-[70%] flex-col items-end gap-2">
+            <div className="flex items-center gap-2">
+              {!isCoach && (
+                <button
+                  type="button"
+                  onClick={() => setFollowing((f) => !f)}
+                  disabled={!coach}
+                  title={coach ? "Snap to the coach's view" : "Waiting for the coach"}
+                  className={`pointer-events-auto rounded-lg border px-3 py-1.5 text-xs backdrop-blur transition-colors disabled:opacity-40 ${
+                    following
+                      ? "border-[var(--gold)] bg-[var(--gold)]/20 text-[var(--gold)]"
+                      : "border-[var(--border)] bg-[var(--surface)]/90 hover:bg-[var(--surface-2)]"
+                  }`}
+                >
+                  {following ? "● Following coach" : "Follow coach"}
+                </button>
+              )}
+              <button
+                type="button"
+                onClick={copyCode}
+                title="Copy the session code"
+                className="pointer-events-auto rounded-lg border border-[var(--gold-dim)] bg-[var(--surface)]/90 px-3 py-1.5 font-mono text-xs tracking-widest text-[var(--gold)] backdrop-blur transition-colors hover:bg-[var(--gold)] hover:text-[var(--background)]"
+              >
+                {copied ? "Copied!" : `Code: ${code}`}
+              </button>
+              <button
+                type="button"
+                onClick={toggleFullscreen}
+                title="Toggle fullscreen"
+                className="pointer-events-auto rounded-lg border border-[var(--gold-dim)] bg-[var(--surface)]/90 px-3 py-1.5 text-xs text-[var(--gold)] backdrop-blur transition-colors hover:bg-[var(--gold)] hover:text-[var(--background)]"
+              >
+                ⤢
+              </button>
+            </div>
+
+            {/* Participants */}
+            <div className="pointer-events-auto flex flex-wrap justify-end gap-1.5">
+              {participants.map((p) => (
+                <span
+                  key={p.id}
+                  className="flex items-center gap-1.5 rounded-full border border-[var(--border)] bg-[var(--surface)]/90 px-2.5 py-1 text-xs backdrop-blur"
+                  title={p.role === "coach" ? "Coach" : "Player"}
+                >
+                  <span
+                    className="h-2.5 w-2.5 rounded-full"
+                    style={{ backgroundColor: p.color }}
+                  />
+                  {p.name}
+                  {p.role === "coach" && (
+                    <span className="text-[10px] uppercase text-[var(--gold)]">
+                      coach
+                    </span>
+                  )}
+                </span>
+              ))}
+            </div>
+          </div>
         </div>
 
         <p className="mt-2 text-xs text-[var(--muted)]">
