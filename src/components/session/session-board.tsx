@@ -1,9 +1,9 @@
 "use client";
 
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
-import { MapContainer, ImageOverlay, useMap } from "react-leaflet";
-import { CRS, type Map as LeafletMap, type LatLngBoundsExpression } from "leaflet";
+import { MapContainer, ImageOverlay, Marker, useMap } from "react-leaflet";
+import { CRS, divIcon, type Map as LeafletMap, type LatLngBoundsExpression } from "leaflet";
 import "leaflet/dist/leaflet.css";
 import {
   useSelf,
@@ -12,8 +12,26 @@ import {
   useMutation,
 } from "@liveblocks/react/suspense";
 import type { MapData } from "@/lib/types";
+import { categoryColor, categoryShape, shapeSvg } from "@/lib/map-colors";
 import { DrawingCanvas } from "./drawing-canvas";
 import { SessionToolbar, type BoardTool } from "./session-toolbar";
+
+// PMC-usable extracts shown by default on every session map (PMC + Shared).
+const EXFIL_CATEGORIES = ["exfil_pmc", "exfil_shared"];
+
+function escapeHtml(s: string): string {
+  return s.replace(
+    /[&<>"']/g,
+    (c) =>
+      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!,
+  );
+}
+
+// A category glyph with the extract's name pinned underneath (always visible).
+function exfilIconHtml(c: string, title: string): string {
+  const glyph = shapeSvg(categoryShape(c), categoryColor(c));
+  return `<div style="position:relative;width:16px;height:16px;pointer-events:none;filter:drop-shadow(0 1px 2px rgba(0,0,0,.6))">${glyph}<span style="position:absolute;top:17px;left:50%;transform:translateX(-50%);white-space:nowrap;font:600 11px/1.2 Inter,system-ui,sans-serif;color:#f0ead6;background:rgba(20,21,15,.82);border:1px solid rgba(227,193,112,.5);border-radius:4px;padding:1px 5px">${escapeHtml(title)}</span></div>`;
+}
 
 // Lifts the Leaflet instance out of the MapContainer so the overlay + viewport
 // logic (which live outside the container) can use it.
@@ -39,11 +57,30 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
   const coach = others.find((o) => o.info.role === "coach");
   const coachViewport = coach?.presence.viewport ?? null;
   const programmatic = useRef(false);
+  const mapWrapRef = useRef<HTMLDivElement>(null);
 
   const bounds: LatLngBoundsExpression = [
     [0, 0],
     [map.height, map.width],
   ];
+
+  // PMC + Shared extracts, shown by default with a permanent name label.
+  const exfils = useMemo(
+    () =>
+      map.markers
+        .filter((mk) => EXFIL_CATEGORIES.includes(mk.c))
+        .map((mk) => ({
+          key: `${mk.c}-${mk.x}-${mk.y}-${mk.t}`,
+          pos: [mk.y, mk.x] as [number, number],
+          icon: divIcon({
+            className: "",
+            iconSize: [16, 16],
+            iconAnchor: [8, 8],
+            html: exfilIconHtml(mk.c, mk.t),
+          }),
+        })),
+    [map.markers],
+  );
 
   const clearAll = useMutation(({ storage }) => {
     storage.get("strokes").clear();
@@ -91,6 +128,22 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
       leaflet.off("zoomstart", onUser);
     };
   }, [leaflet]);
+
+  // Keep Leaflet (and the drawing canvas) sized to its container — covers
+  // entering/leaving fullscreen and any responsive resize.
+  useEffect(() => {
+    if (!leaflet) return;
+    const ro = new ResizeObserver(() => leaflet.invalidateSize());
+    ro.observe(leaflet.getContainer());
+    return () => ro.disconnect();
+  }, [leaflet]);
+
+  const toggleFullscreen = useCallback(() => {
+    const el = mapWrapRef.current;
+    if (!el) return;
+    if (document.fullscreenElement) document.exitFullscreen();
+    else el.requestFullscreen?.();
+  }, []);
 
   const copyCode = useCallback(async () => {
     try {
@@ -175,8 +228,9 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
 
         {/* The board */}
         <div
+          ref={mapWrapRef}
           style={{ aspectRatio: `${map.width} / ${map.height}` }}
-          className="relative max-h-[82vh] w-full overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
+          className="map-fs relative max-h-[82vh] w-full overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
         >
           <MapContainer
             crs={CRS.Simple}
@@ -193,6 +247,9 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
           >
             <MapReady onReady={setLeaflet} />
             {map.image && <ImageOverlay url={map.image} bounds={bounds} />}
+            {exfils.map((e) => (
+              <Marker key={e.key} position={e.pos} icon={e.icon} interactive={false} />
+            ))}
           </MapContainer>
 
           {leaflet && (
@@ -208,6 +265,15 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
             setWidth={setWidth}
             onClear={clearAll}
           />
+
+          <button
+            type="button"
+            onClick={toggleFullscreen}
+            title="Toggle fullscreen"
+            className="absolute right-3 top-3 z-[1100] rounded-lg border border-[var(--gold-dim)] bg-[var(--surface)]/90 px-3 py-1.5 text-xs text-[var(--gold)] backdrop-blur transition-colors hover:bg-[var(--gold)] hover:text-[var(--background)]"
+          >
+            ⤢ Fullscreen
+          </button>
         </div>
 
         <p className="mt-2 text-xs text-[var(--muted)]">
