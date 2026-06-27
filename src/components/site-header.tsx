@@ -9,6 +9,7 @@ const nav = [
   { href: "/maps", label: "Maps" },
   { href: "/ammo", label: "Ammo" },
   { href: "/gun-builder", label: "Gun Builder" },
+  { href: "/sessions", label: "Sessions" },
 ];
 
 export async function SiteHeader() {

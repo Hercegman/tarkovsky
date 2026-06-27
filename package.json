@@ -25,6 +25,9 @@
     "notify:release": "node --env-file-if-exists=.env.local scripts/notify.mts release"
   },
   "dependencies": {
+    "@liveblocks/client": "^3.20.1",
+    "@liveblocks/node": "^3.20.1",
+    "@liveblocks/react": "^3.20.1",
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.6.1",
     "bcryptjs": "^3.0.3",
