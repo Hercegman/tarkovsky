@@ -57,7 +57,8 @@ export function SessionLanding({
     setJoinError(null);
     const trimmedName = name.trim();
     const cleanCode = code.trim().toUpperCase().replace(/\s+/g, "");
-    if (!trimmedName) {
+    // Logged-in users join with their account name — only guests type one.
+    if (!loggedIn && !trimmedName) {
       setJoinError("Enter a name so the host knows who you are.");
       setJoining(false);
       return;
@@ -70,9 +71,11 @@ export function SessionLanding({
     try {
       const res = await fetch(`/api/sessions?code=${encodeURIComponent(cleanCode)}`);
       if (!res.ok) throw new Error("That session code wasn't found.");
-      // Persist identity for the Liveblocks auth callback, then enter the room.
-      getOrCreateGuestId();
-      setGuestName(trimmedName);
+      // Guests persist a name for the Liveblocks auth callback; accounts don't.
+      if (!loggedIn) {
+        getOrCreateGuestId();
+        setGuestName(trimmedName);
+      }
       router.push(`/sessions/${cleanCode}`);
     } catch (err) {
       setJoinError(err instanceof Error ? err.message : "Could not join.");
@@ -140,19 +143,23 @@ export function SessionLanding({
           Join a session
         </h2>
         <p className="mb-4 text-xs text-[var(--muted)]">
-          No account needed — just a name and the code.
+          {loggedIn
+            ? "Just enter the code — you'll join as your account."
+            : "No account needed — just a name and the code."}
         </p>
         <form onSubmit={joinSession} className="space-y-3">
-          <label className="block text-xs text-[var(--muted)]">
-            Your name
-            <input
-              value={name}
-              onChange={(e) => setName(e.target.value)}
-              maxLength={24}
-              placeholder="e.g. Nikita"
-              className={`${INPUT} mt-1`}
-            />
-          </label>
+          {!loggedIn && (
+            <label className="block text-xs text-[var(--muted)]">
+              Your name
+              <input
+                value={name}
+                onChange={(e) => setName(e.target.value)}
+                maxLength={24}
+                placeholder="e.g. Nikita"
+                className={`${INPUT} mt-1`}
+              />
+            </label>
+          )}
           <label className="block text-xs text-[var(--muted)]">
             Session code
             <input

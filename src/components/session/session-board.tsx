@@ -96,8 +96,8 @@ export function SessionBoard({
     [currentMap.markers],
   );
 
-  // Host switched the map → load it (cached) and swap. Drop the Leaflet instance
-  // first so the drawing layer remounts cleanly on the new map.
+  // Host switched the map → load it (cached) and swap it in place (the Leaflet
+  // instance and the drawing layer stay mounted; only the image + bounds change).
   useEffect(() => {
     if (activeMapId === currentMap.id) return;
     let cancelled = false;
@@ -105,7 +105,6 @@ export function SessionBoard({
     const apply = (data: MapData) => {
       if (cancelled) return;
       mapCache.current.set(data.id, data);
-      setLeaflet(null);
       setFollowing(false);
       setCurrentMap(data);
     };
@@ -121,6 +120,18 @@ export function SessionBoard({
       cancelled = true;
     };
   }, [activeMapId, currentMap.id]);
+
+  // Refit Leaflet to the new map's bounds whenever the map changes (in place).
+  useEffect(() => {
+    if (!leaflet) return;
+    const b: LatLngBoundsExpression = [
+      [0, 0],
+      [currentMap.height, currentMap.width],
+    ];
+    leaflet.setMaxBounds(b);
+    leaflet.fitBounds(b);
+    leaflet.invalidateSize();
+  }, [leaflet, currentMap.id, currentMap.height, currentMap.width]);
 
   // Host picks a different map for everyone; clears the (now off-map) drawings.
   const switchMap = useMutation(({ storage }, id: string) => {
@@ -246,10 +257,9 @@ export function SessionBoard({
         <div
           ref={mapWrapRef}
           style={{ aspectRatio: `${currentMap.width} / ${currentMap.height}` }}
-          className="map-fs relative max-h-[82vh] w-full overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
+          className="map-fs relative isolate max-h-[82vh] w-full overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
         >
           <MapContainer
-            key={currentMap.id}
             crs={CRS.Simple}
             bounds={bounds}
             maxBounds={bounds}
@@ -268,20 +278,16 @@ export function SessionBoard({
             className="h-full w-full bg-[var(--surface)]"
           >
             <MapReady onReady={setLeaflet} />
-            {currentMap.image && <ImageOverlay url={currentMap.image} bounds={bounds} />}
+            {currentMap.image && (
+              <ImageOverlay key={currentMap.id} url={currentMap.image} bounds={bounds} />
+            )}
             {exfils.map((e) => (
               <Marker key={e.key} position={e.pos} icon={e.icon} interactive={false} />
             ))}
           </MapContainer>
 
           {leaflet && (
-            <DrawingCanvas
-              key={currentMap.id}
-              map={leaflet}
-              tool={tool}
-              color={color}
-              width={width}
-            />
+            <DrawingCanvas map={leaflet} tool={tool} color={color} width={width} />
           )}
 
           <SessionToolbar
