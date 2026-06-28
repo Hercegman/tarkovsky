@@ -7,7 +7,7 @@ import {
   ClientSideSuspense,
 } from "@liveblocks/react/suspense";
 import { LiveList } from "@liveblocks/client";
-import type { MapData } from "@/lib/types";
+import type { MapData, GameMap } from "@/lib/types";
 import type { Stroke } from "@/liveblocks.config";
 import { getOrCreateGuestId, getGuestName } from "@/lib/session-client";
 
@@ -26,7 +26,15 @@ const SessionBoard = dynamic(
   },
 );
 
-export function SessionRoom({ code, map }: { code: string; map: MapData }) {
+export function SessionRoom({
+  code,
+  map,
+  maps,
+}: {
+  code: string;
+  map: MapData;
+  maps: GameMap[];
+}) {
   return (
     <LiveblocksProvider
       throttle={16}
@@ -46,8 +54,8 @@ export function SessionRoom({ code, map }: { code: string; map: MapData }) {
     >
       <RoomProvider
         id={code}
-        initialPresence={{ cursor: null, viewport: null, draft: null }}
-        initialStorage={{ strokes: new LiveList<Stroke>([]) }}
+        initialPresence={{ cursor: null, viewport: null, draft: null, color: "" }}
+        initialStorage={{ strokes: new LiveList<Stroke>([]), activeMapId: map.id }}
       >
         <ClientSideSuspense
           fallback={
@@ -56,7 +64,7 @@ export function SessionRoom({ code, map }: { code: string; map: MapData }) {
             </div>
           }
         >
-          {() => <SessionBoard code={code} map={map} />}
+          {() => <SessionBoard code={code} map={map} maps={maps} />}
         </ClientSideSuspense>
       </RoomProvider>
     </LiveblocksProvider>

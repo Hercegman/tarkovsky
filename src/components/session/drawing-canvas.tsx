@@ -78,13 +78,16 @@ function strokeLayers(map: LeafletMap, s: Stroke): Layer[] {
   }
 
   if (s.tool === "circle" && s.points.length >= 2) {
-    // a = center, b = a point on the rim.
-    const r = Math.hypot(b[0] - a[0], b[1] - a[1]);
+    // Paint-style: an ellipse inscribed in the box dragged from a to b.
+    const cy = (a[0] + b[0]) / 2;
+    const cx = (a[1] + b[1]) / 2;
+    const rLat = Math.abs(b[0] - a[0]) / 2;
+    const rLng = Math.abs(b[1] - a[1]) / 2;
     const ring: LatLngExpression[] = [];
     const N = 48;
     for (let k = 0; k < N; k++) {
       const t = (2 * Math.PI * k) / N;
-      ring.push([a[0] + r * Math.sin(t), a[1] + r * Math.cos(t)]);
+      ring.push([cy + rLat * Math.sin(t), cx + rLng * Math.cos(t)]);
     }
     return [polygon(ring, { ...base, fill: false })];
   }
@@ -118,7 +121,9 @@ export function DrawingCanvas({
   width: number;
 }) {
   const overlayRef = useRef<HTMLDivElement>(null);
-  const myId = useSelf((me) => me.id);
+  const self = useSelf();
+  const myId = self.id;
+  const amHost = self.info.role === "coach";
   const strokes = useStorage((root) => root.strokes);
   const others = useOthers();
   const updateMyPresence = useUpdateMyPresence();
@@ -127,10 +132,13 @@ export function DrawingCanvas({
     storage.get("strokes").push(s);
   }, []);
 
-  // Only the author can erase their own stroke.
+  // You can erase your own strokes; the host can erase anyone's.
   const eraseStroke = useMutation(({ storage, self }, id: string) => {
+    const host = self.info.role === "coach";
     const list = storage.get("strokes");
-    const idx = list.findIndex((s) => s.id === id && s.author === self.id);
+    const idx = list.findIndex(
+      (s) => s.id === id && (host || s.author === self.id),
+    );
     if (idx >= 0) list.delete(idx);
   }, []);
 
@@ -138,7 +146,7 @@ export function DrawingCanvas({
   const draftGroupRef = useRef<LayerGroup | null>(null);
   const currentGroupRef = useRef<LayerGroup | null>(null);
   const cursorsRef = useRef<
-    Map<number, { marker: Marker; cur: Point; target: Point }>
+    Map<number, { marker: Marker; cur: Point; target: Point; color: string }>
   >(new Map());
   const drawing = useRef(false);
   const erasing = useRef(false);
@@ -172,17 +180,28 @@ export function DrawingCanvas({
       const c = o.presence.cursor;
       if (!c) continue;
       seen.add(o.connectionId);
+      const peerColor = o.presence.color || o.info.color;
+      const info = { name: o.info.name, color: peerColor, role: o.info.role };
       const entry = cursorsRef.current.get(o.connectionId);
       if (entry) {
         entry.target = c;
+        if (entry.color !== peerColor) {
+          entry.color = peerColor;
+          entry.marker.setIcon(cursorIcon(info));
+        }
       } else {
         const m = marker(c as LatLngExpression, {
-          icon: cursorIcon(o.info),
+          icon: cursorIcon(info),
           interactive: false,
           keyboard: false,
           zIndexOffset: 1000,
         }).addTo(map);
-        cursorsRef.current.set(o.connectionId, { marker: m, cur: c, target: c });
+        cursorsRef.current.set(o.connectionId, {
+          marker: m,
+          cur: c,
+          target: c,
+          color: peerColor,
+        });
       }
     }
     // Drop cursors for peers who left or hid their cursor.
@@ -258,7 +277,7 @@ export function DrawingCanvas({
     const list = strokes ?? [];
     for (let i = list.length - 1; i >= 0; i--) {
       const s = list[i];
-      if (s.author !== myId) continue; // can only erase your own
+      if (s.author !== myId && !amHost) continue; // own only, unless host
       for (const p of s.points) {
         const pt = map.latLngToContainerPoint(p);
         if (Math.hypot(pt.x - target.x, pt.y - target.y) <= ERASE_THRESHOLD + s.width) {

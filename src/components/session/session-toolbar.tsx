@@ -2,7 +2,7 @@
 
 export type BoardTool = "pan" | "pen" | "arrow" | "x" | "circle" | "eraser";
 
-const COLORS = ["#e3c170", "#ff5252", "#4fc3f7", "#69f0ae", "#ffffff", "#101010"];
+const COLORS = ["#e3c170", "#ff5252", "#4fc3f7", "#69f0ae", "#ffffff", "#ff5fbf"];
 const WIDTHS = [2, 4, 6, 10];
 
 const TOOLS: { id: BoardTool; label: string; icon: string }[] = [
@@ -21,6 +21,7 @@ export function SessionToolbar({
   setColor,
   width,
   setWidth,
+  takenColors,
   onUndo,
   canUndo,
   onClear,
@@ -31,6 +32,7 @@ export function SessionToolbar({
   setColor: (c: string) => void;
   width: number;
   setWidth: (w: number) => void;
+  takenColors: string[];
   onUndo: () => void;
   canUndo: boolean;
   onClear: () => void;
@@ -59,22 +61,32 @@ export function SessionToolbar({
 
       <span className="mx-1 h-6 w-px bg-[var(--border)]" />
 
-      {/* Colors */}
+      {/* Colors (a color in use by someone else is locked out) */}
       <div className="flex items-center gap-1">
-        {COLORS.map((c) => (
-          <button
-            key={c}
-            type="button"
-            title={`Color ${c}`}
-            onClick={() => setColor(c)}
-            className={`h-6 w-6 rounded-full border-2 transition-transform ${
-              color === c
-                ? "scale-110 border-[var(--foreground)]"
-                : "border-transparent hover:scale-105"
-            }`}
-            style={{ backgroundColor: c }}
-          />
-        ))}
+        {COLORS.map((c) => {
+          const taken = c !== color && takenColors.includes(c);
+          return (
+            <button
+              key={c}
+              type="button"
+              disabled={taken}
+              title={taken ? "In use by someone else" : `Color ${c}`}
+              onClick={() => setColor(c)}
+              className={`relative h-6 w-6 rounded-full border-2 transition-transform ${
+                color === c
+                  ? "scale-110 border-[var(--foreground)]"
+                  : "border-transparent hover:scale-105"
+              } ${taken ? "cursor-not-allowed opacity-30" : ""}`}
+              style={{ backgroundColor: c }}
+            >
+              {taken && (
+                <span className="absolute inset-0 flex items-center justify-center text-[10px] text-white">
+                  ✕
+                </span>
+              )}
+            </button>
+          );
+        })}
       </div>
 
       <span className="mx-1 h-6 w-px bg-[var(--border)]" />

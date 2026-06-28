@@ -36,11 +36,13 @@ declare global {
       cursor: Point | null;
       viewport: Viewport | null;
       draft: Stroke | null;
+      color: string; // the user's currently selected color (claimed exclusively)
     };
 
-    // Shared document — committed strokes only (ephemeral: lives with the room).
+    // Shared document — committed strokes + the live map everyone is looking at.
     Storage: {
       strokes: LiveList<Stroke>;
+      activeMapId: string;
     };
 
     // Server-assigned identity from the auth endpoint (trusted; clients can't forge).

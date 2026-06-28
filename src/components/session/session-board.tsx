@@ -8,12 +8,13 @@ import "leaflet/dist/leaflet.css";
 import {
   useSelf,
   useOthers,
+  useStorage,
   useUpdateMyPresence,
   useMutation,
   useUndo,
   useCanUndo,
 } from "@liveblocks/react/suspense";
-import type { MapData } from "@/lib/types";
+import type { MapData, GameMap } from "@/lib/types";
 import { categoryColor, categoryShape, shapeSvg } from "@/lib/map-colors";
 import { DrawingCanvas } from "./drawing-canvas";
 import { SessionToolbar, type BoardTool } from "./session-toolbar";
@@ -43,17 +44,28 @@ function MapReady({ onReady }: { onReady: (m: LeafletMap) => void }) {
   return null;
 }
 
-export function SessionBoard({ code, map }: { code: string; map: MapData }) {
+export function SessionBoard({
+  code,
+  map,
+  maps,
+}: {
+  code: string;
+  map: MapData;
+  maps: GameMap[];
+}) {
   const self = useSelf();
   const others = useOthers();
   const updateMyPresence = useUpdateMyPresence();
+  const activeMapId = useStorage((root) => root.activeMapId) ?? map.id;
 
   const [leaflet, setLeaflet] = useState<LeafletMap | null>(null);
+  const [currentMap, setCurrentMap] = useState<MapData>(map);
   const [tool, setTool] = useState<BoardTool>("pan");
   const [color, setColor] = useState(self.info.color);
   const [width, setWidth] = useState(4);
   const [following, setFollowing] = useState(false);
   const [copied, setCopied] = useState(false);
+  const mapCache = useRef<Map<string, MapData>>(new Map([[map.id, map]]));
 
   const isCoach = self.info.role === "coach";
   const coach = others.find((o) => o.info.role === "coach");
@@ -63,13 +75,13 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
 
   const bounds: LatLngBoundsExpression = [
     [0, 0],
-    [map.height, map.width],
+    [currentMap.height, currentMap.width],
   ];
 
   // PMC + Shared extracts, shown by default with a permanent name label.
   const exfils = useMemo(
     () =>
-      map.markers
+      currentMap.markers
         .filter((mk) => EXFIL_CATEGORIES.includes(mk.c))
         .map((mk) => ({
           key: `${mk.c}-${mk.x}-${mk.y}-${mk.t}`,
@@ -81,8 +93,40 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
             html: exfilIconHtml(mk.c, mk.t),
           }),
         })),
-    [map.markers],
+    [currentMap.markers],
   );
+
+  // Host switched the map → load it (cached) and swap. Drop the Leaflet instance
+  // first so the drawing layer remounts cleanly on the new map.
+  useEffect(() => {
+    if (activeMapId === currentMap.id) return;
+    let cancelled = false;
+    const cached = mapCache.current.get(activeMapId);
+    const apply = (data: MapData) => {
+      if (cancelled) return;
+      mapCache.current.set(data.id, data);
+      setLeaflet(null);
+      setFollowing(false);
+      setCurrentMap(data);
+    };
+    if (cached) {
+      apply(cached);
+    } else {
+      fetch(`/api/session-map?id=${encodeURIComponent(activeMapId)}`)
+        .then((r) => (r.ok ? r.json() : Promise.reject()))
+        .then((data: MapData) => apply(data))
+        .catch(() => {});
+    }
+    return () => {
+      cancelled = true;
+    };
+  }, [activeMapId, currentMap.id]);
+
+  // Host picks a different map for everyone; clears the (now off-map) drawings.
+  const switchMap = useMutation(({ storage }, id: string) => {
+    storage.set("activeMapId", id);
+    storage.get("strokes").clear();
+  }, []);
 
   // Clear removes only your own drawings, not everyone's.
   const clearMine = useMutation(({ storage, self }) => {
@@ -94,6 +138,14 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
 
   const undo = useUndo();
   const canUndo = useCanUndo();
+
+  // Publish my selected color so others see it (chips/cursors) and can't reuse it.
+  useEffect(() => {
+    updateMyPresence({ color });
+  }, [color, updateMyPresence]);
+
+  const takenColors = others.map((o) => o.presence.color).filter(Boolean) as string[];
+  const selectColor = useCallback((c: string) => setColor(c), []);
 
   // Coach: broadcast viewport so followers can snap to it.
   useEffect(() => {
@@ -165,11 +217,11 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
   }, [code]);
 
   const participants = [
-    { id: "self", name: self.info.name, color: self.info.color, role: self.info.role },
+    { id: "self", name: self.info.name, color, role: self.info.role },
     ...others.map((o) => ({
       id: String(o.connectionId),
       name: o.info.name,
-      color: o.info.color,
+      color: o.presence.color || o.info.color,
       role: o.info.role,
     })),
   ];
@@ -186,17 +238,18 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
             ← Leave
           </Link>
           <h1 className="text-lg font-bold">
-            <span className="text-gradient">{map.name}</span>
+            <span className="text-gradient">{currentMap.name}</span>
           </h1>
         </div>
 
         {/* The board */}
         <div
           ref={mapWrapRef}
-          style={{ aspectRatio: `${map.width} / ${map.height}` }}
+          style={{ aspectRatio: `${currentMap.width} / ${currentMap.height}` }}
           className="map-fs relative max-h-[82vh] w-full overflow-hidden rounded-xl border border-[var(--border)] bg-[var(--background)]"
         >
           <MapContainer
+            key={currentMap.id}
             crs={CRS.Simple}
             bounds={bounds}
             maxBounds={bounds}
@@ -215,23 +268,30 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
             className="h-full w-full bg-[var(--surface)]"
           >
             <MapReady onReady={setLeaflet} />
-            {map.image && <ImageOverlay url={map.image} bounds={bounds} />}
+            {currentMap.image && <ImageOverlay url={currentMap.image} bounds={bounds} />}
             {exfils.map((e) => (
               <Marker key={e.key} position={e.pos} icon={e.icon} interactive={false} />
             ))}
           </MapContainer>
 
           {leaflet && (
-            <DrawingCanvas map={leaflet} tool={tool} color={color} width={width} />
+            <DrawingCanvas
+              key={currentMap.id}
+              map={leaflet}
+              tool={tool}
+              color={color}
+              width={width}
+            />
           )}
 
           <SessionToolbar
             tool={tool}
             setTool={setTool}
             color={color}
-            setColor={setColor}
+            setColor={selectColor}
             width={width}
             setWidth={setWidth}
+            takenColors={takenColors}
             onUndo={undo}
             canUndo={canUndo}
             onClear={clearMine}
@@ -241,6 +301,20 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
               The container ignores pointer events; each control re-enables them. */}
           <div className="pointer-events-none absolute right-3 top-3 z-[1100] flex max-w-[70%] flex-col items-end gap-2">
             <div className="flex items-center gap-2">
+              {isCoach && (
+                <select
+                  value={activeMapId}
+                  onChange={(e) => switchMap(e.target.value)}
+                  title="Change the map for everyone (clears drawings)"
+                  className="pointer-events-auto rounded-lg border border-[var(--gold-dim)] bg-[var(--surface)]/90 px-2 py-1.5 text-xs text-[var(--foreground)] outline-none backdrop-blur"
+                >
+                  {maps.map((m) => (
+                    <option key={m.id} value={m.id}>
+                      {m.name}
+                    </option>
+                  ))}
+                </select>
+              )}
               {!isCoach && (
                 <button
                   type="button"

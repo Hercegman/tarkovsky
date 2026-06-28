@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { liveblocks, normalizeCode } from "@/lib/liveblocks";
-import { getMapData } from "@/lib/data";
+import { getMapData, getMaps } from "@/lib/data";
 import { SessionRoom } from "@/components/session/session-room";
 
 export const metadata: Metadata = {
@@ -24,8 +24,8 @@ export default async function SessionRoomPage(
   }
   if (!mapId) notFound();
 
-  const map = await getMapData(mapId);
+  const [map, maps] = await Promise.all([getMapData(mapId), getMaps()]);
   if (!map) notFound();
 
-  return <SessionRoom code={code} map={map} />;
+  return <SessionRoom code={code} map={map} maps={maps} />;
 }
