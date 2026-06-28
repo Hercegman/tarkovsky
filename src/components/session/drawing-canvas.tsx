@@ -176,13 +176,11 @@ export function DrawingCanvas({
   // Reproject on every pan/zoom + keep the canvas sized to the map.
   useEffect(() => {
     resize();
-    map.on("move", scheduleRender);
-    map.on("zoom", scheduleRender);
+    map.on("move zoom viewreset zoomend moveend", scheduleRender);
     map.on("resize", resize);
     window.addEventListener("resize", resize);
     return () => {
-      map.off("move", scheduleRender);
-      map.off("zoom", scheduleRender);
+      map.off("move zoom viewreset zoomend moveend", scheduleRender);
       map.off("resize", resize);
       window.removeEventListener("resize", resize);
       if (rafRef.current != null) cancelAnimationFrame(rafRef.current);

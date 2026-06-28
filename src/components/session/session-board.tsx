@@ -197,6 +197,11 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
             zoomSnap={0}
             zoomDelta={0.5}
             wheelPxPerZoomLevel={110}
+            // The drawing canvas is an external overlay that can't ride Leaflet's
+            // zoom animation, so animating zoom desyncs/ghosts the strokes. Snap
+            // zoom instead — the map image and drawings then move together.
+            zoomAnimation={false}
+            markerZoomAnimation={false}
             attributionControl={false}
             className="h-full w-full bg-[var(--surface)]"
           >
