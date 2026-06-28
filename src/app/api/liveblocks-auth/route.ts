@@ -2,7 +2,12 @@ import { NextResponse } from "next/server";
 import { auth } from "@/lib/auth";
 import { liveblocksAuthSchema, guestNameSchema } from "@/lib/validation";
 import { rateLimit, clientIp } from "@/lib/rate-limit";
-import { liveblocks, normalizeCode, userColor } from "@/lib/liveblocks";
+import {
+  liveblocks,
+  normalizeCode,
+  userColor,
+  SESSION_CAPACITY,
+} from "@/lib/liveblocks";
 import type { Role } from "@/liveblocks.config";
 
 export const runtime = "nodejs";
@@ -57,6 +62,21 @@ export async function POST(req: Request) {
     const nameParse = guestNameSchema.safeParse(parsed.data.name ?? "");
     name = nameParse.success ? nameParse.data : "Guest";
     role = "player";
+  }
+
+  // Capacity guard (anti-spam). The host is exempt so they can't be locked out
+  // of their own room, and an already-connected user (reconnect/extra tab) is
+  // always let back in.
+  if (userId !== creatorId) {
+    try {
+      const { data } = await liveblocks().getActiveUsers(room);
+      const ids = new Set(data.map((u) => u.id));
+      if (!ids.has(userId) && ids.size >= SESSION_CAPACITY) {
+        return NextResponse.json({ error: "This session is full." }, { status: 403 });
+      }
+    } catch {
+      /* don't block on a failed presence check */
+    }
   }
 
   const color = userColor(userId, role);

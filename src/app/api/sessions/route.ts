@@ -3,7 +3,12 @@ import { auth } from "@/lib/auth";
 import { getMap } from "@/lib/data";
 import { createSessionSchema } from "@/lib/validation";
 import { rateLimit, clientIp } from "@/lib/rate-limit";
-import { liveblocks, generateSessionCode, normalizeCode } from "@/lib/liveblocks";
+import {
+  liveblocks,
+  generateSessionCode,
+  normalizeCode,
+  SESSION_CAPACITY,
+} from "@/lib/liveblocks";
 
 export const runtime = "nodejs";
 
@@ -75,18 +80,38 @@ export async function POST(req: Request) {
   );
 }
 
-// Validate a code (used by the Join screen) → returns the map it points to.
+// Validate a code (used by the Join screen) → returns the map + whether it's full.
 export async function GET(req: Request) {
+  const ip = clientIp(req.headers);
+  if (!rateLimit(`session-validate:${ip}`, 20, 60_000).ok) {
+    return NextResponse.json(
+      { error: "Too many attempts — slow down." },
+      { status: 429 },
+    );
+  }
+
   const code = normalizeCode(new URL(req.url).searchParams.get("code") ?? "");
   if (!code) {
     return NextResponse.json({ error: "Missing code." }, { status: 400 });
   }
   try {
-    const room = await liveblocks().getRoom(code);
+    const lb = liveblocks();
+    const room = await lb.getRoom(code);
     const mapId = room.metadata?.mapId;
+
+    // Best-effort capacity check so the Join screen can warn before entering.
+    let full = false;
+    try {
+      const { data } = await lb.getActiveUsers(code);
+      full = new Set(data.map((u) => u.id)).size >= SESSION_CAPACITY;
+    } catch {
+      /* don't block validation if the presence check fails */
+    }
+
     return NextResponse.json({
       code,
       mapId: typeof mapId === "string" ? mapId : null,
+      full,
     });
   } catch {
     return NextResponse.json({ error: "Session not found." }, { status: 404 });

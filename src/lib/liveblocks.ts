@@ -15,6 +15,10 @@ export function liveblocks(): Liveblocks {
   return _client;
 }
 
+// Max distinct people per session (the host is exempt so they can't be locked
+// out of their own room). Anti-spam guard; bump if you need bigger sessions.
+export const SESSION_CAPACITY = 8;
+
 // Unambiguous code charset — no 0/O/1/I/L so codes are easy to read out loud.
 const CODE_ALPHABET = "ABCDEFGHJKMNPQRSTUVWXYZ23456789";
 const CODE_LENGTH = 6;

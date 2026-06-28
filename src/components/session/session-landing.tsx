@@ -71,6 +71,8 @@ export function SessionLanding({
     try {
       const res = await fetch(`/api/sessions?code=${encodeURIComponent(cleanCode)}`);
       if (!res.ok) throw new Error("That session code wasn't found.");
+      const data = await res.json();
+      if (data.full) throw new Error("This session is full — try again later.");
       // Guests persist a name for the Liveblocks auth callback; accounts don't.
       if (!loggedIn) {
         getOrCreateGuestId();
