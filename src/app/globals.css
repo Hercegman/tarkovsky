@@ -191,6 +191,13 @@ body::before {
   width: 100%;
 }
 
+/* Hide the injected "Powered by Liveblocks" badge — it sits bottom-right and
+   overlaps our Report-a-bug button. (Liveblocks itself ships a dismiss button
+   for it, so hiding it is sanctioned.) */
+#liveblocks-badge {
+  display: none !important;
+}
+
 /* Themed hover tooltips (replace Leaflet's white/black default). */
 .leaflet-tooltip.tark-tip {
   background: var(--surface);

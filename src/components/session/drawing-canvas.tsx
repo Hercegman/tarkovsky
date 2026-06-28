@@ -1,7 +1,19 @@
 "use client";
 
-import { useCallback, useEffect, useRef } from "react";
-import type { Map as LeafletMap, LeafletMouseEvent, Point as LPoint } from "leaflet";
+import { useEffect, useRef } from "react";
+import {
+  layerGroup,
+  polyline,
+  polygon,
+  marker,
+  divIcon,
+  type LayerGroup,
+  type Polyline,
+  type Layer,
+  type Map as LeafletMap,
+  type LatLngExpression,
+  type LeafletMouseEvent,
+} from "leaflet";
 import {
   useStorage,
   useOthers,
@@ -13,59 +25,67 @@ import type { BoardTool } from "./session-toolbar";
 
 const ERASE_THRESHOLD = 12; // px hit radius for the eraser
 
-function drawArrow(
-  ctx: CanvasRenderingContext2D,
-  from: LPoint,
-  to: LPoint,
-  color: string,
-  width: number,
-) {
-  const head = Math.max(10, width * 2.5);
-  const angle = Math.atan2(to.y - from.y, to.x - from.x);
-  ctx.strokeStyle = color;
-  ctx.fillStyle = color;
-  ctx.lineWidth = width;
-  ctx.beginPath();
-  ctx.moveTo(from.x, from.y);
-  ctx.lineTo(to.x, to.y);
-  ctx.stroke();
-  ctx.beginPath();
-  ctx.moveTo(to.x, to.y);
-  ctx.lineTo(
-    to.x - head * Math.cos(angle - Math.PI / 6),
-    to.y - head * Math.sin(angle - Math.PI / 6),
+function escapeHtml(s: string): string {
+  return s.replace(
+    /[&<>"']/g,
+    (c) =>
+      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[c]!,
   );
-  ctx.lineTo(
-    to.x - head * Math.cos(angle + Math.PI / 6),
-    to.y - head * Math.sin(angle + Math.PI / 6),
-  );
-  ctx.closePath();
-  ctx.fill();
 }
 
-function drawCursor(
-  ctx: CanvasRenderingContext2D,
-  pt: LPoint,
-  color: string,
-  name: string,
-  isCoach: boolean,
-) {
-  // Pointer dot
-  ctx.beginPath();
-  ctx.arc(pt.x, pt.y, 5, 0, Math.PI * 2);
-  ctx.fillStyle = color;
-  ctx.fill();
-  ctx.lineWidth = 1.5;
-  ctx.strokeStyle = "rgba(0,0,0,0.5)";
-  ctx.stroke();
-  // Name label
-  const label = isCoach ? `${name} · coach` : name;
-  ctx.font = "12px Inter, system-ui, sans-serif";
-  const w = ctx.measureText(label).width;
-  ctx.fillStyle = "rgba(0,0,0,0.65)";
-  ctx.fillRect(pt.x + 9, pt.y - 8, w + 8, 16);
-  ctx.fillStyle = color;
-  ctx.fillText(label, pt.x + 13, pt.y + 4);
+// Build the Leaflet layer(s) for one stroke. Leaflet keeps them registered to
+// the map through any zoom/pan, so drawings never drift or duplicate.
+function strokeLayers(map: LeafletMap, s: Stroke): Layer[] {
+  if (!s.points.length) return [];
+  if (s.tool === "arrow" && s.points.length >= 2) {
+    const a = s.points[0];
+    const b = s.points[s.points.length - 1];
+    const shaft = polyline([a, b] as LatLngExpression[], {
+      color: s.color,
+      weight: s.width,
+      opacity: 0.95,
+      interactive: false,
+    });
+    // Pixel-sized arrowhead at the current zoom (rebuilt on zoomend).
+    const p1 = map.latLngToContainerPoint(a);
+    const p2 = map.latLngToContainerPoint(b);
+    const ang = Math.atan2(p2.y - p1.y, p2.x - p1.x);
+    const head = Math.max(10, s.width * 3);
+    const left = map.containerPointToLatLng([
+      p2.x - head * Math.cos(ang - Math.PI / 7),
+      p2.y - head * Math.sin(ang - Math.PI / 7),
+    ]);
+    const right = map.containerPointToLatLng([
+      p2.x - head * Math.cos(ang + Math.PI / 7),
+      p2.y - head * Math.sin(ang + Math.PI / 7),
+    ]);
+    const headPoly = polygon(
+      [b, [left.lat, left.lng], [right.lat, right.lng]] as LatLngExpression[],
+      { color: s.color, weight: 1, fillColor: s.color, fillOpacity: 1, interactive: false },
+    );
+    return [shaft, headPoly];
+  }
+  return [
+    polyline(s.points as LatLngExpression[], {
+      color: s.color,
+      weight: s.width,
+      opacity: 0.95,
+      lineCap: "round",
+      lineJoin: "round",
+      interactive: false,
+    }),
+  ];
+}
+
+function cursorLayer(p: Point, info: { name: string; color: string; role: string }): Layer {
+  const label = info.role === "coach" ? `${info.name} · coach` : info.name;
+  const html = `<div style="position:relative;pointer-events:none"><span style="position:absolute;left:-5px;top:-5px;width:10px;height:10px;border-radius:50%;background:${info.color};border:1.5px solid rgba(0,0,0,.5)"></span><span style="position:absolute;left:9px;top:-8px;white-space:nowrap;font:600 11px/1.2 Inter,system-ui,sans-serif;color:${info.color};background:rgba(0,0,0,.65);padding:1px 5px;border-radius:4px">${escapeHtml(label)}</span></div>`;
+  return marker(p as LatLngExpression, {
+    icon: divIcon({ className: "", iconSize: [0, 0], html }),
+    interactive: false,
+    keyboard: false,
+    zIndexOffset: 1000,
+  });
 }
 
 export function DrawingCanvas({
@@ -79,7 +99,7 @@ export function DrawingCanvas({
   color: string;
   width: number;
 }) {
-  const canvasRef = useRef<HTMLCanvasElement>(null);
+  const overlayRef = useRef<HTMLDivElement>(null);
   const strokes = useStorage((root) => root.strokes);
   const others = useOthers();
   const updateMyPresence = useUpdateMyPresence();
@@ -94,105 +114,52 @@ export function DrawingCanvas({
     if (idx >= 0) list.delete(idx);
   }, []);
 
+  const strokeGroupRef = useRef<LayerGroup | null>(null);
+  const peerGroupRef = useRef<LayerGroup | null>(null);
+  const currentLayerRef = useRef<Polyline | null>(null);
   const drawing = useRef(false);
   const erasing = useRef(false);
   const current = useRef<Stroke | null>(null);
-  const rafRef = useRef<number | null>(null);
 
-  const toPx = useCallback(
-    (p: Point): LPoint => map.latLngToContainerPoint([p[0], p[1]]),
-    [map],
-  );
-
-  const eventToLatLng = useCallback(
-    (clientX: number, clientY: number): Point => {
-      const rect = map.getContainer().getBoundingClientRect();
-      const ll = map.containerPointToLatLng([
-        clientX - rect.left,
-        clientY - rect.top,
-      ]);
-      return [ll.lat, ll.lng];
-    },
-    [map],
-  );
-
-  const render = useCallback(() => {
-    const canvas = canvasRef.current;
-    const ctx = canvas?.getContext("2d");
-    if (!canvas || !ctx) return;
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-
-    const drawStroke = (s: Stroke) => {
-      if (!s.points.length) return;
-      ctx.lineCap = "round";
-      ctx.lineJoin = "round";
-      if (s.tool === "arrow" && s.points.length >= 2) {
-        drawArrow(ctx, toPx(s.points[0]), toPx(s.points[s.points.length - 1]), s.color, s.width);
-        return;
-      }
-      ctx.strokeStyle = s.color;
-      ctx.lineWidth = s.width;
-      ctx.beginPath();
-      s.points.forEach((p, i) => {
-        const pt = toPx(p);
-        if (i === 0) ctx.moveTo(pt.x, pt.y);
-        else ctx.lineTo(pt.x, pt.y);
-      });
-      ctx.stroke();
-    };
-
-    for (const s of strokes ?? []) drawStroke(s);
-    for (const o of others) if (o.presence.draft) drawStroke(o.presence.draft);
-    if (current.current) drawStroke(current.current);
-
-    for (const o of others) {
-      const c = o.presence.cursor;
-      if (c) drawCursor(ctx, toPx(c), o.info.color, o.info.name, o.info.role === "coach");
-    }
-  }, [strokes, others, toPx]);
-
-  const scheduleRender = useCallback(() => {
-    if (rafRef.current != null) return;
-    rafRef.current = requestAnimationFrame(() => {
-      rafRef.current = null;
-      render();
-    });
-  }, [render]);
-
-  const resize = useCallback(() => {
-    const canvas = canvasRef.current;
-    if (!canvas) return;
-    const rect = map.getContainer().getBoundingClientRect();
-    const dpr = window.devicePixelRatio || 1;
-    canvas.width = Math.round(rect.width * dpr);
-    canvas.height = Math.round(rect.height * dpr);
-    canvas.style.width = `${rect.width}px`;
-    canvas.style.height = `${rect.height}px`;
-    const ctx = canvas.getContext("2d");
-    if (ctx) ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    render();
-  }, [map, render]);
-
-  // Reproject on every pan/zoom + keep the canvas sized to the map.
+  // Committed strokes → Leaflet layers. Rebuild when they change, and on zoomend
+  // so the pixel-sized arrowheads stay crisp (the lines reproject on their own).
   useEffect(() => {
-    resize();
-    map.on("move zoom viewreset zoomend moveend", scheduleRender);
-    map.on("resize", resize);
-    window.addEventListener("resize", resize);
+    if (!strokeGroupRef.current) strokeGroupRef.current = layerGroup().addTo(map);
+    const group = strokeGroupRef.current;
+    const rebuild = () => {
+      group.clearLayers();
+      for (const s of strokes ?? []) for (const l of strokeLayers(map, s)) l.addTo(group);
+    };
+    rebuild();
+    map.on("zoomend", rebuild);
     return () => {
-      map.off("move zoom viewreset zoomend moveend", scheduleRender);
-      map.off("resize", resize);
-      window.removeEventListener("resize", resize);
-      if (rafRef.current != null) cancelAnimationFrame(rafRef.current);
+      map.off("zoomend", rebuild);
     };
-  }, [map, scheduleRender, resize]);
+  }, [map, strokes]);
 
-  // Redraw whenever shared data changes.
+  // Peers' in-progress drafts + live cursors.
   useEffect(() => {
-    render();
-  }, [render]);
+    if (!peerGroupRef.current) peerGroupRef.current = layerGroup().addTo(map);
+    const group = peerGroupRef.current;
+    group.clearLayers();
+    for (const o of others) {
+      if (o.presence.draft)
+        for (const l of strokeLayers(map, o.presence.draft)) l.addTo(group);
+      if (o.presence.cursor) cursorLayer(o.presence.cursor, o.info).addTo(group);
+    }
+  }, [map, others]);
 
-  // Broadcast the cursor from the map itself (covers pan mode, where the canvas
+  // Clean up all layers on unmount.
+  useEffect(
+    () => () => {
+      strokeGroupRef.current?.remove();
+      peerGroupRef.current?.remove();
+      currentLayerRef.current?.remove();
+    },
+    [],
+  );
+
+  // Broadcast the cursor from the map itself (covers pan mode, where the overlay
   // lets pointer events through to Leaflet).
   useEffect(() => {
     const onMove = (e: LeafletMouseEvent) =>
@@ -206,27 +173,30 @@ export function DrawingCanvas({
     };
   }, [map, updateMyPresence]);
 
-  const eraseAt = useCallback(
-    (ll: Point) => {
-      const target = toPx(ll);
-      const list = strokes ?? [];
-      for (let i = list.length - 1; i >= 0; i--) {
-        const s = list[i];
-        for (const p of s.points) {
-          const pt = toPx(p);
-          if (Math.hypot(pt.x - target.x, pt.y - target.y) <= ERASE_THRESHOLD + s.width) {
-            eraseStroke(s.id);
-            return;
-          }
+  function eventToLatLng(clientX: number, clientY: number): Point {
+    const rect = map.getContainer().getBoundingClientRect();
+    const ll = map.containerPointToLatLng([clientX - rect.left, clientY - rect.top]);
+    return [ll.lat, ll.lng];
+  }
+
+  function eraseAt(ll: Point) {
+    const target = map.latLngToContainerPoint(ll);
+    const list = strokes ?? [];
+    for (let i = list.length - 1; i >= 0; i--) {
+      const s = list[i];
+      for (const p of s.points) {
+        const pt = map.latLngToContainerPoint(p);
+        if (Math.hypot(pt.x - target.x, pt.y - target.y) <= ERASE_THRESHOLD + s.width) {
+          eraseStroke(s.id);
+          return;
         }
       }
-    },
-    [strokes, toPx, eraseStroke],
-  );
+    }
+  }
 
-  const onPointerDown = (e: React.PointerEvent<HTMLCanvasElement>) => {
+  const onPointerDown = (e: React.PointerEvent<HTMLDivElement>) => {
     if (tool === "pan") return;
-    canvasRef.current?.setPointerCapture(e.pointerId);
+    overlayRef.current?.setPointerCapture(e.pointerId);
     const ll = eventToLatLng(e.clientX, e.clientY);
     if (tool === "eraser") {
       erasing.current = true;
@@ -241,11 +211,19 @@ export function DrawingCanvas({
       width,
       points: [ll],
     };
+    // Live local preview (a plain polyline; the arrowhead lands on commit).
+    currentLayerRef.current = polyline([ll] as LatLngExpression[], {
+      color,
+      weight: width,
+      opacity: 0.95,
+      lineCap: "round",
+      lineJoin: "round",
+      interactive: false,
+    }).addTo(map);
     updateMyPresence({ draft: current.current, cursor: ll });
-    render();
   };
 
-  const onPointerMove = (e: React.PointerEvent<HTMLCanvasElement>) => {
+  const onPointerMove = (e: React.PointerEvent<HTMLDivElement>) => {
     const ll = eventToLatLng(e.clientX, e.clientY);
     updateMyPresence({ cursor: ll });
     if (tool === "eraser") {
@@ -253,13 +231,13 @@ export function DrawingCanvas({
       return;
     }
     if (!drawing.current || !current.current) return;
-    const next =
+    const points =
       current.current.tool === "arrow"
         ? [current.current.points[0], ll]
         : [...current.current.points, ll];
-    current.current = { ...current.current, points: next };
+    current.current = { ...current.current, points };
+    currentLayerRef.current?.setLatLngs(points as LatLngExpression[]);
     updateMyPresence({ draft: current.current });
-    render();
   };
 
   const endStroke = () => {
@@ -271,14 +249,15 @@ export function DrawingCanvas({
     drawing.current = false;
     const s = current.current;
     current.current = null;
+    currentLayerRef.current?.remove();
+    currentLayerRef.current = null;
     updateMyPresence({ draft: null });
     if (s.points.length >= 2) commitStroke(s);
-    render();
   };
 
   return (
-    <canvas
-      ref={canvasRef}
+    <div
+      ref={overlayRef}
       onPointerDown={onPointerDown}
       onPointerMove={onPointerMove}
       onPointerUp={endStroke}
