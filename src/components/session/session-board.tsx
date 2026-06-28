@@ -10,6 +10,8 @@ import {
   useOthers,
   useUpdateMyPresence,
   useMutation,
+  useUndo,
+  useCanUndo,
 } from "@liveblocks/react/suspense";
 import type { MapData } from "@/lib/types";
 import { categoryColor, categoryShape, shapeSvg } from "@/lib/map-colors";
@@ -82,9 +84,16 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
     [map.markers],
   );
 
-  const clearAll = useMutation(({ storage }) => {
-    storage.get("strokes").clear();
+  // Clear removes only your own drawings, not everyone's.
+  const clearMine = useMutation(({ storage, self }) => {
+    const list = storage.get("strokes");
+    for (let i = list.length - 1; i >= 0; i--) {
+      if (list.get(i)?.author === self.id) list.delete(i);
+    }
   }, []);
+
+  const undo = useUndo();
+  const canUndo = useCanUndo();
 
   // Coach: broadcast viewport so followers can snap to it.
   useEffect(() => {
@@ -223,7 +232,9 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
             setColor={setColor}
             width={width}
             setWidth={setWidth}
-            onClear={clearAll}
+            onUndo={undo}
+            canUndo={canUndo}
+            onClear={clearMine}
           />
 
           {/* Floating control cluster — inside the map so it stays in fullscreen.
@@ -235,14 +246,14 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
                   type="button"
                   onClick={() => setFollowing((f) => !f)}
                   disabled={!coach}
-                  title={coach ? "Snap to the coach's view" : "Waiting for the coach"}
+                  title={coach ? "Snap to the host's view" : "Waiting for the host"}
                   className={`pointer-events-auto rounded-lg border px-3 py-1.5 text-xs backdrop-blur transition-colors disabled:opacity-40 ${
                     following
                       ? "border-[var(--gold)] bg-[var(--gold)]/20 text-[var(--gold)]"
                       : "border-[var(--border)] bg-[var(--surface)]/90 hover:bg-[var(--surface-2)]"
                   }`}
                 >
-                  {following ? "● Following coach" : "Follow coach"}
+                  {following ? "● Following host" : "Follow host"}
                 </button>
               )}
               <button
@@ -269,7 +280,7 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
                 <span
                   key={p.id}
                   className="flex items-center gap-1.5 rounded-full border border-[var(--border)] bg-[var(--surface)]/90 px-2.5 py-1 text-xs backdrop-blur"
-                  title={p.role === "coach" ? "Coach" : "Player"}
+                  title={p.role === "coach" ? "Host" : "Player"}
                 >
                   <span
                     className="h-2.5 w-2.5 rounded-full"
@@ -278,7 +289,7 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
                   {p.name}
                   {p.role === "coach" && (
                     <span className="text-[10px] uppercase text-[var(--gold)]">
-                      coach
+                      host
                     </span>
                   )}
                 </span>
@@ -289,8 +300,8 @@ export function SessionBoard({ code, map }: { code: string; map: MapData }) {
 
         <p className="mt-2 text-xs text-[var(--muted)]">
           {isCoach
-            ? "You're the coach — your view is shared. Pick a tool and draw to point things out."
-            : "Use the Move tool to look around, or Follow the coach. Drawings from everyone sync live."}
+            ? "You're the host — your view is shared. Pick a tool and draw to point things out."
+            : "Use the Move tool to look around, or Follow the host. Drawings from everyone sync live."}
         </p>
       </div>
     </div>

@@ -88,7 +88,7 @@ export function SessionLanding({
           Host a session
         </h2>
         <p className="mb-4 text-xs text-[var(--muted)]">
-          You&apos;ll be the coach — pick a map and share the code.
+          You&apos;ll be the host — pick a map and share the code.
         </p>
 
         {loggedIn ? (

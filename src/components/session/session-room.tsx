@@ -29,6 +29,7 @@ const SessionBoard = dynamic(
 export function SessionRoom({ code, map }: { code: string; map: MapData }) {
   return (
     <LiveblocksProvider
+      throttle={16}
       authEndpoint={async (room) => {
         const res = await fetch("/api/liveblocks-auth", {
           method: "POST",

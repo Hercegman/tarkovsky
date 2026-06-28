@@ -8,13 +8,14 @@
 // terrain through everyone's independent pan/zoom — see [[Session Maps]].
 import type { LiveList } from "@liveblocks/client";
 
-export type Tool = "pen" | "arrow";
+export type Tool = "pen" | "arrow" | "x" | "circle";
 
 /** A point in map coordinates: [lat, lng] === [y, x] in CRS.Simple. */
 export type Point = [number, number];
 
 export type Stroke = {
   id: string;
+  author: string; // UserMeta id of whoever drew it (only they can erase/clear it)
   tool: Tool;
   color: string;
   width: number;

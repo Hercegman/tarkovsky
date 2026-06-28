@@ -1,6 +1,6 @@
 "use client";
 
-export type BoardTool = "pan" | "pen" | "arrow" | "eraser";
+export type BoardTool = "pan" | "pen" | "arrow" | "x" | "circle" | "eraser";
 
 const COLORS = ["#e3c170", "#ff5252", "#4fc3f7", "#69f0ae", "#ffffff", "#101010"];
 const WIDTHS = [2, 4, 6, 10];
@@ -9,6 +9,8 @@ const TOOLS: { id: BoardTool; label: string; icon: string }[] = [
   { id: "pan", label: "Move / zoom the map", icon: "✋" },
   { id: "pen", label: "Draw freehand", icon: "✏️" },
   { id: "arrow", label: "Draw an arrow", icon: "↗" },
+  { id: "x", label: "Mark an X", icon: "✕" },
+  { id: "circle", label: "Draw a circle", icon: "◯" },
   { id: "eraser", label: "Erase strokes", icon: "🧽" },
 ];
 
@@ -19,6 +21,8 @@ export function SessionToolbar({
   setColor,
   width,
   setWidth,
+  onUndo,
+  canUndo,
   onClear,
 }: {
   tool: BoardTool;
@@ -27,6 +31,8 @@ export function SessionToolbar({
   setColor: (c: string) => void;
   width: number;
   setWidth: (w: number) => void;
+  onUndo: () => void;
+  canUndo: boolean;
   onClear: () => void;
 }) {
   return (
@@ -97,6 +103,16 @@ export function SessionToolbar({
       </div>
 
       <span className="mx-1 h-6 w-px bg-[var(--border)]" />
+
+      <button
+        type="button"
+        onClick={onUndo}
+        disabled={!canUndo}
+        title="Undo last change"
+        className="rounded-lg border border-[var(--border)] px-3 py-1.5 text-xs transition-colors hover:bg-[var(--surface-2)] disabled:opacity-40"
+      >
+        ↶ Undo
+      </button>
 
       <button
         type="button"

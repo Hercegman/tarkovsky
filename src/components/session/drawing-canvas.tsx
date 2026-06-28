@@ -8,13 +8,14 @@ import {
   marker,
   divIcon,
   type LayerGroup,
-  type Polyline,
+  type Marker,
   type Layer,
   type Map as LeafletMap,
   type LatLngExpression,
   type LeafletMouseEvent,
 } from "leaflet";
 import {
+  useSelf,
   useStorage,
   useOthers,
   useUpdateMyPresence,
@@ -24,6 +25,7 @@ import type { Stroke, Point } from "@/liveblocks.config";
 import type { BoardTool } from "./session-toolbar";
 
 const ERASE_THRESHOLD = 12; // px hit radius for the eraser
+const CURSOR_EASE = 0.3; // 0..1 — higher snaps faster, lower trails more
 
 function escapeHtml(s: string): string {
   return s.replace(
@@ -37,16 +39,12 @@ function escapeHtml(s: string): string {
 // the map through any zoom/pan, so drawings never drift or duplicate.
 function strokeLayers(map: LeafletMap, s: Stroke): Layer[] {
   if (!s.points.length) return [];
+  const a = s.points[0];
+  const b = s.points[s.points.length - 1];
+  const base = { color: s.color, weight: s.width, interactive: false } as const;
+
   if (s.tool === "arrow" && s.points.length >= 2) {
-    const a = s.points[0];
-    const b = s.points[s.points.length - 1];
-    const shaft = polyline([a, b] as LatLngExpression[], {
-      color: s.color,
-      weight: s.width,
-      opacity: 0.95,
-      interactive: false,
-    });
-    // Pixel-sized arrowhead at the current zoom (rebuilt on zoomend).
+    const shaft = polyline([a, b] as LatLngExpression[], { ...base, opacity: 0.95 });
     const p1 = map.latLngToContainerPoint(a);
     const p2 = map.latLngToContainerPoint(b);
     const ang = Math.atan2(p2.y - p1.y, p2.x - p1.x);
@@ -59,33 +57,53 @@ function strokeLayers(map: LeafletMap, s: Stroke): Layer[] {
       p2.x - head * Math.cos(ang + Math.PI / 7),
       p2.y - head * Math.sin(ang + Math.PI / 7),
     ]);
-    const headPoly = polygon(
-      [b, [left.lat, left.lng], [right.lat, right.lng]] as LatLngExpression[],
-      { color: s.color, weight: 1, fillColor: s.color, fillOpacity: 1, interactive: false },
-    );
-    return [shaft, headPoly];
+    return [
+      shaft,
+      polygon(
+        [b, [left.lat, left.lng], [right.lat, right.lng]] as LatLngExpression[],
+        { color: s.color, weight: 1, fillColor: s.color, fillOpacity: 1, interactive: false },
+      ),
+    ];
   }
+
+  if (s.tool === "x" && s.points.length >= 2) {
+    // Two diagonals across the box the user dragged out.
+    return [
+      polyline([a, b] as LatLngExpression[], base),
+      polyline([
+        [a[0], b[1]],
+        [b[0], a[1]],
+      ] as LatLngExpression[], base),
+    ];
+  }
+
+  if (s.tool === "circle" && s.points.length >= 2) {
+    // a = center, b = a point on the rim.
+    const r = Math.hypot(b[0] - a[0], b[1] - a[1]);
+    const ring: LatLngExpression[] = [];
+    const N = 48;
+    for (let k = 0; k < N; k++) {
+      const t = (2 * Math.PI * k) / N;
+      ring.push([a[0] + r * Math.sin(t), a[1] + r * Math.cos(t)]);
+    }
+    return [polygon(ring, { ...base, fill: false })];
+  }
+
+  // pen
   return [
     polyline(s.points as LatLngExpression[], {
-      color: s.color,
-      weight: s.width,
+      ...base,
       opacity: 0.95,
       lineCap: "round",
       lineJoin: "round",
-      interactive: false,
     }),
   ];
 }
 
-function cursorLayer(p: Point, info: { name: string; color: string; role: string }): Layer {
-  const label = info.role === "coach" ? `${info.name} · coach` : info.name;
+function cursorIcon(info: { name: string; color: string; role: string }) {
+  const label = info.role === "coach" ? `${info.name} · host` : info.name;
   const html = `<div style="position:relative;pointer-events:none"><span style="position:absolute;left:-5px;top:-5px;width:10px;height:10px;border-radius:50%;background:${info.color};border:1.5px solid rgba(0,0,0,.5)"></span><span style="position:absolute;left:9px;top:-8px;white-space:nowrap;font:600 11px/1.2 Inter,system-ui,sans-serif;color:${info.color};background:rgba(0,0,0,.65);padding:1px 5px;border-radius:4px">${escapeHtml(label)}</span></div>`;
-  return marker(p as LatLngExpression, {
-    icon: divIcon({ className: "", iconSize: [0, 0], html }),
-    interactive: false,
-    keyboard: false,
-    zIndexOffset: 1000,
-  });
+  return divIcon({ className: "", iconSize: [0, 0], html });
 }
 
 export function DrawingCanvas({
@@ -100,6 +118,7 @@ export function DrawingCanvas({
   width: number;
 }) {
   const overlayRef = useRef<HTMLDivElement>(null);
+  const myId = useSelf((me) => me.id);
   const strokes = useStorage((root) => root.strokes);
   const others = useOthers();
   const updateMyPresence = useUpdateMyPresence();
@@ -108,21 +127,25 @@ export function DrawingCanvas({
     storage.get("strokes").push(s);
   }, []);
 
-  const eraseStroke = useMutation(({ storage }, id: string) => {
+  // Only the author can erase their own stroke.
+  const eraseStroke = useMutation(({ storage, self }, id: string) => {
     const list = storage.get("strokes");
-    const idx = list.findIndex((s) => s.id === id);
+    const idx = list.findIndex((s) => s.id === id && s.author === self.id);
     if (idx >= 0) list.delete(idx);
   }, []);
 
   const strokeGroupRef = useRef<LayerGroup | null>(null);
-  const peerGroupRef = useRef<LayerGroup | null>(null);
-  const currentLayerRef = useRef<Polyline | null>(null);
+  const draftGroupRef = useRef<LayerGroup | null>(null);
+  const currentGroupRef = useRef<LayerGroup | null>(null);
+  const cursorsRef = useRef<
+    Map<number, { marker: Marker; cur: Point; target: Point }>
+  >(new Map());
   const drawing = useRef(false);
   const erasing = useRef(false);
   const current = useRef<Stroke | null>(null);
 
-  // Committed strokes → Leaflet layers. Rebuild when they change, and on zoomend
-  // so the pixel-sized arrowheads stay crisp (the lines reproject on their own).
+  // Committed strokes → Leaflet layers. Rebuild on change + on zoomend (so the
+  // pixel-sized arrowheads stay crisp; the lines reproject on their own).
   useEffect(() => {
     if (!strokeGroupRef.current) strokeGroupRef.current = layerGroup().addTo(map);
     const group = strokeGroupRef.current;
@@ -137,27 +160,71 @@ export function DrawingCanvas({
     };
   }, [map, strokes]);
 
-  // Peers' in-progress drafts + live cursors.
+  // Peers' in-progress drafts + cursor targets (markers persist & interpolate).
   useEffect(() => {
-    if (!peerGroupRef.current) peerGroupRef.current = layerGroup().addTo(map);
-    const group = peerGroupRef.current;
-    group.clearLayers();
+    if (!draftGroupRef.current) draftGroupRef.current = layerGroup().addTo(map);
+    const drafts = draftGroupRef.current;
+    drafts.clearLayers();
+    const seen = new Set<number>();
     for (const o of others) {
       if (o.presence.draft)
-        for (const l of strokeLayers(map, o.presence.draft)) l.addTo(group);
-      if (o.presence.cursor) cursorLayer(o.presence.cursor, o.info).addTo(group);
+        for (const l of strokeLayers(map, o.presence.draft)) l.addTo(drafts);
+      const c = o.presence.cursor;
+      if (!c) continue;
+      seen.add(o.connectionId);
+      const entry = cursorsRef.current.get(o.connectionId);
+      if (entry) {
+        entry.target = c;
+      } else {
+        const m = marker(c as LatLngExpression, {
+          icon: cursorIcon(o.info),
+          interactive: false,
+          keyboard: false,
+          zIndexOffset: 1000,
+        }).addTo(map);
+        cursorsRef.current.set(o.connectionId, { marker: m, cur: c, target: c });
+      }
+    }
+    // Drop cursors for peers who left or hid their cursor.
+    for (const [id, entry] of cursorsRef.current) {
+      if (!seen.has(id)) {
+        entry.marker.remove();
+        cursorsRef.current.delete(id);
+      }
     }
   }, [map, others]);
 
+  // Smoothly ease every cursor toward its latest target each animation frame.
+  useEffect(() => {
+    let raf = 0;
+    const tick = () => {
+      for (const entry of cursorsRef.current.values()) {
+        const dLat = entry.target[0] - entry.cur[0];
+        const dLng = entry.target[1] - entry.cur[1];
+        if (Math.abs(dLat) < 0.5 && Math.abs(dLng) < 0.5) {
+          entry.cur = entry.target;
+        } else {
+          entry.cur = [entry.cur[0] + dLat * CURSOR_EASE, entry.cur[1] + dLng * CURSOR_EASE];
+        }
+        entry.marker.setLatLng(entry.cur as LatLngExpression);
+      }
+      raf = requestAnimationFrame(tick);
+    };
+    raf = requestAnimationFrame(tick);
+    return () => cancelAnimationFrame(raf);
+  }, [map]);
+
   // Clean up all layers on unmount.
-  useEffect(
-    () => () => {
+  useEffect(() => {
+    const cursors = cursorsRef.current;
+    return () => {
       strokeGroupRef.current?.remove();
-      peerGroupRef.current?.remove();
-      currentLayerRef.current?.remove();
-    },
-    [],
-  );
+      draftGroupRef.current?.remove();
+      currentGroupRef.current?.remove();
+      for (const e of cursors.values()) e.marker.remove();
+      cursors.clear();
+    };
+  }, []);
 
   // Broadcast the cursor from the map itself (covers pan mode, where the overlay
   // lets pointer events through to Leaflet).
@@ -179,11 +246,19 @@ export function DrawingCanvas({
     return [ll.lat, ll.lng];
   }
 
+  function renderCurrent() {
+    if (!currentGroupRef.current) currentGroupRef.current = layerGroup().addTo(map);
+    const g = currentGroupRef.current;
+    g.clearLayers();
+    if (current.current) for (const l of strokeLayers(map, current.current)) l.addTo(g);
+  }
+
   function eraseAt(ll: Point) {
     const target = map.latLngToContainerPoint(ll);
     const list = strokes ?? [];
     for (let i = list.length - 1; i >= 0; i--) {
       const s = list[i];
+      if (s.author !== myId) continue; // can only erase your own
       for (const p of s.points) {
         const pt = map.latLngToContainerPoint(p);
         if (Math.hypot(pt.x - target.x, pt.y - target.y) <= ERASE_THRESHOLD + s.width) {
@@ -206,20 +281,13 @@ export function DrawingCanvas({
     drawing.current = true;
     current.current = {
       id: crypto.randomUUID(),
-      tool: tool === "arrow" ? "arrow" : "pen",
+      author: myId,
+      tool,
       color,
       width,
       points: [ll],
     };
-    // Live local preview (a plain polyline; the arrowhead lands on commit).
-    currentLayerRef.current = polyline([ll] as LatLngExpression[], {
-      color,
-      weight: width,
-      opacity: 0.95,
-      lineCap: "round",
-      lineJoin: "round",
-      interactive: false,
-    }).addTo(map);
+    renderCurrent();
     updateMyPresence({ draft: current.current, cursor: ll });
   };
 
@@ -231,12 +299,13 @@ export function DrawingCanvas({
       return;
     }
     if (!drawing.current || !current.current) return;
+    // Freehand accumulates points; the 2-point shapes track start → drag end.
     const points =
-      current.current.tool === "arrow"
-        ? [current.current.points[0], ll]
-        : [...current.current.points, ll];
+      current.current.tool === "pen"
+        ? [...current.current.points, ll]
+        : [current.current.points[0], ll];
     current.current = { ...current.current, points };
-    currentLayerRef.current?.setLatLngs(points as LatLngExpression[]);
+    renderCurrent();
     updateMyPresence({ draft: current.current });
   };
 
@@ -249,8 +318,7 @@ export function DrawingCanvas({
     drawing.current = false;
     const s = current.current;
     current.current = null;
-    currentLayerRef.current?.remove();
-    currentLayerRef.current = null;
+    currentGroupRef.current?.clearLayers();
     updateMyPresence({ draft: null });
     if (s.points.length >= 2) commitStroke(s);
   };
